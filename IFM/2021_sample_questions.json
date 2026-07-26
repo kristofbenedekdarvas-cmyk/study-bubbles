@@ -1,0 +1,30 @@
+{
+  "id": "2021_sample_questions",
+  "name": "2021 Sample Questions",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The trading of stock that was previously issued takes place",
+      "options": {
+        "a": "in the secondary market.",
+        "b": "in the primary market.",
+        "c": "usually with the assistance of an investment banker.",
+        "d": "in the secondary and primary markets."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Investment bankers",
+      "options": {
+        "a": "act as intermediaries between issuers of stocks and investors.",
+        "b": "act as advisors to companies in helping them analyze their financial needs and find buyers for newly-issued securities.",
+        "c": "accept deposits from savers and lend them out to companies.",
+        "d": "act as intermediaries between issuers of stocks and investors and act as advisors to companies in helping them analyze their financial needs and find buyers for newly-issued securities."
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}

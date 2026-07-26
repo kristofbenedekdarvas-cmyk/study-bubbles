@@ -1,0 +1,66 @@
+{
+  "id": "2024_mock_exam",
+  "name": "2024 Mock Exam",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the role of financial intermediaries in addressing issues of asymmetric information?",
+      "options": {
+        "a": "They eliminate the need for information disclosure in financial transactions.",
+        "b": "They help reduce asymmetric information by conducting due diligence and providing information to both parties.",
+        "c": "They create more asymmetric information by withholding critical market data.",
+        "d": "All of the above."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Debt instruments that have maturities less than one year are:",
+      "options": {
+        "a": "Exclusively traded in the primary market.",
+        "b": "Exclusively issued by the government.",
+        "c": "Traded in the capital market.",
+        "d": "Traded in the money market."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "We would expect the risk spread between Baa bonds and U.S. Treasury securities of the same maturities to:",
+      "options": {
+        "a": "Widen during periods of economic recession",
+        "b": "To remain relatively constant over the business cycle.",
+        "c": "To decrease during economic slowdowns.",
+        "d": "To increase during economic growth periods"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Which of the following can be described as involving indirect finance?",
+      "options": {
+        "a": "You make a loan to your neighbor.",
+        "b": "A corporation buys a share of common stock issued by another corporation in the primary market.",
+        "c": "You buy a U.S. Treasury bill from the U.S. Treasury at TreasuryDirect.gov.",
+        "d": "You make a deposit at a bank."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "Bonds with relatively high risk of default are called",
+      "options": {
+        "a": "treasury bonds.",
+        "b": "high-yield bonds.",
+        "c": "zero bonds.",
+        "d": "investment grade bonds."
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

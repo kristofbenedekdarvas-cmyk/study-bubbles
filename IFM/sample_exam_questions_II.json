@@ -1,0 +1,31 @@
+{
+  "id": "sample_exam_questions_II",
+  "name": "Sample Questions II",
+  "note": "Source document provides full options but no answer key. Answers below are inferred from standard financial-markets textbook knowledge (Mishkin), not taken from an answer key in the source.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Banks that actively manage liabilities will most likely meet a reserve shortfall by",
+      "options": {
+        "a": "calling in loans.",
+        "b": "borrowing on the interbank market.",
+        "c": "selling government bonds.",
+        "d": "seeking new deposits."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "External financing by ________ should be more important in developing countries than in industrialized countries because information about private firms is more difficult to collect in developing countries.",
+      "options": {
+        "a": "financial intermediaries",
+        "b": "bonds",
+        "c": "stock",
+        "d": "direct lending"
+      },
+      "answer": "a",
+      "image": null
+    }
+  ]
+}
