@@ -1,0 +1,150 @@
+{
+  "id": "binge1113_june2026_versionA",
+  "name": "Exam June 2026 (Version A)",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Real GDP measured at chained prices of the previous year, compared to real GDP measured at constant prices of a base year:",
+      "options": {
+        "a": "always yields a higher growth rate estimate",
+        "b": "eliminates the need to choose a reference base year",
+        "c": "better captures the effect of changes in relative prices on measured economic growth",
+        "d": "is only applicable to closed economies"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "A country whose Consumer Price Index (base year 2010) is equal to 140 in 2024 and whose nominal wage has increased by 25% between 2010 and 2024 has experienced:",
+      "options": {
+        "a": "an increase in workers' real wages between 2010 and 2024",
+        "b": "a decrease in workers' real wages between 2010 and 2024",
+        "c": "we cannot determine the evolution of real wages because the provided information is not enough to determine the CPI growth rate",
+        "d": "we cannot determine the evolution of real wages without knowing the GDP deflator"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "At the equilibrium on the money market, commercial banks' demand for reserves is:",
+      "options": {
+        "a": "decreasing along the nominal interest rate",
+        "b": "independent of households' preference for holding currency rather than deposits",
+        "c": "independent of the aggregate price level",
+        "d": "increasing along the demand for currency"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The NAIRU is the unemployment rate at which:",
+      "options": {
+        "a": "inflation is equal to zero",
+        "b": "the unemployment rate equals the frictional unemployment rate only",
+        "c": "inflation is necessarily equal to the central bank's inflation target",
+        "d": "the inflation rate remains stable from one period to the next"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "On the money market, a liquidity trap corresponds to a situation where:",
+      "options": {
+        "a": "the money demand is perfectly inelastic with respect to the interest rate, so any increase in money supply raises the interest rate",
+        "b": "the money demand is perfectly elastic with respect to the interest rate, so any increase in money supply is absorbed by agents without reducing the interest rate",
+        "c": "the central bank is unable to use money supply so as to raise the interest rate",
+        "d": "the central bank is unable to increase the money supply"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "In the IS-LM-PC model, a persistently positive output gap implies that:",
+      "options": {
+        "a": "the inflation rate decreases from one period to the next",
+        "b": "the inflation rate remains stable, as long as the central bank keeps the nominal interest rate unchanged",
+        "c": "the inflation rate increases from one period to the next",
+        "d": "the price level falls progressively back to its long-run equilibrium level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "The \"impossible trinity\" of international macroeconomics states that a country cannot simultaneously maintain:",
+      "options": {
+        "a": "a fixed exchange rate, free capital mobility, and an independent monetary policy",
+        "b": "a balanced trade account, a fixed exchange rate, and full employment",
+        "c": "price stability, economic growth, and a fixed exchange rate",
+        "d": "a flexible exchange rate, free capital mobility, and an independent monetary policy"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "In an open economy, a current account surplus implies that:",
+      "options": {
+        "a": "the funding capacity of the country is negative",
+        "b": "liabilities exceed assets in the financial accounts",
+        "c": "the trade balance is necessarily in surplus",
+        "d": "national savings exceed domestic investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Compared to a closed economy, the fiscal multiplier in an open economy is smaller because:",
+      "options": {
+        "a": "part of the increase in domestic demand is satisfied by additional imports",
+        "b": "the central bank systematically raises interest rates in response to fiscal expansions in open economies",
+        "c": "a fiscal expansion necessarily leads to a currency appreciation that fully offsets the increase in government spending",
+        "d": "households save a larger fraction of their income in open economies than in closed economies"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "In the Mundell-Fleming model with a flexible exchange rate regime, an expansive fiscal policy leads to:",
+      "options": {
+        "a": "an increase in economic activity and a depreciation of the domestic currency",
+        "b": "a \"crowding out\" of net exports via an appreciation of the domestic currency, leaving output unchanged",
+        "c": "an increase in both the interest rate and economic activity",
+        "d": "a depreciation of the domestic currency and an increase in net exports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "In the Solow model, two countries A and B share the same structural characteristics but start from different initial capital-to-labor ratios, with k0A > k0B. According to the standard Solow model:",
+      "options": {
+        "a": "Country A will grow faster than country B since it has more capital to work with",
+        "b": "Country B will grow faster than country A since it displays higher marginal returns to capital",
+        "c": "Both countries will grow at the same rate throughout their transition path since they share similar structural characteristics",
+        "d": "Country A will converge to a higher steady-state capital-to-labor ratio than country B"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "(Select the incorrect answer) In the Solow model:",
+      "options": {
+        "a": "A higher saving rate leads to a higher steady-state income per capita",
+        "b": "A higher population growth rate leads to a lower steady-state income per capita",
+        "c": "A higher depreciation rate leads to a lower steady-state income per capita",
+        "d": "Two countries with the same initial capital-to-labor ratio but different saving rates will necessarily converge to the same steady-state level of income per capita"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}

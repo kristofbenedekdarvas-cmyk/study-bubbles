@@ -1,0 +1,186 @@
+{
+  "id": "inge1113_june2023",
+  "name": "Exam June 2023",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In national accounting, the difference between the domestic goods produced for a given year and the domestic goods purchased for a given year is equal to:",
+      "options": {
+        "a": "Stock variation",
+        "b": "Net exports",
+        "c": "The difference between gross domestic product and net domestic product",
+        "d": "The difference between real GDP and nominal GDP"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "GDP per capita is indeed an imperfect measure of a given population's well-being, but it is wrong to claim that:",
+      "options": {
+        "a": "GDP per capita does not take into account the pollution level of the output activities",
+        "b": "GDP per capita is uncorrelated to the health of the considered population",
+        "c": "GDP per capita ignores the distribution of income",
+        "d": "GDP per capita does not capture the contribution of activities happening in the private sphere (i.e. not being the subject of a market transaction) to added value creation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "The demand for reserves by commercial banks is:",
+      "options": {
+        "a": "Independent from the way agents allocate their money demand between currency and checkable deposits",
+        "b": "Increasing along the demand for checkable deposits",
+        "c": "Independent from the aggregate price level in the considered economy",
+        "d": "Increasing along the demand for currency"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The IS-LM model assumes that the production factors are underemployed. This means:",
+      "options": {
+        "a": "That a decrease in the size of the labor force might have no effect on the equilibrium activity level",
+        "b": "That increasing the public deficit level is always relevant when trying to counteract the impact of a negative demand shock",
+        "c": "That increasing investment might have no effect on the equilibrium activity level",
+        "d": "None of the above answers is correct"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "In the IS-LM model without expectations and in a closed economy:",
+      "options": {
+        "a": "A variation of the tax level impacts private consumption and leads the equilibrium to move along the IS curve",
+        "b": "A variation of investments due to a variation in the interest rate level leads the equilibrium to move along the IS curve",
+        "c": "A variation of private consumption due to a variation in the interest rate level leads to a shift of the IS curve",
+        "d": "A variation in the level of public expenditures leads the equilibrium to move along the IS curve"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "In a fiscal expansion context, if the Central Bank wants to maintain the interest rate at its objective level i, it has to:",
+      "options": {
+        "a": "Sell securities on the financial markets",
+        "b": "Buy securities on the financial markets",
+        "c": "Reduce the money supply",
+        "d": "Carry out the necessary actions so as to maintain the money supply at a constant level"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "(Select the incorrect answer among the propositions below) In the IS-LM model, an increase in the tax level leads to:",
+      "options": {
+        "a": "A shift in the IS curve",
+        "b": "A decrease in the private consumption level following the decrease in available income",
+        "c": "A decrease in the public deficit",
+        "d": "An increase in the equilibrium interest rate on the monetary market"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "In the IS-LM model, at the equilibrium on the market for goods and services:",
+      "options": {
+        "a": "private savings are equal to investment",
+        "b": "for a given level of public savings, a decrease in private savings leads to an increase in the investment level",
+        "c": "for a given investment level, an increase in the public deficit implies a decrease in private savings",
+        "d": "when public expenditures are higher than taxes, private savings exceed investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "(Select the incorrect answer among the propositions below) The \"discouraged workers\":",
+      "options": {
+        "a": "are part of the labor force",
+        "b": "have given up looking for a job",
+        "c": "are not considered unemployed workers",
+        "d": "are part of the working-age population"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "The unemployment rate is:",
+      "options": {
+        "a": "the share of the working-age population that does not work",
+        "b": "the share of people looking for a job within the working-age population",
+        "c": "the share of the labor force that does not work",
+        "d": "the share of people looking for a job in the population"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "In the AS-AD model framework, and considering an economy in which the output level is currently below the natural activity level, an expansive monetary policy:",
+      "options": {
+        "a": "Is uncalled for, since it drives the price level up without any impact on output in the short run",
+        "b": "Is relevant so as to avoid a deflationary trend, but had no effect on output in the short run",
+        "c": "Is uncalled for, since it has no impact on the price level and the output level in the short run",
+        "d": "Is relevant so as to stimulate output in the short run and avoid a deflationary trend"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "In the graphical representation of the AS-AD model, there is a point where the output level is equal to the natural output level, and where the observed prices are equal to the expected prices.",
+      "options": {
+        "a": "This point is always at the intersection of the AS and the AD curves",
+        "b": "This point is always on the AD curve, and sometimes on the AS curve",
+        "c": "This point is always on the AS curve, and sometimes on the AD curve",
+        "d": "It is possible that after a macroeconomic shock, this point is temporarily neither on the AS nor on the AD curve"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "The Lucas critique states that:",
+      "options": {
+        "a": "The behaviour of economic agents is not affected by the implemented macroeconomic policies",
+        "b": "Taking expectations into account necessarily implies a negative fiscal multiplier in the case of a fiscal consolidation",
+        "c": "Agents' expectations are not independent from changes in macroeconomic policies",
+        "d": "At each period, agents correct their expectations from a fraction of the error observed for the previous period"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "In the IS-LM model with expectations:",
+      "options": {
+        "a": "The impact of an expansive monetary policy on economic activity will necessarily be smaller than predicted by the IS-LM model without expectations",
+        "b": "The impact of a restrictive fiscal policy on economic activity will necessarily be smaller than predicted by the IS-LM model without expectations",
+        "c": "The impact of an expansive monetary policy on economic activity will necessarily be stronger than predicted by the IS-LM model without expectations",
+        "d": "None of the above answers are correct"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "The IS curve is steeper in the IS-LM model with expectations because:",
+      "options": {
+        "a": "At a given expectations level, a variation in the current real interest rate has a limited impact on the present value of future income",
+        "b": "At a given expectations level, a variation in the current output has a stronger impact on the present value of future income",
+        "c": "investment is more volatile than private consumption",
+        "d": "the present value of future income depends on the real interest rate and not the nominal one"
+      },
+      "answer": "a",
+      "image": null
+    }
+  ]
+}

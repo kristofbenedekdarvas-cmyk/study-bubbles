@@ -1,0 +1,186 @@
+{
+  "id": "inge1113_august2023",
+  "name": "Exam 30th August 2023",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "(Select the incorrect answer among the propositions below) The difference between the Gross National Income and the Gross Domestic Income:",
+      "options": {
+        "a": "is partly explained by the primary incomes earned by the country's fiscal residents working abroad",
+        "b": "is equivalent to the difference between the Gross National Product and the Gross Domestic Product",
+        "c": "is partly explained by the depreciation of the country's stock of physical capital over the considered period",
+        "d": "is non-existent in a closed economy"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "An individual's disposable income is obtained by:",
+      "options": {
+        "a": "summing up an individual's primary and secondary incomes",
+        "b": "correcting an individual's primary income for taxes",
+        "c": "summing up an individual's primary income, secondary incomes and financial assets, before correcting for the personal income tax",
+        "d": "adding benefits and retrieving direct taxes from an individual's primary income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "(Select the incorrect answer among the propositions below) The money multiplier:",
+      "options": {
+        "a": "depends on the share of money that agents want to hold in currency form",
+        "b": "depends on the aggregate price level in the considered economy",
+        "c": "depends on the money reserves held by commercial banks",
+        "d": "depends on the share of money that agents want to hold on checkable deposits"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Inflation has spiked in the industrialised countries over the last two years, which led most Central Banks to raise their interest rates. According to our modelling of the monetary market, this increase in interest rates following an increase in the inflation rate will:",
+      "options": {
+        "a": "have an undetermined impact on the money demand, because several effects are impacting it in opposite directions",
+        "b": "decrease the money demand, because of the variation in its opportunity cost",
+        "c": "increase the money demand, because of the variation in its opportunity cost",
+        "d": "increase the money demand, because of the increase in prices"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "The IS-LM model assumes:",
+      "options": {
+        "a": "insufficient labor supply and insufficient production capacities",
+        "b": "insufficient labor supply and underemployed production capacities",
+        "c": "insufficient labor demand and underemployed production capacities",
+        "d": "insufficient labor demand and insufficient production capacities"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "In the IS-LM model without expectations, a fiscal consolidation will, all other things being kept equal, lead to:",
+      "options": {
+        "a": "a stronger contraction of economic activity if it is carried out via a reduction of public expenditures than if it is carried out via an increase in the tax level",
+        "b": "an identical contraction of economic activity, whether it is carried out via a reduction of public expenditures or via an increase in the tax level",
+        "c": "a stronger contraction of economic activity if it is carried out via an increase in the tax level than if it is carried out via a reduction of public expenditures",
+        "d": "none of the above answers are correct, since the model does not make it possible to compare the multiplying effect of public expenditures and of taxes"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "In IS-LM in a closed economy, the IS relationship guarantees that the public deficit:",
+      "options": {
+        "a": "is equal to private savings",
+        "b": "is equal to private savings minus private investments",
+        "c": "is equal to private savings minus private and public investments",
+        "d": "is equal to private savings plus private investments"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "In the WS-PS model, it is assumed that:",
+      "options": {
+        "a": "workers and employers reason in nominal terms",
+        "b": "workers reason in real terms and employers reason in nominal terms",
+        "c": "workers and employers reason in real terms",
+        "d": "workers reason in nominal terms and employers reason in real terms"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Economic analysts agree that in most developed economies, the number of job vacancies is currently being equal to (or even higher than) the number of unemployed workers. According to the modelling of the labor market we have provided in our lectures, this should lead to:",
+      "options": {
+        "a": "An increase in wages",
+        "b": "An increase in investments aiming at replacing the labor factor by machines",
+        "c": "An increase in public expenditures, since those include training programs for unemployed workers",
+        "d": "Both an increase in public expenditures and in replacement investments"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "In the AS-AD model and starting from the medium-run equilibrium, would a government finding the aggregate price level too high consider raising taxes?",
+      "options": {
+        "a": "No, because in the medium-run, raising taxes leads to a higher price level",
+        "b": "Yes, because in the medium-run, raising taxes leads to a lower price level while leaving the economic activity unchanged",
+        "c": "Yes, because in the medium-run, raising taxes leads to a higher level of economic activity while leaving the price level unchanged",
+        "d": "No, because in the medium-run, raising taxes leads to a lower economic activity level"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "Consider a macroeconomic policy raising the level of social benefits for certain categories of the population, and a macroeconomic policy promoting competition:",
+      "options": {
+        "a": "the two policies both aim at stimulating aggregate demand",
+        "b": "the first one aims at stimulating aggregate demand, and the second aims at stimulating aggregate supply",
+        "c": "the first one aims at stimulating aggregate supply, and the second aims at stimulating aggregate demand",
+        "d": "the two policies both aim at stimulating aggregate supply"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "The unemployment rate is currently at a relatively low level in industrialised countries. According to the original Phillips curve, should such a situation lead to higher inflation levels?",
+      "options": {
+        "a": "No, because the unemployment rate has no effect on inflation",
+        "b": "No, because it is the variation of the unemployment rate that matters",
+        "c": "Yes",
+        "d": "No, because the methodological flaws in the measurement of the unemployment rate make it loose its relevance when trying to predict price variations"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "For a Central Bank, the \"zero floor constraint\":",
+      "options": {
+        "a": "limits the possibility to sustain economic activity through a monetary expansion when expected inflation levels are low",
+        "b": "limits the possibility to sustain economic activity through a fiscal expansion when markets are starting to consider the possibility of a sovereign default",
+        "c": "limits the possibility to fight inflation via a monetary contraction",
+        "d": "none of the above answers are correct"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "In the IS-LM model, taking expectations of agents relative to the future output and tax levels into account modifies:",
+      "options": {
+        "a": "the LM curve, but not the IS curve",
+        "b": "the IS curve, but not the LM curve",
+        "c": "both the IS curve and the LM curve",
+        "d": "the IS curve, and the LM curve in the case of an increasing LM curve"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Consider an economy initially at the medium-run equilibrium and facing a contraction in economic activity, in which the government is considering sustaining economy activity via a fiscal policy. According to the IS-LM framework with expectations, a strategy that could boost the impact of such a stimulus policy is to:",
+      "options": {
+        "a": "sustain private consumption rather than investment",
+        "b": "lower taxes rather than increase benefits",
+        "c": "especially target liquidity-constrained households",
+        "d": "combine it with a credible restrictive monetary policy"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "binge1113_june2025_versionB",
+  "name": "Exam June 2025 (Version B)",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "(Select the incorrect answer amid the propositions below) At an unchanged level of the foreign nominal interest rate i*, an open economy in a fixed exchange rate regime can see its activity level increase following:",
+      "options": {
+        "a": "An expansive fiscal policy",
+        "b": "An increase in the foreign economic activity level Y*",
+        "c": "An expansive monetary policy",
+        "d": "An increase in the domestic autonomous investment level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Which statement is correct? The (uncovered) interest rate parity condition...",
+      "options": {
+        "a": "...is an arbitrage condition that determines how the real and the nominal interest rate are linked",
+        "b": "...can be satisfied if the nominal interest rate in the Eurozone is higher than that in the US (assuming identical risks) and if investors anticipate a depreciation of the Euro relative to the Dollar",
+        "c": "...implies that a central bank of a small country has to set the same interest rate as the central bank of a neighbouring large country when the exchange rate between the two currencies is flexible",
+        "d": "...can be satisfied if nominal interest rates differ across two currencies that have a fixed nominal exchange rate"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "Assuming that the Marshall-Lerner condition is respected, the J curve implies that a real depreciation:",
+      "options": {
+        "a": "has a negative effect on NX in the medium run",
+        "b": "has a positive impact on imports in the medium run",
+        "c": "deteriorates the trade balance in the very short run",
+        "d": "has a negative impact on exports in the medium run"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "In an open economy, the autonomous fiscal multiplier is smaller than in a closed economy because:",
+      "options": {
+        "a": "The economic activity of the main trade partners impacts the trade balance",
+        "b": "An increase in public expenditures diverts part of the domestic goods that were so far devoted to exports",
+        "c": "An increase in the domestic economic activity leads to an increase in exports",
+        "d": "Part of the increase in interior demand following an increase in domestic economic activity is diverted towards imports"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "Consider the IS-LM-PC model in which an economy is facing a permanent increase in the price of energy. Which statement is correct?",
+      "options": {
+        "a": "If inflation expectations are anchored and the Central Bank carries out the necessary monetary policy, inflation will return to its initial level in the medium-run",
+        "b": "If inflation expectations are anchored and the Central Bank carries out the necessary monetary policy, output will return to its initial natural level in the medium-run",
+        "c": "If the zero lower bound is binding, the economy might enter a deflation spiral",
+        "d": "Stagflation will occur only if inflation expectations are based on inflation observed in the previous year"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "Consider the AD-AS model, in which we assume that the central bank pursues a restrictive monetary policy. Which statement is correct?",
+      "options": {
+        "a": "In the short-run, the AD curve shifts to the right",
+        "b": "In the medium-run, the expected price level increases",
+        "c": "The natural output level decreases",
+        "d": "In the medium-run, the AS curve shifts downwards"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "Consider the AD-AS model, in which we assume that firms' market power is increasing. Which statement is correct?",
+      "options": {
+        "a": "The natural unemployment rate decreases",
+        "b": "Investment increases in the short-run",
+        "c": "The price level increases both in the short-run and the medium-run",
+        "d": "In the medium-run, the activity level will go back to its initial, pre-shock level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "Potential output Yn...",
+      "options": {
+        "a": "...rises if the price of oil decreases",
+        "b": "...rises if the government increases public expenditures",
+        "c": "...rises if inflation is larger than expected inflation",
+        "d": "...rises if the minimum wage rises"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Suppose the government decides to cut unemployment benefits. Analysing this shock in the WS-PS model, which statement is correct?",
+      "options": {
+        "a": "The real wage remains unchanged in the medium term",
+        "b": "The PS curve shifts downwards",
+        "c": "The natural unemployment level increases",
+        "d": "The WS curve shifts upwards"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "Which statement related to the analysis of the labor market is correct?",
+      "options": {
+        "a": "The participation rate is the ratio of the labour force to the total working-age population",
+        "b": "The unemployment rate is equal to the number of people who are unemployed divided by the size of the population",
+        "c": "People who do not have a job and who do not apply for at least one job every month are not considered unemployed",
+        "d": "Workers are usually paid less than their reservation wage"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "Consider the IS-LM model with constant prices. As the central bank raises the refinancing rate, the equilibrium level of economic activity changes. Among the policies listed below, which one can ensure that output moves back to its original level?",
+      "options": {
+        "a": "The government raises autonomous taxes",
+        "b": "The government increases its spending",
+        "c": "The government raises the level of indirect taxes",
+        "d": "The central bank simultaneously increases the minimum reserve requirement"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Which statement regarding the liquidity trap is correct?",
+      "options": {
+        "a": "During a liquidity trap episode, fiscal policy is more appropriate than standard monetary policy tools to influence equilibrium output",
+        "b": "During a liquidity trap episode, the IS curve is horizontal",
+        "c": "During a liquidity trap episode, the LM curve is vertical",
+        "d": "A liquidity trap can prevent the Central Bank from effectively bringing inflation down"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "Consider the euro-zone money market, in which the European Central Bank decides to increase its refinancing rate. We reason at constant prices and expectations. Which statement is correct?",
+      "options": {
+        "a": "The nominal and the real interest rates decrease by the same amount",
+        "b": "The nominal interest rate decreases, but the real interest rate remains unchanged",
+        "c": "The nominal and the real interest rates increase by the same amount",
+        "d": "The nominal interest rate increases, but the real interest rate remains unchanged"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Which of the following events leaves the Belgian NNI unchanged?",
+      "options": {
+        "a": "The depreciation of the Belgian capital assets has increased",
+        "b": "Strong economic growth in France leads to an increase in Belgium's beer exports to the French market",
+        "c": "Belgium's defence ministry is buying US fighter jets",
+        "d": "With an increase in business confidence, investment by Belgian companies is on the rise"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Which statement related to national accounts is correct?",
+      "options": {
+        "a": "The income of a resident of Germany working in Belgium is part of Germany's GDP",
+        "b": "Investment in an open economy is necessarily equal to the sum of private and public savings",
+        "c": "If GDI is equal to GNI in Belgium, it means that the outgoing transfers from Belgium to foreign countries are equal to the incoming transfers from foreign countries to Belgium",
+        "d": "If a country's national disposable income is less than its domestic demand, there is a current account deficit"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}
