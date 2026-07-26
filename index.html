@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Bubbles — Quiz Trainer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="grid-backdrop" aria-hidden="true"></div>
+
+<header class="topbar">
+  <button class="brand" id="homeBtn" aria-label="Go to home screen">
+    <span class="brand-mark">◎</span>
+    <span class="brand-text">Study Bubbles</span>
+  </button>
+  <nav class="crumbs" id="crumbs" aria-live="polite"></nav>
+</header>
+
+<main id="app" class="app"></main>
+
+<footer class="footer">
+  <span>Fill in the bubble. Progress saves automatically on this device.</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

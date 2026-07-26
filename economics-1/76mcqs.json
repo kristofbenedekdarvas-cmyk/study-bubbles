@@ -1,0 +1,982 @@
+{
+  "id": "76mcqs",
+  "name": "76 MCQs",
+  "questions": [
+    {
+      "id": "e1q1",
+      "text": "When the competitive market is using its resources efficiently, the",
+      "options": {
+        "a": "Total amount of consumer surplus is maximized.",
+        "b": "Total amount of producer surplus is maximized.",
+        "c": "Sum of the total amount of consumer surplus plus the total amount of producer surplus are maximized.",
+        "d": "Sum of the total amount of consumer surplus plus the total amount of producer surplus equals zero.",
+        "e": "None of the above are true."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q2",
+      "text": "A pizza you order in a restaurant is a private good that is ____________ in consumption.",
+      "options": {
+        "a": "Excludable and rival",
+        "b": "Nonexcludable and nonrival",
+        "c": "Excludable and nonrival",
+        "d": "Nonexcludable and rival"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q3",
+      "text": "Which of the following statements describes a market that is monopolistically competitive?",
+      "options": {
+        "a": "There is a small number of large firms.",
+        "b": "Many firms compete by making similar but slightly different products.",
+        "c": "The product produced by one firm has no close substitutes.",
+        "d": "The products produced by the firms are identical.",
+        "e": "There are significant barriers to enter."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q4",
+      "text": "The signalling function of education implies that",
+      "options": {
+        "a": "education can solve the moral hazard problem on the labor market.",
+        "b": "education helps firms to distinguish low-ability from high-ability workers.",
+        "c": "education can reduce the gap in earnings between high-ability and low-ability workers.",
+        "d": "education increases the human capital of workers."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q5",
+      "text": "A tax on sales levied on the producer will be divided so that:",
+      "options": {
+        "a": "the buyers pay the full amount if supply has unitary elasticity.",
+        "b": "the buyers pay the full amount if demand is perfectly elastic.",
+        "c": "the buyers pay the full amount if supply is perfectly inelastic.",
+        "d": "the sellers pay the full amount if demand is perfectly elastic.",
+        "e": "the sellers pay the full amount if supply is perfectly elastic."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q6",
+      "text": "An externality is defined as",
+      "options": {
+        "a": "an additional cost imposed by the government on producers",
+        "b": "a cost or benefit that arises from production and falls on someone other than the producer, or a cost or benefit that arises from consumption and falls on someone other than the consumer.",
+        "c": "an additional gain received by consumers from decisions made by the government.",
+        "d": "the additional amount consumers have to pay to consume an additional amount of a good or service.",
+        "e": "a marginal social cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q7",
+      "text": "All producers of chocolate have decided to add a costly ingredient to their chocolate. This ingredient gives more taste to chocolate and, as a result, consumers decide that they like chocolate more than before. What happens now if it costs more to produce and consumers like it better?",
+      "options": {
+        "a": "The supply curve shifts leftward and the demand curve remains unchanged.",
+        "b": "The supply curve shifts rightward and the demand curve remains unchanged.",
+        "c": "The supply curve shifts leftward and the demand curve shifts rightward.",
+        "d": "The supply and demand curves both shift rightward.",
+        "e": "The equilibrium price of chocolate will decrease."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q8",
+      "text": "A binding minimum wage:",
+      "options": {
+        "a": "Is a tax that results in a surplus of low-skilled labor",
+        "b": "Is a price ceiling that results in a surplus of low-skilled labor",
+        "c": "Is a price floor that results in a shortage of low-skilled labor",
+        "d": "Is a price ceiling that results in a surplus of low-skilled labor",
+        "e": "Is a price floor that results in a surplus of low-skilled labor"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q9",
+      "text": "Germany and France produce 2 goods (computers and bikes). The following table shows the total production possibilities for both countries.\n\n| | Computers | Bikes |\n|---|---|---|\n| Germany | 5 | 20 |\n| France | 10 | 8 |\n\nThe opportunity cost of computers in terms of bikes is:",
+      "options": {
+        "a": "4 in Germany and 1.25 in France",
+        "b": "0.25 in Germany and 1.25 in France",
+        "c": "0.25 in Germany and 0.8 in France",
+        "d": "4 in Germany and 0.8 in France",
+        "e": "None of the above"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q10",
+      "text": "Germany and France produce 2 goods (computers and bikes). The following table shows the total production possibilities for both countries.\n\n| | Computers | Bikes |\n|---|---|---|\n| Germany | 5 | 20 |\n| France | 10 | 8 |\n\nWe can say that:",
+      "options": {
+        "a": "Germany has a comparative advantage in computers, France has a comparative advantage in bikes",
+        "b": "France has a comparative advantage in computers, Germany has a comparative advantage in bikes",
+        "c": "Germany has a comparative advantage in both goods",
+        "d": "France has a comparative advantage in both goods",
+        "e": "Neither country has a comparative advantage in any good"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q11",
+      "text": "Pizza and hamburgers are substitutes for consumers. A fall in the price of a pizza:",
+      "options": {
+        "a": "Raises the price of a hamburger and decreases the quantity of hamburgers",
+        "b": "Lowers the price of a hamburger and decreases the quantity of hamburgers",
+        "c": "Raises the price of a hamburger and increases the quantity of hamburgers",
+        "d": "Lowers the price of a hamburger and increases the quantity of hamburgers",
+        "e": "Does not affect the price of a hamburger and does not affect the quantity of hamburgers"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q12",
+      "text": "The supply and demand curves for a good in a perfectly competitive market are S1 and D1. This good generates a negative externality in production and a positive externality in consumption. Which intersection A, B, C, D or E could represent the socially optimal equilibrium?",
+      "options": {
+        "a": "Intersection A",
+        "b": "Intersection B",
+        "c": "Intersection C",
+        "d": "Intersection D",
+        "e": "Intersection E"
+      },
+      "answer": "b",
+      "image": "assets/graph_q12.png"
+    },
+    {
+      "id": "e1q13",
+      "text": "A price-discriminating firm will adjust prices so that customers with more _______ demand pay ______ customers with ________ elastic demand.",
+      "options": {
+        "a": "elastic; less than; less",
+        "b": "inelastic; less than; less",
+        "c": "elastic; the same as; more",
+        "d": "elastic; more than; less"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q14",
+      "text": "Because of large R&D costs, pharmaceutical companies typically face high fixed costs when developing new drugs. The marginal cost of producing a drug after development is very low, often close to zero. When these companies set their price and output to maximize profit, patients pay a ___________ price for a _________ quantity of the drug than in socially optimal.",
+      "options": {
+        "a": "lower; smaller",
+        "b": "higher; larger",
+        "c": "lower; larger",
+        "d": "higher; smaller"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q15",
+      "text": "When the marginal benefit of an activity is equal to the marginal cost of the activity, the decision maker should do _________ of the activity.",
+      "options": {
+        "a": "less",
+        "b": "that exact amount",
+        "c": "more",
+        "d": "none"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q16",
+      "text": "Instant noodles are an inferior good. Hence, a decrease in people's incomes",
+      "options": {
+        "a": "shifts the supply curve of instant noodles leftward.",
+        "b": "shifts the demand curve for instant noodles rightward.",
+        "c": "shifts the demand curve for instant noodles leftward.",
+        "d": "decreases the quantity of instant noodles supplied.",
+        "e": "does not affect the supply or demand curve"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q17",
+      "text": "Which of the following is an example of a positive statement?",
+      "options": {
+        "a": "The government should not redistribute income.",
+        "b": "A 10% increase in income leads to a 5% increase in the consumption of pizza.",
+        "c": "Taxes on wages should be lower because then people get to keep more of what they earn, so they will work more.",
+        "d": "We should cut back on our use of carbon-based fuels such as coal and oil.",
+        "e": "The government should eliminate labor unions given their negative impact on productivity."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q18",
+      "text": "A society consists of only two people: Bert and Ernie. Bert has an income of €10000 and Ernie has an income of €30000. What is the Gini index in this society?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "0.5",
+        "d": "0.25"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q19",
+      "text": "A teacher decides to stop working and focus full-time on household production (raising his children, cleaning the house, cooking,…). The opportunity cost of this decision depends on:",
+      "options": {
+        "a": "the cost of his studies to become a teacher",
+        "b": "the wage of this teacher on the labor market",
+        "c": "the satisfaction this person obtains from doing household work",
+        "d": "the time the individual needs to invest in household work",
+        "e": "the wage that his wife earns on the labor market"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q20",
+      "text": "Because of excellent weather conditions, the supply of cacao beans on the world market has increased. Cacao beans are used as an input in the production of chocolate. At the same time, a new study shows that chocolate has positive effects on the development of the brain of young children. What happens now on the market for chocolate?",
+      "options": {
+        "a": "The supply curve shifts leftward and the demand curve remains unchanged.",
+        "b": "The supply curve shifts rightward and the demand curve remains unchanged.",
+        "c": "The supply curve shifts leftward and the demand curve shifts rightward.",
+        "d": "The supply and demand curves both shift rightward.",
+        "e": "The equilibrium price of chocolate will decrease."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q21",
+      "text": "If marginal costs of production are less than marginal benefits of production,",
+      "options": {
+        "a": "costs will eventually decrease.",
+        "b": "too much of the good is being produced.",
+        "c": "more of the good should be produced.",
+        "d": "not all costs are being considered."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q22",
+      "text": "Suppose the price elasticity of supply for a product is zero. This means that:",
+      "options": {
+        "a": "There is a shortage.",
+        "b": "The firm makes the same amount of the product even if the price changes.",
+        "c": "The firm makes the same amount of revenue even if the price changes.",
+        "d": "No one wants to buy the good.",
+        "e": "The supply curve is horizontal."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q23",
+      "text": "The supply and demand curves for a good in a perfectly competitive market are S1 and D1. This good generates a negative externality in production and a negative externality in consumption. Which intersection A, B, C, D or E could represent the socially optimal equilibrium?",
+      "options": {
+        "a": "Intersection A",
+        "b": "Intersection B",
+        "c": "Intersection C",
+        "d": "Intersection D",
+        "e": "Intersection E"
+      },
+      "answer": "d",
+      "image": "assets/graph_q23.png"
+    },
+    {
+      "id": "e1q24",
+      "text": "Suppose that the demand for train tickets is given by P=100-2Q. Then demand is unitary elastic at the point",
+      "options": {
+        "a": "Q=0",
+        "b": "Q=5",
+        "c": "Q=10",
+        "d": "Q=25",
+        "e": "Q=50",
+        "f": "Q=100"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q25",
+      "text": "Consider the market for bananas. The original equilibrium quantity of bananas is 300. The government then imposes a tax on banana suppliers. At the new equilibrium, the price paid by buyers has risen by €3 and the price received by sellers fell by €2 (compared to the original equilibrium price). The government collects €1000 as revenue from the tax. What is the deadweight loss of this tax?",
+      "options": {
+        "a": "Not enough information is given",
+        "b": "€100",
+        "c": "€125",
+        "d": "€250",
+        "e": "€500"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q26",
+      "text": "An industry that is dominated by a few firms that recognize their interdependence is",
+      "options": {
+        "a": "a monopoly.",
+        "b": "an oligopoly.",
+        "c": "characterized by monopolistic competition.",
+        "d": "characterized by perfect competition."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q27",
+      "text": "Firm A and firm B are the only two firms in the market. Both firms can decide to market or not market their new product. The following pay-off matrix shows the profits of both firms in this simultaneous game.\n\n| | Firm A: Market | Firm A: Don't market |\n|---|---|---|\n| **Firm B: Market** | Firm A: 100, Firm B: 100 | Firm A: 0, Firm B: 400 |\n| **Firm B: Don't market** | Firm A: 400, Firm B: 0 | Firm A: 0, Firm B: 0 |\n\nWhat is the Nash Equilibrium in the previous game?",
+      "options": {
+        "a": "Firm A markets its new product and firm B markets its new product.",
+        "b": "Firm A markets its new product and firm B does not market its new product.",
+        "c": "Firm A does not market its new product and firm B markets its new product.",
+        "d": "Firm A does not market its new product and firm B does not market its new product.",
+        "e": "There is no Nash Equilibrium.",
+        "f": "There are multiple Nash equilibria."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q28",
+      "text": "Long run equilibrium under monopolistic competition requires that",
+      "options": {
+        "a": "the demand curve intersects the average cost curve.",
+        "b": "the demand curve be tangent to the average cost curve.",
+        "c": "price be equal to marginal cost.",
+        "d": "price be less than marginal cost.",
+        "e": "quantity produced be at the point where average cost is at a minimum."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q29",
+      "text": "If the marginal social benefit received from a good is less than the marginal social cost of production,",
+      "options": {
+        "a": "an increase in production will improve society's well-being.",
+        "b": "a decrease in production will improve society's well-being.",
+        "c": "no change in production can improve society's well-being.",
+        "d": "the market is producing too little of the good.",
+        "e": "the good should not be produced."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q30",
+      "text": "Homer likes to eat donuts. Each month he spends $40 on donuts, regardless of the price. His price elasticity of demand for donuts is:",
+      "options": {
+        "a": "zero",
+        "b": "one",
+        "c": "greater than one.",
+        "d": "between zero and one.",
+        "e": "not enough information is given."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q31",
+      "text": "Suppose that the demand curve is Qd = 50 − 2P and the supply curve is Qs = 3P. Suppose that the government imposes a price floor of €12 a unit. Which of the following statements is true?",
+      "options": {
+        "a": "There is a shortage of 22 units.",
+        "b": "There is a surplus of 22 units.",
+        "c": "There is a surplus of 10 units.",
+        "d": "There is a shortage of 10 units.",
+        "e": "There is no surplus or shortage."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q32",
+      "text": "Bart purchased a second hand bike for €25. One month later, someone offered him €100 for the bike. Bart refused. One can conclude that Bart's consumer's surplus from the bike is:",
+      "options": {
+        "a": "Less than €25",
+        "b": "Exactly €25",
+        "c": "Between €25 and €75",
+        "d": "At least €75",
+        "e": "At least €100"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q33",
+      "text": "Suppose that the average product of labor is greater than the marginal product of labor. Which of the following statements is true?",
+      "options": {
+        "a": "The marginal product of labor must be increasing as labor increases.",
+        "b": "There must be increasing marginal returns.",
+        "c": "The average product of labor is decreasing as labor increases.",
+        "d": "None of these statements are true",
+        "e": "Statement a,b and c are all true."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q34",
+      "text": "Suppose that a company doubles the quantity of all inputs in the production process. This leads to an increase in output from 5000 to 10000. This is an example of",
+      "options": {
+        "a": "Increasing returns to scale",
+        "b": "Constant returns to scale",
+        "c": "Decreasing returns to scale",
+        "d": "Zero returns to scale",
+        "e": "Increasing marginal product of labor"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q35",
+      "text": "If a good is a public good,",
+      "options": {
+        "a": "anyone can be excluded from enjoying its benefits.",
+        "b": "consumers pay a low price.",
+        "c": "no one can be excluded from enjoying its benefits.",
+        "d": "economies of scale exist over the entire range of output for which there is a demand.",
+        "e": "consumers must pay a high price to enjoy its benefits."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q36",
+      "text": "Germany and France produce 2 goods (computers and bikes). The following table shows the total production possibilities for both countries.\n\n| | Computers | Bikes |\n|---|---|---|\n| Germany | 5 | 40 |\n| France | 10 | 16 |\n\nThe opportunity cost of computers in terms of bikes is:",
+      "options": {
+        "a": "8 in Germany and 2.5 in France",
+        "b": "0.5 in Germany and 2.5 in France",
+        "c": "0.5 in Germany and 1.6 in France",
+        "d": "8 in Germany and 1.6 in France",
+        "e": "None of the above"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q37",
+      "text": "Germany and France produce 2 goods (computers and bikes). The following table shows the total production possibilities for both countries.\n\n| | Computers | Bikes |\n|---|---|---|\n| Germany | 5 | 40 |\n| France | 10 | 16 |\n\nWe can say that:",
+      "options": {
+        "a": "Germany has a comparative advantage in computers, France has a comparative advantage in bikes",
+        "b": "France has a comparative advantage in computers, Germany has a comparative advantage in bikes",
+        "c": "Germany has a comparative advantage in both goods",
+        "d": "France has a comparative advantage in both goods",
+        "e": "Neither country has a comparative advantage in any good"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q38",
+      "text": "In general, the marginal revenue a monopolist receives from selling one more unit of a good is less than the price of that unit because",
+      "options": {
+        "a": "of the law of diminishing returns.",
+        "b": "of increasing opportunity costs.",
+        "c": "of constant returns to scale.",
+        "d": "the demand curve slopes downward.",
+        "e": "average total cost declines."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q39",
+      "text": "Instant noodles are an inferior good. Hence, an increase in people's incomes",
+      "options": {
+        "a": "shifts the supply curve of instant noodles leftward.",
+        "b": "shifts the demand curve for instant noodles rightward.",
+        "c": "shifts the demand curve for instant noodles leftward.",
+        "d": "decreases the quantity of instant noodles supplied.",
+        "e": "does not affect the supply or demand curve"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q40",
+      "text": "Which of the following statements is correct?",
+      "options": {
+        "a": "The Gini index will increase when a progressive income tax system is introduced.",
+        "b": "Introducing more selectivity in social insurance goes against the insurance principle of social security.",
+        "c": "The Lorenz curve will shift further off the diagonal when a progressive income tax system is introduced.",
+        "d": "The higher the poverty level in a society, the higher the Gini index.",
+        "e": "The number of people living in extreme poverty has increased between 1990 and 2020."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q41",
+      "text": "Which of the following statements is correct for a price increase?",
+      "options": {
+        "a": "When demand is inelastic, total revenue will decrease.",
+        "b": "When demand is elastic, total revenue will decrease.",
+        "c": "When demand is unitary elastic, total revenue will increase.",
+        "d": "When demand is unitary elastic, total revenue will decrease.",
+        "e": "When demand is elastic, total revenue will increase",
+        "f": "None of the above statements is correct."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q42",
+      "text": "The optimal level of pollution is the quantity at which",
+      "options": {
+        "a": "the total benefit of pollution exceeds its total cost by the greatest possible amount.",
+        "b": "the total benefit of pollution equals its total cost.",
+        "c": "the marginal social benefit of an additional unit of pollution is greater than the marginal social cost of the additional unit.",
+        "d": "the marginal social benefit of an additional unit of pollution is less than the marginal social cost of the additional unit.",
+        "e": "the total benefit of pollution is maximized."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q43",
+      "text": "Assume that a monopoly firm is currently earning economic profits. If a permanent change in fixed costs raises average total cost above the demand curve,",
+      "options": {
+        "a": "price will fall and output will rise.",
+        "b": "more firms will enter the industry.",
+        "c": "the monopoly will go out of business in the absence of government intervention.",
+        "d": "marginal cost will be greater than marginal revenue."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q44",
+      "text": "If consumers think that there are very few substitutes for a good, then",
+      "options": {
+        "a": "supply would tend to be price elastic",
+        "b": "supply would tend to be price inelastic",
+        "c": "demand would tend to be price elastic",
+        "d": "demand would tend to be price inelastic",
+        "e": "none of these answers"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q45",
+      "text": "Which of the following statements is true?",
+      "options": {
+        "a": "For a price ceiling to be a binding constraint on the market, the government must set it above the equilibrium price.",
+        "b": "A binding price ceiling creates a shortage.",
+        "c": "A price floor always determines the price at which a good must be sold.",
+        "d": "Restricting petrol prices to €1 per liter when the equilibrium price is €1.5 per liter is an example of a price floor.",
+        "e": "A price floor sets a maximum on the price at which a good can be sold."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q46",
+      "text": "Three identical vases are available for purchase. Suppose that buyer 1 is willing to pay €30 for one, buyer 2 is willing to pay €25 for one, and buyer 3 is willing to pay €20 for one. If the price is €25, how many vases will be sold and what is the value of consumer surplus in this market?",
+      "options": {
+        "a": "One vase will be sold and consumer surplus is €5.",
+        "b": "One vase will be sold and consumer surplus is €30.",
+        "c": "Two vases will be sold and consumer surplus is €5",
+        "d": "Two vases will be sold and consumer surplus is €55.",
+        "e": "Three vases will be sold and consumer surplus is €0.",
+        "f": "Three vases will be sold and consumer surplus is €75."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q47",
+      "text": "A monopolist's profit maximizing output occurs where marginal revenue __________ marginal cost. The monopolist's supply curve ______________.",
+      "options": {
+        "a": "equals; does not exist",
+        "b": "exceeds; does not exist",
+        "c": "equals; is upward sloping",
+        "d": "exceeds; is upward sloping",
+        "e": "equals; is perfectly elastic",
+        "f": "exceeds; is perfectly elastic"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q48",
+      "text": "If a monopolist is producing a quantity where MC<MR, then profit",
+      "options": {
+        "a": "is maximized.",
+        "b": "is maximized only if MC=P.",
+        "c": "is maximized only if MR=P.",
+        "d": "can be increased by increasing production.",
+        "e": "can be increased by decreasing production."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q49",
+      "text": "A monopolist responds to an increase in demand by",
+      "options": {
+        "a": "increasing price and decreasing output.",
+        "b": "increasing price and increasing output.",
+        "c": "decreasing price and increasing output.",
+        "d": "decreasing price and decreasing output.",
+        "e": "not changing price and increasing output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q50",
+      "text": "Which of the following statements is false?",
+      "options": {
+        "a": "If the rate at which goods can be substituted in production is constant, then the production possibility frontier exhibits constant opportunity costs.",
+        "b": "The process observed when an economy's production possibility frontier shifts outward is comparative advantage.",
+        "c": "If the amount of resources available to the local economy increases, or there are improvements in technology, then the production possibility frontier will shift outward.",
+        "d": "Because of trade, a country may produce at a point outside its production possibility frontier.",
+        "e": "A country is said to have a comparative advantage in the production of a good if it has the lowest opportunity cost of producing that good compared with other economies."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q51",
+      "text": "Which of the following statements describes efficiency?",
+      "options": {
+        "a": "A situation in which producers make the highest possible profits.",
+        "b": "A situation in which we cannot produce more of one good without producing less of another good.",
+        "c": "A situation in which we produce the goods and services that people value most highly.",
+        "d": "a and b",
+        "e": "b and c",
+        "f": "a and b and c."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q52",
+      "text": "A firm uses capital (K) and labor (L) to produce bikes. The following table shows the number of bikes that can be produced for different combinations of capital and labour.\n\n| Labor \\ Capital | K=1 | K=2 | K=3 |\n|---|---|---|---|\n| L=1 | 300 | 525 | 750 |\n| L=2 | 525 | 675 | 825 |\n| L=3 | 675 | 825 | 975 |\n\nWhich of the following statements is correct?",
+      "options": {
+        "a": "The production process has decreasing returns to scale when increasing inputs from (2,2) to (3,3).",
+        "b": "The marginal product of labour is always increasing.",
+        "c": "Input combinations (1,1), (2,2) and (3,3) lie on the same isoquant.",
+        "d": "The marginal product of capital is sometimes negative."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q53",
+      "text": "Which statement about perfect competition is true?",
+      "options": {
+        "a": "Profit per unit is average revenue minus marginal cost",
+        "b": "If price is greater than average total cost, the firm will break even in the short run.",
+        "c": "If price is less than marginal cost, the perfectly competitive firm should lower its price and decrease output.",
+        "d": "In the short run, if P=ATC, a perfectly competitive firm produces the optimal quantity and earns zero economic profit.",
+        "e": "If price falls below average variable cost, the firm will continue to operate with economic losses."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q54",
+      "text": "Which of the following statements is correct?",
+      "options": {
+        "a": "Free markets are efficient because they allocate output to buyers who have a willingness to pay that is below the price.",
+        "b": "Consumer surplus is the buyer's willingness to pay minus the seller's cost.",
+        "c": "If your willingness to pay for a hamburger is €3 and the price is €2, your consumer surplus is €5.",
+        "d": "A buyer's willingness to pay is that buyer's consumer surplus.",
+        "e": "Adam Smith's “invisible hand” concept suggests that a competitive market outcome maximizes total surplus."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q55",
+      "text": "Georges sells hamburgers in a perfectly competitive market. He is currently maximizing profits and just breaking even. Part of his costs include a monthly license fee of €200 that must be paid to the government as long as the firm operates. If the license fee is raised to €250, what should Georges do to maximize profits.",
+      "options": {
+        "a": "increase price",
+        "b": "lower price",
+        "c": "reduce output",
+        "d": "increase output",
+        "e": "keep output unchanged"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q56",
+      "text": "The production function Y = 3K^0.4 L^0.6 has",
+      "options": {
+        "a": "increasing returns to scale",
+        "b": "decreasing returns to scale",
+        "c": "constant returns to scale",
+        "d": "negative returns to scale"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q57",
+      "text": "A common resource is",
+      "options": {
+        "a": "rival and nonexcludable",
+        "b": "nonrival and excludable",
+        "c": "nonrival and nonexcludable",
+        "d": "regulated and excludable",
+        "e": "rival and excludable"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q58",
+      "text": "When a non-toll road is congested, it is",
+      "options": {
+        "a": "a public good",
+        "b": "a private good",
+        "c": "nonrival and excludable",
+        "d": "nonrival and nonexcludable",
+        "e": "a common resource"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q59",
+      "text": "Free riding can occur if a good is",
+      "options": {
+        "a": "a private good.",
+        "b": "excludable and non-rival.",
+        "c": "excludable and rival.",
+        "d": "nonexcludable and nonrival.",
+        "e": "nonexcludable and rival."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q60",
+      "text": "When a quota is set above the equilibrium quantity, this will",
+      "options": {
+        "a": "have no immediate effect.",
+        "b": "incentivize black market activity.",
+        "c": "lead to missed opportunities for mutually beneficial transactions.",
+        "d": "cause the supply price and quantity bought and sold to exceed the demand price at the quantity bought and sold."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q61",
+      "text": "A firm uses two inputs: capital (K) and labour (L). Producing always requires the same amount of capital and the same amount of labour. The production process of this company can be described by which production function?",
+      "options": {
+        "a": "Q = K^0.4 L^0.6",
+        "b": "Q = min(4K, 6L)",
+        "c": "Q = K^0.5 + L^0.5",
+        "d": "Q = 0.5K + 0.5L"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q62",
+      "text": "On the market for used cars, there are 500 cars of good quality and 500 cars are lemons. Owners of good cars want to sell their cars for prices above €2300 and owners of lemons want to sell their cars for prices above €400. There is a large number of potential buyers who are willing to pay €1000 for a lemon and €4600 for a good car. Buyers cannot determine whether a car is a lemon. Which of the following statements is true?",
+      "options": {
+        "a": "In equilibrium, all used cars are sold for €2800.",
+        "b": "In equilibrium, only lemons are sold for a price of €1000.",
+        "c": "In equilibrium, lemons sell for €400 and good cars for €2600.",
+        "d": "In equilibrium, lemons sell for €1000 and good cars for €4600.",
+        "e": "In equilibrium, all used cars are sold for €1350."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q63",
+      "text": "In Italy, only ice cream and pizza are produced. The graph below represents the production possibility frontier for the Italian economy (points A=(0,40), B=(40,30), C=(45,27), D=(40,20), E=(45,20), F=(45,40) roughly, with the curve bowing outward). Which of the following statements is false?",
+      "options": {
+        "a": "Point F represents a combination of production that can be reached if there is a sufficient advance in technology.",
+        "b": "As we move from point A to point C, the opportunity cost of pizza falls.",
+        "c": "If the economy is operating at point C, the opportunity cost of producing 15 additional pizza's is 27 ice creams.",
+        "d": "If the economy were operating at point D, 10 additional ice creams can be produced with no impact on the production of pizza."
+      },
+      "answer": "b",
+      "image": "assets/ppf_q63.png"
+    },
+    {
+      "id": "e1q64",
+      "text": "Which of the following statements is false?",
+      "options": {
+        "a": "The demand for gasoline over one month should be more elastic than the demand for gasoline over one year.",
+        "b": "The demand for a necessity such as electricity tends to be inelastic.",
+        "c": "The price elasticity of supply tends to be more inelastic as the firm's production facility reaches maximum capacity.",
+        "d": "The supply of cars for this week is likely to be more price inelastic than the supply of cars for this year.",
+        "e": "If an increase in the price of a good has no impact on the total revenue in that market, demand must be unit price elastic."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q65",
+      "text": "Which of the following statements about monopoly is false?",
+      "options": {
+        "a": "A monopolist is the sole seller of a product with no close substitutes.",
+        "b": "For the monopolist, marginal revenue is always less than the price of a good.",
+        "c": "Price discrimination can raise economic welfare because output increases beyond that which would result under monopoly pricing.",
+        "d": "The monopolist chooses the quantity of output at which marginal revenue equals marginal cost and then uses the demand curve to find the price that will induce consumers to buy that quantity.",
+        "e": "Compared to a perfectly competitive market, a monopoly market will usually generate higher prices and higher output."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q66",
+      "text": "If demand is linear, then price elasticity of demand is",
+      "options": {
+        "a": "elastic in the upper portion and inelastic in the lower portion.",
+        "b": "inelastic in the upper portion and elastic in the lower portion.",
+        "c": "inelastic throughout.",
+        "d": "elastic throughout.",
+        "e": "constant along the demand curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q67",
+      "text": "If the price of a good is above the equilibrium price,",
+      "options": {
+        "a": "there is a shortage and the price will rise.",
+        "b": "there is a shortage and the price will fall.",
+        "c": "there is a surplus and the price will rise.",
+        "d": "there is a surplus and the price will fall.",
+        "e": "the quantity demanded is equal to the quantity supplied and the price remains unchanged."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q68",
+      "text": "Which of the following statements is correct?",
+      "options": {
+        "a": "The tax burden generated from a tax placed on a good consumers perceive to be a necessity falls more heavily on the sellers of the good.",
+        "b": "The government can choose to place the burden of a tax on the buyers in a market by collecting the tax from the buyers rather than the sellers.",
+        "c": "The distribution of the burden of a tax is determined by the relative elasticities of supply and demand.",
+        "d": "The tax burden falls more heavily on the side of the market that is most willing to leave the market when price movements are unfavorable to them."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "e1q69",
+      "text": "Alex and Emma produce only sun hats and umbrellas. If they spend all night producing sun hats, Alex produces 10 hats, and Emma produces 5. If they spend all night producing umbrellas, Alex produces 6 umbrellas, and Emma produces 4. We know that:",
+      "options": {
+        "a": "Alex has a comparative advantage in the production of sun hats and an absolute advantage in the production of sun hats.",
+        "b": "Alex has a comparative advantage in the production of umbrellas and an absolute advantage in the production of umbrellas.",
+        "c": "Alex has a comparative advantage in the production of both sun hats and umbrellas.",
+        "d": "Emma has a comparative advantage in the production of sun hats and an absolute advantage in the production of sun hats.",
+        "e": "Emma has a comparative advantage in the production of umbrellas and an absolute advantage in the production of umbrellas."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q70",
+      "text": "Which of the following statements about price discrimination is false?",
+      "options": {
+        "a": "Price discrimination can raise economic welfare.",
+        "b": "Price discrimination requires that the seller be able to separate buyers according to their willingness to pay.",
+        "c": "Price discrimination increases a monopolist's profits.",
+        "d": "Perfect price discrimination generates a deadweight loss.",
+        "e": "For a monopolist to engage in price discrimination, buyers must be unable to engage in arbitrage."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q71",
+      "text": "Two firms simultaneously decide whether to lower their prices. Their profits are presented in the following payoff matrix.\n\n| | Firm 1: Lower prices | Firm 1: Don't lower prices |\n|---|---|---|\n| **Firm 2: Lower prices** | Firm 1: €5000, Firm 2: €5000 | Firm 1: €1000, Firm 2: €30000 |\n| **Firm 2: Don't lower prices** | Firm 1: €30000, Firm 2: €1000 | Firm 1: €20000, Firm 2: €20000 |\n\nWhich of the following statements is true?",
+      "options": {
+        "a": "Both firms would jointly be better off if they could each keep their prices high.",
+        "b": "There is no dominant strategy in this game.",
+        "c": "This game has a Nash equilibrium: Both firms don't lower their prices.",
+        "d": "If firm 1 lowers its prices and firm 2 does not, firm 1 will earn a profit of €20000."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q72",
+      "text": "In long-run equilibrium in a competitive market,",
+      "options": {
+        "a": "firms are operating at the minimum of their average total cost curves.",
+        "b": "firms are operating at their efficient scale.",
+        "c": "firms are operating at zero economic profit.",
+        "d": "firms are operating at the intersection of their marginal cost and marginal revenue curve.",
+        "e": "All of these answers are correct."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "e1q73",
+      "text": "Which of the following statements about monopolistic competition is correct?",
+      "options": {
+        "a": "A monopolistically competitive firm has some power to set the price of its product because there are barriers to entry.",
+        "b": "One difference between perfect competition and monopolistic competition is that firms in monopolistic competition face a downward-sloping demand curve.",
+        "c": "In the short run, a monopolistically competitive firm chooses its quantity, but not its price.",
+        "d": "Firms in monopolistic competition always will earn an economic profit."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "e1q74",
+      "text": "Which of the following statements is false?",
+      "options": {
+        "a": "If the rate at which goods can be substituted in production is constant, then the production possibility frontier exhibits constant opportunity costs.",
+        "b": "The process observed when an economy's production possibility frontier shifts outward is comparative advantage.",
+        "c": "If the amount of resources available to the local economy increases, or there are improvements in technology, then the production possibility frontier will shift outward.",
+        "d": "Because of trade, a country may produce at a point outside its production possibility frontier.",
+        "e": "A country is said to have a comparative advantage in the production of a good if it has the lowest opportunity cost of producing that good compared with other economies."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "e1q75",
+      "text": "Which of the following events will shift the demand curve for watches to the right?",
+      "options": {
+        "a": "A decrease in the price of batteries if batteries and watches are complements.",
+        "b": "A decrease in consumer incomes if watches are a normal good.",
+        "c": "A decrease in the wage of workers employed to manufacture watches.",
+        "d": "A decrease in the price of watches.",
+        "e": "An advance in the technology used to manufacture watches."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "e1q76",
+      "text": "Which of the following is a problem of adverse selection?",
+      "options": {
+        "a": "Sellers (who know more than buyers about the quality of their products) deliberately sell products of inferior quality.",
+        "b": "Moral hazard in the market for lemons.",
+        "c": "Only high-quality products are offered for sale.",
+        "d": "The management of a company selects an employee who is not qualified for the position within the firm."
+      },
+      "answer": "a",
+      "image": null
+    }
+  ]
+}
