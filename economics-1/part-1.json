@@ -1,0 +1,366 @@
+{
+  "id": "part-1",
+  "name": "Part 1: What is economics? (Ch. 1–2)",
+  "questions": [
+    {
+      "id": "p1q1",
+      "text": "Which of the following topics is studied in microeconomics?",
+      "options": {
+        "a": "How subsidies for research and development affect total production in a country.",
+        "b": "How a trade agreement between the European Union and Canada affects the unemployment rate in the EU and Canada.",
+        "c": "How a rise in the price of sugar affects the demand for sodas.",
+        "d": "How a more educated work force contributes to economic growth."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q2",
+      "text": "Which of the following statements is a positive statement?",
+      "options": {
+        "a": "Tuition fees are too high in Belgium.",
+        "b": "More students should study economics.",
+        "c": "The price of gasoline in Belgium is higher than the price of gasoline in the Netherlands.",
+        "d": "Too many people in the US have no health care insurance."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q3",
+      "text": "Economics can be defined as the social science that explains the",
+      "options": {
+        "a": "choices that we make as we cope with scarcity.",
+        "b": "choices made by households.",
+        "c": "choices made by politicians.",
+        "d": "choices consumers and producers make when they trade in markets."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q4",
+      "text": "The difference between microeconomics and macroeconomics is that",
+      "options": {
+        "a": "microeconomics studies the effects of government taxes on the national unemployment rate.",
+        "b": "macroeconomics studies the effects of government regulation and taxes on the price of individual goods and services.",
+        "c": "they use different sets of tools and ideas.",
+        "d": "microeconomics studies decisions of individual people and firms and macroeconomics studies the entire national economy."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q5",
+      "text": "You decided to attend a summer school this summer instead of working at your usual summer job in which you normally earn €2000 for the summer. The tuition fee of the summer school is €1000, books and supplies cost €300. The opportunity cost of attending the summer school is",
+      "options": {
+        "a": "€1300",
+        "b": "€2000",
+        "c": "€3000",
+        "d": "€3300"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q6",
+      "text": "The opportunity cost of an action is",
+      "options": {
+        "a": "the time required but not the monetary cost.",
+        "b": "all the possible alternatives forgone.",
+        "c": "the highest-valued alternative forgone.",
+        "d": "The monetary cost but not the time required."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q7",
+      "text": "Jimmy can play soccer, watch television, or read a book during the next hour. The opportunity cost of reading a book",
+      "options": {
+        "a": "equals how much he enjoys the book.",
+        "b": "is the value of playing soccer and the value of watching television.",
+        "c": "is the value of playing soccer if Jimmy prefers that to watching television.",
+        "d": "is how much the book cost when it was purchased."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q8",
+      "text": "A production possibilities curve is",
+      "options": {
+        "a": "downward sloping and reflects tradeoffs in choices.",
+        "b": "downward sloping and reflects unlimited choices.",
+        "c": "upward sloping and reflects tradeoffs in choices.",
+        "d": "upward sloping and reflects unlimited choices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q9",
+      "text": "A production possibilities curve represents",
+      "options": {
+        "a": "the combination of goods and services that can be produced efficiently.",
+        "b": "all goods and services that can be produced by an economy.",
+        "c": "represents the maximum amount of resources available at any time.",
+        "d": "a model that assumes there is no scarcity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q10",
+      "text": "Any point outside the production possibilities set is",
+      "options": {
+        "a": "attainable only if prices fall.",
+        "b": "attainable only if prices rise.",
+        "c": "associated with unused resources.",
+        "d": "unattainable given the current resources and state of technology."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q11",
+      "text": "According to the production possibilities frontier model, unemployment is described as producing at a production point",
+      "options": {
+        "a": "on the exact middle of the production possibility curve.",
+        "b": "inside the production possibility set.",
+        "c": "outside the production possibilities set.",
+        "d": "on either end of the production possibility curve."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p1q12",
+      "text": "When the production possibilities curve is bowed outwards,",
+      "options": {
+        "a": "opportunity costs are increasing.",
+        "b": "opportunity costs are decreasing.",
+        "c": "opportunity costs are constant.",
+        "d": "some of society's resources are unemployed."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q13",
+      "text": "The table below describes the production relationship between sandwiches and pizza for given resources and technology. Suppose that the production possibilities curve is linear.\n\n| Point | Production of sandwiches | Production of pizza |\n|---|---|---|\n| A | 40 | 0 |\n| B | 28 | 3 |\n| C | 20 | 5 |\n| D | 12 | 7 |\n| E | 0 | 10 |\n\nWhich of the following production possibilities is not attainable?",
+      "options": {
+        "a": "40 sandwiches and 0 pizzas.",
+        "b": "15 sandwiches and 5 pizzas.",
+        "c": "5 sandwiches and 10 pizzas.",
+        "d": "All of the above possibilities are attainable."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q14",
+      "text": "The table below describes the production relationship between sandwiches and pizza for given resources and technology. Suppose that the production possibilities curve is linear.\n\n| Point | Production of sandwiches | Production of pizza |\n|---|---|---|\n| A | 40 | 0 |\n| B | 28 | 3 |\n| C | 20 | 5 |\n| D | 12 | 7 |\n| E | 0 | 10 |\n\nWhich of the following production possibilities is not efficient?",
+      "options": {
+        "a": "20 sandwiches and 5 pizzas.",
+        "b": "12 sandwiches and 10 pizzas.",
+        "c": "28 sandwiches and 3 pizzas.",
+        "d": "15 sandwiches and 5 pizzas."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q15",
+      "text": "The table below describes the production relationship between sandwiches and pizza for given resources and technology. Suppose that the production possibilities curve is linear.\n\n| Point | Production of sandwiches | Production of pizza |\n|---|---|---|\n| A | 40 | 0 |\n| B | 28 | 3 |\n| C | 20 | 5 |\n| D | 12 | 7 |\n| E | 0 | 10 |\n\nWhat is the opportunity cost of producing an additional pizza?",
+      "options": {
+        "a": "1 pizza",
+        "b": "1 sandwich",
+        "c": "3 sandwiches",
+        "d": "4 sandwiches"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q16",
+      "text": "Ann and Bart both produce hats and scarfs. Ann has a comparative advantage in the production of scarfs if she",
+      "options": {
+        "a": "can produce more scarfs in a given period than can Bart.",
+        "b": "can produce scarfs using a newer technology than can Bart.",
+        "c": "has a lower opportunity cost of producing scarfs than of producing hats.",
+        "d": "has a lower opportunity cost of producing scarfs than has Bart."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q17",
+      "text": "Ann can produce either 24 hats or 8 scarfs. Bart can produce either 8 hats or 8 scarfs. Ann has a comparative advantage in the production of",
+      "options": {
+        "a": "both hats and scarfs.",
+        "b": "scarfs, while Bart has a comparative advantage in the production of hats.",
+        "c": "hats, while Bart has a comparative advantage in the production of scarfs.",
+        "d": "scarfs, and neither has a comparative advantage in the production of hats."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q18",
+      "text": "Ann and Bart produce hats and scarfs. It is possible for Ann to have",
+      "options": {
+        "a": "neither a comparative nor an absolute advantage in both products.",
+        "b": "a comparative but not an absolute advantage in both products.",
+        "c": "an absolute but not a comparative advantage in both products.",
+        "d": "an absolute and a comparative advantage in both products."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q19",
+      "text": "France and Germany each produce cars and bikes. The table below shows how many bikes each country can produce for a given number of cars.\n\n| | France: Cars | France: Bikes | Germany: Cars | Germany: Bikes |\n|---|---|---|---|---|\n| | 0 | 16 | 0 | 12 |\n| | 2 | 12 | 2 | 9 |\n| | 4 | 8 | 4 | 6 |\n| | 6 | 4 | 6 | 3 |\n| | 8 | 0 | 8 | 0 |\n\nIf France is producing 4 cars and 8 bikes and Germany is producing 4 cars and 6 bikes, the opportunity cost of producing more",
+      "options": {
+        "a": "bikes is the same for both countries.",
+        "b": "bikes is lower in France.",
+        "c": "cars is the same for both countries.",
+        "d": "cars is lower in France."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p1q20",
+      "text": "France and Germany each produce cars and bikes. The table below shows how many bikes each country can produce for a given number of cars.\n\n| | France: Cars | France: Bikes | Germany: Cars | Germany: Bikes |\n|---|---|---|---|---|\n| | 0 | 16 | 0 | 12 |\n| | 2 | 12 | 2 | 9 |\n| | 4 | 8 | 4 | 6 |\n| | 6 | 4 | 6 | 3 |\n| | 8 | 0 | 8 | 0 |\n\nBased on the table:",
+      "options": {
+        "a": "France has a comparative advantage in the production of cars.",
+        "b": "France has an absolute advantage in the production of cars.",
+        "c": "Germany has a comparative advantage in the production of cars.",
+        "d": "Germany has an absolute advantage in the production of cars."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q21",
+      "text": "France and Germany each produce cars and bikes. The table below shows how many bikes each country can produce for a given number of cars.\n\n| | France: Cars | France: Bikes | Germany: Cars | Germany: Bikes |\n|---|---|---|---|---|\n| | 0 | 16 | 0 | 12 |\n| | 2 | 12 | 2 | 9 |\n| | 4 | 8 | 4 | 6 |\n| | 6 | 4 | 6 | 3 |\n| | 8 | 0 | 8 | 0 |\n\nFor Germany, the opportunity cost of producing an additional car is",
+      "options": {
+        "a": "4 bikes.",
+        "b": "3 bikes.",
+        "c": "2 bikes.",
+        "d": "3/2 bikes."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q22",
+      "text": "France and Germany each produce cars and bikes. The table below shows how many bikes each country can produce for a given number of cars.\n\n| | France: Cars | France: Bikes | Germany: Cars | Germany: Bikes |\n|---|---|---|---|---|\n| | 0 | 16 | 0 | 12 |\n| | 2 | 12 | 2 | 9 |\n| | 4 | 8 | 4 | 6 |\n| | 6 | 4 | 6 | 3 |\n| | 8 | 0 | 8 | 0 |\n\nFor Germany, the opportunity cost of producing an additional bike is",
+      "options": {
+        "a": "1/2 cars.",
+        "b": "2/3 cars.",
+        "c": "2 cars.",
+        "d": "3 cars."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p1q23",
+      "text": "If Spain levies tariffs on Italian goods entering Spain, this will tend to",
+      "options": {
+        "a": "harm both Spanish and Italian producers.",
+        "b": "benefit both Spanish and Italian producers.",
+        "c": "benefit Italian producers and harm Spanish producers.",
+        "d": "harm Italian producers and benefit Spanish producers."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q24",
+      "text": "If Spain imposes an import quota on Portuguese wine, profits for Spanish wine producers will be _______ and profits for Portuguese wine producers will be __________.",
+      "options": {
+        "a": "lower; lower",
+        "b": "lower; higher",
+        "c": "higher; lower",
+        "d": "higher; higher"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q25",
+      "text": "If a country's domestic price of steel in the absence of trade exceeds the price on the world market, the country will likely",
+      "options": {
+        "a": "import steel.",
+        "b": "export steel.",
+        "c": "have an absolute advantage in the production of steel.",
+        "d": "have a shortage of steel."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q26",
+      "text": "As we move along an outward bowed production possibilities curve, producing more fruit and less vegetables, the opportunity cost of fruit",
+      "options": {
+        "a": "increases.",
+        "b": "decreases.",
+        "c": "remains the same.",
+        "d": "increases and then decreases."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q27",
+      "text": "David can catch 10 fish an hour or pick 10 pieces of fruit. Ricardo can catch 30 fish an hour or pick 20 pieces of fruit. The opportunity cost of catching fish is _____________ for David than for Ricardo. The opportunity cost of picking fruit is _________ for David than for Ricardo.",
+      "options": {
+        "a": "lower; lower",
+        "b": "lower; higher",
+        "c": "higher; lower",
+        "d": "higher; higher"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p1q28",
+      "text": "A country can consume at a point outside its production possibility set",
+      "options": {
+        "a": "never.",
+        "b": "when it produces inefficiently.",
+        "c": "when its production possibilities curve is bowed out.",
+        "d": "when it trades with other countries."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p1q29",
+      "text": "Belgium and France can gain from trade",
+      "options": {
+        "a": "If each country specializes in the production of the good for which it has a comparative advantage.",
+        "b": "If each country specializes in the production of the good for which it has the higher opportunity cost.",
+        "c": "If each country specializes in the production of the good for which it has an absolute advantage.",
+        "d": "if Belgium is more efficient in the production of one good and France is more efficient in the production of another good."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p1q30",
+      "text": "A country that has an absolute advantage in the production of all goods will",
+      "options": {
+        "a": "also have a comparative advantage in the production of all goods.",
+        "b": "have a comparative advantage only in the production of some goods but not for others.",
+        "c": "not be able to gain from specialization and exchange.",
+        "d": "have a production possibilities curve with a constant slope."
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

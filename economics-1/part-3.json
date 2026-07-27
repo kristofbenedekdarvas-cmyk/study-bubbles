@@ -1,0 +1,450 @@
+{
+  "id": "part-3",
+  "name": "Part 3: Market choices (Ch. 8–9)",
+  "questions": [
+    {
+      "id": "p3q1",
+      "text": "Which of the following statements about perfect competition is true?",
+      "options": {
+        "a": "Many firms produce identical goods.",
+        "b": "Many firms produce goods that are slightly different.",
+        "c": "A few firms produce identical goods.",
+        "d": "A few firms produce goods that are slightly different."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q2",
+      "text": "In perfect competition, the price elasticity of demand for any particular firm's output is",
+      "options": {
+        "a": "equal to 0.",
+        "b": "less than -1.",
+        "c": "-1",
+        "d": "- infinite."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q3",
+      "text": "The government launches a campaign to inform people that eating apples helps people to remain healthy. As a consequence, the demand curve for apples shifts to the right. In response, new firms enter the industry. During the period in which the new firms are entering, the market price of apples _________ and the profit of each existing firm __________.",
+      "options": {
+        "a": "rises; rises",
+        "b": "rises; falls",
+        "c": "falls; rises",
+        "d": "falls; falls"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q4",
+      "text": "In perfect competition, the price elasticity of the market demand is",
+      "options": {
+        "a": "less than -1",
+        "b": "between 0 and -1",
+        "c": "None of the above are true.",
+        "d": "a and b are true."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q5",
+      "text": "The demand for eggs from one particular farmer is perfectly elastic because eggs from this farmer are",
+      "options": {
+        "a": "perfect complements to eggs from other farmers.",
+        "b": "perfect substitutes for eggs from other farmers.",
+        "c": "normal goods.",
+        "d": "inferior goods."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q6",
+      "text": "When a firm in a perfectly competitive industry increases its output by 50%, then total revenue will also increase by 50% because",
+      "options": {
+        "a": "the firm is a price taker.",
+        "b": "the firm has perfect information.",
+        "c": "the firm is maximizing its profits.",
+        "d": "the firm faces constant returns to scale."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q7",
+      "text": "David is a farmer and produces apples. In a perfectly competitive industry, this firm has",
+      "options": {
+        "a": "a price elasticity of supply equal to 1.",
+        "b": "a price elasticity of supply equal to infinity.",
+        "c": "a price elasticity of demand equal to 0",
+        "d": "a price elasticity of demand equal to – infinity."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q8",
+      "text": "The demand curve of a firm in perfect competition is",
+      "options": {
+        "a": "perfectly inelastic.",
+        "b": "the same as the market demand curve.",
+        "c": "downward sloping.",
+        "d": "the same as the firm's marginal revenue curve."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q9",
+      "text": "In a perfectly competitive industry, the price of the product is determined where the",
+      "options": {
+        "a": "market supply curve equals the market elasticity of demand.",
+        "b": "market supply curve and the industry demand curve intersect.",
+        "c": "fixed costs are zero.",
+        "d": "the market price is higher than the marginal cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q10",
+      "text": "A firm that maximizes its economic profits in a perfectly competitive industry will",
+      "options": {
+        "a": "sell its good below the market price.",
+        "b": "sell its good above the market price.",
+        "c": "sell its good at the market price.",
+        "d": "sell its good below the market price if its supply curve is inelastic and above the market price if its supply curve is elastic."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q11",
+      "text": "The marginal revenue of a firm in a perfectly competitive industry is",
+      "options": {
+        "a": "equal to the price of the product.",
+        "b": "zero.",
+        "c": "exceeds the price of the product.",
+        "d": "is positive but less than the price of the product."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q12",
+      "text": "Which of the following statements about perfect competition is true?",
+      "options": {
+        "a": "The marginal revenue curve of a firm cuts its demand curve from above, going from left to right.",
+        "b": "The marginal revenue curve of a firm cuts its demand curve from below, going from right to left.",
+        "c": "The marginal revenue curve of a firm always lies below its demand curve.",
+        "d": "The marginal revenue curve of a firm is the same as its demand curve."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q13",
+      "text": "In perfect competition,",
+      "options": {
+        "a": "there are few buyers.",
+        "b": "each firm can influence the price of the good.",
+        "c": "all firms in the market sell their product at the same price.",
+        "d": "there are significant restrictions on entry."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q14",
+      "text": "At a firm's break-even point,",
+      "options": {
+        "a": "total cost is minimized.",
+        "b": "total revenue equals total cost.",
+        "c": "profit is maximized.",
+        "d": "marginal revenue equals marginal cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q15",
+      "text": "The table below shows a firm's total revenue and total cost at different output levels.\n\n| Output | Total revenue | Total cost |\n|---|---|---|\n| 0 | 0 | 50 |\n| 1 | 60 | 98 |\n| 2 | 120 | 138 |\n| 3 | 180 | 182 |\n| 4 | 240 | 234 |\n| 5 | 300 | 294 |\n| 6 | 360 | 360 |\n\nThe price of the product is",
+      "options": {
+        "a": "€60",
+        "b": "€300",
+        "c": "€294",
+        "d": "€360"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q16",
+      "text": "The table below shows a firm's total revenue and total cost at different output levels.\n\n| Output | Total revenue | Total cost |\n|---|---|---|\n| 0 | 0 | 50 |\n| 1 | 60 | 98 |\n| 2 | 120 | 138 |\n| 3 | 180 | 182 |\n| 4 | 240 | 234 |\n| 5 | 300 | 294 |\n| 6 | 360 | 360 |\n\nThe marginal revenue of the fourth unit of output is",
+      "options": {
+        "a": "€60",
+        "b": "€300",
+        "c": "€294",
+        "d": "€360"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q17",
+      "text": "The table below shows a firm's total revenue and total cost at different output levels.\n\n| Output | Total revenue | Total cost |\n|---|---|---|\n| 0 | 0 | 50 |\n| 1 | 60 | 98 |\n| 2 | 120 | 138 |\n| 3 | 180 | 182 |\n| 4 | 240 | 234 |\n| 5 | 300 | 294 |\n| 6 | 360 | 360 |\n\nThe firm",
+      "options": {
+        "a": "must be in a perfectly competitive industry because its marginal revenue is constant.",
+        "b": "cannot be in a perfectly competitive industry, because its short-run economic profits are greater than 0.",
+        "c": "cannot be in a perfectly competitive industry because its long-run economic profits are greater than zero.",
+        "d": "must be in a perfectly competitive industry because its marginal revenue curve eventually rises."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q18",
+      "text": "In perfect competition, in a diagram with quantity on the horizontal axis and both total revenue and total cost on the vertical axis,",
+      "options": {
+        "a": "a firm's total cost curve is a straight line through the origin.",
+        "b": "a firm's total cost curve is a straight line with zero slope.",
+        "c": "a firm's total revenue curve is a straight line through the origin.",
+        "d": "a firm's total revenue curve is a straight line with zero slope."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q19",
+      "text": "A firm in perfect competition maximizes profits by producing output at which its marginal cost equals its",
+      "options": {
+        "a": "average variable cost.",
+        "b": "average total cost.",
+        "c": "average fixed cost.",
+        "d": "marginal revenue."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q20",
+      "text": "A firm in perfect competition will expand the amount of output if produces as long as its",
+      "options": {
+        "a": "average total revenue exceeds its average variable cost.",
+        "b": "marginal revenue exceeds marginal cost.",
+        "c": "marginal cost exceeds its marginal revenue.",
+        "d": "average total revenue exceeds its average total cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q21",
+      "text": "A firm that shuts down in the short run incurs a loss equal to its",
+      "options": {
+        "a": "marginal costs.",
+        "b": "total variable costs.",
+        "c": "total fixed costs.",
+        "d": "average total costs."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q22",
+      "text": "In perfect competition in the short run, the supply curve of a firm is",
+      "options": {
+        "a": "its marginal cost curve above the horizontal axis.",
+        "b": "its average cost curve above the horizontal axis.",
+        "c": "its average cost curve above its shutdown point.",
+        "d": "its marginal cost curve above its shutdown point."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q23",
+      "text": "A firm in perfect competition is definitely earning an economic profit when",
+      "options": {
+        "a": "P>ATC.",
+        "b": "P>AVC.",
+        "c": "P<ATC.",
+        "d": "MR<MC."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q24",
+      "text": "The market demand for a product produced in a perfectly competitive market permanently increases. In the short run,",
+      "options": {
+        "a": "the price rises and each firm produces less output.",
+        "b": "the price rises and each firm produces more output.",
+        "c": "the price does not change because each firm produces more output.",
+        "d": "the price does not change because new firms enter the industry."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q25",
+      "text": "A firm in perfect competition is producing an output level at which its marginal revenue exceeds its marginal cost. To increase its profits, the firm should",
+      "options": {
+        "a": "increase its output.",
+        "b": "raise its price.",
+        "c": "decrease its output.",
+        "d": "lower its price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q26",
+      "text": "In a perfectly competitive industry,",
+      "options": {
+        "a": "a firm's marginal revenue decreases as the firm produces more output.",
+        "b": "a change in a firm's total revenue equals the price of the product multiplied by the change in the quantity sold.",
+        "c": "a firm's marginal revenue is less than average revenue.",
+        "d": "the price of the product falls when the quantity the firm sells doubles."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q27",
+      "text": "When firms enter a perfectly competitive industry,",
+      "options": {
+        "a": "the market price falls and the existing firms' economic profit does not change.",
+        "b": "the market price falls and the existing firms' economic profit decreases.",
+        "c": "the market price falls and the existing firms' economic loss does not change.",
+        "d": "the market price rises and the existing firms' economic profit decreases."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q28",
+      "text": "For prices above the minimum average variable cost, the supply curve of a firm in perfect competition is",
+      "options": {
+        "a": "the same as its average variable cost curve.",
+        "b": "Horizontal at the market price.",
+        "c": "the same as its marginal cost curve",
+        "d": "vertical at zero output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q29",
+      "text": "A firm in perfect competition is producing more than the profit-maximizing amount of its product. This means that",
+      "options": {
+        "a": "marginal revenue is more than the price of the product.",
+        "b": "total cost exceeds total revenue.",
+        "c": "average total cost exceeds the price of the product.",
+        "d": "marginal cost exceeds the price of the product."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p3q30",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 4Q² + 75Q + 60, with Q the output produced by the firm. If this firm produces 15 output goods, its average variable cost is",
+      "options": {
+        "a": "4",
+        "b": "135",
+        "c": "139",
+        "d": "195"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q31",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 4Q² + 75Q + 60, with Q the output produced by the firm. If this firm produces 15 output goods, its average total cost is",
+      "options": {
+        "a": "4",
+        "b": "135",
+        "c": "139",
+        "d": "195"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p3q32",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 4Q² + 75Q + 60, with Q the output produced by the firm. If this firm produces 15 output goods, its average fixed cost is",
+      "options": {
+        "a": "4",
+        "b": "135",
+        "c": "139",
+        "d": "195"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q33",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 4Q² + 75Q + 60, with Q the output produced by the firm. If this firm produces 15 output goods, its marginal cost is",
+      "options": {
+        "a": "4",
+        "b": "135",
+        "c": "139",
+        "d": "195"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q34",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 2Q² + 8, with Q the output produced by the firm. In the long run, this firm will supply a positive amount of output, as long as the price is greater than",
+      "options": {
+        "a": "€4",
+        "b": "€8",
+        "c": "€13",
+        "d": "€16"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q35",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 3Q² + 92, with Q the output produced by the firm. If the output price is €36, what output will the firm produce in the long run if it maximizes its profits?",
+      "options": {
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "12"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p3q36",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 3Q² + 192, with Q the output produced by the firm. If the output price is €36, what output will the firm produce in the long run if it maximizes its profits?",
+      "options": {
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "12"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p3q37",
+      "text": "The cost function of a firm in a perfectly competitive market is C(Q) = 3Q² + 192, with Q the output produced by the firm. If the output price is €36, what output will the firm produce in the short run if it maximizes its profits?",
+      "options": {
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "12"
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

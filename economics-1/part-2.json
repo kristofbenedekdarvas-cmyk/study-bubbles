@@ -1,0 +1,893 @@
+{
+  "id": "part-2",
+  "name": "Part 2: Market forces (Ch. 3–5)",
+  "questions": [
+    {
+      "id": "p2q1",
+      "text": "What does the term ceteris paribus mean?",
+      "options": {
+        "a": "When other things all change.",
+        "b": "Other things being equal.",
+        "c": "A small change in a variable.",
+        "d": "An outcome that is efficient."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q2",
+      "text": "Which of the following implies a move along a demand curve?",
+      "options": {
+        "a": "a change in consumer preferences",
+        "b": "a change in income",
+        "c": "a change in the price of the good",
+        "d": "a change in the price of related goods"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q3",
+      "text": "The value of a good is",
+      "options": {
+        "a": "the price you actually pay for it.",
+        "b": "the maximum price you are willing to pay for it.",
+        "c": "the price you actually pay for it minus the maximum you are willing to pay for it.",
+        "d": "the maximum you are willing to pay for it minus the price you actually pay for it."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q4",
+      "text": "Which of the following is not held constant when moving along a supply curve?",
+      "options": {
+        "a": "Prices of inputs used in production.",
+        "b": "The number of sellers.",
+        "c": "Expected future prices.",
+        "d": "The price of the good itself."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q5",
+      "text": "Both the price and quantity of tomatoes have decreased. This can be the result of",
+      "options": {
+        "a": "a shift of the demand curve to the left.",
+        "b": "a shift of the demand curve to the right.",
+        "c": "a shift of the supply curve to the left.",
+        "d": "a shift of the supply curve to the right."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q6",
+      "text": "Technological improvements have lowered the cost of producing computers over the past decade. This improvement in technology has led to",
+      "options": {
+        "a": "a shift of the demand curve to the left.",
+        "b": "a shift of the demand curve to the right.",
+        "c": "a shift of the supply curve to the left.",
+        "d": "a shift of the supply curve to the right."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q7",
+      "text": "Which of the following events causes an increase in the quantity supplied of good X, but not in the supply of good X?",
+      "options": {
+        "a": "an increase in the price of good X.",
+        "b": "an increase in the price of good Y, a complement in the production of good X.",
+        "c": "an improvement in the technology for producing good X.",
+        "d": "a reduction in the price of resources used to produce good X."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q8",
+      "text": "Producers of bicycles must receive a price of €700 per bike to produce 1000 bikes. If the supply curve of bikes is upward sloping, then to produce an additional bike, producers will need to receive a price",
+      "options": {
+        "a": "less than €700.",
+        "b": "of €700.",
+        "c": "more than €700."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q9",
+      "text": "The demand for pasta is given by Qd = 40 − 2P and the supply by Qs = 10 + 3P.",
+      "options": {
+        "a": "The equilibrium price is €6 and the equilibrium quantity is 28.",
+        "b": "The equilibrium price is €4 and the equilibrium quantity is 14.",
+        "c": "The equilibrium price is €2 and the equilibrium quantity is 40.",
+        "d": "The equilibrium price is €3 and the equilibrium quantity is 10."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q10",
+      "text": "People become more concerned that eating candy causes them to gain weight, which they do not like. As a result,",
+      "options": {
+        "a": "the demand curve for candy will not shift, and the supply curve shifts to the right.",
+        "b": "the demand curve for candy shifts to the right and the supply curve will not shift.",
+        "c": "the demand curve for candy shifts to the left and the supply curve will not shift.",
+        "d": "the demand curve for candy shifts to the right and the supply curve shifts to the right."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q11",
+      "text": "When a market is in equilibrium, the total amount of consumer surplus must be _______ than the total amount of producer surplus.",
+      "options": {
+        "a": "less than",
+        "b": "larger than",
+        "c": "equal to",
+        "d": "None of the above answers are correct."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q12",
+      "text": "In the market for tomatoes, the quantity demanded equals the quantity supplied. This implies that",
+      "options": {
+        "a": "there is a surplus.",
+        "b": "there is a shortage.",
+        "c": "the government must have intervened in this market.",
+        "d": "None of the above are true."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q13",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), if the market is in equilibrium, producer surplus is",
+      "options": {
+        "a": "€0",
+        "b": "€450",
+        "c": "€900",
+        "d": "€1800"
+      },
+      "answer": "b",
+      "image": "assets/part2_fig_sd_grid_a.png"
+    },
+    {
+      "id": "p2q14",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), if demand increases, then producer surplus",
+      "options": {
+        "a": "will decrease",
+        "b": "will not change.",
+        "c": "will increase.",
+        "d": "might decrease, increase or stay the same."
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_sd_grid_a.png"
+    },
+    {
+      "id": "p2q15",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), what is the minimum price that producers must be offered to produce the 80th good?",
+      "options": {
+        "a": "€0",
+        "b": "€15",
+        "c": "€20",
+        "d": "€25"
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_sd_grid_a.png"
+    },
+    {
+      "id": "p2q16",
+      "text": "People expect an increase in the price of gasoline next week. As a result,",
+      "options": {
+        "a": "next week's supply of gasoline decreases.",
+        "b": "the price of gasoline falls today.",
+        "c": "today's supply of gasoline increases.",
+        "d": "today's demand for gasoline increases."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q17",
+      "text": "The price of a good will rise if",
+      "options": {
+        "a": "the current price is higher than the equilibrium price.",
+        "b": "the quantity supplied exceeds the quantity demanded.",
+        "c": "there is a shortage at the current price.",
+        "d": "the supply curve shifts downwards."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q18",
+      "text": "Producer surplus of a good is",
+      "options": {
+        "a": "the difference between the price of a good or service and the opportunity cost of producing the good.",
+        "b": "the price paid for a good minus the opportunity cost of making it.",
+        "c": "the price paid for a good minus the value of the good.",
+        "d": "the opportunity cost of making the good minus the price paid for it."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q19",
+      "text": "The law of demand implies that,",
+      "options": {
+        "a": "the price of a hamburger will fall if the demand for hamburgers increases.",
+        "b": "the quantity of hamburgers demanded will decrease as the price of a hamburger rises.",
+        "c": "the quantity of hamburgers demanded will increase as income increases.",
+        "d": "the quantity of hamburgers demanded will increase as the price of a hamburger rises."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q20",
+      "text": "The price will fall and the equilibrium quantity might stay the same, increase, or decrease after",
+      "options": {
+        "a": "an increase in demand and supply.",
+        "b": "an increase in demand and a decrease in supply.",
+        "c": "a decrease in demand and an increase in supply.",
+        "d": "a decrease in supply and demand."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q21",
+      "text": "The price of a milkshake is €4. For the first milkshake purchased, Harry is willing to pay €6, for the second one €5, for the third one €4, for the fourth one €3, and for the fifth one €2. What is the value of Harry's consumer surplus?",
+      "options": {
+        "a": "€0",
+        "b": "€3",
+        "c": "€4",
+        "d": "€15"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q22",
+      "text": "A decrease in the number of fast-food restaurants",
+      "options": {
+        "a": "decreases the demand for substitutes for fast-food meals.",
+        "b": "decreases the price of fast-food meals.",
+        "c": "decreases the supply of fast-food meals.",
+        "d": "decreases the demand for fast-food meals."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q23",
+      "text": "The wages paid by producers of smartphones decrease and at the same time the price of raw materials used in the production of smartphones rises. The supply curve of smartphones will",
+      "options": {
+        "a": "shift leftward.",
+        "b": "shift either leftward or rightward.",
+        "c": "become steeper.",
+        "d": "shift rightward."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q24",
+      "text": "The figure below shows Vera's demand curve for books (a straight line from (0, €30) down to (12, €0)). If the market price of a book is €15, then",
+      "options": {
+        "a": "she receives a consumer surplus of €10.",
+        "b": "she receives a consumer surplus of €40.",
+        "c": "she will buy no books.",
+        "d": "she receives no consumer surplus on the 6th book she buys."
+      },
+      "answer": "d",
+      "image": "assets/part2_fig_vera_demand.png"
+    },
+    {
+      "id": "p2q25",
+      "text": "The figure below shows Vera's demand curve for books (a straight line from (0, €30) down to (12, €0)). At a price of €5 per book, her total consumer surplus is",
+      "options": {
+        "a": "€5",
+        "b": "€10",
+        "c": "€25",
+        "d": "€125"
+      },
+      "answer": "d",
+      "image": "assets/part2_fig_vera_demand.png"
+    },
+    {
+      "id": "p2q26",
+      "text": "The figure below shows Vera's demand curve for books (a straight line from (0, €30) down to (12, €0)). If the price of a book is €10, then Vera's consumer surplus from the 4th book",
+      "options": {
+        "a": "is less than her consumer surplus from the 6th book.",
+        "b": "is the same as her consumer surplus from the 6th book.",
+        "c": "is greater than her consumer surplus from the 6th book.",
+        "d": "could be greater than, equal to, or less than her consumer surplus from the 6th book."
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_vera_demand.png"
+    },
+    {
+      "id": "p2q27",
+      "text": "A 6% decrease in the price of pizza leads to a 5% increase in the quantity demanded. The price elasticity of demand is",
+      "options": {
+        "a": "-0.83",
+        "b": "-0.3",
+        "c": "-0.6",
+        "d": "-1.2"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q28",
+      "text": "Tennis balls and tennis rackets are complements. The cost of an input used to produce tennis balls decreases. As a result,",
+      "options": {
+        "a": "the price of tennis rackets falls and the price of tennis balls rises.",
+        "b": "the price of both goods rises.",
+        "c": "the price of tennis rackets rises and the price of tennis balls falls.",
+        "d": "the price of both goods falls."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q29",
+      "text": "Demand for a good is perfectly inelastic when",
+      "options": {
+        "a": "the good has perfect substitutes.",
+        "b": "a shift of the supply curve results in no change in the price.",
+        "c": "a shift of the supply curve results in no change in the quantity demanded.",
+        "d": "a shift of the supply curve results in no change in the total revenue from sales."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q30",
+      "text": "Suppose that a drop in the price of good X shifts the demand curve for good Y to the left. So, good X and Y are",
+      "options": {
+        "a": "normal goods",
+        "b": "substitutes",
+        "c": "inferior goods",
+        "d": "complements"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q31",
+      "text": "The price elasticity of demand is -5. A 10% increase in the price results in a _______ decrease in quantity demanded.",
+      "options": {
+        "a": "2%",
+        "b": "5%",
+        "c": "10%",
+        "d": "50%"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q32",
+      "text": "The greater the substitutability between waffles and pancakes, the _____ is the cross price elasticity of demand between both goods and the _________ is demand for pancakes.",
+      "options": {
+        "a": "smaller; more elastic",
+        "b": "smaller; less elastic",
+        "c": "larger; more elastic",
+        "d": "larger; less elastic"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q33",
+      "text": "If the price elasticity of demand is between 0 and -1, demand is",
+      "options": {
+        "a": "inelastic.",
+        "b": "elastic.",
+        "c": "perfectly elastic.",
+        "d": "unit elastic."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q34",
+      "text": "A linear demand curve for watches intersects the horizontal axis at 1000 watches. The price elasticity at the midpoint on the demand curve is",
+      "options": {
+        "a": "smaller than -1",
+        "b": "-0.5",
+        "c": "-1",
+        "d": "0"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q35",
+      "text": "Which of the following pairs of goods are most likely substitutes?",
+      "options": {
+        "a": "coffee and sugar",
+        "b": "beer and wine",
+        "c": "meat and potatoes",
+        "d": "olive oil and gasoline"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q36",
+      "text": "Subsidies for buyers and sellers of electric cars lead to an increase in supply and demand of electric cars. What happens to the equilibrium price and quantity?",
+      "options": {
+        "a": "The price will rise but the quantity could either increase, decrease, or remain the same.",
+        "b": "The quantity will increase, but the price could either rise, fall, or remain the same.",
+        "c": "Both the price and quantity will increase.",
+        "d": "The quantity will increase, but the price will fall."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q37",
+      "text": "The demand for a good increases when the price of a complement __________ and also increases when the price of a substitute ___________.",
+      "options": {
+        "a": "rises; rises",
+        "b": "rises; falls",
+        "c": "falls; falls",
+        "d": "falls; rises"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q38",
+      "text": "The figure below illustrates a linear demand curve (a straight line from (0, €10) down to (50, €0)). If the price falls from €8 to €6,",
+      "options": {
+        "a": "the quantity demanded will increase by less than 20%.",
+        "b": "total revenue will remain unchanged.",
+        "c": "total revenue will increase.",
+        "d": "total revenue will decrease."
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_linear_demand.png"
+    },
+    {
+      "id": "p2q39",
+      "text": "The figure below illustrates a linear demand curve (a straight line from (0, €10) down to (50, €0)). In the range from €8 to €6,",
+      "options": {
+        "a": "the demand is unit elastic.",
+        "b": "the demand is price elastic.",
+        "c": "the demand is price inelastic.",
+        "d": "More information is needed to determine the elasticity of demand."
+      },
+      "answer": "b",
+      "image": "assets/part2_fig_linear_demand.png"
+    },
+    {
+      "id": "p2q40",
+      "text": "The figure below illustrates a linear demand curve (a straight line from (0, €10) down to (50, €0)). If the price falls from €6 to €4,",
+      "options": {
+        "a": "total revenue will decrease.",
+        "b": "total revenue will increase.",
+        "c": "total revenue will remain unchanged.",
+        "d": "quantity demanded will increase by more than 100%."
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_linear_demand.png"
+    },
+    {
+      "id": "p2q41",
+      "text": "The figure below illustrates a linear demand curve (a straight line from (0, €10) down to (50, €0)). In the price range from €8 to €6, demand is ______, and in the price range from €4 to €2, demand is __________.",
+      "options": {
+        "a": "elastic; elastic.",
+        "b": "elastic; inelastic.",
+        "c": "inelastic; elastic.",
+        "d": "inelastic; inelastic."
+      },
+      "answer": "b",
+      "image": "assets/part2_fig_linear_demand.png"
+    },
+    {
+      "id": "p2q42",
+      "text": "The figure below illustrates a linear demand curve (a straight line from (0, €10) down to (50, €0)). This figure illustrates a demand curve for a product with",
+      "options": {
+        "a": "zero price elasticity of demand at all prices.",
+        "b": "a price elasticity of demand that is different at all prices.",
+        "c": "unit price elasticity of demand at all prices.",
+        "d": "infinite price elasticity of demand at all prices."
+      },
+      "answer": "b",
+      "image": "assets/part2_fig_linear_demand.png"
+    },
+    {
+      "id": "p2q43",
+      "text": "As the opportunity cost of a good decreases, people buy",
+      "options": {
+        "a": "more of that good but less of its complements.",
+        "b": "less of that good and also less of its complements.",
+        "c": "less of that good but more of its complements.",
+        "d": "more of that good and also more of its complements."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q44",
+      "text": "Which of the following events does not shift the demand curve for cars?",
+      "options": {
+        "a": "A 10% decrease in the price of car insurance.",
+        "b": "A 20% increase in the price of a car.",
+        "c": "A 5% increase in people's income.",
+        "d": "An increased preference for walking rather than driving."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q45",
+      "text": "Smartphones and tablets are substitutes. The demand for smartphones increases so that the price of smartphones increases. The increase in the price of smartphones",
+      "options": {
+        "a": "shifts the demand curve for tablets rightward.",
+        "b": "shifts the demand curve for tablets leftward.",
+        "c": "shifts the supply curve of tablets rightward.",
+        "d": "shifts the supply curve of tablets leftward."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q46",
+      "text": "In the figure below (the same style of supply and demand diagram, P from 0 to 30 in steps of 5, Q from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), at a price of €25, there is",
+      "options": {
+        "a": "a shortage of 80 units.",
+        "b": "a shortage of 100 units.",
+        "c": "a surplus of 80 units.",
+        "d": "a shortage of 100 units."
+      },
+      "answer": "c",
+      "image": "assets/part2_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p2q47",
+      "text": "In the figure below (the same style of supply and demand diagram, P from 0 to 30 in steps of 5, Q from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the good is a normal good. If income rises, then the new equilibrium quantity",
+      "options": {
+        "a": "is more than 60 units.",
+        "b": "is less than 60 units.",
+        "c": "is 60 units.",
+        "d": "could be less than, equal to, or more than 60 units."
+      },
+      "answer": "a",
+      "image": "assets/part2_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p2q48",
+      "text": "In the figure below (the same style of supply and demand diagram, P from 0 to 30 in steps of 5, Q from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), there is a rise in the price of the inputs used to produce the good. At the same time, there is an increase in the price of a substitute of the good. What happens to the equilibrium price and quantity in this market?",
+      "options": {
+        "a": "The price will go up, but the effect on the equilibrium quantity is ambiguous.",
+        "b": "The equilibrium quantity will go down, but the effect on the price is ambiguous.",
+        "c": "The equilibrium quantity will go up and the price will go up.",
+        "d": "The equilibrium quantity will go up and the price will go down."
+      },
+      "answer": "a",
+      "image": "assets/part2_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p2q49",
+      "text": "Demand for a good is unit elastic when",
+      "options": {
+        "a": "a shift of the supply curve leads to an equal shift of the demand curve.",
+        "b": "a shift of the supply curve leads to no change in the price of that good.",
+        "c": "that good has close substitutes.",
+        "d": "a change in the price of the good leads to no change in total revenue."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q50",
+      "text": "An increase in the price of ice cream from €3 to €5 resulted in a decrease in the demand for ice cream from 220 to 180. What is the elasticity of demand when the price rises from €3 to €5?",
+      "options": {
+        "a": "-0.27",
+        "b": "-0.4",
+        "c": "-0.56",
+        "d": "-1"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q51",
+      "text": "Soccer balls and tennis balls are substitutes in production. If more people start playing soccer instead of tennis, the supply curve of tennis balls will shift",
+      "options": {
+        "a": "rightward and the equilibrium price of tennis balls will fall.",
+        "b": "leftward and the equilibrium price of tennis balls will fall.",
+        "c": "rightward and the equilibrium price of tennis balls will rise.",
+        "d": "leftward and the equilibrium price of tennis balls will rise."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q52",
+      "text": "The price elasticity of demand for cars is 1.25. The equilibrium quantity of cars has increased by 10%. This implies that the price has fallen by",
+      "options": {
+        "a": "2.5%",
+        "b": "8%",
+        "c": "10%",
+        "d": "12.5%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q53",
+      "text": "The total revenue of a producer will increase if",
+      "options": {
+        "a": "the price rises and demand is inelastic.",
+        "b": "income falls and the good is a normal good.",
+        "c": "the price rises and demand is elastic.",
+        "d": "income increases and the good is an inferior good."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q54",
+      "text": "An increase in the price of a game of bowling",
+      "options": {
+        "a": "shifts the demand curve for bowling balls to the right.",
+        "b": "shifts the demand curve for bowling balls to the left.",
+        "c": "shifts the supply curve of bowling balls to the right.",
+        "d": "shifts the supply curve of bowling balls to the left."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q55",
+      "text": "A shift of the supply curve of biscuits raises the equilibrium price from €1 to €2 and reduces the equilibrium quantity from 1400 to 1000.",
+      "options": {
+        "a": "The supply of biscuits is elastic.",
+        "b": "The supply of biscuits is inelastic.",
+        "c": "The demand for biscuits is elastic.",
+        "d": "The demand for biscuits is inelastic."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q56",
+      "text": "A rise in the price of good X leads to a decrease in the quantity demanded of good Y.",
+      "options": {
+        "a": "The cross price elasticity of demand between both goods is positive",
+        "b": "The cross price elasticity of demand between both goods is negative.",
+        "c": "The demand for both goods is inelastic.",
+        "d": "The income elasticity of demand for both goods is positive."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q57",
+      "text": "The cross-price elasticity of demand between Coca Cola and Pepsi Cola is",
+      "options": {
+        "a": "positive, so these goods are complements.",
+        "b": "negative, so these goods are complements.",
+        "c": "positive, so these goods are substitutes.",
+        "d": "negative, so these goods are complements."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q58",
+      "text": "David's income has risen from €1900 to €2100. As a result, his consumption of ice cream increases by 5%. His demand for ice cream is",
+      "options": {
+        "a": "income inelastic",
+        "b": "income elastic",
+        "c": "represented by a vertical line",
+        "d": "represented by a horizontal line."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q59",
+      "text": "Suppose that a 1% increase in the price of apples leads to a smaller percentage increase in the quantity offered for sale, then",
+      "options": {
+        "a": "demand is inelastic.",
+        "b": "demand is elastic.",
+        "c": "supply is inelastic.",
+        "d": "supply is elastic."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q60",
+      "text": "A 5% increase in the price of shoes leads to a 9% increase in the quantity supplied. The elasticity of supply is",
+      "options": {
+        "a": "0.3",
+        "b": "0.55",
+        "c": "1.2",
+        "d": "1.8"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q61",
+      "text": "In case your expenditures on a good decrease after a price decrease of the good, your demand is",
+      "options": {
+        "a": "unit elastic.",
+        "b": "inelastic.",
+        "c": "linear.",
+        "d": "elastic."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q62",
+      "text": "Total revenue of producers of olive oil has decreased by 5% after an increase in the price by 5%. The demand for olive oil",
+      "options": {
+        "a": "is elastic",
+        "b": "is inelastic",
+        "c": "is unit elastic",
+        "d": "has an elasticity of -2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q63",
+      "text": "Demand is unit elastic if",
+      "options": {
+        "a": "the ratio of a change in the quantity demanded to a change in the price equals -1.",
+        "b": "the demand curve is vertical.",
+        "c": "the ratio of a percentage change in the quantity demanded to a percentage change in price equals -1.",
+        "d": "the demand curve is horizontal."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q64",
+      "text": "The demand for textbooks is given by Qd = 100 − 2P. What is the price elasticity of demand when the price equals €20?",
+      "options": {
+        "a": "-2/3",
+        "b": "-1.5",
+        "c": "-1/6",
+        "d": "6"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q65",
+      "text": "The market for cappuccinos consists of two producers, Emma and Ella. Both producers decide to form a cartel. Later, Emma summarizes her production strategy as, “I will cheat on the cartel because, regardless of what Ella does, cheating gives me the best payoff.” This is an example of",
+      "options": {
+        "a": "a dominant strategy",
+        "b": "a tit-for-tat strategy",
+        "c": "an irrational strategy",
+        "d": "a dominated strategy"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q66",
+      "text": "The equilibrium of a prisoner's dilemma is what is called in game theory a",
+      "options": {
+        "a": "Pareto optimal strategy.",
+        "b": "dominant strategy.",
+        "c": "Nash equilibrium.",
+        "d": "tit-for-tat strategy."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q67",
+      "text": "Firms will choose a tit-for-tat strategy if they",
+      "options": {
+        "a": "believe high profits are sustainable.",
+        "b": "believe that the firms in the industry will compete with each other for a long time to come.",
+        "c": "have little control over the market price.",
+        "d": "are sure that cheating behavior will go unnoticed."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q68",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nWhich of the following statements about this game is true?",
+      "options": {
+        "a": "This situation is not a prisoners' dilemma.",
+        "b": "If Firm A lowers its prices, Firm B should keep its prices high.",
+        "c": "If Firm B lowers its prices and Firm A does not, Firm B will earn a profit of €20 million.",
+        "d": "Both firms would jointly be better off if they could keep their prices high."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q69",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nWhich of the following about this game is true?",
+      "options": {
+        "a": "There is no Nash equilibrium.",
+        "b": "If Firm A lowers its prices, Firm B should keep its prices high.",
+        "c": "Neither company has a dominant strategy.",
+        "d": "The dominant strategy for Firm A is to lower its prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p2q70",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nThis game has",
+      "options": {
+        "a": "a Nash equilibrium: both firms keep prices high.",
+        "b": "a Nash equilibrium: both firms lower their prices.",
+        "c": "a Nash equilibrium: Firm A keeps its prices high and Firm B lowers its prices.",
+        "d": "no Nash equilibrium."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p2q71",
+      "text": "A cooperative equilibrium is more likely to arise in",
+      "options": {
+        "a": "a single-play game with a small number of players.",
+        "b": "a single-play game with a large number of players.",
+        "c": "a repeated game with a small number of players.",
+        "d": "a repeated game with a large number of players."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p2q72",
+      "text": "Consider the payoff matrix of the following simultaneous game between two firms. The firms have to decide which product to develop. The numbers in the payoff matrix represent profits (Firm A's profit, Firm B's profit). Firm A can develop product 1 or 2, firm B can develop product 3 or 4.\n\n| | Firm A: Product 1 | Firm A: Product 2 |\n|---|---|---|\n| **Firm B: Product 3** | (-1, 2) | (1, -2) |\n| **Firm B: Product 4** | (1, -2) | (-1, 2) |\n\nWhich of the following is true?",
+      "options": {
+        "a": "This game has no Nash equilibria.",
+        "b": "Developing product 1 is a dominant strategy for firm A.",
+        "c": "When firm B would develop product 4, it is best for firm A to develop product 1.",
+        "d": "This game is an example of a prisoner's dilemma."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q73",
+      "text": "Consider the payoff matrix of the following simultaneous game between two firms. The firms have to decide which product to develop. The numbers in the payoff matrix represent profits (Firm A's profit, Firm B's profit). Firm A can develop product 1 or 2, firm B can develop product 3 or 4.\n\n| | Firm A: Product 1 | Firm A: Product 2 |\n|---|---|---|\n| **Firm B: Product 3** | (-1, -1) | (2, 0) |\n| **Firm B: Product 4** | (0, 2) | (0, 0) |\n\nWhich of the following is true?",
+      "options": {
+        "a": "This game has two Nash equilibria.",
+        "b": "There is one Nash equilibrium: Firm A develops product 2 and firm B develops product 4.",
+        "c": "Developing product 1 is a dominant strategy for firm A.",
+        "d": "This game is an example of a prisoner's dilemma."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p2q74",
+      "text": "Consider the payoff matrix of the following game between two firms. The firms have to decide which product to develop. The numbers in the payoff matrix represent profits (Firm A's profit, Firm B's profit). Firm A can develop product 1 or 2, firm B can develop product 3 or 4.\n\n| | Firm A: Product 1 | Firm A: Product 2 |\n|---|---|---|\n| **Firm B: Product 3** | (2, 2) | (0, 0) |\n| **Firm B: Product 4** | (0, 0) | (1, 1) |\n\nWhich of the following is true?",
+      "options": {
+        "a": "This game has one Nash equilibria when both players simultaneously decide which product to develop.",
+        "b": "This game has one Nash equilibria when both players sequentially decide which product to develop.",
+        "c": "Developing product 1 is a dominant strategy for firm A.",
+        "d": "This game is an example of a prisoner's dilemma."
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

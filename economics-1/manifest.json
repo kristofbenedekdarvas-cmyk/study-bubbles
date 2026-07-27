@@ -1,6 +1,11 @@
 {
   "name": "Economics 1",
   "series": [
-    "76mcqs.json"
+    "76mcqs.json",
+    "part-1.json",
+    "part-2.json",
+    "part-3.json",
+    "part-4.json",
+    "part-5.json"
   ]
 }

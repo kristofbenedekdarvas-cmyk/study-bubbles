@@ -1,0 +1,1462 @@
+{
+  "id": "part-5",
+  "name": "Part 5: Market problems (Ch. 12–15)",
+  "questions": [
+    {
+      "id": "p5q1",
+      "text": "The following are key features of a monopoly, except",
+      "options": {
+        "a": "diseconomies of scale.",
+        "b": "influence over its price.",
+        "c": "no close substitutes.",
+        "d": "barriers to entry."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q2",
+      "text": "Which of the following statements about monopoly is false?",
+      "options": {
+        "a": "A monopolist is the only supplier of a good.",
+        "b": "Monopolies have no barriers to entry or exit.",
+        "c": "The good produced by a monopolist has no close substitutes.",
+        "d": "None of the above."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q3",
+      "text": "A patent grants",
+      "options": {
+        "a": "a guarantee of quality to consumers.",
+        "b": "an exclusive right to an inventor of a product.",
+        "c": "the right to practice a profession.",
+        "d": "control over a unique source or supply of raw materials."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q4",
+      "text": "The marginal revenue curve for a single-price monopolist",
+      "options": {
+        "a": "lies below its demand curve.",
+        "b": "lies above its demand curve.",
+        "c": "is horizontal.",
+        "d": "coincides with its demand curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q5",
+      "text": "If the price elasticity of demand is less than -1, a monopolist's",
+      "options": {
+        "a": "marginal revenue is zero.",
+        "b": "marginal revenue is negative.",
+        "c": "total revenue decreases when the firm lowers its price.",
+        "d": "total revenue increases when the firm lowers its price."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q6",
+      "text": "A monopolist decides to expand its output and lower its price. The firm finds that its total revenue falls. Hence, the firm is producing in the",
+      "options": {
+        "a": "inelastic part of its supply curve.",
+        "b": "elastic part of its supply curve.",
+        "c": "elastic part of its demand curve",
+        "d": "inelastic part of its demand curve."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q7",
+      "text": "A monopolist finds out that its marginal cost exceeds its marginal revenue. In order to increase profits, the firm will",
+      "options": {
+        "a": "lower its price and increase its output.",
+        "b": "raise its price and increase its output.",
+        "c": "raise its price and decrease its output.",
+        "d": "continue to produce this level of output because any change will lower its profit."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q8",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. For the monopolist, profit will be maximized when",
+      "options": {
+        "a": "output is 4 units and the price is €6.",
+        "b": "output is 4 units and the price is €4.",
+        "c": "output is 6 units and the price is €6.",
+        "d": "output is 6 units and the price is €4."
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_monopoly_1.png"
+    },
+    {
+      "id": "p5q9",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. The profit-maximizing monopolist has a total economic profit of",
+      "options": {
+        "a": "€4.",
+        "b": "€8.",
+        "c": "€16.",
+        "d": "€24."
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_monopoly_1.png"
+    },
+    {
+      "id": "p5q10",
+      "text": "Compared to a single-price monopoly, a perfectly competitive industry produces",
+      "options": {
+        "a": "more output and has a higher price.",
+        "b": "more output and has a lower price.",
+        "c": "less output and has a higher price.",
+        "d": "less output and has a lower price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q11",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC, average total cost curve ATC and average variable cost curve AVC. Read the exact price/quantity values for each curve directly off the figure. The monopolist has a total revenue of",
+      "options": {
+        "a": "€8",
+        "b": "€16",
+        "c": "€36",
+        "d": "€40"
+      },
+      "answer": "d",
+      "image": "assets/part5_fig_monopoly_2.png"
+    },
+    {
+      "id": "p5q12",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC, average total cost curve ATC and average variable cost curve AVC. Read the exact price/quantity values for each curve directly off the figure. The monopolist has a total cost of",
+      "options": {
+        "a": "€8",
+        "b": "€16",
+        "c": "€32",
+        "d": "€40"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_2.png"
+    },
+    {
+      "id": "p5q13",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC, average total cost curve ATC and average variable cost curve AVC. Read the exact price/quantity values for each curve directly off the figure. The monopolist has an economic profit of",
+      "options": {
+        "a": "€0",
+        "b": "€8",
+        "c": "€10",
+        "d": "€40"
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_monopoly_2.png"
+    },
+    {
+      "id": "p5q14",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC, average total cost curve ATC and average variable cost curve AVC. Read the exact price/quantity values for each curve directly off the figure. The efficient amount of output is",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_2.png"
+    },
+    {
+      "id": "p5q15",
+      "text": "The figure below shows a monopolist with demand curve D, marginal revenue curve MR, marginal cost curve MC, average total cost curve ATC and average variable cost curve AVC. Read the exact price/quantity values for each curve directly off the figure. The deadweight loss created if the industry would change from perfectly competitive to a monopoly is",
+      "options": {
+        "a": "€0",
+        "b": "€8",
+        "c": "€24",
+        "d": "€36"
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_monopoly_2.png"
+    },
+    {
+      "id": "p5q16",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. A single-price monopolist produces",
+      "options": {
+        "a": "20 units.",
+        "b": "30 units",
+        "c": "40 units.",
+        "d": "50 units.",
+        "e": "60 units."
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q17",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. The output produced by the single-price monopolist is",
+      "options": {
+        "a": "efficient because profit is maximized.",
+        "b": "inefficient because too much is produced.",
+        "c": "inefficient because too little is produced.",
+        "d": "efficient because marginal cost equals marginal revenue."
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q18",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. The price set by the single-price monopolist is",
+      "options": {
+        "a": "€2",
+        "b": "€2.5",
+        "c": "€3",
+        "d": "€3.5",
+        "e": "€4"
+      },
+      "answer": "d",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q19",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. If the monopolist could practice perfect price discrimination, then each buyer would pay",
+      "options": {
+        "a": "€2",
+        "b": "€3",
+        "c": "€3.5",
+        "d": "€5",
+        "e": "a different price."
+      },
+      "answer": "e",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q20",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. If the monopolist could practice perfect price discrimination, then the lowest price would be",
+      "options": {
+        "a": "€1",
+        "b": "€2",
+        "c": "€3",
+        "d": "€3.5"
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q21",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. If the monopolist could practice perfect price discrimination, then the monopolist would sell",
+      "options": {
+        "a": "30 units",
+        "b": "50 units.",
+        "c": "60 units",
+        "d": "100 units"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q22",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. If the monopolist could practice perfect price discrimination, then total revenue of the monopolist would be",
+      "options": {
+        "a": "€110",
+        "b": "€120",
+        "c": "€210",
+        "d": "€310"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q23",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. What is the loss in consumer surplus if the firm is a perfectly price-discriminating monopoly instead of a perfectly competitive industry?",
+      "options": {
+        "a": "€0",
+        "b": "€22.5",
+        "c": "€45",
+        "d": "€90"
+      },
+      "answer": "d",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q24",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. What is the loss in consumer surplus if the firm is a perfectly price-discriminating monopoly instead of a single-price monopoly?",
+      "options": {
+        "a": "€0",
+        "b": "€3.75",
+        "c": "€22.5",
+        "d": "€45"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q25",
+      "text": "The figure below shows a market with demand curve D, marginal revenue curve MR, and a horizontal marginal cost curve MC. Read the exact price/quantity values directly off the figure. If the monopolist could practice perfect price discrimination, the deadweight loss would be",
+      "options": {
+        "a": "€0",
+        "b": "€22.5",
+        "c": "€90",
+        "d": "€250"
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_monopoly_3.png"
+    },
+    {
+      "id": "p5q26",
+      "text": "The more perfectly a monopolist can apply price discrimination, the",
+      "options": {
+        "a": "smaller its output and the higher its profits.",
+        "b": "smaller its output and the lower its profits.",
+        "c": "larger its output and the lower its profits.",
+        "d": "larger its output and the higher its profits."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q27",
+      "text": "If a monopolist is producing an output level at which marginal revenue exceeds marginal cost, the firm should",
+      "options": {
+        "a": "raise its price and decrease its output.",
+        "b": "raise its price and increase its output.",
+        "c": "lower its price and decrease its output.",
+        "d": "lower its price and increase its output."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q28",
+      "text": "A firm in monopolistic competition has _________ power to set the price of its product because _________.",
+      "options": {
+        "a": "no; there are barriers to entry.",
+        "b": "no; of product differentiation.",
+        "c": "some; there are barriers to entry.",
+        "d": "some; of product differentiation."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q29",
+      "text": "Firms in monopolistic competition make products that are",
+      "options": {
+        "a": "close but not perfect substitutes.",
+        "b": "close but not perfect complements.",
+        "c": "perfect substitutes.",
+        "d": "perfect complements."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q30",
+      "text": "In a monopolistically competitive industry, there are",
+      "options": {
+        "a": "a small number of large firms.",
+        "b": "significant barriers to entry.",
+        "c": "differentiated products.",
+        "d": "mutually dependent firms."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q31",
+      "text": "In monopolistic competition, each firm",
+      "options": {
+        "a": "has a downward-sloping demand curve.",
+        "b": "has a perfectly elastic demand curve.",
+        "c": "has a perfectly inelastic demand curve.",
+        "d": "has a perfectly elastic supply curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q32",
+      "text": "The marginal cost curve of a firm in monopolistic competition intersects the average total cost curve",
+      "options": {
+        "a": "at no point.",
+        "b": "at the minimum of the average total cost curve.",
+        "c": "to the left of the minimum of the average total cost curve.",
+        "d": "to the right of the minimum of the average total cost curve."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q33",
+      "text": "Firms in monopolistic competition select an output level in the short run at which marginal cost equals",
+      "options": {
+        "a": "zero.",
+        "b": "price.",
+        "c": "marginal revenue.",
+        "d": "average total cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q34",
+      "text": "If the marginal cost curve of a firm in monopolistic competition shifts upward, then the level of output it produces",
+      "options": {
+        "a": "will decrease.",
+        "b": "will increase.",
+        "c": "will stay the same.",
+        "d": "could increase, decrease, or stay the same."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q35",
+      "text": "When firms in monopolistic competition incur an economic loss, some firms will",
+      "options": {
+        "a": "enter the industry, and demand will become more elastic for the original firms.",
+        "b": "enter the industry, and produce more products.",
+        "c": "exit the industry, and demand will decrease for the firms that remain.",
+        "d": "exit the industry, and demand will increase for the firms that remain."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q36",
+      "text": "Firms in a monopolistically competitive industry can earn an economic profit",
+      "options": {
+        "a": "in the short run but not in the long run.",
+        "b": "in the long run but not in the short run.",
+        "c": "in the short run and in the long run.",
+        "d": "in neither the short run nor in the long run."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q37",
+      "text": "The figure below shows a firm in monopolistic competition, with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. The firm will produce",
+      "options": {
+        "a": "40 units.",
+        "b": "between 40 and 60 units.",
+        "c": "60 units.",
+        "d": "more than 60 units."
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_moncomp.png"
+    },
+    {
+      "id": "p5q38",
+      "text": "The figure below shows a firm in monopolistic competition, with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. Its price will be",
+      "options": {
+        "a": "€1.",
+        "b": "€2.",
+        "c": "€3.",
+        "d": "€4."
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_moncomp.png"
+    },
+    {
+      "id": "p5q39",
+      "text": "The figure below shows a firm in monopolistic competition, with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. The firm has an economic profit of",
+      "options": {
+        "a": "€0.",
+        "b": "€40.",
+        "c": "€80.",
+        "d": "€120."
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_moncomp.png"
+    },
+    {
+      "id": "p5q40",
+      "text": "The figure below shows a firm in monopolistic competition, with demand curve D, marginal revenue curve MR, marginal cost curve MC and average total cost curve ATC. Read the exact price/quantity values for each curve directly off the figure. During the transition to the long run, the demand curve will shift __________ and the MR curve will shift ___________.",
+      "options": {
+        "a": "rightward; rightward.",
+        "b": "rightward; leftward.",
+        "c": "leftward; rightward.",
+        "d": "leftward; leftward."
+      },
+      "answer": "d",
+      "image": "assets/part5_fig_moncomp.png"
+    },
+    {
+      "id": "p5q41",
+      "text": "In the long run, in monopolistic competition, consumers pay a price that is",
+      "options": {
+        "a": "equal to both the minimum of the ATC and the minimum of AVC.",
+        "b": "equal to the minimum of the ATC, but not equal to the minimum of the AVC.",
+        "c": "less than the minimum of the ATC.",
+        "d": "higher than the minimum of the ATC."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q42",
+      "text": "In the long run, in monopolistic competition, consumers pay a price that equals",
+      "options": {
+        "a": "marginal cost and average total cost.",
+        "b": "marginal cost but not average total cost.",
+        "c": "average total cost but not marginal cost.",
+        "d": "neither marginal cost nor average total cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q43",
+      "text": "In the long run, a monopolistically competitive firm has",
+      "options": {
+        "a": "a price that exceeds its average total cost.",
+        "b": "a price that exceeds its marginal cost.",
+        "c": "a marginal cost that exceeds its price.",
+        "d": "an average total cost that exceeds its price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q44",
+      "text": "An industry that is dominated by a few interdependent firms is",
+      "options": {
+        "a": "a monopoly.",
+        "b": "an oligopoly.",
+        "c": "a monopolistically competitive industry.",
+        "d": "a perfectly competitive industry."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q45",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nWhich of the following statements about this game is true?",
+      "options": {
+        "a": "This situation is not a prisoners' dilemma.",
+        "b": "If Firm A lowers its prices, Firm B should keep its prices high.",
+        "c": "If Firm B lowers its prices and Firm A does not, Firm B will earn a profit of €20 million.",
+        "d": "Both firms would jointly be better off if they could keep their prices high."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q46",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nWhich of the following about this game is true?",
+      "options": {
+        "a": "There is no Nash equilibrium.",
+        "b": "If Firm A lowers its prices, Firm B should keep its prices high.",
+        "c": "Neither company has a dominant strategy.",
+        "d": "The dominant strategy for Firm A is to lower its prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q47",
+      "text": "Two firms, Firm A and Firm B, simultaneously decide whether to lower their prices. The payoff matrix below shows their profits.\n\n| | Firm A: Lower prices | Firm A: Don't lower prices |\n|---|---|---|\n| **Firm B: Lower prices** | Firm A: €5 million, Firm B: €5 million | Firm A: €1 million, Firm B: €30 million |\n| **Firm B: Don't lower prices** | Firm A: €30 million, Firm B: €1 million | Firm A: €20 million, Firm B: €20 million |\n\nThis game has",
+      "options": {
+        "a": "a Nash equilibrium: both firms keep prices high.",
+        "b": "a Nash equilibrium: both firms lower their prices.",
+        "c": "a Nash equilibrium: Firm A keeps its prices high and Firm B lowers its prices.",
+        "d": "no Nash equilibrium."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q48",
+      "text": "Which of the following is characteristic of oligopoly, but not of monopolistic competition?",
+      "options": {
+        "a": "Each firm faces a downward-sloping demand curve.",
+        "b": "Firms are profit-maximizers.",
+        "c": "The choices made by one firm have a significant effect on other firms.",
+        "d": "There is more than one firm in the industry."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q49",
+      "text": "When Michael watches a football game on TV, his viewing is __________ in consumption because other people ______ able to watch the football game at the same time as Michael does.",
+      "options": {
+        "a": "rival; are.",
+        "b": "rival; are not",
+        "c": "non-rival; are",
+        "d": "non-rival; are not"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q50",
+      "text": "A common resource, such as a lake is ___________ and _________ in consumption.",
+      "options": {
+        "a": "excludable; rival",
+        "b": "excludable; non-rival",
+        "c": "non-excludable; rival",
+        "d": "non-excludable; non-rival"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q51",
+      "text": "The fish in a public river are a common resource because people ________ be prevented from fishing and the same fish _________ be consumed more than once.",
+      "options": {
+        "a": "can; can",
+        "b": "can; cannot",
+        "c": "cannot; can",
+        "d": "cannot; cannot"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q52",
+      "text": "An eBook is a club good because the supplier ________ prevent consumption by people who do not pay for it, and the same eBook _______ be consumed by more than one person at the same time.",
+      "options": {
+        "a": "can; can",
+        "b": "can; cannot",
+        "c": "cannot; can",
+        "d": "cannot; cannot"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q53",
+      "text": "If the market produces an efficient amount of a good, then we know that the good must be ______ and ________ in consumption",
+      "options": {
+        "a": "excludable; rival",
+        "b": "excludable; non-rival",
+        "c": "non-excludable; rival",
+        "d": "non-excludable; non-rival"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q54",
+      "text": "Police protection is provided by the state. However, many individuals also purchase protective devices, such as alarm systems, to protect themselves. For most citizens, police protection is a ______ good, and self-protection devices are a ________ good.",
+      "options": {
+        "a": "private; private",
+        "b": "private; public",
+        "c": "public; private",
+        "d": "public; public"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q55",
+      "text": "The free-rider problem is most common when a good is",
+      "options": {
+        "a": "private.",
+        "b": "nonexcludable.",
+        "c": "rival.",
+        "d": "a club good."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q56",
+      "text": "Public goods are not produced in efficient quantities because",
+      "options": {
+        "a": "once supplied to a buyer, they can be made available at no cost to someone else.",
+        "b": "the more one person has, the less another person has.",
+        "c": "they are usually so costly that only the wealthy can afford them.",
+        "d": "they are usually very poor-quality goods."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q57",
+      "text": "For nonexcludable goods like police services, the private market yields",
+      "options": {
+        "a": "inefficiently high production.",
+        "b": "inefficiently high consumption.",
+        "c": "inefficiently low production.",
+        "d": "the efficient level of production."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q58",
+      "text": "The government provides public goods such as national defense because",
+      "options": {
+        "a": "governments can use taxation to achieve the social optimum.",
+        "b": "the free-rider problem generally results in underproduction of public goods.",
+        "c": "there is an intrinsic value to national defense.",
+        "d": "the private value of public goods is greater than their social value."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q59",
+      "text": "Public goods should be produced up to the point at which the marginal cost of production equals",
+      "options": {
+        "a": "the price that maximizes total surplus.",
+        "b": "the sum of the individual marginal benefits enjoyed by all consumers of that unit.",
+        "c": "the marginal cost of allowing another individual to consume the good.",
+        "d": "the highest marginal benefit enjoyed by any individual consumer of the good."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q60",
+      "text": "Ann and Bart are the only two inhabitants of a village. The marginal cost of installing a streetlight is €25.\n\n| Quantity of streetlights | Ann's marginal benefit | Bart's marginal benefit |\n|---|---|---|\n| 1 | €15 | €20 |\n| 2 | €10 | €15 |\n| 3 | €5 | €5 |\n| 4 | €2 | €3 |\n\nWhat is the socially optimal number of streetlights?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q61",
+      "text": "There are 100 inhabitants of a village. All inhabitants have the same individual benefit from streetlights.\n\n| Number of streetlights | Total cost | Total benefit to each resident |\n|---|---|---|\n| 0 | €0 | €0 |\n| 1 | €150 | €10 |\n| 2 | €300 | €15.5 |\n| 3 | €450 | €18 |\n| 4 | €600 | €19.5 |\n| 5 | €750 | €20 |\n\nWhat is the efficient number of streetlights?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "4",
+        "f": "5"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q62",
+      "text": "Common resources tend to be ____________ in private markets.",
+      "options": {
+        "a": "priced too high.",
+        "b": "efficiently priced.",
+        "c": "overconsumed.",
+        "d": "underconsumed."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q63",
+      "text": "In a private market, common resources will be ________, since the marginal social benefit will be equal to the marginal private cost of production, which is _________ the marginal social cost.",
+      "options": {
+        "a": "underused; greater than.",
+        "b": "underused; less than.",
+        "c": "overused; greater than.",
+        "d": "overused; less than."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q64",
+      "text": "Because the marginal social cost of any one individual's use of the roads is _______ the individual marginal cost, traffic congestion imposes higher costs and greater discomfort on residents of urban areas than of rural areas.",
+      "options": {
+        "a": "less than",
+        "b": "greater than",
+        "c": "equal to",
+        "d": "irrelevant to"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q65",
+      "text": "Suppose the lobster harvest is unregulated and that anyone with a boat can catch lobsters. This common resource will likely be ___________ because the marginal social cost of catching lobsters _____ the market price of lobsters.",
+      "options": {
+        "a": "overfished; exceeds",
+        "b": "overfished; is less than",
+        "c": "overfished; is equal to",
+        "d": "efficiently fished; is equal to"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q66",
+      "text": "The problem of negative externalities is similar to the problem of common resources in that",
+      "options": {
+        "a": "both issues concern natural resources.",
+        "b": "the marginal social benefit of producing another unit exceeds the individual's marginal benefit.",
+        "c": "the marginal social cost of producing another unit exceeds the individual's marginal cost.",
+        "d": "the individual's marginal cost of producing another unit exceeds the individual's marginal benefit."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q67",
+      "text": "A software program that you can download from the internet for a monthly fee is a club good because it is ___________ and ___________ in consumption",
+      "options": {
+        "a": "excludable; rival",
+        "b": "excludable; nonrival",
+        "c": "nonexcludable; rival",
+        "d": "nonexcludable; nonrival"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q68",
+      "text": "Because the marginal social cost of a common resource is ______ than the private marginal cost, consumption of the resource is inefficiently _________.",
+      "options": {
+        "a": "less; high",
+        "b": "less; low",
+        "c": "greater; high",
+        "d": "greater; low"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q69",
+      "text": "If a private market determines the amount of a common resource, then",
+      "options": {
+        "a": "the resource use will be efficient, and social welfare will be maximized.",
+        "b": "each individual will use the resource until his or her marginal benefit equals the marginal social cost.",
+        "c": "the marginal social cost and each individual's marginal private cost will be the same.",
+        "d": "the marginal social cost will be greater than the marginal private cost, and the resource will be overused."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q70",
+      "text": "Some public goods would not be provided without government intervention because the marginal cost of the good",
+      "options": {
+        "a": "exceeds an individual's marginal benefit.",
+        "b": "is less than an individual's marginal benefit.",
+        "c": "would equal an individual's marginal benefit.",
+        "d": "would need to be maximized."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q71",
+      "text": "A factory that discharges waste into a river and causes discomfort to residents of a town has",
+      "options": {
+        "a": "a public good.",
+        "b": "an external cost.",
+        "c": "an external benefit.",
+        "d": "a positive externality."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q72",
+      "text": "Certain activities, such as nature preservation, generate external benefits that will likely be carried out at levels that _______ those that would be efficient.",
+      "options": {
+        "a": "are equal to",
+        "b": "are less than.",
+        "c": "exceed.",
+        "d": "compete with."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q73",
+      "text": "Industries whose production generates external costs produce an output level that is",
+      "options": {
+        "a": "socially optimal",
+        "b": "less than the socially optimal quantity.",
+        "c": "greater than the socially optimal quantity.",
+        "d": "socially optimal if a specific subsidy is given to buyers."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q74",
+      "text": "Pollution is undesirable and social welfare increases by reducing pollution. As such, the optimal level of pollution is",
+      "options": {
+        "a": "zero.",
+        "b": "the level that reduces the marginal external cost of pollution to zero.",
+        "c": "the level at which the marginal external cost of pollution is equal to the marginal social benefit of pollution.",
+        "d": "the level that minimizes the average total cost of producing the product that generates the pollution."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q75",
+      "text": "The marginal social benefit of pollution ___________ as the quantity of pollution emissions ________.",
+      "options": {
+        "a": "increases; decreases",
+        "b": "increases; increases",
+        "c": "remains constant; increases",
+        "d": "remains constant; decreases"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q76",
+      "text": "There are a number of external costs when farmers grow apples. If the marginal external cost is €10 per crate of apples, and the government imposes a tax of €20 per crate of apples, then at the equilibrium price and quantity of apples:",
+      "options": {
+        "a": "too few apples will be harvested.",
+        "b": "the price of apples will be less than the marginal social cost.",
+        "c": "the price of apples will be less than the marginal social benefit.",
+        "d": "the price of apples will be less than the marginal cost to apple farmers."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q77",
+      "text": "The table below shows the marginal social benefit (MSB) and marginal social cost (MSC) of various amounts of pollution emitted from a factory.\n\n| Quantity of pollution (tons) | MSB | MSC |\n|---|---|---|\n| 0 | €800 | €0 |\n| 1 | €700 | €100 |\n| 2 | €600 | €200 |\n| 3 | €500 | €300 |\n| 4 | €400 | €400 |\n| 5 | €300 | €500 |\n| 6 | €200 | €600 |\n| 7 | €100 | €700 |\n| 8 | €0 | €800 |\n\nThe efficient quantity of pollution is",
+      "options": {
+        "a": "0 tons.",
+        "b": "2 tons.",
+        "c": "4 tons.",
+        "d": "8 tons."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q78",
+      "text": "The table below shows the marginal social benefit (MSB) and marginal social cost (MSC) of various amounts of pollution emitted from a factory.\n\n| Quantity of pollution (tons) | MSB | MSC |\n|---|---|---|\n| 0 | €800 | €0 |\n| 1 | €700 | €100 |\n| 2 | €600 | €200 |\n| 3 | €500 | €300 |\n| 4 | €400 | €400 |\n| 5 | €300 | €500 |\n| 6 | €200 | €600 |\n| 7 | €100 | €700 |\n| 8 | €0 | €800 |\n\nIf 5 tons of pollution are produced, the outcome is __________ because ___________.",
+      "options": {
+        "a": "efficient, MSB=MSC.",
+        "b": "efficient, MSB>MSC.",
+        "c": "inefficient, MSB>MSC.",
+        "d": "inefficient, MSB<MSC."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q79",
+      "text": "The table below shows the marginal social benefit (MSB) and marginal social cost (MSC) of various amounts of pollution emitted from a factory.\n\n| Quantity of pollution (tons) | MSB | MSC |\n|---|---|---|\n| 0 | €800 | €0 |\n| 1 | €700 | €100 |\n| 2 | €600 | €200 |\n| 3 | €500 | €300 |\n| 4 | €400 | €400 |\n| 5 | €300 | €500 |\n| 6 | €200 | €600 |\n| 7 | €100 | €700 |\n| 8 | €0 | €800 |\n\nIf 5 tons of pollution are produced",
+      "options": {
+        "a": "too much pollution is produced.",
+        "b": "the efficient amount of pollution is produced.",
+        "c": "not enough pollution is produced.",
+        "d": "the socially optimum amount of pollution is produced."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q80",
+      "text": "The table below shows the marginal social benefit (MSB) and marginal social cost (MSC) of various amounts of pollution emitted from a factory.\n\n| Quantity of pollution (tons) | MSB | MSC |\n|---|---|---|\n| 0 | €800 | €0 |\n| 1 | €700 | €100 |\n| 2 | €600 | €200 |\n| 3 | €500 | €300 |\n| 4 | €400 | €400 |\n| 5 | €300 | €500 |\n| 6 | €200 | €600 |\n| 7 | €100 | €700 |\n| 8 | €0 | €800 |\n\nIf 2 tons of pollution are produced, the outcome is __________ because ___________.",
+      "options": {
+        "a": "efficient, MSB=MSC.",
+        "b": "efficient, MSB>MSC.",
+        "c": "inefficient, MSB>MSC.",
+        "d": "inefficient, MSB<MSC."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q81",
+      "text": "In general, economists believe that environmental standards are not the most efficient way to address pollution because such standards do not",
+      "options": {
+        "a": "take into account the costs of pollution.",
+        "b": "incentivize polluters to reduce emissions at minimum cost.",
+        "c": "specify the types of actions that must be undertaken to achieve specific goals.",
+        "d": "get enforced."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q82",
+      "text": "The government has set an emissions tax to reduce pollution. With this emissions tax, the marginal social cost of pollution is less than the marginal social benefit of pollution. The emissions tax is",
+      "options": {
+        "a": "too low.",
+        "b": "too high.",
+        "c": "optimal.",
+        "d": "efficient."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q83",
+      "text": "When an emissions tax is imposed on all producers of solar panels, this tax would",
+      "options": {
+        "a": "encourage producers of solar panels to lower prices.",
+        "b": "increase the level of emissions.",
+        "c": "reduce the supply of solar panels.",
+        "d": "increase the supply of solar panels."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q84",
+      "text": "The figure below shows the marginal cost of reducing pollution (in €) for three firms, Firm A, Firm B and Firm C, plotted against tons of pollution. Each firm's cost curve slopes downward as pollution increases. Read the exact values directly off the figure. In the absence of any government control on emissions, how much will each firm pollute if left unregulated?",
+      "options": {
+        "a": "0 tons",
+        "b": "900 tons",
+        "c": "1000 tons",
+        "d": "2700 tons"
+      },
+      "answer": "b",
+      "image": "assets/part5_fig_pollution_mc.png"
+    },
+    {
+      "id": "p5q85",
+      "text": "The figure below shows the marginal cost of reducing pollution (in €) for three firms, Firm A, Firm B and Firm C, plotted against tons of pollution. Each firm's cost curve slopes downward as pollution increases. Read the exact values directly off the figure. If each company is allowed to emit only 300 tons of pollution, which company will be most adversely affected?",
+      "options": {
+        "a": "Firm A.",
+        "b": "Firm B",
+        "c": "Firm C.",
+        "d": "They are equally affected."
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_pollution_mc.png"
+    },
+    {
+      "id": "p5q86",
+      "text": "The figure below shows the marginal cost of reducing pollution (in €) for three firms, Firm A, Firm B and Firm C, plotted against tons of pollution. Each firm's cost curve slopes downward as pollution increases. Read the exact values directly off the figure. If the government imposes a tax of €400 per ton of pollution, firm A will emit ____ tons, firm B will emit _______ tons and firm C will emit _____ tons.",
+      "options": {
+        "a": "300; 300; 300",
+        "b": "700; 200; 100",
+        "c": "600; 200; 0",
+        "d": "500; 300; 0"
+      },
+      "answer": "d",
+      "image": "assets/part5_fig_pollution_mc.png"
+    },
+    {
+      "id": "p5q87",
+      "text": "The figure below shows the marginal cost of reducing pollution (in €) for three firms, Firm A, Firm B and Firm C, plotted against tons of pollution. Each firm's cost curve slopes downward as pollution increases. Read the exact values directly off the figure. At what tax rate would firm C produce a positive amount of pollution?",
+      "options": {
+        "a": "€200.",
+        "b": "€400.",
+        "c": "€500.",
+        "d": "€700."
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_pollution_mc.png"
+    },
+    {
+      "id": "p5q88",
+      "text": "The figure below shows the marginal cost of reducing pollution (in €) for three firms, Firm A, Firm B and Firm C, plotted against tons of pollution. Each firm's cost curve slopes downward as pollution increases. Read the exact values directly off the figure. If the government imposes a tax of €200 per ton of pollution, the cost of reducing pollution for firm C will be _________ and firm C will pay a tax of _________.",
+      "options": {
+        "a": "€0; €180000",
+        "b": "€60000; €90000",
+        "c": "€90000; €60000",
+        "d": "€135000; €0"
+      },
+      "answer": "c",
+      "image": "assets/part5_fig_pollution_mc.png"
+    },
+    {
+      "id": "p5q89",
+      "text": "Under a system of tradable emissions permits, if the demand for goods that produce emissions shifts to the right, the equilibrium price of permits __________, and the equilibrium quantity _______.",
+      "options": {
+        "a": "decreases; increases",
+        "b": "increases; stays the same",
+        "c": "decreases; decreases",
+        "d": "stays the same; increases"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q90",
+      "text": "If the number of available tradable emissions permits is decreased, the equilibrium price of the permits _____, and the equilibrium quantity of emissions _________.",
+      "options": {
+        "a": "decreases; decreases",
+        "b": "decreases; increases",
+        "c": "increases; decreases",
+        "d": "increases; increases"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q91",
+      "text": "Suppose there are only two car producers in Belgium. To reduce pollution, the government has imposed an environmental standard forcing each company to cut emissions by 50%. At the emissions standard, the marginal cost of reducing pollution for firm 1 is €600 and the marginal cost of reducing pollution for firm 2 is €350. The same level of pollution can be achieved at a lower cost by",
+      "options": {
+        "a": "forcing firm 1 to reduce emissions and allowing firm 2 to increase emissions.",
+        "b": "allowing firm 1 to pollute more and requiring firm 2 to pollute less.",
+        "c": "forcing both firms to reduce emissions.",
+        "d": "allowing both firms to pollute more."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q92",
+      "text": "External benefits are associated with the production of garden supplies, used to beautify gardens and yards in neighborhoods. Without government regulation, the market will",
+      "options": {
+        "a": "produce too many garden supplies.",
+        "b": "price garden supplies at less than the marginal social cost.",
+        "c": "price garden supplies at less than the marginal social benefit.",
+        "d": "price garden supplies above the marginal social cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q93",
+      "text": "Which of the following is a positive externality?",
+      "options": {
+        "a": "Enrico dug a pond in his garden but the pond has contributed to an explosion of mosquitoes in his neighborhood.",
+        "b": "Enrico has a cat that digs holes in the garden of his neighbor.",
+        "c": "Enrico has renovated his house which increases the property values of all the houses in his neighborhood.",
+        "d": "Liquid waste from Enrico's sheep farm flows into a neighbor's well water."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q94",
+      "text": "Barry loves to work in his magnolia garden, which provides pleasure to everyone in his neighborhood. To improve social welfare, the government could ___________ Barry's gardening activities, since the market quantity of magnolias is _______ than the socially optimal quantity.",
+      "options": {
+        "a": "subsidize; less",
+        "b": "subsidize; greater",
+        "c": "tax; less",
+        "d": "tax; greater"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q95",
+      "text": "Facebook is subject to network externalities because",
+      "options": {
+        "a": "its value to an individual declines when the number of other people using it increases.",
+        "b": "its value is determined only by its marginal private benefit.",
+        "c": "it yields negative externalities",
+        "d": "its value to an individual increases when the number of other people using it increases."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q96",
+      "text": "When there is asymmetric information in a market, this means that",
+      "options": {
+        "a": "producers and consumers have no information.",
+        "b": "producers and consumers have the same information.",
+        "c": "producers and consumers have different information.",
+        "d": "consumers have no information."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q97",
+      "text": "Adverse selection leads to an inefficiency because",
+      "options": {
+        "a": "all individuals will tend to overinsure.",
+        "b": "lower risks will tend to underinsure.",
+        "c": "higher risks will tend to overinsure.",
+        "d": "Answers (b) and (c) are correct."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q98",
+      "text": "Bert's car is in need of repair so he decides to sell it to avoid paying the cost of repairing the car. Ernie is unaware of this problem and decides to buy Bert's car. This is an example of",
+      "options": {
+        "a": "hidden actions.",
+        "b": "adverse selection.",
+        "c": "moral hazard."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q99",
+      "text": "Ernie wants to avoid buying a car that is a lemon. He takes the car he would like to buy to a mechanic before purchasing it. This is an example of",
+      "options": {
+        "a": "screening.",
+        "b": "signalling.",
+        "c": "moral hazard.",
+        "d": "adverse selection."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q100",
+      "text": "Wesley is a salesman for a company. In this employment relationship, Wesley is the",
+      "options": {
+        "a": "agent.",
+        "b": "principal.",
+        "c": "screener.",
+        "d": "signaller."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q101",
+      "text": "Which of the following examples illustrates best the problem of moral hazard?",
+      "options": {
+        "a": "Ann doesn't buy health insurance because she believes it is too expensive and she is healthy.",
+        "b": "Prior to selling a life insurance to Bart, the life insurance company forces him to have a medical examination.",
+        "c": "Cédric drives more recklessly after he buys car insurance.",
+        "d": "David chooses to attend a well-respected university."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q102",
+      "text": "Adverse selection arises because",
+      "options": {
+        "a": "insurance buyers have more information than insurance sellers.",
+        "b": "insurance sellers have more information than insurance buyers.",
+        "c": "individuals can choose between different insurance companies.",
+        "d": "insurance companies can exercise too much control over who they insure."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q103",
+      "text": "Adverse selection in competitive insurance markets harms",
+      "options": {
+        "a": "high-risk individuals.",
+        "b": "low risk individuals.",
+        "c": "owners of insurance companies.",
+        "d": "everyone."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q104",
+      "text": "The market for lemons model predicts quality deterioration in the used car market because",
+      "options": {
+        "a": "used cars require increasing maintenance.",
+        "b": "suppliers and demanders have different information about the quality of a car.",
+        "c": "used cars are generally of lower quality than new cars.",
+        "d": "people will usually buy new cars if available."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q105",
+      "text": "In the market for used cars, there are two types of cars: high quality and low-quality cars. Buyers cannot observe the quality of a car before they buy the car. Buyers are willing to pay at most €1200 for a car of low quality and €2142 for a high-quality car. Owners of high-quality cars are willing to sell their car if the price is €1000 or higher. Owners of low-quality cars are willing to sell their car if the price is €2000 or higher. Suppose that 70% of used cars are of high quality and 30% of used cars are of low quality. In this market,",
+      "options": {
+        "a": "only high-quality cars are sold",
+        "b": "only low quality cars are sold.",
+        "c": "all used cars are sold.",
+        "d": "no used cars are sold."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q106",
+      "text": "Which of the following examples illustrates best the problem of adverse selection?",
+      "options": {
+        "a": "Individuals who face the highest risks are more likely to buy insurance against these risks.",
+        "b": "A car driver can influence the probability of having an accident.",
+        "c": "High-quality products sell out the quickest.",
+        "d": "People sometimes mistakenly choose low-quality products."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p5q107",
+      "text": "Which of the following statements is true?",
+      "options": {
+        "a": "The marginal tax rate is total taxes paid divided by total income.",
+        "b": "An excise tax is a tax on income.",
+        "c": "The personal income tax in Belgium is regressive.",
+        "d": "The marginal tax rate is the appropriate tax rate to judge how much a particular tax system distorts economic decision making."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q108",
+      "text": "A ____________ is a tax for which high income taxpayers pay a smaller fraction of their income than do low income taxpayers.",
+      "options": {
+        "a": "regressive tax",
+        "b": "proportional tax",
+        "c": "flat tax",
+        "d": "a progressive tax"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q109",
+      "text": "The appropriate tax rate to consider to judge the vertical equity of a tax system is the",
+      "options": {
+        "a": "marginal tax rate.",
+        "b": "average tax rate.",
+        "c": "horizontal tax rate.",
+        "d": "proportional tax rate."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q110",
+      "text": "| Income | Amount of tax |\n|---|---|\n| €10000 | €1000 |\n| €20000 | €2000 |\n| €30000 | €5000 |\n| €40000 | €15000 |\n\nThe average tax rate for a taxpayer earning €20000 is",
+      "options": {
+        "a": "0%",
+        "b": "5%",
+        "c": "10%",
+        "d": "20%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q111",
+      "text": "| Income | Amount of tax |\n|---|---|\n| €10000 | €1000 |\n| €20000 | €2000 |\n| €30000 | €5000 |\n| €40000 | €15000 |\n\nThe marginal tax rate for a taxpayer whose earnings rise from €30000 to €40000 is",
+      "options": {
+        "a": "0%",
+        "b": "16.7%",
+        "c": "37.5%",
+        "d": "100%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q112",
+      "text": "| Income | Amount of tax |\n|---|---|\n| €10000 | €1000 |\n| €20000 | €2000 |\n| €30000 | €5000 |\n| €40000 | €15000 |\n\nThe tax system is",
+      "options": {
+        "a": "regressive.",
+        "b": "proportional.",
+        "c": "progressive."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q113",
+      "text": "The ability-to-pay principle of taxation suggests that if a tax system is to be vertically equitable, it should be",
+      "options": {
+        "a": "efficient",
+        "b": "progressive",
+        "c": "regressive",
+        "d": "proportional"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q114",
+      "text": "A tax system is regarded as horizontally equitable if",
+      "options": {
+        "a": "all taxpayers pay the same amount of tax.",
+        "b": "taxes on all goods are levied at the same rate.",
+        "c": "taxes are as low as possible.",
+        "d": "taxpayers with similar abilities to pay taxes pay the same amount."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q115",
+      "text": "When the Lorenz curve would be drawn by lining up all the individuals living in the world, what would be the closest estimate of the Gini coefficient of this curve?",
+      "options": {
+        "a": "0",
+        "b": "0.1",
+        "c": "0.3",
+        "d": "0.7",
+        "e": "1"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p5q116",
+      "text": "How would the Lorenz curve look for a country where everyone earned the same income?",
+      "options": {
+        "a": "The Lorenz curve would have a negative slope.",
+        "b": "The Lorenz curve would be U-shaped.",
+        "c": "The Lorenz curve would be a straight line with a slope of 1.",
+        "d": "The Lorenz curve would first be horizontal and then vertical."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q117",
+      "text": "Which of the following statements is true?",
+      "options": {
+        "a": "The Gini coefficient will fall when population rises.",
+        "b": "The Gini coefficient will fall as income inequality rises.",
+        "c": "The Gini coefficient will fall as income inequality falls.",
+        "d": "The Gini coefficient breaks the population into deciles based on income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p5q118",
+      "text": "Which of the following statements is true for the bottom 50% of recipients of income in a country with a highly uneven distribution of income?",
+      "options": {
+        "a": "They receive 50% of the cumulative percentage of total income.",
+        "b": "They receive a small percentage of the cumulative percentage of total income compared to the upper 50% of recipients.",
+        "c": "They receive 100% of the cumulative percentage of total income.",
+        "d": "They receive a large percentage of the cumulative percentage of total income."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q119",
+      "text": "What does the y-axis represent in a diagram showing the Lorenz curve?",
+      "options": {
+        "a": "Cumulative percentage of income recipients",
+        "b": "Cumulative percentage of total income",
+        "c": "Gini coefficient",
+        "d": "The line of perfect equality"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p5q120",
+      "text": "The figure below shows a Lorenz curve for a country, with 'percent of households' on the x-axis and 'percent of income' on the y-axis. The diagonal line of perfect equality runs from (0%, 0%) to (100%, 100%), and the actual Lorenz curve passes below it through labeled points A through F. Read the exact values directly off the figure. Which of the following statements is true?",
+      "options": {
+        "a": "The bottom 40% of households earn less than 20% of all income.",
+        "b": "The bottom 20% of households earn 20% of all income.",
+        "c": "The society shown here has complete income equality.",
+        "d": "The closer the curve is to the diagonal, the greater the income inequality."
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_lorenz_points.png"
+    },
+    {
+      "id": "p5q121",
+      "text": "The figure below shows a Lorenz curve diagram with 'Percent of Households' on the x-axis and 'Percent of Income' on the y-axis. The diagonal line of perfect equality is labeled, with the area between the diagonal and the actual Lorenz curve labeled A, and the area below the actual Lorenz curve (down to the axes) labeled B. The Gini coefficient is equal to",
+      "options": {
+        "a": "A/(A+B)",
+        "b": "B/(A+B)",
+        "c": "A/B",
+        "d": "B/A"
+      },
+      "answer": "a",
+      "image": "assets/part5_fig_lorenz_area.png"
+    }
+  ]
+}

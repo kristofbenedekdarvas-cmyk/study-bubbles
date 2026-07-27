@@ -1,0 +1,378 @@
+{
+  "id": "part-4",
+  "name": "Part 4: Market evaluation and policy (Ch. 10–11)",
+  "questions": [
+    {
+      "id": "p4q1",
+      "text": "The demand for newspapers is P = 5 − (1/150)Q and the supply of newspapers is P = 1 + (1/150)Q. What is the efficient quantity of newspapers to produce?",
+      "options": {
+        "a": "0",
+        "b": "100",
+        "c": "200",
+        "d": "300"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p4q2",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 and Q on the horizontal axis from 0 to 120, supply and demand crossing at P=15, Q=60), 60 is",
+      "options": {
+        "a": "an efficient amount to produce because consumer surplus is not maximized.",
+        "b": "an efficient amount to produce because consumer surplus is maximized.",
+        "c": "an inefficient amount to produce because the sum of consumer surplus and producer surplus is not maximized.",
+        "d": "an efficient amount to produce because the sum of consumer surplus and producer surplus is maximized."
+      },
+      "answer": "d",
+      "image": "assets/part4_fig_sd_grid_a.png"
+    },
+    {
+      "id": "p4q3",
+      "text": "When a competitive market is using its resources efficiently, the",
+      "options": {
+        "a": "sum of consumer surplus and producer surplus is maximized.",
+        "b": "consumer surplus is maximized.",
+        "c": "producer surplus is maximized.",
+        "d": "sum of consumer and producer surplus is zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p4q4",
+      "text": "The table below shows three possible allocations of pancakes among three consumers. Assume that each consumer likes pancakes.\n\n| | Allocation 1 | Allocation 2 | Allocation 3 |\n|---|---|---|---|\n| Ann | 8 | 4 | 3 |\n| Bart | 2 | 4 | 3 |\n| Charles | 2 | 4 | 3 |\n\nThen",
+      "options": {
+        "a": "allocation 1 is Pareto efficient, but allocation 2 is not.",
+        "b": "allocation 1 is Pareto efficient, but allocation 3 is not.",
+        "c": "allocation 2 is more Pareto efficient than allocation 1.",
+        "d": "allocation 3 is more Pareto efficient than allocation 1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p4q5",
+      "text": "Deadweight loss can be the result of",
+      "options": {
+        "a": "underproduction, but not overproduction.",
+        "b": "overproduction, but not underproduction.",
+        "c": "both overproduction and underproduction.",
+        "d": "neither overproduction, nor underproduction."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q6",
+      "text": "Books are normal goods and there are no taxes on books. Suppose that the government introduces a tax of €5 a book and that average income of individuals falls. Following these two changes, the equilibrium quantity of books",
+      "options": {
+        "a": "increases.",
+        "b": "remains unchanged.",
+        "c": "decreases.",
+        "d": "either increases, decreases, or remains unchanged."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q7",
+      "text": "If the government imposes a tax on French fries,",
+      "options": {
+        "a": "producer surplus will increase",
+        "b": "consumer surplus will decrease",
+        "c": "deadweight loss will be minimized",
+        "d": "the price that consumers are willing to pay will increase."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p4q8",
+      "text": "A good has a downward sloping demand curve and a perfectly inelastic supply curve. Imposing a €1 sales tax on this good",
+      "options": {
+        "a": "does not change the price paid by consumers.",
+        "b": "raises the price paid by consumers by less than €1.",
+        "c": "raises the price paid by consumers by €1.",
+        "d": "raises the price paid by consumers by more than €1."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p4q9",
+      "text": "A price _________ makes it illegal to pay a lower price than a specified level. One example is ______.",
+      "options": {
+        "a": "ceiling; a minimum wage",
+        "b": "ceiling; rent control",
+        "c": "floor; a minimum wage",
+        "d": "floor; rent control"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q10",
+      "text": "An effective minimum wage is a price",
+      "options": {
+        "a": "ceiling that results in a surplus of low-skilled labor.",
+        "b": "ceiling that results in a shortage of low-skilled labor.",
+        "c": "floor that results in a shortage of low-skilled labor.",
+        "d": "floor that results in a surplus of low-skilled labor."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p4q11",
+      "text": "The government has implemented a minimum price for steel of €700 per ton. The competitive equilibrium is €550 per ton. As a result of this legislation,",
+      "options": {
+        "a": "consumer surplus will increase.",
+        "b": "more steel than the efficient quantity will be produced.",
+        "c": "less steel than the efficient quantity will be produced.",
+        "d": "there will be no change on the market for steel."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q12",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), the deadweight loss is zero if output is",
+      "options": {
+        "a": "0",
+        "b": "60",
+        "c": "100",
+        "d": "120"
+      },
+      "answer": "b",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q13",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), at the market equilibrium, producer surplus is",
+      "options": {
+        "a": "0",
+        "b": "450",
+        "c": "900",
+        "d": "1800"
+      },
+      "answer": "b",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q14",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), if output is 80, the deadweight loss is",
+      "options": {
+        "a": "0",
+        "b": "100",
+        "c": "200",
+        "d": "400"
+      },
+      "answer": "b",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q15",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government sets a quota at 20 units of output. The deadweight loss of the quota is",
+      "options": {
+        "a": "0",
+        "b": "100",
+        "c": "200",
+        "d": "400"
+      },
+      "answer": "d",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q16",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government sets a quota at 20 units of output. In comparison to a competitive market, consumer surplus would fall by",
+      "options": {
+        "a": "0",
+        "b": "50",
+        "c": "200",
+        "d": "400"
+      },
+      "answer": "d",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q17",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government sets a quota at 20 units of output. The quota rent is",
+      "options": {
+        "a": "0",
+        "b": "50",
+        "c": "200",
+        "d": "400"
+      },
+      "answer": "d",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q18",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government decides to give a subsidy to the producers of €10 per unit that they produce. What is the price paid by the consumers?",
+      "options": {
+        "a": "€5",
+        "b": "€10",
+        "c": "€15",
+        "d": "€20"
+      },
+      "answer": "b",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q19",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government decides to give a subsidy to the producers of €10 per unit that they produce. What is the cost of this subsidy to the government?",
+      "options": {
+        "a": "€10",
+        "b": "€400",
+        "c": "€600",
+        "d": "€800"
+      },
+      "answer": "d",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q20",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government decides to give a subsidy to the producers of €10 per unit that they produce. What is the producer surplus?",
+      "options": {
+        "a": "€400",
+        "b": "€600",
+        "c": "€800",
+        "d": "€1600"
+      },
+      "answer": "c",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q21",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government decides to give a subsidy to the producers of €10 per unit that they produce. What is the deadweight loss?",
+      "options": {
+        "a": "€0",
+        "b": "€100",
+        "c": "€200",
+        "d": "€400"
+      },
+      "answer": "b",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q22",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), suppose that the government decides to implement a sales tax of €5 per unit of the good. What is the tax revenue?",
+      "options": {
+        "a": "€0",
+        "b": "€100",
+        "c": "€250",
+        "d": "€500"
+      },
+      "answer": "c",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q23",
+      "text": "In the figure below (a standard supply and demand diagram with P on the vertical axis from 0 to 30 in steps of 5, and Q on the horizontal axis from 0 to 120 in steps of 20, supply and demand crossing at P=15, Q=60), a specific tax on producers is divided",
+      "options": {
+        "a": "so that most of it is paid by the buyers.",
+        "b": "so that neither the buyers nor the sellers pay it.",
+        "c": "equally so that the buyers and sellers pay the same amount.",
+        "d": "so that most of it is paid by the sellers."
+      },
+      "answer": "c",
+      "image": "assets/part4_fig_sd_grid_b.png"
+    },
+    {
+      "id": "p4q24",
+      "text": "Deadweight loss is the decrease in _______ from producing an inefficient amount of a product.",
+      "options": {
+        "a": "profit",
+        "b": "producer surplus",
+        "c": "consumer surplus",
+        "d": "consumer surplus and producer surplus"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p4q25",
+      "text": "The deadweight loss of a tax will be greater if demand is _____________ and supply is __________.",
+      "options": {
+        "a": "elastic; elastic",
+        "b": "elastic; inelastic",
+        "c": "inelastic; elastic",
+        "d": "inelastic; inelastic"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "p4q26",
+      "text": "The deadweight loss of a tax will be 0 if",
+      "options": {
+        "a": "demand is perfectly elastic.",
+        "b": "demand is perfectly inelastic.",
+        "c": "demand is unit elastic.",
+        "d": "supply is perfectly elastic."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "p4q27",
+      "text": "The deadweight loss from producing an inefficient amount is",
+      "options": {
+        "a": "a loss to the producer but a gain to the consumer.",
+        "b": "a loss to the consumer but a gain to the producer.",
+        "c": "a loss to the consumer and to the producer.",
+        "d": "a gain to the consumer and the producer, but a loss to the rest of society."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q28",
+      "text": "The supply and demand for a good are each neither perfectly elastic nor perfectly inelastic. Imposing a sales tax on the good is",
+      "options": {
+        "a": "paid by only the sellers.",
+        "b": "paid by only the buyers.",
+        "c": "paid by both buyers and sellers.",
+        "d": "paid by neither buyers nor sellers."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "p4q29",
+      "text": "The more elastic the demand for a good, the",
+      "options": {
+        "a": "less a sales tax will raise its price",
+        "b": "more a sales tax will raise its price",
+        "c": "less a sales tax will lower its price",
+        "d": "more a sales tax will lower its price"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p4q30",
+      "text": "A sales tax will be divided so that buyers pay the full amount if",
+      "options": {
+        "a": "demand is perfectly inelastic.",
+        "b": "supply is perfectly inelastic.",
+        "c": "supply is unit elastic.",
+        "d": "demand is unit elastic."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "p4q31",
+      "text": "A €6 specific tax on tablets is imposed. This tax has decreased the sales of tablets from 2000 to 1500. The tax revenue is",
+      "options": {
+        "a": "less than €9000.",
+        "b": "€9000.",
+        "c": "between €9000 and €12000.",
+        "d": "more than €9000."
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}
