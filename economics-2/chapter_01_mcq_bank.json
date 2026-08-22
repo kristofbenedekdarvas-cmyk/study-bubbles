@@ -1,0 +1,1206 @@
+{
+  "id": "binge1113_ch1_mcq_bank",
+  "name": "Chapter 1 - National accounts - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Modern GDP accounting as presented in the course was developed primarily:",
+      "options": {
+        "a": "in France in the  nineteenth century by Walras",
+        "b": "after the 1970s oil shocks by Phillips and Solow",
+        "c": "at the creation of the euro by the European Central Bank",
+        "d": "in the United States in the 1930s by Simon Kuznets, with later refinement by Keynes"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "One historical motivation for developing GDP measures was:",
+      "options": {
+        "a": "the need to measure the natural rate of unemployment during the 1970s",
+        "b": "the need to calculate the money multiplier during the Great Depression",
+        "c": "the need to set a nominal exchange-rate peg after the euro was created",
+        "d": "the US Congress' desire to quantify the impact of the Great Depression"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "According to the slides, GDP computation spread internationally especially:",
+      "options": {
+        "a": "after the creation of the World Trade Organization",
+        "b": "after the 1979 oil shock only",
+        "c": "after World War II, in the context following the Bretton-Woods conference",
+        "d": "before World War I as part of the gold standard"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The statement that GDP is an \"accounting construct\" means that:",
+      "options": {
+        "a": "GDP is independent of all choices about what is included or how it is valued",
+        "b": "GDP can only be measured with the income approach",
+        "c": "its measured value depends on a set of statistical conventions and computation rules",
+        "d": "GDP is a purely theoretical variable that is never measured"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "If a statistical convention used to construct GDP changes, then, all else equal:",
+      "options": {
+        "a": "GDP becomes a stock variable instead of a flow variable",
+        "b": "measured GDP growth can change even if the underlying economy has not changed in the same way",
+        "c": "the expenditure and income approaches cease to be equivalent in theory",
+        "d": "real production must necessarily change by the same amount"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "Which is the course's basic output-side definition of GDP?",
+      "options": {
+        "a": "the value of all goods and services owned by residents at one instant in time",
+        "b": "the value of all final goods and services produced within a country over a given period of time",
+        "c": "the value of all primary and secondary incomes received anywhere in the world by residents",
+        "d": "the value of all transactions involving domestic residents, whether intermediate or final"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "Why must GDP use a value measure rather than simply adding physical quantities?",
+      "options": {
+        "a": "Because physical quantities are never observable.",
+        "b": "Because an economy produces heterogeneous goods and services that need a common unit of aggregation.",
+        "c": "Because using values automatically removes inflation.",
+        "d": "Because only services can be measured in monetary units."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "The word \"final\" in the GDP definition is crucial mainly because it:",
+      "options": {
+        "a": "ensures that only durable goods enter GDP",
+        "b": "prevents double counting of intermediate production stages",
+        "c": "restricts GDP to goods bought by households",
+        "d": "excludes all investment goods from GDP"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A medical consultation provided for payment is included in GDP because GDP:",
+      "options": {
+        "a": "classifies all services as intermediate production",
+        "b": "includes only activities producing physical objects",
+        "c": "includes both tangible goods and intangible services",
+        "d": "includes only services and excludes goods"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "The phrase \"within a country\" in GDP means that GDP is based on:",
+      "options": {
+        "a": "the nationality of the firm owner, regardless of where production occurs",
+        "b": "the location of production, regardless of the producer's nationality",
+        "c": "the currency in which the transaction is invoiced",
+        "d": "the residence of the final consumer only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "GDP is a flow variable because it:",
+      "options": {
+        "a": "measures economic activity over a period such as a quarter or a year",
+        "b": "cannot be compared across countries",
+        "c": "is always expressed as a growth rate",
+        "d": "measures wealth at a single instant"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Which of the following is a stock rather than a flow?",
+      "options": {
+        "a": "public debt measured on a given date",
+        "b": "annual public deficit",
+        "c": "household saving during a year",
+        "d": "annual GDP"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "A firm sells output for €500 and purchased €180 of intermediate goods and services used up in production. Its gross value added is:",
+      "options": {
+        "a": "€500",
+        "b": "€180",
+        "c": "€320",
+        "d": "€680"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Why would summing the revenues of all domestic firms generally overstate GDP?",
+      "options": {
+        "a": "Because exports would be counted negatively.",
+        "b": "Because the value of intermediate inputs would be counted once when sold and again inside the value of final output.",
+        "c": "Because depreciation would automatically be counted twice.",
+        "d": "Because wages would be omitted."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Two economies produce exactly the same final bread, but one has more production stages. If GDP were measured by summing the value of every transaction, the economy with more stages would appear richer because of:",
+      "options": {
+        "a": "net income from abroad",
+        "b": "double counting",
+        "c": "purchasing power parity",
+        "d": "capital depreciation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "In the bread example, the value-added method gives the same GDP in the two economies because:",
+      "options": {
+        "a": "it ignores the final bread sale",
+        "b": "it treats all intermediate transactions as exports",
+        "c": "it uses only wages and excludes profits",
+        "d": "it attributes to each stage only the additional value created at that stage"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Which alternative method is theoretically equivalent to summing value added across all domestic production stages?",
+      "options": {
+        "a": "sum every sale made by every firm",
+        "b": "sum all intermediate purchases and subtract final sales",
+        "c": "sum only the values of final goods and services",
+        "d": "sum only firms' wage bills"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "Whether a product is intermediate or final depends primarily on:",
+      "options": {
+        "a": "whether it is expensive",
+        "b": "whether it is produced by a corporation",
+        "c": "how the product is used",
+        "d": "the physical nature of the product"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Flour purchased by a bakery to produce bread for sale is:",
+      "options": {
+        "a": "an intermediate good",
+        "b": "an export by definition",
+        "c": "a final consumption good",
+        "d": "excluded from all national accounts"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "The same flour purchased by a household to bake bread for its own consumption is:",
+      "options": {
+        "a": "an intermediate good because it will be transformed",
+        "b": "investment because it is durable",
+        "c": "a final good",
+        "d": "government expenditure"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "A machine purchased by a manufacturing firm for repeated use in production is classified as:",
+      "options": {
+        "a": "an intermediate good because it helps produce other goods",
+        "b": "a final investment good rather than an intermediate input",
+        "c": "private consumption because it is purchased from another firm",
+        "d": "an inventory only if it is used immediately"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "A good that is produced but remains unsold at the end of the accounting period is treated as final output through:",
+      "options": {
+        "a": "net income from abroad",
+        "b": "inventory investment",
+        "c": "negative consumption",
+        "d": "depreciation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "An exported good is treated as final in domestic GDP accounting:",
+      "options": {
+        "a": "regardless of how the foreign buyer subsequently uses it",
+        "b": "only if the foreign buyer is a household",
+        "c": "only under a fixed exchange-rate regime",
+        "d": "only if it is not transformed abroad"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "A bottle of wine bought by a restaurant to serve to customers is:",
+      "options": {
+        "a": "always an export",
+        "b": "fixed capital formation",
+        "c": "an intermediate good for the restaurant",
+        "d": "private consumption"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "A bottle of wine bought by a household for a dinner at home is:",
+      "options": {
+        "a": "a non-market output",
+        "b": "an intermediate good because the household may combine it with food",
+        "c": "a final consumption good",
+        "d": "gross fixed capital formation"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "Which cost is subtracted from a firm's revenue when calculating its value added?",
+      "options": {
+        "a": "employee wages",
+        "b": "purchases of intermediate goods and services",
+        "c": "the purchase price of a new machine used for several years",
+        "d": "dividends distributed to shareholders"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "A firm has zero economic profit because its revenue exactly covers all costs. Its value added is:",
+      "options": {
+        "a": "necessarily negative",
+        "b": "not necessarily zero, because wages and other factor incomes are part of value added",
+        "c": "necessarily zero",
+        "d": "equal only to the value of intermediate inputs"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "A firm that produces only intermediate goods:",
+      "options": {
+        "a": "creates value added only if it exports",
+        "b": "can create positive value added if its output value exceeds the value of intermediate inputs it purchased",
+        "c": "is excluded from GDP because none of its output is final",
+        "d": "creates zero value added by definition"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "How is non-market output of government and similar institutions valued in the production approach?",
+      "options": {
+        "a": "at zero because there is no market price",
+        "b": "by adding social transfers paid by government",
+        "c": "mainly at factor cost, using the cost of production such as wages rather than a market sale price",
+        "d": "at the resale price of comparable private assets only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "A primary income is best defined as:",
+      "options": {
+        "a": "a capital gain on an existing asset",
+        "b": "income generated by the creation and distribution of value added",
+        "c": "any transfer received after taxes",
+        "d": "income generated only by financial assets"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "Which is part of labour primary income (compensation of employees)?",
+      "options": {
+        "a": "VAT collected on final purchases",
+        "b": "unemployment benefits only",
+        "c": "wages and salaries plus employers' social contributions",
+        "d": "capital gains on shares"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "Gross operating surplus includes:",
+      "options": {
+        "a": "only direct personal taxes",
+        "b": "capital incomes such as interest, dividends, rent on fixed assets and retained profits",
+        "c": "only unemployment benefits",
+        "d": "only employee wages"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "Gross mixed income is used especially for:",
+      "options": {
+        "a": "central banks only",
+        "b": "foreign subsidiaries only",
+        "c": "unincorporated businesses and independent workers, where labour and capital income are difficult to separate",
+        "d": "public administrations only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "In the course notation, Gross Domestic Income is:",
+      "options": {
+        "a": "GDP minus exports plus imports",
+        "b": "C + S only",
+        "c": "Y_lab + Y_gop + T_ind",
+        "d": "GNI minus all direct taxes"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Why are GDP by the production approach and GDI theoretically equal?",
+      "options": {
+        "a": "Because all value added created in production is distributed as primary income.",
+        "b": "Because both count only household consumption.",
+        "c": "Because GDI is defined as GDP minus depreciation.",
+        "d": "Because both exclude taxes on production."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "In practice, measured GDP and GDI may differ slightly because of:",
+      "options": {
+        "a": "the use of different currencies within one country",
+        "b": "the fact that wages are never included in GDI",
+        "c": "a theoretical failure of the accounting identity",
+        "d": "statistical discrepancies and data-collection problems"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "Gross National Income differs from Gross Domestic Income because GNI is based on:",
+      "options": {
+        "a": "primary income received by fiscal residents, regardless of where it was generated",
+        "b": "production located within the territory only",
+        "c": "secondary transfers after taxation only",
+        "d": "final consumption by domestic households only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "In a closed economy with no cross-border income flows:",
+      "options": {
+        "a": "GNI excludes labour income",
+        "b": "GNI equals GDI",
+        "c": "GNI is always greater than GDI",
+        "d": "GDI equals NDI only if inflation is zero"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "Net Income from Abroad (NIA) is:",
+      "options": {
+        "a": "secondary transfers received from abroad minus taxes",
+        "b": "exports minus imports",
+        "c": "primary income received by residents from abroad minus primary income generated domestically and received by foreign residents",
+        "d": "GDI minus depreciation"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "If residents earn €30 billion of primary income abroad while foreigners earn €22 billion of primary income domestically, then NIA equals:",
+      "options": {
+        "a": "€8 billion",
+        "b": "−€8 billion",
+        "c": "€52 billion",
+        "d": "€22 billion"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "If GDI is €500 billion and NIA is €12 billion, GNI is:",
+      "options": {
+        "a": "€512 billion",
+        "b": "€12 billion",
+        "c": "€488 billion",
+        "d": "€500 billion"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "A gross national-accounting variable differs from the corresponding net variable because the gross variable:",
+      "options": {
+        "a": "has not deducted fixed-capital depreciation",
+        "b": "has not deducted imports",
+        "c": "is measured at current rather than constant prices",
+        "d": "includes secondary incomes while the net variable excludes them"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "Net Domestic Income is obtained from Gross Domestic Income by:",
+      "options": {
+        "a": "subtracting depreciation of the fixed-capital stock",
+        "b": "adding net exports",
+        "c": "subtracting direct taxes and adding benefits",
+        "d": "subtracting net income from abroad"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "Secondary income differs from primary income because secondary income:",
+      "options": {
+        "a": "arises from redistribution through taxes and transfers rather than directly from value-added creation",
+        "b": "is always earned abroad",
+        "c": "is part of GDP by the income approach",
+        "d": "is always capital income"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Which item is a secondary income for a household?",
+      "options": {
+        "a": "wages paid for work",
+        "b": "rental income from a productive asset",
+        "c": "employer social contributions included in compensation",
+        "d": "unemployment benefits"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "Household disposable income is obtained from household primary income by:",
+      "options": {
+        "a": "subtracting transfers paid such as direct taxes and adding transfers received such as benefits",
+        "b": "subtracting all indirect taxes only",
+        "c": "adding depreciation and subtracting investment",
+        "d": "adding exports and subtracting imports"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "The expenditure identity for GDP is:",
+      "options": {
+        "a": "Y = C + I + G − X + M",
+        "b": "Y = C + S + T + M",
+        "c": "Y = C + I + G + X − M",
+        "d": "Y = C + I + T + X"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "A household purchase of a new car is normally recorded in:",
+      "options": {
+        "a": "C, private consumption",
+        "b": "I, because cars are durable",
+        "c": "G, because cars use public roads",
+        "d": "M only, regardless of where the car is produced"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "A household purchase of a newly built house is recorded in:",
+      "options": {
+        "a": "not in GDP because land is involved",
+        "b": "C because households consume housing services",
+        "c": "I, gross fixed capital formation",
+        "d": "G because buildings are immovable"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "Renovation of an old residential building by a household is classified in the course as:",
+      "options": {
+        "a": "investment",
+        "b": "a transfer",
+        "c": "private consumption",
+        "d": "an intermediate purchase by definition"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "A firm's purchase of new production equipment is:",
+      "options": {
+        "a": "a secondary transfer",
+        "b": "private consumption",
+        "c": "gross fixed capital formation",
+        "d": "an intermediate input fully subtracted from value added"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "A positive change in inventories is counted as:",
+      "options": {
+        "a": "consumption",
+        "b": "investment",
+        "c": "negative exports",
+        "d": "government expenditure"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "A car is produced in year 1 and sold to a household in year 2 for €7,000. To keep the three GDP approaches consistent, year 1 includes:",
+      "options": {
+        "a": "+€7,000 of household consumption",
+        "b": "−€7,000 of investment",
+        "c": "no expenditure-side entry at all",
+        "d": "+€7,000 of inventory investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "When that same €7,000 car is sold from inventory in year 2, the expenditure approach records:",
+      "options": {
+        "a": "+€7,000 in C and −€7,000 in inventory investment, for a net contribution of zero from the sale itself",
+        "b": "+€14,000 in GDP",
+        "c": "+€7,000 in both C and I",
+        "d": "−€7,000 in C and +€7,000 in I"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "Government expenditure G includes:",
+      "options": {
+        "a": "only infrastructure investment",
+        "b": "unemployment benefits as purchases of final services",
+        "c": "government purchases of goods and services and wages paid by government",
+        "d": "all pensions as government production"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "Why are unemployment benefits not included in G?",
+      "options": {
+        "a": "They are subtracted as imports.",
+        "b": "They are already included in exports.",
+        "c": "They are counted as fixed capital formation.",
+        "d": "They are transfers rather than government purchases of currently produced goods or services."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "Exports X are:",
+      "options": {
+        "a": "foreign goods purchased by domestic agents",
+        "b": "primary incomes earned by residents abroad",
+        "c": "domestically produced goods and services purchased by foreign agents",
+        "d": "secondary transfers received from abroad"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "Imports M are subtracted in the GDP expenditure identity because:",
+      "options": {
+        "a": "imports are never purchased by households",
+        "b": "imports reduce domestic saving by exactly the import value",
+        "c": "foreign production may already appear positively in C, I or G and must be removed from domestic GDP",
+        "d": "imports are always intermediate goods"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "A Belgian household buys a €2,000 foreign-produced laptop. Ignoring taxes and margins, the direct accounting entries are:",
+      "options": {
+        "a": "+€2,000 in C and −€2,000 in M, giving zero direct contribution to Belgian GDP",
+        "b": "−€2,000 in C and +€2,000 in M",
+        "c": "+€2,000 in I and +€2,000 in X",
+        "d": "+€2,000 in C only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "A Japanese tourist buys Belgian chocolates in Brussels for personal consumption. For Belgian GDP the purchase is:",
+      "options": {
+        "a": "an export X",
+        "b": "domestic private consumption C",
+        "c": "an import M",
+        "d": "an intermediate purchase"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "Which activity is explicitly outside conventional GDP scope in the slides?",
+      "options": {
+        "a": "paid medical services",
+        "b": "market production by a domestic firm",
+        "c": "unpaid household work such as homemaking",
+        "d": "government employee services valued at factor cost"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "Illegal or undeclared market activity creates a GDP measurement problem because:",
+      "options": {
+        "a": "such activity never creates value added",
+        "b": "it is automatically included through the CPI",
+        "c": "some activity is not directly reported, although statistical estimates may be made",
+        "d": "national accountants intentionally classify all illegal output as imports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "A polluting activity that creates €1 million of value added will, under standard GDP accounting:",
+      "options": {
+        "a": "raise GDP by €1 million even if it also creates substantial negative externalities",
+        "b": "enter only if the pollution is later cleaned up",
+        "c": "reduce GDP by the estimated pollution damage automatically",
+        "d": "be excluded from GDP because pollution is harmful"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "Why can pollution sometimes perversely raise measured GDP by more than the polluting production alone?",
+      "options": {
+        "a": "GDP adds the market value of depleted natural resources twice.",
+        "b": "Negative externalities are entered as positive inventory changes.",
+        "c": "Cleanup and health expenditures caused by the pollution can themselves generate measured production.",
+        "d": "Pollution is recorded as an export."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "The course notes that conventional GDP does not properly reflect:",
+      "options": {
+        "a": "depletion of renewable but overexploited natural resources",
+        "b": "employee compensation",
+        "c": "exports of services",
+        "d": "purchases of new machinery"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "A nominal variable is measured:",
+      "options": {
+        "a": "in current monetary units using prices prevailing when the variable is measured",
+        "b": "using a fixed base-year price vector",
+        "c": "only in physical units",
+        "d": "after dividing by population"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "An increase in nominal GDP can be caused by:",
+      "options": {
+        "a": "higher quantities, higher prices, or both",
+        "b": "higher quantities only",
+        "c": "higher prices only",
+        "d": "changes in population only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "The purpose of real GDP is to:",
+      "options": {
+        "a": "isolate changes in production volume from changes in prices",
+        "b": "replace GDP with GNI",
+        "c": "measure only government production",
+        "d": "remove the need to value heterogeneous goods"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "With real GDP at constant prices, all years are valued using:",
+      "options": {
+        "a": "the prices of one fixed reference year",
+        "b": "each year's current prices",
+        "c": "the prices of the immediately following year",
+        "d": "foreign prices converted at PPP"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "In the hot-dog/hamburger example with 2015 as base year, 2016 quantities are 150 hot dogs and 100 hamburgers, while 2015 prices are €1 and €2. Real GDP in 2016 is:",
+      "options": {
+        "a": "€600",
+        "b": "€250",
+        "c": "€500",
+        "d": "€350"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "A key weakness of a fixed-base constant-price GDP series is that:",
+      "options": {
+        "a": "it makes nominal GDP impossible to compute",
+        "b": "the weights can become increasingly unrepresentative as relative prices and economic structure change",
+        "c": "it cannot be computed for the base year",
+        "d": "it necessarily overstates inflation every year"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q72",
+      "text": "Real GDP measured at chained prices of the previous year differs from a fixed-base method because it:",
+      "options": {
+        "a": "re-estimates relative weights each year using the previous year's prices",
+        "b": "uses current-year prices and therefore remains nominal",
+        "c": "holds the composition of GDP fixed forever",
+        "d": "never requires any reference year for expressing the final series"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q73",
+      "text": "The main advantage of chained real GDP highlighted in the course is that it:",
+      "options": {
+        "a": "eliminates statistical revisions",
+        "b": "better accommodates structural changes and changes in relative prices over time",
+        "c": "makes all international comparisons valid without PPP",
+        "d": "always produces a higher growth rate"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q74",
+      "text": "To construct a chained real-GDP series, national accountants first calculate:",
+      "options": {
+        "a": "a single inflation rate from the CPI and apply it to all years",
+        "b": "current-price GDP and divide by population only",
+        "c": "year-to-year volume growth using previous-year prices, then chain those growth factors to a base-year level",
+        "d": "GNI and subtract NIA in every year"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q75",
+      "text": "Except for the base year and typically the immediately following year, chained-price real GDP and fixed-base real GDP:",
+      "options": {
+        "a": "differ only if exports are nonzero",
+        "b": "cannot both be expressed in the same monetary reference units",
+        "c": "can differ because their weighting schemes differ",
+        "d": "must be identical by accounting identity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q76",
+      "text": "The GDP deflator is defined as:",
+      "options": {
+        "a": "real GDP divided by nominal GDP",
+        "b": "CPI divided by nominal GDP",
+        "c": "nominal GDP divided by real GDP for the same date and reference framework",
+        "d": "GNI minus GDP"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q77",
+      "text": "If nominal GDP is 840 and real GDP is 700, the GDP deflator in base-1 form is:",
+      "options": {
+        "a": "140",
+        "b": "0.833",
+        "c": "0.20",
+        "d": "1.20"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q78",
+      "text": "If the GDP deflator is expressed with base 100 and equals 125, this means that relative to the reference year:",
+      "options": {
+        "a": "the price level of final domestic output is 25% higher",
+        "b": "real output is 25% higher",
+        "c": "the CPI must also equal 125",
+        "d": "nominal GDP is 125% higher regardless of quantities"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q79",
+      "text": "A GDP deflator of 171 in 2016 and 240 in 2017 implies a price growth factor from 2016 to 2017 of approximately:",
+      "options": {
+        "a": "240/171 ≈ 1.40",
+        "b": "0.69",
+        "c": "171/240 ≈ 0.71",
+        "d": "2.40"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q80",
+      "text": "GDP per capita is computed as:",
+      "options": {
+        "a": "GDP divided by the labour force",
+        "b": "GDP divided by the number of inhabitants",
+        "c": "GDP divided by the price level",
+        "d": "GNI minus NIA"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q81",
+      "text": "GDP per capita is interpreted in the slides as approximately:",
+      "options": {
+        "a": "the average household wealth stock",
+        "b": "the average amount of primary income created per inhabitant",
+        "c": "the average government transfer per resident",
+        "d": "the median disposable income received by workers"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q82",
+      "text": "GNI per capita differs conceptually from GDP/GDI per capita because it focuses on:",
+      "options": {
+        "a": "primary income received by residents rather than primary income generated on the territory",
+        "b": "only real variables",
+        "c": "only household consumption",
+        "d": "only public-sector output"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q83",
+      "text": "For comparing material living standards over time within a country, the course recommends using:",
+      "options": {
+        "a": "gross investment per firm only",
+        "b": "a real per-capita income measure rather than a nominal one",
+        "c": "nominal GDP only",
+        "d": "the current exchange rate only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q84",
+      "text": "A major problem with comparing nominal GDP per capita across countries using market exchange rates is that:",
+      "options": {
+        "a": "GDP cannot be expressed in a common currency",
+        "b": "all countries use identical price levels",
+        "c": "exchange rates are fixed by national accountants",
+        "d": "exchange rates do not necessarily reflect differences in domestic price levels and purchasing power"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q85",
+      "text": "Purchasing Power Parity (PPP) adjustments are designed primarily to:",
+      "options": {
+        "a": "replace real GDP with nominal GDP",
+        "b": "turn GDP into a stock measure",
+        "c": "convert incomes using relative purchasing power rather than market exchange rates alone",
+        "d": "remove depreciation from GDI"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q86",
+      "text": "The Big Mac index is an example of:",
+      "options": {
+        "a": "a simple PPP indicator based on comparing the price of a similar product across countries",
+        "b": "a measure of unemployment duration",
+        "c": "a GDP deflator based only on investment goods",
+        "d": "a chained-volume GDP method"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q87",
+      "text": "A limitation of the Big Mac index as a PPP measure is that:",
+      "options": {
+        "a": "it automatically double counts intermediate inputs",
+        "b": "it uses only government goods",
+        "c": "it cannot compare any two currencies",
+        "d": "it relies on a single product rather than a broad representative basket"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q88",
+      "text": "(Select the incorrect answer) GDP/GDI per capita is useful as a welfare indicator because it:",
+      "options": {
+        "a": "fully captures environmental quality, leisure, inequality and all non-market activity",
+        "b": "is synthetic and widely available",
+        "c": "is often positively associated with several dimensions of material well-being",
+        "d": "can be complemented with broader indicators such as the HDI"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q89",
+      "text": "Why should GDP per capita not be treated as a complete measure of welfare?",
+      "options": {
+        "a": "Because it is identical to the unemployment rate.",
+        "b": "Because it excludes all services.",
+        "c": "It omits or imperfectly captures dimensions such as distribution, non-market activity, externalities and other quality-of-life outcomes.",
+        "d": "Because it cannot be measured in real terms."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q90",
+      "text": "The Human Development Index is presented as useful because it:",
+      "options": {
+        "a": "is simply another name for PPP-adjusted GDP",
+        "b": "measures only the GDP deflator",
+        "c": "replaces all national-accounting identities",
+        "d": "supplements income information with other dimensions of human development"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q91",
+      "text": "A domestic firm buys €40 of imported intermediate inputs and produces a final good sold domestically for €100. Ignoring taxes, the firm's domestic value added is:",
+      "options": {
+        "a": "€140",
+        "b": "€60",
+        "c": "€100",
+        "d": "€40"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q92",
+      "text": "A domestic firm buys a new €30 domestic machine and €20 of domestic raw materials, then sells final output for €90. In the production approach, the firm's own value added from the final-output production is:",
+      "options": {
+        "a": "€60, because only the machine is subtracted",
+        "b": "€70, because only the €20 raw materials are intermediate inputs",
+        "c": "€40, because both the machine and raw materials are intermediate",
+        "d": "€90, because purchases are never subtracted"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q93",
+      "text": "A municipality buys new printers for its administration. Under the course classification, the most appropriate interpretation is:",
+      "options": {
+        "a": "they are excluded because government has no output",
+        "b": "they are household consumption",
+        "c": "the printers are inputs used by government production rather than household final consumption",
+        "d": "they are exports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q94",
+      "text": "A company buys chocolates to give to clients as part of its business activity. In the national-accounting logic used in the tutorial, the chocolates are:",
+      "options": {
+        "a": "private consumption",
+        "b": "gross fixed capital formation",
+        "c": "an intermediate business purchase",
+        "d": "an export"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q95",
+      "text": "If a Dutch company holds a seminar in a Belgian hotel, the Belgian hotel service is:",
+      "options": {
+        "a": "a Belgian import",
+        "b": "an intermediate good excluded from Belgian GDP",
+        "c": "Belgian household consumption",
+        "d": "a Belgian export of services"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q96",
+      "text": "Suppose nominal GDP grows by 12% while real GDP grows by 5%. Which conclusion is most defensible?",
+      "options": {
+        "a": "Prices must have fallen by 7%.",
+        "b": "The GDP deflator must be unchanged.",
+        "c": "Part of nominal GDP growth reflects an increase in the aggregate price level of final output.",
+        "d": "All 12% is real volume growth."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q97",
+      "text": "A country's nominal GDP is unchanged, but its GDP deflator rises. Holding the accounting identities together, real GDP must:",
+      "options": {
+        "a": "rise",
+        "b": "equal GNI regardless of NIA",
+        "c": "fall",
+        "d": "remain unchanged"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q98",
+      "text": "If a country's population grows faster than its real GDP, real GDP per capita:",
+      "options": {
+        "a": "cannot be determined even with those two growth rates",
+        "b": "falls",
+        "c": "rises",
+        "d": "must remain constant"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q99",
+      "text": "A resident of Belgium earns wages by working in Luxembourg. Relative to Belgian GDI and GNI, this wage:",
+      "options": {
+        "a": "raises Belgian GNI but not Belgian GDI",
+        "b": "raises both because residence and territory are irrelevant",
+        "c": "raises neither because cross-border wages are secondary income",
+        "d": "raises Belgian GDI but not Belgian GNI"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q100",
+      "text": "A French resident works in Belgium and earns wages from Belgian production. Relative to Belgian accounts, the wage contributes to:",
+      "options": {
+        "a": "Belgian GDI but not Belgian GNI",
+        "b": "Belgian secondary income only",
+        "c": "Belgian GNI but not Belgian GDI",
+        "d": "neither GDI nor GNI"
+      },
+      "answer": "a",
+      "image": null
+    }
+  ]
+}

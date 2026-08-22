@@ -1,0 +1,894 @@
+{
+  "id": "binge1113_ch7_mcq_bank",
+  "name": "Chapter 7 - The AD-AS model - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The growth trend of an economy refers to:",
+      "options": {
+        "a": "only quarter-to-quarter deviations from potential output",
+        "b": "the unemployment rate at one date",
+        "c": "the nominal interest rate path",
+        "d": "the long-run evolution of economic activity"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Business-cycle fluctuations are:",
+      "options": {
+        "a": "permanent changes in population",
+        "b": "deviations of actual GDP around its longer-run/potential path",
+        "c": "the trend itself over centuries",
+        "d": "only changes in the CPI basket"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "The output gap is defined in the slides as:",
+      "options": {
+        "a": "(Y − Yn)/Yn",
+        "b": "π − π^e",
+        "c": "Y/Yn without subtracting one",
+        "d": "(Yn − Y)/Y"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "A positive output gap means:",
+      "options": {
+        "a": "unemployment is necessarily above its natural rate",
+        "b": "Y is below Yn",
+        "c": "actual output Y is above potential output Yn",
+        "d": "prices are necessarily falling"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "A negative output gap means:",
+      "options": {
+        "a": "actual output is below potential output",
+        "b": "the economy is necessarily in long-run growth",
+        "c": "the price level equals zero",
+        "d": "actual output is above potential output"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "An economic expansion can be defined in several ways in the slides, including a phase in which:",
+      "options": {
+        "a": "real GDP growth is positive or above trend, or the level is above trend depending on the convention used",
+        "b": "real GDP must fall for two consecutive quarters",
+        "c": "the output gap must always be exactly zero",
+        "d": "GDP falls by more than 10%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "An economic downturn is described as a phase in which:",
+      "options": {
+        "a": "GDP necessarily falls by more than 10%",
+        "b": "the long-run trend disappears",
+        "c": "unemployment must be zero",
+        "d": "GDP growth slows down"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "A recession is a phase in which:",
+      "options": {
+        "a": "real GDP decreases, with some definitions requiring two consecutive quarters of decline",
+        "b": "prices fall while GDP rises",
+        "c": "GDP growth merely slows but remains positive by definition",
+        "d": "GDP falls by at least 10% by definition"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A depression is used for:",
+      "options": {
+        "a": "a particularly severe recession, with the slides using a roughly 10% GDP decline threshold",
+        "b": "a period of zero inflation",
+        "c": "any positive output gap",
+        "d": "any single quarter with slower growth"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "A trough is:",
+      "options": {
+        "a": "the long-run trend",
+        "b": "the natural unemployment rate",
+        "c": "the highest point of an expansion",
+        "d": "the lowest level of economic activity reached during a recession phase"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "A peak is:",
+      "options": {
+        "a": "the output gap itself",
+        "b": "the lowest point of a recession",
+        "c": "the highest point of activity reached during an expansion",
+        "d": "a permanent rise in potential GDP"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "The Great Depression is cited as a depression because US GDP contracted by roughly:",
+      "options": {
+        "a": "25% over the period",
+        "b": "1%",
+        "c": "2.5%",
+        "d": "5%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "The Greek 2008–2013 episode is presented as a depression with GDP falling by more than:",
+      "options": {
+        "a": "26% relative to 2007",
+        "b": "10% exactly and no more",
+        "c": "2.6%",
+        "d": "6%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "A central stylised fact about business cycles is that they are:",
+      "options": {
+        "a": "driven only by seasonal changes",
+        "b": "identical across countries",
+        "c": "irregular and difficult to predict",
+        "d": "regular with a fixed periodicity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Most activity-related aggregates are described as procyclical, meaning they:",
+      "options": {
+        "a": "always move in the opposite direction from GDP",
+        "b": "move only with prices",
+        "c": "never fluctuate",
+        "d": "tend to move in the same direction as GDP"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "Which variable is cited as particularly volatile over the business cycle?",
+      "options": {
+        "a": "the natural unemployment rate by construction",
+        "b": "the working-age population over one quarter",
+        "c": "firms' investment",
+        "d": "the nominal value of currency by definition"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "House sales are cited as:",
+      "options": {
+        "a": "part of the money multiplier",
+        "b": "countercyclical by definition",
+        "c": "a highly volatile procyclical variable",
+        "d": "a fixed structural parameter"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "The AD-AS model is designed mainly for:",
+      "options": {
+        "a": "the demographic transition only",
+        "b": "the very long-run growth trend only",
+        "c": "short- to medium-run business-cycle analysis",
+        "d": "a single product market"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Compared with IS-LM, AD-AS adds explicitly:",
+      "options": {
+        "a": "supply-side adjustment through wages and prices",
+        "b": "only capital accumulation",
+        "c": "a permanent assumption of fixed prices",
+        "d": "only international trade"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "IS-LM can be viewed as overlooking the supply side because it assumes:",
+      "options": {
+        "a": "all resources are fully employed",
+        "b": "the labour market is always at u_n",
+        "c": "underutilised capacity and fixed wages/prices so firms meet demand at unchanged P",
+        "d": "output cannot respond to demand"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "The aggregate-supply relationship is derived from:",
+      "options": {
+        "a": "the WS and PS equations",
+        "b": "the money multiplier only",
+        "c": "the current-account identity only",
+        "d": "the Solow law of motion"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Combining W = P^eF(u,z) and P=(1+θ)W gives:",
+      "options": {
+        "a": "P = P^e/(1+θ)F(u,z)",
+        "b": "W/P = 1+θ",
+        "c": "P = Y − T",
+        "d": "P = P^e(1+θ)F(u,z)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "Under Y=N and u=1−Y/L, the AS equation becomes:",
+      "options": {
+        "a": "P = P^e(1+θ)F(1−Y/L,z)",
+        "b": "P = M^s/Y",
+        "c": "P = Y/P^e",
+        "d": "P = P^e(1+θ)F(Y/L,z) with F increasing in u"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "Why is the AS curve upward sloping?",
+      "options": {
+        "a": "Higher Y shifts money demand left.",
+        "b": "Higher Y lowers expected prices by identity.",
+        "c": "Higher Y raises employment, lowers unemployment, strengthens wage claims and leads firms to set higher prices.",
+        "d": "Higher Y raises unemployment and lowers wages."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "For a given expected price level, the AS curve passes through (Yn,P^e) because at Yn:",
+      "options": {
+        "a": "the labour market is at its natural equilibrium and P=P^e",
+        "b": "the output gap is positive",
+        "c": "the real wage is zero",
+        "d": "the money supply is zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "An increase in expected price level P^e shifts AS:",
+      "options": {
+        "a": "does not shift AS",
+        "b": "upward",
+        "c": "right with no change in prices",
+        "d": "downward"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "The mechanism behind an upward AS shift after higher P^e is:",
+      "options": {
+        "a": "higher expected prices → lower markup",
+        "b": "higher expected prices → higher nominal wage claims → higher prices set by firms",
+        "c": "higher expected prices → lower employment automatically",
+        "d": "higher expected prices → lower wages → lower P"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "The aggregate-demand curve is derived from:",
+      "options": {
+        "a": "the IS-LM equilibrium as the price level P varies",
+        "b": "the Solow production function",
+        "c": "the balance-of-payments identity only",
+        "d": "WS-PS only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "In the simplified AD derivation, a lower price level P raises:",
+      "options": {
+        "a": "nominal money supply automatically",
+        "b": "the markup θ",
+        "c": "real money balances M^s/P",
+        "d": "the natural unemployment rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "A rise in real money balances shifts LM:",
+      "options": {
+        "a": "down/right and tends to increase equilibrium output",
+        "b": "does not move LM",
+        "c": "shifts IS left only",
+        "d": "up/left and reduce output"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "This real-money-balance mechanism helps explain why AD slopes:",
+      "options": {
+        "a": "downward in the (Y,P) plane",
+        "b": "vertically",
+        "c": "horizontally",
+        "d": "upward"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "The chapter also notes a possible purchasing-power channel from P to IS when:",
+      "options": {
+        "a": "money demand is zero",
+        "b": "all nominal contracts are perfectly indexed",
+        "c": "some nominal incomes or fiscal thresholds are not perfectly indexed to prices",
+        "d": "the economy is closed by definition"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "In an open-economy competition channel, a rise in domestic P at unchanged foreign prices tends to:",
+      "options": {
+        "a": "raise the money multiplier",
+        "b": "increase exports and reduce imports",
+        "c": "leave net exports unchanged by definition",
+        "d": "make exports less competitive and imports relatively more attractive, reducing net exports"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "For simplified graphical analysis, the course mainly attributes the slope of AD to:",
+      "options": {
+        "a": "a direct effect of P on potential output",
+        "b": "the Solow saving rate",
+        "c": "a shift of WS only",
+        "d": "the effect of P on real money supply and therefore LM"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "An increase in G at a given P shifts AD:",
+      "options": {
+        "a": "upward AS",
+        "b": "does not affect AD",
+        "c": "to the left",
+        "d": "to the right"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "An increase in nominal money supply M^s at a given P shifts AD:",
+      "options": {
+        "a": "to the right",
+        "b": "AS down only",
+        "c": "has no effect because only real variables matter",
+        "d": "to the left"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "Short-run AD-AS equilibrium is located at:",
+      "options": {
+        "a": "Y=Yn regardless of AD",
+        "b": "the intersection of WS and PS only",
+        "c": "the intersection of AD and AS for the current expected price level",
+        "d": "the point where M^s=0"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "If short-run equilibrium has Y ≠ Yn, then:",
+      "options": {
+        "a": "the labour market is away from its medium-run equilibrium and wage/price expectations adjust over time",
+        "b": "the economy is already in stable medium-run equilibrium",
+        "c": "no further adjustment occurs",
+        "d": "P must equal P^e"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "Medium-run AD-AS equilibrium requires:",
+      "options": {
+        "a": "P = 0",
+        "b": "Y < Yn permanently",
+        "c": "Y > Yn permanently",
+        "d": "Y = Yn"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "With adaptive price-level expectations P^e_{t+1}=P_t, if a positive demand shock creates Y_t>Yn and P_t>P^e_t, then next period:",
+      "options": {
+        "a": "expected prices fall and AS shifts downward",
+        "b": "AD shifts left by expectation alone",
+        "c": "potential output rises automatically",
+        "d": "expected prices rise and AS shifts upward"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "As AS shifts upward following a positive output gap, the model predicts:",
+      "options": {
+        "a": "Y remains permanently above Yn",
+        "b": "the money supply rises by identity",
+        "c": "P rises further while Y moves back toward Yn",
+        "d": "P falls while Y moves farther above Yn"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "Adjustment stops in the medium run when:",
+      "options": {
+        "a": "P≠P^e and Y≠Yn",
+        "b": "the fiscal deficit is zero",
+        "c": "unemployment is zero",
+        "d": "P=P^e and Y=Yn"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "A restrictive fiscal policy such as lower G initially shifts:",
+      "options": {
+        "a": "AS right",
+        "b": "AD left",
+        "c": "AS up only",
+        "d": "AD right"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "The short-run effect of restrictive fiscal policy in AD-AS is:",
+      "options": {
+        "a": "lower Y and lower P",
+        "b": "lower Y and higher P",
+        "c": "higher Y and higher P",
+        "d": "unchanged Y and P"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Following the initial contraction, agents revise expected prices:",
+      "options": {
+        "a": "downward, shifting AS downward",
+        "b": "upward, shifting AS upward",
+        "c": "toward infinity",
+        "d": "not at all"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "In the medium run after a permanent reduction in G, output:",
+      "options": {
+        "a": "rises above Yn",
+        "b": "remains permanently below Yn",
+        "c": "returns to Yn while the price level is lower",
+        "d": "is zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "Opening the IS-LM \"black box\", the initial fall in G shifts IS:",
+      "options": {
+        "a": "AS up",
+        "b": "LM down",
+        "c": "left, reducing Y and r if P were fixed",
+        "d": "right, raising Y and r"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "As P falls after the fiscal contraction, real money balances rise, so LM:",
+      "options": {
+        "a": "shifts down/right",
+        "b": "does not move",
+        "c": "becomes vertical",
+        "d": "shifts up/left"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "In the medium run after fiscal consolidation, with Yn and taxes held fixed, lower G must be offset in the goods-market identity by:",
+      "options": {
+        "a": "lower potential output",
+        "b": "higher private C and I, associated with a lower interest rate",
+        "c": "lower C and I",
+        "d": "higher G again"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "An expansive monetary policy shifts AD:",
+      "options": {
+        "a": "left",
+        "b": "right",
+        "c": "AS down only",
+        "d": "AS up"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "In the short run after an increase in M^s, the model predicts:",
+      "options": {
+        "a": "higher Y, higher P and a lower interest rate relative to the initial equilibrium",
+        "b": "lower Y, lower P and higher r",
+        "c": "unchanged Y and P",
+        "d": "higher unemployment and lower P"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "As prices rise following monetary expansion, real money balances:",
+      "options": {
+        "a": "are unaffected by P",
+        "b": "become equal to nominal money supply",
+        "c": "rise further",
+        "d": "fall relative to what they would be at the initial price, partially reversing the LM shift"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "In the medium run after a purely procyclical permanent monetary expansion:",
+      "options": {
+        "a": "r remains permanently lower",
+        "b": "Y remains permanently higher",
+        "c": "Y and r return to initial real levels while P rises proportionally with M^s",
+        "d": "P returns to its initial level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "Money neutrality in this chapter means that in the medium run:",
+      "options": {
+        "a": "money supply cannot affect prices",
+        "b": "a procyclical change in money supply affects nominal variables but not real Y and r",
+        "c": "fiscal policy is neutral",
+        "d": "money has no short-run effect either"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "Why is monetary policy still useful despite medium-run money neutrality?",
+      "options": {
+        "a": "It permanently raises potential output regardless of technology.",
+        "b": "Countercyclical monetary policy can speed the return of Y toward Yn and limit overheating or deep slumps.",
+        "c": "It makes all prices fixed.",
+        "d": "It eliminates the natural unemployment rate."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "A decrease in competition intensity corresponds in the model to:",
+      "options": {
+        "a": "a higher markup θ",
+        "b": "a lower markup θ",
+        "c": "a lower z",
+        "d": "a higher money supply"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "A higher markup θ shifts the PS curve:",
+      "options": {
+        "a": "down in real-wage space and raises natural unemployment",
+        "b": "does not move PS",
+        "c": "up and lowers natural unemployment",
+        "d": "shifts WS only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "A higher natural unemployment rate implies potential output Yn:",
+      "options": {
+        "a": "is unchanged",
+        "b": "falls",
+        "c": "rises",
+        "d": "becomes equal to nominal GDP"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "A negative supply shock that raises θ therefore shifts AS:",
+      "options": {
+        "a": "down/right",
+        "b": "up/left relative to the old natural-output point",
+        "c": "LM down only",
+        "d": "AD right"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "A negative supply shock can generate stagflation because in the short run it tends to:",
+      "options": {
+        "a": "lower prices and raise output",
+        "b": "raise prices while reducing output",
+        "c": "leave prices unchanged",
+        "d": "raise both output and employment permanently"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "In the medium run after a permanent negative supply shock, the economy converges to:",
+      "options": {
+        "a": "the old Yn with the old price level",
+        "b": "zero unemployment",
+        "c": "a lower Yn with a higher price level than before, given unchanged AD fundamentals",
+        "d": "a higher Yn"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "Economists can disagree over policy partly because they may disagree about:",
+      "options": {
+        "a": "how quickly the economy converges from short-run disequilibrium to medium-run equilibrium",
+        "b": "whether prices exist",
+        "c": "whether GDP is a flow variable",
+        "d": "whether L=N+U"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "Economists may also disagree about:",
+      "options": {
+        "a": "whether money is liquid",
+        "b": "the size and sign of the current output gap",
+        "c": "the definition of a price index baseline",
+        "d": "the identity C+I+G+X−M"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "German reunification in 1990 is presented as initially involving:",
+      "options": {
+        "a": "a large fiscal expansion associated with East German catching-up and public investment",
+        "b": "a fall in government investment",
+        "c": "a sharp fiscal contraction",
+        "d": "a monetary expansion with no fiscal change"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "The Bundesbank responded to reunification-related inflationary pressure with:",
+      "options": {
+        "a": "a reduction in the markup",
+        "b": "further monetary expansion",
+        "c": "a fixed increase in G",
+        "d": "restrictive monetary policy"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "The combination of fiscal expansion and monetary contraction caused:",
+      "options": {
+        "a": "a sharp fall in interest rates",
+        "b": "no change in output",
+        "c": "a very sharp rise in interest rates that restrained German activity",
+        "d": "a permanent rise in potential GDP"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "The restrictive German monetary policy affected the rest of Europe because:",
+      "options": {
+        "a": "the CPI forced rates to be equal",
+        "b": "all European countries shared a single currency already in 1990",
+        "c": "countries seeking to maintain fixed currency parities had to align their monetary policies with Germany",
+        "d": "trade balances were legally fixed"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "The episode is described as an example of:",
+      "options": {
+        "a": "money neutrality with no short-run effects",
+        "b": "the Solow convergence mechanism",
+        "c": "a pure supply shock",
+        "d": "a potentially poor/conflicting policy mix"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "Suppose Yn=100 and actual Y=105. The output gap is:",
+      "options": {
+        "a": "−5%",
+        "b": "105%",
+        "c": "5%",
+        "d": "0.05%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "Suppose Yn=200 and Y=190. The output gap is:",
+      "options": {
+        "a": "95%",
+        "b": "+5%",
+        "c": "−5%",
+        "d": "−10%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "A demand expansion moves the economy to Y>Yn. Under adaptive expectations, which sequence is correct?",
+      "options": {
+        "a": "P=P^e forever → no adjustment",
+        "b": "P>P^e → next P^e rises → AS shifts up → Y falls toward Yn",
+        "c": "P<P^e → AS shifts down → Y rises farther above Yn",
+        "d": "Yn rises automatically with P"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q72",
+      "text": "A permanent reduction in G followed by full medium-run adjustment changes the composition of demand even though Y returns to Yn. The course predicts:",
+      "options": {
+        "a": "G returns to initial level",
+        "b": "only inventories change",
+        "c": "G lower and C/I lower with Y unchanged by contradiction",
+        "d": "G lower and private C/I higher, supported by a lower interest rate"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q73",
+      "text": "If M^s doubles in a pure medium-run money-neutrality thought experiment and real money balances return to their initial level, P must:",
+      "options": {
+        "a": "halve",
+        "b": "double",
+        "c": "remain unchanged",
+        "d": "rise by less than 1% necessarily"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q74",
+      "text": "(Select the incorrect answer) In the AD-AS framework:",
+      "options": {
+        "a": "AS is upward sloping for a given P^e",
+        "b": "medium-run equilibrium requires Y=Yn",
+        "c": "AD is downward sloping in the simplified representation",
+        "d": "a short-run equilibrium with Y≠Yn is stable forever because wage and price expectations never adjust"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "id": "binge1113_ch6_mcq_bank",
+  "name": "Chapter 6 - The IS-LM model - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The IS-LM model is associated historically with:",
+      "options": {
+        "a": "Phillips' 1958 unemployment study",
+        "b": "Mundell's open-economy model",
+        "c": "Hicks' 1937 formalisation/interpretation of Keynes' General Theory",
+        "d": "Kuznets' national-accounting work only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "The key contribution captured by IS-LM is the joint analysis of:",
+      "options": {
+        "a": "population growth and technology",
+        "b": "exports and imports without financial markets",
+        "c": "the labour market and only long-run growth",
+        "d": "the goods market and the financial/money market"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "The IS-LM model is primarily a model of:",
+      "options": {
+        "a": "the centuries-long growth trend",
+        "b": "only the medium run with flexible prices",
+        "c": "the very short run",
+        "d": "the demographic transition"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The IS-LM equilibrium combines equilibrium on:",
+      "options": {
+        "a": "the Solow saving and depreciation curves only",
+        "b": "WS and PS only",
+        "c": "the current and capital accounts only",
+        "d": "the goods market (IS) and the money market (LM)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "In the very short run of IS-LM, the course assumes:",
+      "options": {
+        "a": "goods prices and wages fixed, firm productive equipment given, financial-asset prices/interest rates flexible",
+        "b": "technology endogenous and prices rising with output",
+        "c": "all prices and capital fully flexible",
+        "d": "wages flexible but interest rates fixed by definition"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "A macroeconomic equilibrium in IS-LM means:",
+      "options": {
+        "a": "equilibrium in the goods market regardless of finance",
+        "b": "balanced government budget",
+        "c": "zero unemployment",
+        "d": "simultaneous equilibrium in the macro markets included in the model"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "The IS curve contains all (Y,r) combinations for which:",
+      "options": {
+        "a": "the balance of payments is zero",
+        "b": "the goods market is in short-run equilibrium",
+        "c": "the labour market has u=0",
+        "d": "the money market is in equilibrium"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "The IS curve slopes downward because:",
+      "options": {
+        "a": "a lower real interest rate lowers investment",
+        "b": "a lower real interest rate raises investment and aggregate demand, increasing equilibrium output",
+        "c": "money demand falls with output",
+        "d": "higher output reduces consumption"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A reduction in r shifts the economy along a given IS curve rather than shifting IS because:",
+      "options": {
+        "a": "LM is horizontal",
+        "b": "r is an exogenous determinant excluded from investment",
+        "c": "r is an axis variable whose effect on goods-market equilibrium is already embodied in the curve",
+        "d": "IS never responds to interest rates"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "The IS curve is flatter when the goods-market response to interest rates is stronger. Which change tends to flatten IS?",
+      "options": {
+        "a": "a higher tax sensitivity t1",
+        "b": "a higher interest sensitivity of investment b2",
+        "c": "a lower b2",
+        "d": "a lower marginal propensity to consume"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "A higher marginal propensity to consume c1 tends to make the IS curve:",
+      "options": {
+        "a": "steeper",
+        "b": "vertical",
+        "c": "unaffected in all cases",
+        "d": "flatter, because interest-induced demand changes have a larger multiplier effect"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "A lower tax sensitivity t1 tends to make IS:",
+      "options": {
+        "a": "steeper",
+        "b": "horizontal only if t1=0",
+        "c": "shift left without changing slope",
+        "d": "flatter"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "A higher induced-investment coefficient b1 tends to make IS:",
+      "options": {
+        "a": "shift left only",
+        "b": "steeper",
+        "c": "vertical",
+        "d": "flatter"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Which change shifts the IS curve to the right?",
+      "options": {
+        "a": "an increase in autonomous taxes T0",
+        "b": "a decrease in G",
+        "c": "an increase in government spending G",
+        "d": "an increase in the risk premium σ"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Which autonomous-demand change shifts IS to the right?",
+      "options": {
+        "a": "an increase in autonomous consumption C0",
+        "b": "a rise in T0",
+        "c": "a rise in σ",
+        "d": "a fall in C0"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "Which risk-premium change shifts IS to the right?",
+      "options": {
+        "a": "a decrease in money supply only",
+        "b": "a decrease in the risk premium σ",
+        "c": "an increase in σ",
+        "d": "an increase in autonomous money demand only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "A rise in autonomous taxes T0 shifts IS:",
+      "options": {
+        "a": "to the left",
+        "b": "to the right",
+        "c": "LM only",
+        "d": "nowhere because taxes do not affect consumption"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "The real money-demand equation used to build LM is:",
+      "options": {
+        "a": "M^d = Y/i only",
+        "b": "M^d/P = L0 − l1Y + l2i",
+        "c": "M^d/P = L0 + l1Y − l2i",
+        "d": "M^d/P = M^s/P"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "The parameter l1 measures:",
+      "options": {
+        "a": "the income sensitivity of money demand",
+        "b": "the tax rate",
+        "c": "the interest sensitivity of investment",
+        "d": "the reserve ratio"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "The parameter l2 measures:",
+      "options": {
+        "a": "the markup",
+        "b": "the income sensitivity of consumption",
+        "c": "the interest-rate sensitivity of money demand",
+        "d": "the depreciation rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "The LM curve contains all (Y,i) combinations for which:",
+      "options": {
+        "a": "exports equal imports",
+        "b": "wage setting equals price setting",
+        "c": "the money market is in equilibrium",
+        "d": "the goods market is in equilibrium"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "The traditional LM curve slopes upward because:",
+      "options": {
+        "a": "higher interest rates raise money demand",
+        "b": "higher output lowers money demand",
+        "c": "the central bank fixes output",
+        "d": "higher output raises money demand, requiring a higher interest rate to restore equilibrium for a fixed money supply"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "From the algebraic LM relation, a higher l1 makes LM:",
+      "options": {
+        "a": "shift right with unchanged slope",
+        "b": "horizontal",
+        "c": "flatter",
+        "d": "steeper"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "A higher interest sensitivity of money demand l2 makes LM:",
+      "options": {
+        "a": "steeper",
+        "b": "shift left only",
+        "c": "vertical",
+        "d": "flatter"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "An increase in money supply M^s shifts the traditional LM curve:",
+      "options": {
+        "a": "left/up",
+        "b": "right/down",
+        "c": "IS right",
+        "d": "not at all"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "A fall in autonomous money demand L0 shifts LM:",
+      "options": {
+        "a": "nowhere",
+        "b": "right/down",
+        "c": "left/up",
+        "d": "IS left"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "With nominal money supply fixed, a lower price level P increases real money balances M^s/P and shifts LM:",
+      "options": {
+        "a": "IS right",
+        "b": "right/down",
+        "c": "left/up",
+        "d": "not at all"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "A traditional upward-sloping LM implicitly corresponds to a central bank that:",
+      "options": {
+        "a": "targets the unemployment rate directly",
+        "b": "fixes output",
+        "c": "fixes both money supply and interest rate simultaneously for all shocks",
+        "d": "fixes money supply and allows the interest rate to adjust"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "A horizontal LM corresponds to a central bank that:",
+      "options": {
+        "a": "assumes money demand independent of output",
+        "b": "targets an interest rate and adjusts money supply as needed to maintain it",
+        "c": "cannot change money supply",
+        "d": "targets a fixed quantity of money only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "If output rises and the central bank wants to keep its target interest rate unchanged, it should:",
+      "options": {
+        "a": "shift IS left by reducing investment directly",
+        "b": "decrease money supply",
+        "c": "raise taxes automatically",
+        "d": "increase money supply to accommodate the higher money demand"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "When a central bank changes its target interest rate in the horizontal-LM representation:",
+      "options": {
+        "a": "the horizontal LM curve shifts",
+        "b": "the money market ceases to exist",
+        "c": "the IS curve rotates",
+        "d": "the LM curve becomes vertical automatically"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "A modelling complication is that IS is naturally derived using:",
+      "options": {
+        "a": "the unemployment rate",
+        "b": "a longer-term risk-adjusted real rate, while the money market determines a short-term nominal rate",
+        "c": "only expected inflation",
+        "d": "the same nominal rate by construction without assumptions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "To place IS and LM in one diagram, the course assumes:",
+      "options": {
+        "a": "long and short relevant rates can be linked and expected inflation is constant/known",
+        "b": "money demand depends on the real rate only",
+        "c": "expected inflation is always zero and risk is infinite",
+        "d": "the real rate is unrelated to the nominal rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "Using i = r + π^e, a higher expected inflation with i fixed implies:",
+      "options": {
+        "a": "a lower real interest rate",
+        "b": "no change in r",
+        "c": "a leftward IS shift by identity",
+        "d": "a higher real interest rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "The IS-LM equilibrium is the unique pair (Y,r) that:",
+      "options": {
+        "a": "balances the current account",
+        "b": "maximises GDP regardless of prices",
+        "c": "sets unemployment to zero",
+        "d": "simultaneously satisfies the IS and LM relationships"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "An expansive monetary policy is one that:",
+      "options": {
+        "a": "reduces money supply and raises rates",
+        "b": "supports economic activity, typically by shifting LM down/right",
+        "c": "raises the risk premium",
+        "d": "shifts IS left through higher taxes"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "A restrictive monetary policy tends to:",
+      "options": {
+        "a": "shift LM up/left, raise the interest rate and reduce output in the standard model",
+        "b": "lower the interest rate and raise output",
+        "c": "leave financial-market equilibrium unchanged",
+        "d": "shift IS right"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "Monetary policy affects primarily:",
+      "options": {
+        "a": "the LM curve, leaving the IS relation unchanged at the moment of the monetary action",
+        "b": "the IS curve only",
+        "c": "the WS curve only",
+        "d": "the production function"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "The effectiveness of monetary policy is greater when:",
+      "options": {
+        "a": "LM is flatter and IS is steeper",
+        "b": "IS is vertical and LM horizontal",
+        "c": "LM is steeper and IS is flatter",
+        "d": "both curves are vertical"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "Why does a flatter IS make monetary policy more powerful?",
+      "options": {
+        "a": "It prevents investment from responding to rates.",
+        "b": "It makes fiscal multipliers zero.",
+        "c": "It eliminates money demand.",
+        "d": "A given interest-rate movement produces a larger change in goods-market equilibrium output."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "An expansive fiscal policy is defined as:",
+      "options": {
+        "a": "a central-bank bond sale",
+        "b": "a currency depreciation",
+        "c": "an increase in the fiscal deficit through higher G and/or lower taxes",
+        "d": "a fall in the fiscal deficit"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "Fiscal policy shifts:",
+      "options": {
+        "a": "the production function only",
+        "b": "LM only",
+        "c": "both WS and PS only",
+        "d": "IS while leaving LM unchanged initially"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "The crowding-out effect of fiscal expansion refers to:",
+      "options": {
+        "a": "imports replacing exports in a closed economy",
+        "b": "higher interest rates reducing private investment and offsetting part of the direct demand stimulus",
+        "c": "lower interest rates increasing private investment",
+        "d": "higher taxes caused by inflation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "Fiscal expansion has a larger effect on output when:",
+      "options": {
+        "a": "IS is flatter and LM is steeper",
+        "b": "LM is vertical",
+        "c": "IS is steeper and LM is flatter",
+        "d": "money demand is infinitely income-sensitive"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "A flatter LM reduces crowding out because:",
+      "options": {
+        "a": "interest rates rise less in response to the fiscal-induced increase in output and money demand",
+        "b": "interest rates rise more",
+        "c": "government spending falls automatically",
+        "d": "investment is independent of rates"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "The size of the fiscal effect depends on both:",
+      "options": {
+        "a": "only the GDP deflator",
+        "b": "only expected inflation",
+        "c": "only the reserve ratio",
+        "d": "the initial goods-market multiplier and the subsequent crowding-out through interest rates"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "A policy mix is:",
+      "options": {
+        "a": "the sum of exports and imports",
+        "b": "a mix of wages and profits in GDI",
+        "c": "a combination of CPI and GDP deflator",
+        "d": "a coordinated combination of fiscal and monetary policies to pursue multiple objectives"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "The Clinton-Greenspan policy mix combined:",
+      "options": {
+        "a": "restrictive fiscal policy with expansive monetary policy",
+        "b": "two expansive policies",
+        "c": "expansive fiscal and restrictive monetary policy",
+        "d": "two restrictive policies"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "The objective of that policy mix was to:",
+      "options": {
+        "a": "reduce the fiscal deficit while maintaining economic activity",
+        "b": "fix the exchange rate",
+        "c": "raise the fiscal deficit and reduce output",
+        "d": "increase natural unemployment"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "In IS-LM terms, the Clinton fiscal consolidation shifts IS:",
+      "options": {
+        "a": "right",
+        "b": "LM up",
+        "c": "LM down",
+        "d": "left"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "The accompanying monetary expansion shifts LM:",
+      "options": {
+        "a": "PS down",
+        "b": "IS right",
+        "c": "up/left",
+        "d": "down/right"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "Evidence presented from a 1 percentage-point Federal Funds rate increase shows:",
+      "options": {
+        "a": "prices jump immediately one-for-one",
+        "b": "retail and output both rise immediately",
+        "c": "employment rises sharply",
+        "d": "retail spending contracts relatively quickly and output also falls, though more slowly"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "The empirical response to a rate increase supports the very-short-run fixed-price assumption because:",
+      "options": {
+        "a": "prices are permanently fixed",
+        "b": "output does not respond",
+        "c": "employment is constant",
+        "d": "the aggregate price level changes only modestly over roughly the first year"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "The same evidence also motivates moving beyond IS-LM at longer horizons because:",
+      "options": {
+        "a": "wages become irrelevant",
+        "b": "price-level changes become important in short- and medium-run analysis",
+        "c": "goods demand no longer matters",
+        "d": "interest rates stop existing"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "Suppose the IS relation is Y = 1000 − 50r and LM is r = 0.01Y − 5. The equilibrium output is:",
+      "options": {
+        "a": "Y = 1000 − 50(0.01Y−5) ⇒ 1.5Y=1250 ⇒ about 833.3",
+        "b": "500",
+        "c": "1000",
+        "d": "1250"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "With the same equations, the equilibrium real interest rate is approximately:",
+      "options": {
+        "a": "5",
+        "b": "3.33",
+        "c": "−3.33",
+        "d": "8.33"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "If fiscal expansion shifts IS right while LM is very steep, compared with a flat LM the policy produces:",
+      "options": {
+        "a": "no interest-rate change",
+        "b": "a leftward LM shift automatically",
+        "c": "a larger output increase and smaller rate increase",
+        "d": "a smaller increase in output and larger interest-rate crowding out"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "If money demand becomes more interest-sensitive (higher l2), LM becomes flatter. This tends to make:",
+      "options": {
+        "a": "both policies equally ineffective",
+        "b": "fiscal policy more effective and monetary policy less effective, other things equal",
+        "c": "IS vertical",
+        "d": "fiscal policy less effective and monetary policy more effective"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "(Select the incorrect answer) In the IS-LM model:",
+      "options": {
+        "a": "their intersection gives simultaneous equilibrium in the two markets",
+        "b": "IS slopes downward in the standard representation",
+        "c": "the IS curve is the set of money-market equilibria and LM is the set of goods-market equilibria",
+        "d": "LM slopes upward when money supply is fixed"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

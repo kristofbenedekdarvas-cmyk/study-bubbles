@@ -1,0 +1,786 @@
+{
+  "id": "binge1113_ch9_mcq_bank",
+  "name": "Chapter 9 - Opening the economy - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which of the following is NOT one of the three dimensions of international openness distinguished in the chapter?",
+      "options": {
+        "a": "Cross-border financial transactions",
+        "b": "Cross-border transactions in production factors",
+        "c": "The exchange of purely domestic public services between local governments",
+        "d": "Cross-border transactions in goods and services"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Foreign direct investment is classified in the chapter as:",
+      "options": {
+        "a": "a current transfer",
+        "b": "a labour-market migration flow",
+        "c": "a cross-border transaction involving the production factor capital",
+        "d": "a transaction in goods and services only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "International migration belongs to the dimension of openness involving:",
+      "options": {
+        "a": "only financial assets",
+        "b": "only merchandise trade",
+        "c": "cross-border transactions on labour as a production factor",
+        "d": "secondary income transfers"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Under the convention used throughout the open-economy chapters, the nominal exchange rate E is:",
+      "options": {
+        "a": "the domestic CPI divided by the foreign CPI",
+        "b": "the price of one unit of domestic currency expressed in units of foreign currency",
+        "c": "the trade-weighted real exchange rate only",
+        "d": "the price of one unit of foreign currency expressed in domestic currency"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "If Europe is the domestic economy and E rises from $1.05 per euro to $1.15 per euro, the euro has:",
+      "options": {
+        "a": "experienced a real depreciation regardless of prices",
+        "b": "depreciated",
+        "c": "been devalued by definition",
+        "d": "appreciated"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "With the course convention for E, a depreciation of the domestic currency corresponds to:",
+      "options": {
+        "a": "a decrease in P* only",
+        "b": "a decrease in E",
+        "c": "an increase in P only",
+        "d": "an increase in E"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "The distinction between depreciation and devaluation is that:",
+      "options": {
+        "a": "devaluation is always a real exchange-rate change and depreciation is always nominal",
+        "b": "devaluation means E rises under the course convention",
+        "c": "depreciation occurs only under fixed rates",
+        "d": "depreciation refers to a fall in a market-determined exchange rate, whereas devaluation is an official downward change in a fixed central parity"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "A revaluation of the domestic currency under a fixed exchange-rate regime means:",
+      "options": {
+        "a": "an official decrease in the central parity E",
+        "b": "a rise in the domestic price level with unchanged parity",
+        "c": "a market-driven decrease in E",
+        "d": "an official increase in the central parity E"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A crawling peg is best described as:",
+      "options": {
+        "a": "a regime in which only the real exchange rate is fixed",
+        "b": "a permanently immutable exchange rate",
+        "c": "a perfectly floating currency with no intervention",
+        "d": "an intermediate regime in which the central parity is revised periodically"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "A fixed exchange-rate regime generally:",
+      "options": {
+        "a": "allows only limited fluctuations around a chosen reference parity/currency",
+        "b": "implies there can never be a devaluation",
+        "c": "fixes the real exchange rate independently of price levels forever",
+        "d": "requires E to change continuously with supply and demand"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "The real exchange rate used in the course is:",
+      "options": {
+        "a": "ε = E + P − P*",
+        "b": "ε = EP*/P",
+        "c": "ε = EP/P*",
+        "d": "ε = P/(EP*)"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Economically, ε = EP/P* measures:",
+      "options": {
+        "a": "the number of domestic currency units needed to buy foreign currency",
+        "b": "the domestic nominal interest rate relative to the foreign rate",
+        "c": "the current-account balance in real terms",
+        "d": "the price of a representative domestic basket in units of the foreign basket"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "Holding P and P* fixed, a nominal appreciation of the domestic currency causes the real exchange rate to:",
+      "options": {
+        "a": "become equal to one",
+        "b": "decrease",
+        "c": "increase",
+        "d": "remain unchanged"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Holding E and P* fixed, higher domestic prices P cause:",
+      "options": {
+        "a": "a nominal depreciation",
+        "b": "a real appreciation, ε↑",
+        "c": "a real depreciation, ε↓",
+        "d": "no change in competitiveness"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Holding E and P fixed, higher foreign prices P* cause:",
+      "options": {
+        "a": "a real depreciation, ε↓",
+        "b": "no change in ε",
+        "c": "a nominal appreciation",
+        "d": "a real appreciation, ε↑"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "An increase in ε means that domestic goods have become:",
+      "options": {
+        "a": "more expensive relative to foreign goods, implying a loss of price competitiveness",
+        "b": "unaffected because ε is purely nominal",
+        "c": "more competitive by definition",
+        "d": "cheaper relative to foreign goods"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Suppose P=€22, P*=$25 and E=$1.0526/€. The real exchange rate is approximately:",
+      "options": {
+        "a": "0.926",
+        "b": "1.195",
+        "c": "22.000",
+        "d": "1.0526"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "If ε=0.926 in the previous example, the domestic basket is approximately:",
+      "options": {
+        "a": "92.6% more expensive than the foreign basket",
+        "b": "identically priced by definition",
+        "c": "7.4% more expensive than the foreign basket",
+        "d": "7.4% cheaper than the foreign basket"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Why are effective exchange rates constructed?",
+      "options": {
+        "a": "A country trades with many partners, so bilateral exchange rates are aggregated using trade weights.",
+        "b": "Because effective exchange rates eliminate the need for price data",
+        "c": "Because only one foreign currency exists in the model",
+        "d": "Because bilateral exchange rates cannot be observed"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "In the nominal effective exchange rate (NEER), bilateral nominal exchange-rate indices are weighted primarily by:",
+      "options": {
+        "a": "the relative importance of each trading partner",
+        "b": "population shares only",
+        "c": "the domestic unemployment rate",
+        "d": "central-bank reserve requirements"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "A rise in the real effective exchange rate (REER), using the course convention, indicates:",
+      "options": {
+        "a": "an overall real appreciation and deterioration in price competitiveness",
+        "b": "an overall real depreciation and improvement in competitiveness",
+        "c": "a lower domestic price level necessarily",
+        "d": "a current-account surplus by identity"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "The difference between NEER and REER is that REER additionally adjusts for:",
+      "options": {
+        "a": "population growth",
+        "b": "interest-rate differentials only",
+        "c": "relative domestic and foreign price levels",
+        "d": "capital-account flows only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "The balance of payments records:",
+      "options": {
+        "a": "economic transactions between domestic and foreign economic agents",
+        "b": "all transactions between domestic households",
+        "c": "only merchandise exports and imports",
+        "d": "only central-bank foreign-exchange interventions"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "Which item belongs to the current account?",
+      "options": {
+        "a": "Changes in central-bank domestic government bonds only",
+        "b": "The balance of primary income",
+        "c": "Purchases and sales of financial assets only",
+        "d": "Purchases and sales of non-produced non-financial assets only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "The current account groups:",
+      "options": {
+        "a": "financial assets plus property titles",
+        "b": "trade plus all asset transactions",
+        "c": "trade in goods/services, primary income, and secondary income",
+        "d": "only net exports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "Remittances and foreign aid are classified mainly as:",
+      "options": {
+        "a": "secondary income",
+        "b": "primary factor income",
+        "c": "merchandise exports",
+        "d": "financial-account assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "Wages earned abroad by a domestic resident or dividends received from a foreign firm are examples of:",
+      "options": {
+        "a": "domestic investment",
+        "b": "primary income from abroad",
+        "c": "capital-account transactions",
+        "d": "secondary transfers"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "Transactions in non-produced, non-financial assets such as certain property titles are recorded in:",
+      "options": {
+        "a": "the primary-income balance",
+        "b": "the capital account",
+        "c": "private consumption",
+        "d": "the trade balance"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "The financial account mainly records:",
+      "options": {
+        "a": "only labour income",
+        "b": "only net exports",
+        "c": "domestic tax payments",
+        "d": "transactions in financial assets and liabilities between domestic and foreign agents"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "GDI is defined as:",
+      "options": {
+        "a": "total primary income received by fiscal residents wherever created",
+        "b": "national disposable income after transfers",
+        "c": "GDP minus depreciation only",
+        "d": "total primary income created on the economy’s territory over a period"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "GNI is defined as:",
+      "options": {
+        "a": "total primary income received by fiscal residents/domestic agents over a period",
+        "b": "national saving",
+        "c": "total primary income created only inside the territory",
+        "d": "GDP plus secondary transfers only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "Net income from abroad (NIA) is:",
+      "options": {
+        "a": "GDI − GNI",
+        "b": "NDI − C − G",
+        "c": "GNI − GDI",
+        "d": "NX − NTA"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "A positive NIA means, on net:",
+      "options": {
+        "a": "secondary transfers are positive",
+        "b": "foreign residents receive more domestic primary income than domestic residents receive abroad",
+        "c": "domestic residents receive more primary income from abroad than foreign residents receive from domestic production",
+        "d": "the trade balance must be positive"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "At the individual level, disposable income after transfers is expressed as:",
+      "options": {
+        "a": "DI = C + I + G",
+        "b": "DI = PI − Tr+ + Tr−",
+        "c": "DI = PI + Tr+ − Tr−",
+        "d": "DI = GDI − NIA"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Gross National Disposable Income (NDI) can be written as:",
+      "options": {
+        "a": "NDI = GDI + NIA + NTA",
+        "b": "NDI = GDI − NIA − NTA",
+        "c": "NDI = C + I only",
+        "d": "NDI = NX only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "Net transfers from abroad (NTA) correspond to:",
+      "options": {
+        "a": "the net balance of primary factor income",
+        "b": "foreign direct investment",
+        "c": "the net balance of secondary income received from and paid to the rest of the world",
+        "d": "net exports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "The chapter warns that macroeconomic NDI is NOT the same concept as:",
+      "options": {
+        "a": "GNI",
+        "b": "national income after international transfers",
+        "c": "GDI plus NIA plus NTA",
+        "d": "Y−T, the disposable-income variable used in the goods-market model"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "In the closed-economy case used earlier in the course, the assumptions NIA=0 and NTA=0 imply:",
+      "options": {
+        "a": "NDI = GNI = GDI",
+        "b": "GDI = NX",
+        "c": "NDI = 0",
+        "d": "NDI > GNI > GDI"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "National saving S_N is defined as:",
+      "options": {
+        "a": "NDI − I",
+        "b": "NDI − C − G",
+        "c": "GDI − X + M",
+        "d": "C + G − NDI"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "The economy’s funding capacity FC is:",
+      "options": {
+        "a": "I − S_N",
+        "b": "S_N − I = NDI − C − G − I",
+        "c": "C + G + I − NDI",
+        "d": "NX − NIA − NTA"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "If FC>0, then:",
+      "options": {
+        "a": "the trade balance must be in deficit",
+        "b": "the economy must borrow from abroad",
+        "c": "domestic investment exceeds national saving",
+        "d": "national saving is more than sufficient to finance domestic investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "In a closed economy, funding capacity is necessarily:",
+      "options": {
+        "a": "negative",
+        "b": "zero, because national saving equals domestic investment",
+        "c": "equal to the fiscal deficit",
+        "d": "positive"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "The current account is:",
+      "options": {
+        "a": "CA = I − S_N",
+        "b": "CA = NX + NIA + NTA",
+        "c": "CA = financial liabilities only",
+        "d": "CA = NX − NIA − NTA"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "The fundamental identity developed in the chapter is:",
+      "options": {
+        "a": "CA = NDI + C + G + I",
+        "b": "CA = −FC",
+        "c": "CA = I + S_N",
+        "d": "CA = FC = NDI − C − G − I"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "A current-account deficit and a trade deficit are:",
+      "options": {
+        "a": "synonymous only under floating exchange rates",
+        "b": "not synonymous, because CA also includes NIA and NTA",
+        "c": "unrelated because NX is never in CA",
+        "d": "always synonymous by identity"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "A country can have a trade deficit but a current-account surplus if:",
+      "options": {
+        "a": "its currency is fixed",
+        "b": "the financial account is zero",
+        "c": "investment is zero",
+        "d": "sufficiently positive NIA and/or NTA more than offset negative NX"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "A current-account surplus implies, in terms of saving and investment:",
+      "options": {
+        "a": "domestic investment exceeds national saving",
+        "b": "national saving exceeds domestic investment",
+        "c": "private saving must be negative",
+        "d": "national saving equals zero"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "A current-account surplus means the country, on net:",
+      "options": {
+        "a": "must have financial liabilities exceeding foreign assets",
+        "b": "imports saving from abroad",
+        "c": "exports part of its saving by acquiring foreign assets",
+        "d": "cannot invest abroad"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "With the sign convention described in the chapter, a CA surplus is mirrored in the financial account by:",
+      "options": {
+        "a": "liabilities exceeding assets",
+        "b": "a necessary trade deficit",
+        "c": "assets held abroad by domestic residents exceeding liabilities held domestically by foreigners",
+        "d": "assets and liabilities both being zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "A current-account deficit indicates that the country:",
+      "options": {
+        "a": "imports saving from abroad because domestic funding capacity is insufficient",
+        "b": "must have positive NIA",
+        "c": "has national saving above investment",
+        "d": "exports saving abroad"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "For a European investor, €1 invested in a euro-denominated one-year bond yields at t+1:",
+      "options": {
+        "a": "$E_t(1+i_t)",
+        "b": "€(1+i_t)",
+        "c": "€(1−i_t)",
+        "d": "€(1+i*_t)E_t/E^e_{t+1}"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "For a European investor, €1 invested in a dollar bond has expected final euro value:",
+      "options": {
+        "a": "€(1+i_t)E_t",
+        "b": "€(1+i*_t)E_t/E^e_{t+1}",
+        "c": "€(1+i*_t) only",
+        "d": "€(1+i*_t)E^e_{t+1}/E_t"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "Why does the foreign-bond return depend on the expected future exchange rate?",
+      "options": {
+        "a": "Because the domestic interest rate is unknown",
+        "b": "Because foreign bonds pay no interest",
+        "c": "The investor must convert the foreign-currency payoff back into domestic currency at maturity.",
+        "d": "Because the current exchange rate is irrelevant"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "The exact uncovered interest parity condition is:",
+      "options": {
+        "a": "i_t = i*_t + E_t",
+        "b": "1+i_t = (E^e_{t+1}/E_t)(1+i*_t)",
+        "c": "E_t = P_t/P*_t",
+        "d": "1+i_t = (E_t/E^e_{t+1})(1+i*_t)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "The approximate UIR used in the course is:",
+      "options": {
+        "a": "i_t ≈ i*_t + (E^e_{t+1}−E_t)/E_t",
+        "b": "i_t ≈ i*_t − E_t/E^e_{t+1}",
+        "c": "i_t ≈ π_t−π*_t",
+        "d": "i_t ≈ i*_t − (E^e_{t+1}−E_t)/E_t"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "The UIR is an equilibrium arbitrage condition stating that:",
+      "options": {
+        "a": "risk-neutral investors must expect equal returns on comparable domestic and foreign assets",
+        "b": "trade balances must be zero",
+        "c": "domestic and foreign nominal interest rates must always be identical",
+        "d": "current and expected exchange rates must always be identical"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "Beyond risk neutrality, the chapter’s UIR derivation assumes:",
+      "options": {
+        "a": "fixed exchange rates",
+        "b": "equal risk premia across the two assets and no transaction costs",
+        "c": "different risk premia by construction and high transaction costs",
+        "d": "capital controls"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "If domestic investors expect their currency to appreciate, the UIR allows the domestic interest rate to be:",
+      "options": {
+        "a": "negative by definition",
+        "b": "lower than the foreign interest rate while expected returns remain equal",
+        "c": "identical to the foreign rate in all regimes",
+        "d": "higher than the foreign rate necessarily"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "Suppose i*=6%, E_t=1.50 and E^e_{t+1}=1.53. The approximate expected appreciation of the domestic currency is 2%, so UIR implies i≈:",
+      "options": {
+        "a": "8%",
+        "b": "4%",
+        "c": "6%",
+        "d": "2%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "Suppose the one-year interest rate is 5% in the US and 4% in the EU. If an investor expects the euro to appreciate by 1.5%, the chapter’s UIR logic says the investor should, absent equilibrium:",
+      "options": {
+        "a": "be indifferent because only interest rates matter",
+        "b": "avoid both assets because appreciation reduces euro returns",
+        "c": "prefer the European bond",
+        "d": "prefer the US bond"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "With i_US=5% and i_EU=4%, financial-market equilibrium under the approximate UIR requires the expected euro appreciation to be approximately:",
+      "options": {
+        "a": "9%",
+        "b": "5%",
+        "c": "−1%",
+        "d": "1%"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "In the numerical example i=4%, i*=5%, E_t=1.1 and E^e_{t+1}=1.12, the expected euro return from the US bond is about:",
+      "options": {
+        "a": "€1.1200",
+        "b": "€1.0312",
+        "c": "€0.9821",
+        "d": "€1.0500"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "In that numerical example, the European bond is initially preferred because:",
+      "options": {
+        "a": "the euro is expected to depreciate",
+        "b": "the exchange rate is fixed",
+        "c": "the US nominal interest rate is lower",
+        "d": "the expected depreciation of the dollar against the euro offsets the US interest-rate advantage"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "If European bonds initially offer a higher expected return than US bonds, the resulting capital flow tends to:",
+      "options": {
+        "a": "increase demand for euros and appreciate the euro until expected returns equalise",
+        "b": "leave E unchanged by definition",
+        "c": "force the current account to zero",
+        "d": "decrease demand for euros and depreciate the euro"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "(Select the incorrect answer) Concerning the course exchange-rate convention:",
+      "options": {
+        "a": "a devaluation is an official fall in the central parity under a fixed regime",
+        "b": "a domestic depreciation corresponds to E falling",
+        "c": "a domestic appreciation corresponds to E falling",
+        "d": "E is the foreign-currency price of one domestic-currency unit"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

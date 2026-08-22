@@ -1,0 +1,882 @@
+{
+  "id": "binge1113_ch4_mcq_bank",
+  "name": "Chapter 4 - The labour market and WS-PS model - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The working-age population B includes individuals who are:",
+      "options": {
+        "a": "only employed",
+        "b": "only employed or unemployed-benefit recipients",
+        "c": "of working age, whether employed, unemployed, or outside the labour force",
+        "d": "all residents regardless of age"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "The labour force L is:",
+      "options": {
+        "a": "only unemployed people receiving benefits",
+        "b": "the entire working-age population",
+        "c": "the number of working-age people who are employed or actively looking for work",
+        "d": "only the employed"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "A key warning in the chapter is that:",
+      "options": {
+        "a": "unemployed people are by definition outside the labour force",
+        "b": "students are always in the labour force",
+        "c": "unemployed people are part of the labour force",
+        "d": "the labour force equals the working-age population in every economy"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The core accounting identity for labour-market stocks is:",
+      "options": {
+        "a": "L = N + U",
+        "b": "N = B + U",
+        "c": "U = B − L + N",
+        "d": "B = N + U"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "The labour-force participation rate a is:",
+      "options": {
+        "a": "L/B",
+        "b": "N/B",
+        "c": "U/L",
+        "d": "U/B"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "The employment rate n is:",
+      "options": {
+        "a": "N/B",
+        "b": "U/L",
+        "c": "N/L",
+        "d": "L/B"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "The unemployment rate u is:",
+      "options": {
+        "a": "L/U",
+        "b": "U/L",
+        "c": "N/B",
+        "d": "U/B"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "Why is the employment rate not equal to one minus the unemployment rate?",
+      "options": {
+        "a": "Because the employment rate excludes employees.",
+        "b": "Because the employment rate uses B as denominator while the unemployment rate uses L.",
+        "c": "Because unemployment is a stock and employment is a flow.",
+        "d": "Because one minus unemployment is always the participation rate."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Suppose B = 1,000, L = 700 and U = 70. The unemployment rate is:",
+      "options": {
+        "a": "70%",
+        "b": "10%",
+        "c": "7%",
+        "d": "30%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "With B = 1,000, L = 700 and U = 70, the employment rate is:",
+      "options": {
+        "a": "10%",
+        "b": "63%",
+        "c": "70%",
+        "d": "93%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "With B = 1,000 and L = 700, the participation rate is:",
+      "options": {
+        "a": "10%",
+        "b": "30%",
+        "c": "70%",
+        "d": "63%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "According to the ILO definition used in the slides, a working-age person is unemployed only if they are:",
+      "options": {
+        "a": "without work, available for work, and seeking work",
+        "b": "retired but receiving a pension",
+        "c": "without work, even if unavailable and not seeking",
+        "d": "working part-time involuntarily"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "A discouraged worker who has stopped actively searching for a job is, under the strict official definition:",
+      "options": {
+        "a": "unemployed by U3 automatically",
+        "b": "employed",
+        "c": "outside the labour force rather than unemployed",
+        "d": "counted twice in L"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "In the US measures mentioned in the slides, U3 is:",
+      "options": {
+        "a": "the official unemployment rate",
+        "b": "the participation rate",
+        "c": "the broadest measure including all underemployment",
+        "d": "a measure excluding job seekers"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "U5 differs from U3 by including:",
+      "options": {
+        "a": "foreign workers only",
+        "b": "discouraged workers",
+        "c": "only full-time employed workers",
+        "d": "all retired people"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "U6 is broader still because it adds:",
+      "options": {
+        "a": "underemployed workers whose hours were reduced for economic reasons",
+        "b": "only people who voluntarily work fewer hours",
+        "c": "only workers over retirement age",
+        "d": "all students"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Why did official unemployment statistics react differently in the US and Europe during the COVID shock according to the lecture?",
+      "options": {
+        "a": "European GDP did not fall.",
+        "b": "US workers were classified as retired rather than unemployed.",
+        "c": "Europe made heavy use of temporary economic unemployment arrangements that did not appear as official unemployment in the same way.",
+        "d": "The ILO definition was suspended in the US."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "Even in an economic boom, the course states that unemployment is:",
+      "options": {
+        "a": "not expected to fall to zero because some frictional unemployment remains",
+        "b": "necessarily zero at full employment",
+        "c": "entirely cyclical",
+        "d": "always above 20%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Frictional unemployment arises primarily from:",
+      "options": {
+        "a": "currency depreciation",
+        "b": "the time and search costs involved in matching workers with suitable jobs",
+        "c": "the existence of inflation only",
+        "d": "government budget deficits"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "The matching process is:",
+      "options": {
+        "a": "the process of pairing workers with suitable employers under imperfect information",
+        "b": "the central bank allocation of reserves",
+        "c": "the conversion of nominal into real GDP",
+        "d": "the calculation of the CPI"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "Natural unemployment refers to:",
+      "options": {
+        "a": "the unemployment rate observed only under fixed exchange rates",
+        "b": "the unemployment rate associated with neutral business-cycle conditions and structural characteristics",
+        "c": "zero unemployment",
+        "d": "only the cyclical increase in unemployment during recessions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Cyclical unemployment differs from natural unemployment because it:",
+      "options": {
+        "a": "is determined only by minimum wages forever",
+        "b": "varies with the business cycle around the structurally determined unemployment level",
+        "c": "is identical to frictional unemployment",
+        "d": "never becomes negative relative to natural unemployment"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "The slides highlight that unemployment can differ substantially:",
+      "options": {
+        "a": "only because of measurement error",
+        "b": "only across countries but not time",
+        "c": "across time, countries, regions and worker categories",
+        "d": "only by gender"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "Which worker group is stated to generally have higher unemployment?",
+      "options": {
+        "a": "younger workers",
+        "b": "older workers in every country without exception",
+        "c": "only highly qualified workers",
+        "d": "only self-employed workers"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "The slides state that unemployment tends to be higher for:",
+      "options": {
+        "a": "lower-qualified workers",
+        "b": "higher-qualified workers",
+        "c": "only workers with open-ended contracts",
+        "d": "only public-sector employees"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "The duration of unemployment matters because longer unemployment can:",
+      "options": {
+        "a": "increase income loss, erode skills and reduce re-employment chances",
+        "b": "eliminate search frictions",
+        "c": "guarantee higher future wages",
+        "d": "automatically increase labour-force participation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "The \"scarring effect\" of unemployment refers to:",
+      "options": {
+        "a": "the deterioration of skills/employability associated with prolonged unemployment",
+        "b": "the immediate fall in prices after unemployment rises",
+        "c": "the effect of inflation on real wages",
+        "d": "the one-for-one relation between GDP and unemployment"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "Hysteresis in the labour-market discussion refers to:",
+      "options": {
+        "a": "the persistence of unemployment effects, so recovery after a crisis can be slow",
+        "b": "a permanent zero inflation rate",
+        "c": "a fixed money supply",
+        "d": "the requirement that u always equals u_n"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "A stable aggregate unemployment rate over a year implies that:",
+      "options": {
+        "a": "every unemployed worker remained unemployed all year",
+        "b": "employment was also necessarily constant",
+        "c": "there were no flows into or out of unemployment",
+        "d": "the individual people unemployed at the beginning and end need not be the same"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "The aggregate labour-market stocks conceal:",
+      "options": {
+        "a": "only changes in the price level",
+        "b": "all regional differences",
+        "c": "the fact that L = N + U",
+        "d": "large gross flows into and out of employment, unemployment and inactivity"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "Okun's law refers to an empirical relationship between:",
+      "options": {
+        "a": "saving and investment only",
+        "b": "changes in unemployment and real GDP growth",
+        "c": "inflation and unemployment only",
+        "d": "money growth and inflation only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "The relationship was first reported by:",
+      "options": {
+        "a": "A. W. Phillips",
+        "b": "Simon Kuznets",
+        "c": "Arthur Okun",
+        "d": "Robert Solow"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "The generic Okun equation in the slides is:",
+      "options": {
+        "a": "π_t − π^e_t = βu_t",
+        "b": "u_t = g_Y,t + π_t",
+        "c": "Y_t = C_t + I_t only",
+        "d": "u_t − u_{t−1} = β(g_Y,t − c)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "In the EU-15 estimate shown, unemployment falls only when real GDP growth exceeds approximately:",
+      "options": {
+        "a": "−0.16%",
+        "b": "0%",
+        "c": "2.58%",
+        "d": "10%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Why must GDP growth exceed a positive threshold before unemployment falls in the Okun interpretation?",
+      "options": {
+        "a": "Some output growth can be absorbed by trend productivity growth without requiring additional employment.",
+        "b": "Firms are legally prohibited from hiring below that growth rate.",
+        "c": "The unemployment rate is defined relative to prices.",
+        "d": "Employment falls whenever productivity rises."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "The estimated Okun coefficient being smaller than one in absolute value is consistent with:",
+      "options": {
+        "a": "the absence of support policies in downturns",
+        "b": "a one-for-one change in unemployment for every growth change",
+        "c": "zero firing and rehiring costs",
+        "d": "labour hoarding and firms not adjusting employment one-for-one with output"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "Using u_t − u_{t−1} = −0.160(g_Y,t − 2.58%), if real GDP growth is 4.58%, unemployment changes by about:",
+      "options": {
+        "a": "−2 percentage points",
+        "b": "+0.32 percentage points",
+        "c": "−0.32 percentage points",
+        "d": "+2 percentage points"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "The WS-PS model is designed mainly to explain:",
+      "options": {
+        "a": "natural unemployment in the medium run under imperfect competition",
+        "b": "the nominal exchange rate under flexible exchange rates",
+        "c": "the money multiplier",
+        "d": "only short-run cyclical unemployment"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "The two components of the WS-PS model are:",
+      "options": {
+        "a": "consumption setting and investment setting",
+        "b": "money demand and money supply",
+        "c": "wage setting by workers/firms and price setting by firms",
+        "d": "exports and imports"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "The wage-setting equation is represented as:",
+      "options": {
+        "a": "W/P = 1+θ only",
+        "b": "W = P F(u,z) with F increasing in u and decreasing in z",
+        "c": "W = P^e F(u,z), with F decreasing in u and increasing in z",
+        "d": "W = Y − T"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "Why does expected price level P^e enter wage bargaining?",
+      "options": {
+        "a": "Because nominal wages are set after the actual price level is known with certainty.",
+        "b": "Because P^e is the unemployment rate.",
+        "c": "Workers and firms care about the expected real wage/purchasing power rather than only the nominal wage.",
+        "d": "Because expected prices determine the money multiplier."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "An increase in expected prices P^e, other things equal, tends to:",
+      "options": {
+        "a": "lower nominal wage claims",
+        "b": "lower z",
+        "c": "raise nominal wage claims",
+        "d": "leave nominal wages unchanged by definition"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "A higher unemployment rate tends to reduce negotiated wages because:",
+      "options": {
+        "a": "unions become more aggressive as job loss becomes irrelevant",
+        "b": "firms face a labour shortage",
+        "c": "workers have less bargaining power and firms face less risk of losing employees",
+        "d": "the real wage on the PS curve rises"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "The variable z collects structural factors that:",
+      "options": {
+        "a": "affect only goods-market demand",
+        "b": "must lower wage demands",
+        "c": "are identical to the markup θ",
+        "d": "raise wage demands for given expected prices and unemployment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Which change would be represented as an increase in z in the course?",
+      "options": {
+        "a": "a rise in unemployment u itself",
+        "b": "more generous or longer unemployment benefits",
+        "c": "a fall in expected prices",
+        "d": "a reduction in job protection"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "Which is another example of a higher z?",
+      "options": {
+        "a": "stronger employment protection or a higher minimum wage",
+        "b": "a lower markup on goods",
+        "c": "a higher unemployment rate",
+        "d": "a lower expected price level"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "The WS curve relates:",
+      "options": {
+        "a": "inflation to money supply",
+        "b": "the nominal interest rate to output",
+        "c": "the actual real wage positively to unemployment",
+        "d": "the expected negotiated real wage W/P^e negatively to unemployment u"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "A rise in z shifts the WS curve:",
+      "options": {
+        "a": "to the right with no wage effect",
+        "b": "it does not shift because z is endogenous on the curve",
+        "c": "upward, because workers demand a higher real wage at any unemployment rate",
+        "d": "downward"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "The price-setting rule is:",
+      "options": {
+        "a": "P = W/(1+θ)",
+        "b": "W = (1 + θ)P",
+        "c": "P = (1 + θ)W",
+        "d": "P = W − θ"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "In the price-setting equation, θ is:",
+      "options": {
+        "a": "expected inflation",
+        "b": "the reserve ratio",
+        "c": "the unemployment rate",
+        "d": "the firm's markup over marginal production cost"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "Under the simplifying assumption Y = N, nominal wage W approximates:",
+      "options": {
+        "a": "national saving",
+        "b": "marginal production cost",
+        "c": "the money supply",
+        "d": "the price level net of taxes only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "Perfect competition in the goods market corresponds in this framework to:",
+      "options": {
+        "a": "θ = 0 and therefore P = W",
+        "b": "θ = u",
+        "c": "θ > 1 and P = 0",
+        "d": "W/P = 0"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "The PS curve implies the actual real wage:",
+      "options": {
+        "a": "W/P = u",
+        "b": "W/P = θ",
+        "c": "W/P = 1+θ",
+        "d": "W/P = 1/(1+θ)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "A higher markup θ causes the PS real wage to:",
+      "options": {
+        "a": "remain unchanged",
+        "b": "rise",
+        "c": "fall",
+        "d": "equal expected inflation"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "The markup θ is described as a reverse proxy for:",
+      "options": {
+        "a": "competition intensity in product markets",
+        "b": "consumer confidence",
+        "c": "unemployment duration",
+        "d": "labour-force participation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "Medium-run labour-market equilibrium occurs when:",
+      "options": {
+        "a": "the expected negotiated real wage equals the actual real wage",
+        "b": "the nominal wage is zero",
+        "c": "the unemployment rate is zero",
+        "d": "the price level is fixed forever"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "The equivalent medium-run expectation condition is:",
+      "options": {
+        "a": "P > P^e necessarily",
+        "b": "P = P^e",
+        "c": "P = 0",
+        "d": "P = M^s"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "The natural unemployment rate u_n satisfies:",
+      "options": {
+        "a": "u_n = θ+z",
+        "b": "u_n = 0",
+        "c": "F(u_n,z) = 1+θ",
+        "d": "F(u_n,z) = 1/(1+θ)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "For given z, a rise in the markup θ tends to:",
+      "options": {
+        "a": "leave u_n unchanged",
+        "b": "make unemployment zero",
+        "c": "decrease the natural unemployment rate",
+        "d": "increase the natural unemployment rate"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "For given θ, an increase in z tends to:",
+      "options": {
+        "a": "make the PS curve slope downward",
+        "b": "increase the natural unemployment rate",
+        "c": "decrease it",
+        "d": "leave it unchanged"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "Why is u_n called \"natural\" in this model?",
+      "options": {
+        "a": "Because it is biologically fixed and cannot be influenced by institutions.",
+        "b": "For given structural WS and PS relationships, the economy returns to it in the medium run as expectations adjust.",
+        "c": "Because it is the unemployment rate at which prices are zero.",
+        "d": "Because it equals frictional unemployment only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "In the short run, actual unemployment u can differ from u_n because:",
+      "options": {
+        "a": "the identity L=N+U stops holding",
+        "b": "business-cycle conditions can move employment before price expectations fully adjust",
+        "c": "WS and PS no longer exist",
+        "d": "the labour force becomes equal to the population"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "If an expansion reduces unemployment below u_n while expected prices remain initially fixed, workers negotiate:",
+      "options": {
+        "a": "the same nominal wage by definition",
+        "b": "zero wages",
+        "c": "higher nominal wages",
+        "d": "lower nominal wages"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "Given price setting P=(1+θ)W, higher negotiated wages lead firms to set:",
+      "options": {
+        "a": "lower prices",
+        "b": "negative prices",
+        "c": "the same prices regardless of wages",
+        "d": "higher prices"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "Natural employment N_n is related to u_n by:",
+      "options": {
+        "a": "N_n = u_n L",
+        "b": "N_n = (1 − u_n)L",
+        "c": "N_n = L/(1−u_n)",
+        "d": "N_n = B − L"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "Under the course assumption of constant marginal returns to labour Y=N, potential output is:",
+      "options": {
+        "a": "Y_n = L(1 − u_n)",
+        "b": "Y_n = u_n L",
+        "c": "Y_n = B/L",
+        "d": "Y_n = W/P"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "If L = 5 million and u_n = 8%, potential output under Y=N is proportional to employment of:",
+      "options": {
+        "a": "4.6 million",
+        "b": "8 million",
+        "c": "5.4 million",
+        "d": "0.4 million"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "Collective Labour Agreements in the Belgian institutional discussion are important because they:",
+      "options": {
+        "a": "replace all individual employment contracts",
+        "b": "set the euro exchange rate",
+        "c": "determine the central bank policy rate",
+        "d": "can set minimum wage conditions and have legal status as a source of labour law"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "The Belgian wage-standard negotiations described in the slides occur approximately:",
+      "options": {
+        "a": "every month",
+        "b": "every two years",
+        "c": "once per decade",
+        "d": "only during recessions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "The technical report informing Belgian wage-standard negotiations compares wage-cost developments especially with:",
+      "options": {
+        "a": "France, Germany and the Netherlands",
+        "b": "Spain, Greece and Portugal only",
+        "c": "non-European countries only",
+        "d": "the US, China and Japan only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "A policy that raises unemployment benefits has two distinct implications in the course framework: it tends to:",
+      "options": {
+        "a": "lower z and reduce u_n",
+        "b": "raise z and therefore shift WS upward, increasing u_n for a given PS curve",
+        "c": "shift PS upward by lowering θ",
+        "d": "leave wage bargaining unchanged"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q72",
+      "text": "A competition reform that lowers firms' markup θ tends, all else equal, to:",
+      "options": {
+        "a": "raise the PS real wage and lower the natural unemployment rate",
+        "b": "lower the PS real wage and raise natural unemployment",
+        "c": "have no effect on the medium-run labour-market equilibrium",
+        "d": "shift WS upward only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q73",
+      "text": "(Select the incorrect answer) Concerning unemployment statistics:",
+      "options": {
+        "a": "the unemployment rate uses the labour force as its denominator",
+        "b": "the official unemployment rate necessarily includes discouraged workers who stopped looking for work",
+        "c": "participation and employment rates use the working-age population as denominator",
+        "d": "underemployed workers can appear in broader unemployment measures"
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

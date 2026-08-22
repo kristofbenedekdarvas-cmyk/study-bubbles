@@ -1,0 +1,1086 @@
+{
+  "id": "binge1113_ch11_mcq_bank",
+  "name": "Chapter 11 - The Mundell-Fleming model - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The Mundell-Fleming model used in this course is:",
+      "options": {
+        "a": "a medium-run inflation model with endogenous prices",
+        "b": "the very-short-run open-economy extension of IS-LM",
+        "c": "the long-run growth model with open capital markets",
+        "d": "the open-economy extension of Solow only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "The professor explicitly states that a Mundell-Fleming question should be interpreted as:",
+      "options": {
+        "a": "a model in which domestic and foreign prices must be solved endogenously",
+        "b": "a medium-run AD-AS problem",
+        "c": "a long-run Phillips-curve problem",
+        "d": "a short/very-short-run framework with the simplifying assumptions presented in the chapter"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "In the Mundell-Fleming simplification, domestic and foreign price levels are:",
+      "options": {
+        "a": "equal to nominal interest rates",
+        "b": "both zero",
+        "c": "endogenous and flexible",
+        "d": "fixed"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The chapter normalises relative prices so that:",
+      "options": {
+        "a": "P/P* = 1",
+        "b": "P/P* = i/i*",
+        "c": "P=P*=0",
+        "d": "P*/P = E"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "The chapter further assumes short- and long-run interest rates coincide and expected inflation is zero, implying:",
+      "options": {
+        "a": "r=0",
+        "b": "i=i* in every regime",
+        "c": "i=r",
+        "d": "i=r+π with π>0"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "With P/P*=1, the real exchange rate is approximated by:",
+      "options": {
+        "a": "the nominal exchange rate E",
+        "b": "the interest-rate differential",
+        "c": "1/E only",
+        "d": "the current account"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "The open-economy goods-market equilibrium in the simplified MF model is:",
+      "options": {
+        "a": "Y=C(Y−T)+I(Y,i+σ)+G+NX(Y,Y*,E)",
+        "b": "Y=f(k)",
+        "c": "Y=M^s/P",
+        "d": "Y=C+I+G only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "The domestic money-market condition in Mundell-Fleming remains:",
+      "options": {
+        "a": "NX=S−I only",
+        "b": "M^s/P = YL(E)",
+        "c": "M^s/P = YL(i)",
+        "d": "i=i* by definition in every regime"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Opening financial markets adds an arbitrage decision between:",
+      "options": {
+        "a": "capital and labour only",
+        "b": "domestic and foreign financial assets",
+        "c": "government spending and taxes",
+        "d": "consumption and leisure only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "Using the approximate UIR with expected future E treated as exogenous, the chapter writes:",
+      "options": {
+        "a": "i = π−u",
+        "b": "i = i* − (Ē^e−E)/E",
+        "c": "i = i* + (Ē^e−E)/E",
+        "d": "i = E−i*"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "The simplified UIR can be solved for the exchange rate as:",
+      "options": {
+        "a": "E = Ē^e/(1+i*−i)",
+        "b": "E = Ē^e(1+i*−i)",
+        "c": "E = (1+i*)/Ē^e",
+        "d": "E = i−i*"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Holding i*, Ē^e fixed, a rise in the domestic interest rate i causes:",
+      "options": {
+        "a": "a depreciation, E↓",
+        "b": "a fall in Ē^e by identity",
+        "c": "no exchange-rate change",
+        "d": "an appreciation of the domestic currency, E↑"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "The mechanism from i↑ to E↑ works because:",
+      "options": {
+        "a": "higher i lowers domestic-asset returns",
+        "b": "higher i raises imports directly",
+        "c": "higher domestic returns attract demand for domestic assets and hence domestic currency",
+        "d": "higher i mechanically lowers money demand to zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "The UIR curve in the (E,i) plane used in the chapter is:",
+      "options": {
+        "a": "vertical",
+        "b": "downward sloping",
+        "c": "upward sloping",
+        "d": "horizontal"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "In the open-economy IS relation, a rise in i reduces equilibrium demand through:",
+      "options": {
+        "a": "lower investment and an exchange-rate appreciation that lowers NX",
+        "b": "higher investment and a depreciation",
+        "c": "only money demand",
+        "d": "only taxes"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "Compared with closed-economy IS, the open-economy IS contains an additional transmission channel through:",
+      "options": {
+        "a": "the exchange rate and net exports",
+        "b": "expected inflation only",
+        "c": "population growth",
+        "d": "capital depreciation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "The LM relation in the chapter is determined by:",
+      "options": {
+        "a": "the current account",
+        "b": "the production function",
+        "c": "the UIR alone",
+        "d": "money-market equilibrium M^s/P=YL(i)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "The full Mundell-Fleming equilibrium simultaneously satisfies:",
+      "options": {
+        "a": "goods-market equilibrium, money-market equilibrium, and UIR/foreign-exchange equilibrium",
+        "b": "only a fixed exchange-rate target",
+        "c": "only goods-market equilibrium",
+        "d": "only current-account balance"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Under the chapter’s flexible-rate Mundell-Fleming analysis, an increase in G shifts:",
+      "options": {
+        "a": "IS to the left",
+        "b": "IS to the right, leaving LM and UIR unchanged",
+        "c": "UIR downward only",
+        "d": "LM upward only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "An expansive fiscal policy in the flexible-rate MF model leads to:",
+      "options": {
+        "a": "higher Y and depreciation",
+        "b": "higher Y, higher i, and an appreciation E↑",
+        "c": "unchanged Y, lower i, and depreciation",
+        "d": "lower Y and appreciation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "After a fiscal expansion, net exports deteriorate because:",
+      "options": {
+        "a": "E has no role in NX",
+        "b": "both higher Y and the appreciated domestic currency reduce NX",
+        "c": "imports fall as Y rises",
+        "d": "higher Y raises exports and appreciation raises NX"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Why is the answer “output is unchanged because of complete NX crowding-out” NOT the course result for fiscal expansion under flexible rates?",
+      "options": {
+        "a": "The course’s upward-sloping LM equilibrium gives a partial appreciation/crowding-out while Y still rises.",
+        "b": "The course assumes i is fixed at zero.",
+        "c": "The course assumes NX never responds to E.",
+        "d": "The course treats fiscal policy as monetary policy."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "A restrictive monetary policy shifts:",
+      "options": {
+        "a": "UIR left only",
+        "b": "IS right",
+        "c": "PC down",
+        "d": "LM upward"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "A decrease in M^s in flexible-rate Mundell-Fleming causes:",
+      "options": {
+        "a": "Y↓, i↑ and E↑",
+        "b": "Y↑, i↓ and E↓",
+        "c": "Y↓, i↓ and E↑",
+        "d": "Y unchanged, i↑ and E↓"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "The trade-balance effect of restrictive monetary policy is ambiguous because:",
+      "options": {
+        "a": "both effects worsen NX",
+        "b": "lower Y improves NX via lower imports, while appreciation worsens NX",
+        "c": "NX does not depend on either Y or E",
+        "d": "both lower Y and appreciation improve NX"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "Under restrictive monetary policy, the domestic currency appreciates because:",
+      "options": {
+        "a": "the higher domestic interest rate attracts capital toward domestic assets",
+        "b": "foreign income rises",
+        "c": "the central bank fixes E at a lower value",
+        "d": "the lower output raises imports"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "Examples given of floating currencies include:",
+      "options": {
+        "a": "the euro, US dollar and British pound",
+        "b": "the Danish krone only",
+        "c": "all currencies in the EMS before 1992",
+        "d": "the ECU only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "The Danish krone is used in the chapter as an example of:",
+      "options": {
+        "a": "a currency without a central bank",
+        "b": "a completely free float",
+        "c": "a currency managed around a reference parity",
+        "d": "a commodity currency"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "Under fixed exchange rates and perfectly free capital movement, if the peg is credibly expected to persist so E^e_{t+1}=E_t, UIR implies:",
+      "options": {
+        "a": "i_t=π_t",
+        "b": "i_t=i*_t",
+        "c": "i_t>i*_t necessarily",
+        "d": "i_t=0"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "To maintain a fixed exchange rate with free capital mobility, the central bank must:",
+      "options": {
+        "a": "eliminate international trade",
+        "b": "adapt the money supply so the domestic interest rate remains aligned with the foreign rate required by UIR",
+        "c": "freely choose any domestic interest rate independently of i*",
+        "d": "fix fiscal spending at zero"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "Under a fixed exchange rate with free capital movement, monetary policy:",
+      "options": {
+        "a": "becomes more sovereign",
+        "b": "determines potential output directly",
+        "c": "is unrelated to exchange-rate defence",
+        "d": "cannot be used independently as a domestic macroeconomic stabilisation tool"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "Mundell’s impossible trinity states that a country cannot simultaneously have:",
+      "options": {
+        "a": "free trade, full employment, and stable prices",
+        "b": "a floating exchange rate, capital mobility, and monetary autonomy",
+        "c": "free capital movement, a fixed exchange rate, and an independent monetary policy",
+        "d": "a current-account surplus, fiscal policy, and capital mobility"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "Which policy combination is feasible according to the impossible trinity?",
+      "options": {
+        "a": "Fixed exchange rate + free capital mobility + unconstrained independent interest-rate target",
+        "b": "All three corners simultaneously",
+        "c": "Free capital mobility + independent monetary policy + flexible exchange rate",
+        "d": "Free capital mobility + independent monetary policy + fixed exchange rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "In a fixed-rate regime with free capital mobility, a fiscal expansion initially creates:",
+      "options": {
+        "a": "downward pressure on i and depreciation pressure",
+        "b": "upward pressure on i and appreciation pressure on the domestic currency",
+        "c": "a fall in output",
+        "d": "no pressure on financial markets"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "To prevent appreciation after a fiscal expansion under a fixed exchange rate, the central bank must ultimately:",
+      "options": {
+        "a": "expand the money supply so LM shifts right/down and i returns to i*",
+        "b": "raise i permanently above i*",
+        "c": "shift IS left by taxation automatically",
+        "d": "contract money supply further"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "Relative to the flexible-rate case, fiscal policy under a fixed exchange rate is reinforced because:",
+      "options": {
+        "a": "output is fixed by UIR",
+        "b": "the central bank contracts money supply",
+        "c": "the accommodating money-supply response prevents appreciation from crowding out net exports as strongly",
+        "d": "imports are prohibited"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "In a fixed-rate Mundell-Fleming equilibrium with free capital mobility, an attempted independent monetary expansion tends to:",
+      "options": {
+        "a": "shift IS right permanently with no forex effects",
+        "b": "permanently lower i below i* with E unchanged",
+        "c": "raise E without intervention",
+        "d": "create depreciation pressure, forcing the central bank to reverse the expansion to defend the peg"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "The European Monetary System (EMS) was created in:",
+      "options": {
+        "a": "1999",
+        "b": "1979",
+        "c": "2002",
+        "d": "1992"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "The EMS sought primarily to:",
+      "options": {
+        "a": "limit fluctuations among participating European currencies around the ECU reference",
+        "b": "fix all prices in Europe",
+        "c": "abolish capital mobility",
+        "d": "create a fully floating European currency area"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "The ECU was:",
+      "options": {
+        "a": "a weighted average of the currencies of the participating states used as a reference unit",
+        "b": "the euro banknote introduced in 1979",
+        "c": "a US-dollar peg",
+        "d": "the German mark only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "German reunification generated a boom in Germany followed by:",
+      "options": {
+        "a": "a collapse in German demand",
+        "b": "a German devaluation by design",
+        "c": "a permanent German monetary expansion and lower rates",
+        "d": "restrictive German monetary policy and higher German interest rates"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "Why did other EMS countries raise their interest rates after the German rate increase?",
+      "options": {
+        "a": "The ECU required fiscal deficits.",
+        "b": "They all experienced identical domestic booms.",
+        "c": "They needed to maintain their exchange-rate parities under the system.",
+        "d": "Their inflation automatically fell below zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "For countries without a German-style boom, matching Germany’s higher interest rates tended to:",
+      "options": {
+        "a": "raise potential output instantly",
+        "b": "trigger recessions",
+        "c": "eliminate exchange-rate risk at no cost",
+        "d": "create stronger expansions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "One fundamental reason a fixed-rate currency can become perceived as overvalued is:",
+      "options": {
+        "a": "a current-account surplus by itself",
+        "b": "domestic inflation being permanently lower with nominal depreciation",
+        "c": "high foreign productivity necessarily",
+        "d": "domestic inflation persistently exceeding inflation in the reference country, producing real appreciation"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Persistent real appreciation under a fixed nominal parity tends to:",
+      "options": {
+        "a": "improve competitiveness and trade balance",
+        "b": "leave external balance unchanged",
+        "c": "deteriorate the trade balance and make the peg less sustainable",
+        "d": "lower domestic prices by identity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "A second source of pressure on a peg is:",
+      "options": {
+        "a": "an absence of capital mobility",
+        "b": "a need to keep monetary policy identical under a float",
+        "c": "a domestic need for lower interest rates that conflicts with the rate required to maintain the peg",
+        "d": "a desire to increase foreign interest rates"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "If markets start expecting a future devaluation under the course convention, E^e_{t+1}:",
+      "options": {
+        "a": "rises",
+        "b": "falls",
+        "c": "must equal E_t",
+        "d": "becomes P/P*"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "Through UIR, an expected devaluation requires the domestic central bank, all else equal, to:",
+      "options": {
+        "a": "leave i unchanged regardless of expectations",
+        "b": "lower the domestic interest rate",
+        "c": "raise the foreign interest rate directly",
+        "d": "raise the domestic interest rate to defend the current parity"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "One possible first response to devaluation expectations is for the central bank/government to:",
+      "options": {
+        "a": "raise the saving rate",
+        "b": "try to convince markets that no devaluation is intended",
+        "c": "immediately abandon the currency",
+        "d": "ban all exports"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "If higher interest rates are insufficient to defend the peg, the central bank can:",
+      "options": {
+        "a": "change the CPI base year",
+        "b": "sell domestic currency to accelerate depreciation while claiming to defend the peg",
+        "c": "buy domestic currency on the forex market using foreign reserves",
+        "d": "buy domestic government goods"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "Forex intervention to defend against depreciation pressure reduces:",
+      "options": {
+        "a": "the central bank’s stock of foreign-currency reserves",
+        "b": "the government-spending multiplier by identity",
+        "c": "the foreign interest rate",
+        "d": "the domestic currency demand"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "A currency crisis can become self-fulfilling because:",
+      "options": {
+        "a": "UIR eliminates all expectations from the exchange rate",
+        "b": "high interest rates necessarily increase output",
+        "c": "fixed rates require no reserves",
+        "d": "even initially unfounded devaluation expectations can make defence so costly that authorities eventually choose to devalue"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "The cost of defending a peg against speculative pressure can include:",
+      "options": {
+        "a": "permanently lower real rates",
+        "b": "a prolonged period of high interest rates and recession",
+        "c": "guaranteed higher output",
+        "d": "automatic improvement in all welfare measures"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "Before 1992, the EMS had experienced only one realignment since 1987, involving:",
+      "options": {
+        "a": "the French franc in 1991",
+        "b": "the British pound in 1988",
+        "c": "the German mark in 1989",
+        "d": "the Italian lira in 1990"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "During the September 1992 speculative attacks, Finland:",
+      "options": {
+        "a": "joined the euro immediately",
+        "b": "revalued by 15%",
+        "c": "let the markka float, after which it depreciated substantially against the Deutsche Mark",
+        "d": "fixed the markka permanently to the dollar"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "The chapter notes that Sweden at one point raised its overnight interest rate to approximately:",
+      "options": {
+        "a": "15%",
+        "b": "3%",
+        "c": "75%",
+        "d": "7.5%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "The Italian lira was devalued in September 1992 by about:",
+      "options": {
+        "a": "0.7%",
+        "b": "15%",
+        "c": "7%",
+        "d": "70%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "On September 16–17, 1992, the UK ultimately:",
+      "options": {
+        "a": "joined the euro",
+        "b": "temporarily exited the EMS after defending the pound",
+        "c": "adopted the ECU as cash",
+        "d": "fixed sterling more tightly"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "After the UK exit from the EMS, the pound immediately depreciated against the Deutsche Mark by roughly:",
+      "options": {
+        "a": "7%",
+        "b": "15%",
+        "c": "75%",
+        "d": "1.5%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "In July 1993, remaining EMS members responded to renewed attacks by:",
+      "options": {
+        "a": "widening fluctuation margins to about ±15%",
+        "b": "eliminating all fluctuation margins",
+        "c": "raising all tariffs",
+        "d": "adopting the euro immediately"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "The widened-margin EMS arrangement lasted broadly until:",
+      "options": {
+        "a": "the Maastricht Treaty in 1992",
+        "b": "the euro launch in January 1999",
+        "c": "the introduction of notes in 2002",
+        "d": "the 2008 financial crisis"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "A drawback of flexible exchange rates stressed in the chapter is that:",
+      "options": {
+        "a": "E is mechanically constant",
+        "b": "flexible rates eliminate real-exchange-rate fluctuations",
+        "c": "output is insulated from all external shocks",
+        "d": "E can fluctuate strongly because it depends on current and expected domestic/foreign interest-rate conditions"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "For trade-exposed economies, large exchange-rate fluctuations can generate:",
+      "options": {
+        "a": "large real-exchange-rate and output fluctuations",
+        "b": "fixed domestic prices forever",
+        "c": "no real effects even in the short run",
+        "d": "a guaranteed current-account balance"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "A fixed exchange rate can facilitate investment decisions because:",
+      "options": {
+        "a": "it guarantees positive profits",
+        "b": "future project values are less exposed to exchange-rate uncertainty",
+        "c": "it eliminates all business-cycle risk",
+        "d": "it raises productivity by accounting identity"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "Fixed exchange rates can foster competition by:",
+      "options": {
+        "a": "making cross-country price comparisons easier",
+        "b": "preventing any price comparison",
+        "c": "forcing identical wages",
+        "d": "raising transaction costs"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "The chapter cites an estimate that removing currency transaction costs through the euro saved roughly:",
+      "options": {
+        "a": "50% of eurozone GDP",
+        "b": "5% of eurozone GDP every year",
+        "c": "0.5% of eurozone GDP",
+        "d": "0.05% of world GDP"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "A country may voluntarily accept the monetary-policy constraint of a fixed rate to:",
+      "options": {
+        "a": "increase credibility of its commitment to low inflation",
+        "b": "guarantee a trade surplus",
+        "c": "set i independently of i*",
+        "d": "gain more ability to monetise fiscal deficits"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "The costs of giving up monetary sovereignty are smaller when participating countries:",
+      "options": {
+        "a": "always experience opposite shocks",
+        "b": "experience synchronised macroeconomic shocks/business cycles",
+        "c": "do not trade with each other",
+        "d": "have immobile factors"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "Under asymmetric shocks, an optimal currency area benefits from:",
+      "options": {
+        "a": "mobility of production factors across member economies",
+        "b": "different currencies by definition",
+        "c": "capital controls",
+        "d": "complete immobility of labour and capital"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "Strong economic integration tends to:",
+      "options": {
+        "a": "increase exchange-rate transaction costs",
+        "b": "raise gains and reduce costs of maintaining fixed mutual exchange rates",
+        "c": "eliminate the need for any fiscal policy",
+        "d": "make fixed rates necessarily impossible"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "A principal economic objective of the euro project highlighted in the chapter was to:",
+      "options": {
+        "a": "restore national monetary sovereignty",
+        "b": "facilitate intra-European trade and the single market by removing conversion costs and exchange-rate risk",
+        "c": "abolish fiscal rules",
+        "d": "increase intra-European exchange-rate volatility"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q72",
+      "text": "The common-currency project was ratified by the:",
+      "options": {
+        "a": "1992 Maastricht Treaty",
+        "b": "1979 EMS Treaty",
+        "c": "2002 Lisbon Treaty only",
+        "d": "1944 Bretton Woods conference"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q73",
+      "text": "One Maastricht fiscal criterion mentioned is:",
+      "options": {
+        "a": "no public debt at all",
+        "b": "a fiscal deficit below 3% of GDP",
+        "c": "a fiscal deficit below 30% of GDP",
+        "d": "a mandatory surplus of 3%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q74",
+      "text": "The Maastricht debt criterion mentioned is:",
+      "options": {
+        "a": "total public debt below 60% of GDP",
+        "b": "exactly 60 euros per person",
+        "c": "below 100% of exports",
+        "d": "below 6% of GDP"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q75",
+      "text": "Other convergence criteria mentioned include:",
+      "options": {
+        "a": "low inflation and interest rates close to the EU average",
+        "b": "identical unemployment rates",
+        "c": "a current-account surplus in every year",
+        "d": "zero inflation and zero interest rates"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q76",
+      "text": "Euro conversion rates were fixed using rates observed on:",
+      "options": {
+        "a": "1 January 2002",
+        "b": "31 December 1979",
+        "c": "31 December 1998",
+        "d": "1 January 1992"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q77",
+      "text": "According to the conversion-rate examples, approximately how many Deutsche Mark equalled 1 euro?",
+      "options": {
+        "a": "6.55 Deutsche Mark",
+        "b": "0.5 Deutsche Mark",
+        "c": "1.955 Deutsche Mark",
+        "d": "40.339 Deutsche Mark"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q78",
+      "text": "According to the conversion-rate examples, approximately how many French francs equalled 1 euro?",
+      "options": {
+        "a": "0.655 French francs",
+        "b": "1.955 French francs",
+        "c": "40.339 French francs",
+        "d": "6.55 French francs"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q79",
+      "text": "According to the conversion-rate examples, approximately how many Belgian francs equalled 1 euro?",
+      "options": {
+        "a": "4.0339 Belgian francs",
+        "b": "6.55 Belgian francs",
+        "c": "40.339 Belgian francs",
+        "d": "1.955 Belgian francs"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q80",
+      "text": "The euro was first introduced as an immaterial/accounting currency in:",
+      "options": {
+        "a": "1979",
+        "b": "2002",
+        "c": "1992",
+        "d": "1999"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q81",
+      "text": "Euro coins and banknotes were introduced on:",
+      "options": {
+        "a": "1 January 1999",
+        "b": "1 January 2002",
+        "c": "1 January 2001",
+        "d": "31 December 1998"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q82",
+      "text": "Which country was NOT among the 11 countries listed as joining the euro in 1999?",
+      "options": {
+        "a": "Spain",
+        "b": "Greece",
+        "c": "Germany",
+        "d": "Belgium"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q83",
+      "text": "Greece joined the euro area in:",
+      "options": {
+        "a": "1999",
+        "b": "2001",
+        "c": "2015",
+        "d": "2007"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q84",
+      "text": "Slovenia joined in:",
+      "options": {
+        "a": "2001",
+        "b": "2011",
+        "c": "2007",
+        "d": "2008"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q85",
+      "text": "Cyprus and Malta joined in:",
+      "options": {
+        "a": "2014",
+        "b": "2007",
+        "c": "2008",
+        "d": "2009"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q86",
+      "text": "Slovakia joined in:",
+      "options": {
+        "a": "2008",
+        "b": "2015",
+        "c": "2011",
+        "d": "2009"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q87",
+      "text": "Estonia joined in:",
+      "options": {
+        "a": "2015",
+        "b": "2011",
+        "c": "2014",
+        "d": "2009"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q88",
+      "text": "Latvia joined in:",
+      "options": {
+        "a": "2008",
+        "b": "2011",
+        "c": "2015",
+        "d": "2014"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q89",
+      "text": "Lithuania joined in:",
+      "options": {
+        "a": "2014",
+        "b": "2009",
+        "c": "2015",
+        "d": "2011"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q90",
+      "text": "(Select the incorrect answer) Under a fixed exchange rate with free capital mobility:",
+      "options": {
+        "a": "independent monetary policy is sacrificed",
+        "b": "credible stability of E implies i=i* through UIR",
+        "c": "the central bank can permanently choose any domestic interest rate independently of the foreign rate",
+        "d": "money supply must adjust to support the parity"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

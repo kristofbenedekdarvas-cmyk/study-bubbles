@@ -1,0 +1,222 @@
+{
+  "id": "binge1113_ch0_mcq_bank",
+  "name": "Chapter 0 - Introduction to macroeconomics - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The central distinction between the course's macroeconomic perspective and the microeconomic perspective is that macroeconomics primarily studies:",
+      "options": {
+        "a": "the optimal choice of one household holding all other markets fixed",
+        "b": "economy-wide outcomes and interactions among aggregate markets",
+        "c": "the pricing decision of one firm in one narrowly defined product market",
+        "d": "only government decisions, without modelling households or firms"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Which of the following is an aggregate variable in the sense used in this course?",
+      "options": {
+        "a": "the economy-wide unemployment rate",
+        "b": "the quantity demanded by one individual consumer",
+        "c": "the hourly wage paid by one restaurant",
+        "d": "the price of one specific brand of coffee"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "(Select the incorrect answer) The introductory slides describe macroeconomics as involving:",
+      "options": {
+        "a": "the construction of models linking major macroeconomic markets",
+        "b": "the measurement of aggregate variables",
+        "c": "the analysis of shocks and macroeconomic policies",
+        "d": "the assumption that interactions between macro markets can always be ignored"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Why are aggregate variables useful to a policy maker?",
+      "options": {
+        "a": "They eliminate all measurement conventions from economic statistics.",
+        "b": "They preserve every detail about every household, firm and transaction.",
+        "c": "They guarantee that all underlying sectors move in the same direction.",
+        "d": "They compress a very large amount of heterogeneous information into a manageable indicator."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "A country's GDP rises while output in one industry falls. According to the course introduction, this is:",
+      "options": {
+        "a": "perfectly possible because an aggregate and one of its components can move in opposite directions",
+        "b": "possible only if the falling industry is foreign-owned",
+        "c": "impossible because an aggregate must share the sign of every component",
+        "d": "proof that GDP has been miscomputed"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "The main cost of using aggregate variables is:",
+      "options": {
+        "a": "the inability to use mathematical models",
+        "b": "loss of detailed information about the underlying individual variables",
+        "c": "the fact that aggregates cannot be measured in monetary units",
+        "d": "the impossibility of comparing economies over time"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "Which sequence best matches the course's stated macroeconomic method?",
+      "options": {
+        "a": "define and measure aggregates → build macroeconomic models → use the models to analyse shocks and policies",
+        "b": "study one market in isolation → assume the rest of the economy is fixed forever → aggregate ex post",
+        "c": "build policy recommendations → define variables only if needed → ignore measurement issues",
+        "d": "forecast long-run growth → define GDP → study consumer choice only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "Which pair of policies receives the greatest emphasis in the introductory description of the course?",
+      "options": {
+        "a": "industrial policy and agricultural policy only",
+        "b": "fiscal policy and monetary policy",
+        "c": "trade tariffs and competition policy only",
+        "d": "minimum-wage policy and environmental regulation only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A fiscal policy, in the macroeconomic sense used in the course, primarily concerns:",
+      "options": {
+        "a": "the wage bargain between unions and firms",
+        "b": "government expenditures and taxation",
+        "c": "the central bank's choice of its policy rate",
+        "d": "the exchange of one currency for another on the forex market"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "Monetary policy is traditionally conducted by:",
+      "options": {
+        "a": "the statistical office",
+        "b": "the central bank",
+        "c": "households through saving decisions",
+        "d": "the ministry that compiles national accounts"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "Why does a macroeconomic model generally need to consider interactions among several markets?",
+      "options": {
+        "a": "Because a change in one aggregate market can alter equilibrium conditions in other aggregate markets.",
+        "b": "Because aggregate variables are defined independently of economic behaviour.",
+        "c": "Because prices are always fixed in macroeconomics.",
+        "d": "Because macroeconomics assumes every market is perfectly competitive."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Which question is most characteristically macroeconomic?",
+      "options": {
+        "a": "What is the profit-maximising output of one bakery facing a given demand curve?",
+        "b": "Why did economy-wide unemployment and inflation change after a recession and a policy response?",
+        "c": "How should one consumer allocate a fixed budget between apples and oranges?",
+        "d": "How does one firm choose between two production techniques when all prices are fixed?"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "The term business cycle refers in this course to:",
+      "options": {
+        "a": "changes in the composition of a consumer price basket",
+        "b": "only the long-run trend of potential GDP over centuries",
+        "c": "short- to medium-run fluctuations in aggregate economic activity",
+        "d": "seasonal sales fluctuations of one company"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Which statement best reflects the course's warning about economic models?",
+      "options": {
+        "a": "Macroeconomic models do not require assumptions about what is endogenous.",
+        "b": "Every model gives the same policy conclusion once calibrated.",
+        "c": "Conclusions depend on the model and the time horizon being considered.",
+        "d": "A short-run mechanism must also hold unchanged in the long run."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Moving from microeconomics to macroeconomics is described in the lecture as essentially:",
+      "options": {
+        "a": "studying the same single-market model with larger numbers",
+        "b": "discarding households and firms from the analysis",
+        "c": "replacing economics with accounting only",
+        "d": "zooming out from individual decisions and specific markets to economy-wide aggregates and interactions"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "Suppose an intern has one hour to brief a policy maker on the state of an economy. The introductory lecture suggests that aggregate indicators are especially useful because they:",
+      "options": {
+        "a": "provide a concise first picture that can later be supplemented with disaggregated analysis",
+        "b": "are sufficient for every possible policy question and make further analysis unnecessary",
+        "c": "contain more information than the complete underlying micro data",
+        "d": "always reveal which individual firms are in difficulty"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Which set contains only examples of variables the course treats as central macroeconomic outcomes?",
+      "options": {
+        "a": "GDP, unemployment, inflation, interest rates and exchange rates",
+        "b": "one household's utility, one firm's marginal cost and one product's price",
+        "c": "only government revenue and government spending",
+        "d": "the price of one textbook, one student's wage and one firm's output"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "(Select the incorrect answer) The introduction stresses that the course will:",
+      "options": {
+        "a": "use the lecture slides as the main source defining course material",
+        "b": "treat the textbook as the sole authoritative definition of examinable material even when it differs from the slides",
+        "c": "introduce aggregate concepts before using them in models",
+        "d": "analyse both economic shocks and public-policy responses"
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

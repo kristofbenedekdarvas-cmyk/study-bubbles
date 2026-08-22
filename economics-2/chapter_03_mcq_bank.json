@@ -1,0 +1,822 @@
+{
+  "id": "binge1113_ch3_mcq_bank",
+  "name": "Chapter 3 - Money and banking - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In the course, money is defined as wealth that:",
+      "options": {
+        "a": "can be used directly to pay for transactions and is generally accepted in the relevant economic environment",
+        "b": "must earn a positive nominal yield",
+        "c": "must be issued only in banknote form",
+        "d": "cannot be held in a bank account"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Which item is included in money as defined in the chapter?",
+      "options": {
+        "a": "overnight/checkable deposits",
+        "b": "a house",
+        "c": "a share of stock that must first be sold",
+        "d": "a five-year corporate bond"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "The three classical functions of money are:",
+      "options": {
+        "a": "means of production, tax base and reserve requirement",
+        "b": "numeraire, GDP deflator and capital stock",
+        "c": "consumption, saving and investment",
+        "d": "unit of account, medium of exchange and store of value"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "If the aggregate price level P rises, the purchasing power of one unit of money, 1/P:",
+      "options": {
+        "a": "becomes equal to the nominal interest rate",
+        "b": "rises",
+        "c": "remains exactly constant",
+        "d": "falls"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "With positive inflation, the real return on a unit of money with zero nominal yield is:",
+      "options": {
+        "a": "equal to the policy rate",
+        "b": "necessarily zero",
+        "c": "positive",
+        "d": "negative"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "Why can agents still wish to hold money even though higher-yielding assets exist?",
+      "options": {
+        "a": "Money is the only asset whose real value rises with inflation.",
+        "b": "Holding money eliminates all opportunity cost.",
+        "c": "Money provides superior liquidity for transactions.",
+        "d": "Money always has the highest nominal return."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "An asset is highly liquid when it can be converted into means of payment:",
+      "options": {
+        "a": "only after a long maturity, with high fees",
+        "b": "only at an uncertain price",
+        "c": "quickly, with little transaction cost and little uncertainty about nominal value",
+        "d": "only through the central bank"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "Monetary assets or \"quasi-money\" are characterized by:",
+      "options": {
+        "a": "being physical currency only",
+        "b": "zero yield and perfect direct usability for every transaction",
+        "c": "positive yields and high liquidity, but they may not be directly usable for payments",
+        "d": "no possibility of conversion into money"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "Which ordering correctly reflects the nesting of monetary aggregates?",
+      "options": {
+        "a": "M1 = M2 = M3 by definition",
+        "b": "M1 ⊂ M2 ⊂ M3",
+        "c": "M3 ⊂ M2 ⊂ M1",
+        "d": "M2 ⊂ M1 ⊂ M3"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "M1 consists mainly of:",
+      "options": {
+        "a": "currency plus all securities regardless of maturity",
+        "b": "only commercial-bank reserves at the central bank",
+        "c": "currency plus overnight/checkable deposits",
+        "d": "M2 plus long-term equities"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "M2 is broader than M1 because it additionally includes:",
+      "options": {
+        "a": "all corporate equity",
+        "b": "long-term real estate",
+        "c": "saving deposits and term deposits with maturity up to two years",
+        "d": "central-bank gold reserves"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "M3 is broader than M2 because it adds, among other things:",
+      "options": {
+        "a": "money-market-fund shares and short-maturity debt securities",
+        "b": "government wages",
+        "c": "only physical banknotes",
+        "d": "all fixed capital"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "The monetary base MB is:",
+      "options": {
+        "a": "all loans made by commercial banks",
+        "b": "currency in circulation CH plus commercial-bank reserves R held at the central bank",
+        "c": "M3 minus M2",
+        "d": "currency plus all public deposits D"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Creation of the monetary base is described as:",
+      "options": {
+        "a": "a monopoly of households",
+        "b": "a monopoly of the central bank",
+        "c": "identical to commercial-bank deposit creation",
+        "d": "performed only by non-bank firms"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "Commercial banks create scriptural money primarily through:",
+      "options": {
+        "a": "changing the CPI basket",
+        "b": "their credit-granting activity, which creates deposits",
+        "c": "collecting indirect taxes",
+        "d": "printing banknotes"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "The money supply in the simplified notation is:",
+      "options": {
+        "a": "M^s = D − R",
+        "b": "M^s = CH + D",
+        "c": "M^s = CH + R",
+        "d": "M^s = MB + GDP"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Financial intermediaries transform:",
+      "options": {
+        "a": "GDP into the CPI",
+        "b": "taxes into government transfers only",
+        "c": "savings into financing for investment through securities purchases and loans",
+        "d": "currency into physical capital without lending"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "On a commercial bank's simplified balance sheet, reserves held at the central bank are:",
+      "options": {
+        "a": "an asset of the commercial bank",
+        "b": "part of household wealth but absent from the bank balance sheet",
+        "c": "a government transfer",
+        "d": "a liability of the commercial bank"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Demand/checkable deposits held by customers are:",
+      "options": {
+        "a": "central-bank assets",
+        "b": "assets of commercial banks",
+        "c": "part of GDP",
+        "d": "liabilities of commercial banks"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "A commercial bank keeps reserves partly to:",
+      "options": {
+        "a": "maximize inflation",
+        "b": "finance only long-term government spending",
+        "c": "meet customer cash withdrawals",
+        "d": "avoid receiving deposits"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "Another reason banks hold reserves is to:",
+      "options": {
+        "a": "eliminate all credit risk in the economy",
+        "b": "settle net payments owed to other banks",
+        "c": "ensure every loan is risk-free",
+        "d": "replace equity capital"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Reserve requirements imply that banks may have to hold reserves:",
+      "options": {
+        "a": "only when interest rates are zero",
+        "b": "in proportion to certain deposits/current accounts",
+        "c": "only in foreign currency",
+        "d": "equal to the full value of all assets"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "On the central bank balance sheet, currency in circulation and commercial-bank reserves are primarily:",
+      "options": {
+        "a": "GDP expenditure components",
+        "b": "equity of households",
+        "c": "assets",
+        "d": "liabilities"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "Typical central-bank assets include:",
+      "options": {
+        "a": "loans to banks, securities, gold and foreign-exchange reserves",
+        "b": "private consumption goods",
+        "c": "household checkable deposits as liabilities of households",
+        "d": "firms' inventories only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "An open-market purchase by the central bank generally:",
+      "options": {
+        "a": "increases the monetary base by crediting reserve accounts",
+        "b": "reduces banks' reserves one-for-one",
+        "c": "has no balance-sheet effect",
+        "d": "decreases the monetary base"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "An open-market sale by the central bank generally:",
+      "options": {
+        "a": "increases the monetary base",
+        "b": "decreases the monetary base by debiting reserve accounts",
+        "c": "forces the CPI to fall",
+        "d": "creates household deposits without changing reserves"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "Open-market operations can involve central-bank purchases or sales of:",
+      "options": {
+        "a": "only physical capital goods",
+        "b": "only foreign consumer goods",
+        "c": "government bonds, treasury bills or commercial paper",
+        "d": "only labour services"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "In \"normal times\", the ECB influences reserves using instruments including:",
+      "options": {
+        "a": "only tax rates",
+        "b": "only changes in the GDP deflator",
+        "c": "reserve requirements and the conditions/rates on refinancing, marginal lending and deposit facilities",
+        "d": "only foreign-exchange controls"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "The ECB refinancing facility provides reserves to banks through transactions that typically take the form of:",
+      "options": {
+        "a": "unsecured gifts",
+        "b": "household tax rebates",
+        "c": "permanent equity purchases in banks",
+        "d": "repurchase agreements backed by collateral"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "In a repo used for refinancing, a bank ultimately:",
+      "options": {
+        "a": "converts the loan into GDP",
+        "b": "prints currency to repay the central bank",
+        "c": "buys back the collateral at maturity using reserves",
+        "d": "receives the collateral permanently for free"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "The refinancing rate is a policy rate because it is:",
+      "options": {
+        "a": "the return on every long-term bond",
+        "b": "set by household money demand",
+        "c": "set by the ECB rather than determined by market clearing",
+        "d": "equal by definition to the inflation rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "The interbank rate is:",
+      "options": {
+        "a": "a market rate determined by supply and demand for short-term funds among banks and large financial institutions",
+        "b": "the fixed real interest rate in the Solow model",
+        "c": "a tax rate set by government",
+        "d": "the CPI inflation rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "The marginal lending facility is typically priced:",
+      "options": {
+        "a": "below the deposit rate",
+        "b": "above the refinancing rate and therefore acts as an upper bound for the interbank rate",
+        "c": "exactly equal to the GDP growth rate",
+        "d": "at zero in all circumstances"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "The ECB deposit facility rate typically provides:",
+      "options": {
+        "a": "an upper bound for all mortgage rates",
+        "b": "a lower bound for GDP growth",
+        "c": "a lower bound for the interbank rate because banks can place excess reserves at the ECB",
+        "d": "a floor for the inflation rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Quantitative easing (QE) becomes especially relevant when:",
+      "options": {
+        "a": "policy rates are already very low and further conventional rate cuts are constrained",
+        "b": "the central bank wants to raise short-term rates rapidly",
+        "c": "the economy has no bonds",
+        "d": "money demand is perfectly inelastic at all rates"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "QE, as described in the slides, involves:",
+      "options": {
+        "a": "direct central-bank purchases of bonds on the market",
+        "b": "mandatory increases in reserve requirements only",
+        "c": "direct increases in income taxes",
+        "d": "selling bonds to reduce demand for them"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "By buying bonds under QE, a central bank tends to:",
+      "options": {
+        "a": "lower bond prices and raise long-term rates",
+        "b": "leave bond demand unchanged",
+        "c": "increase the real value of currency mechanically through deflation",
+        "d": "raise bond prices and lower longer-term interest rates"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "The slides identify major euro-area QE episodes associated with:",
+      "options": {
+        "a": "the 1958 Phillips study and the 1960 Samuelson-Solow study",
+        "b": "the launch of the Belgian CPI",
+        "c": "the sovereign-debt crisis and the COVID-19 outbreak",
+        "d": "the Bretton-Woods conference and the Great Depression"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "The money multiplier is defined as:",
+      "options": {
+        "a": "MB / M^s",
+        "b": "M^d / P",
+        "c": "M^s / MB",
+        "d": "D / GDP"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "With reserve ratio ρ defined by R = ρD and cash preference c defined by CH = cM^s, the money multiplier is:",
+      "options": {
+        "a": "1/(cρ)",
+        "b": "c + ρ(1 − c)",
+        "c": "(1−c)/(1−ρ)",
+        "d": "1 / [c + ρ(1 − c)]"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "Holding cash preference c constant, an increase in the reserve ratio ρ tends to:",
+      "options": {
+        "a": "increase the money multiplier",
+        "b": "reduce the money multiplier",
+        "c": "leave the multiplier unchanged",
+        "d": "make the multiplier negative"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "Holding ρ constant, a higher cash preference c generally tends to:",
+      "options": {
+        "a": "make reserves equal to zero",
+        "b": "have no connection to the money multiplier",
+        "c": "reduce the capacity of a given monetary base to support deposits and therefore lowers the multiplier",
+        "d": "raise the multiplier without limit"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "If c = 0 and ρ = 0.10, the simplified money multiplier equals:",
+      "options": {
+        "a": "0.10",
+        "b": "10",
+        "c": "1",
+        "d": "0.90"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "If c = 0.20 and ρ = 0.10, the money multiplier is approximately:",
+      "options": {
+        "a": "1/[0.20 + 0.10×0.80] = 3.57",
+        "b": "1.28",
+        "c": "0.28",
+        "d": "10"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Money demand arises in the chapter mainly because agents:",
+      "options": {
+        "a": "always prefer money regardless of interest rates",
+        "b": "cannot hold any other financial assets",
+        "c": "need liquidity for transactions while facing an opportunity cost from forgone interest on other assets",
+        "d": "derive a positive nominal return from currency"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "The money-demand function is represented as:",
+      "options": {
+        "a": "M^d = Y/P independent of i",
+        "b": "M^d = P Y L(i), with L decreasing in i",
+        "c": "M^d = P/Y × L(i), with L increasing in i",
+        "d": "M^d = M^s + i"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "Why does money demand increase with nominal income PY?",
+      "options": {
+        "a": "Nominal income is the opportunity cost of money.",
+        "b": "Money demand is assumed proportional only to exports.",
+        "c": "Higher prices and/or higher real activity imply a larger nominal volume of transactions requiring liquidity.",
+        "d": "Higher nominal income lowers the number of transactions."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "Why does money demand decrease when the nominal interest rate rises?",
+      "options": {
+        "a": "Higher rates make money more liquid.",
+        "b": "Higher rates reduce the nominal return on bonds below zero by definition.",
+        "c": "The opportunity cost of holding non-interest-bearing money rises relative to interest-bearing assets.",
+        "d": "Money demand is proportional to the nominal interest rate."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "At a given money supply, an increase in nominal income PY shifts money demand and tends to:",
+      "options": {
+        "a": "raise the equilibrium nominal interest rate",
+        "b": "reduce money supply automatically",
+        "c": "lower the equilibrium nominal interest rate",
+        "d": "leave the interest rate unchanged under the standard downward-sloping money-demand curve"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "At a given nominal income, an increase in money supply tends to:",
+      "options": {
+        "a": "raise it",
+        "b": "leave it unchanged except at positive rates",
+        "c": "lower the equilibrium nominal interest rate",
+        "d": "shift money demand left"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "The standard money-market equilibrium condition is:",
+      "options": {
+        "a": "S = I + NX",
+        "b": "M^s = M^d",
+        "c": "Y = C + I only",
+        "d": "W/P = 1/(1+θ)"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "A liquidity trap corresponds to a situation in which:",
+      "options": {
+        "a": "money demand becomes highly/perfectly elastic at a very low interest rate, so extra money is willingly held without further lowering the rate",
+        "b": "money demand is vertical and extra money raises rates",
+        "c": "all bonds have infinitely high yields",
+        "d": "the central bank is unable to create reserves"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "At the zero lower bound in the course model, expanding the monetary base through the conventional channel:",
+      "options": {
+        "a": "reduces money demand to zero",
+        "b": "must cause immediate hyperinflation",
+        "c": "must raise the short-term rate",
+        "d": "may no longer reduce the short-term interest rate"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "One reason the public is willing to hold additional money in a liquidity trap is that:",
+      "options": {
+        "a": "with rates near zero, the opportunity cost of money relative to bonds becomes negligible",
+        "b": "money pays an arbitrarily high nominal return",
+        "c": "bonds become usable directly for every transaction",
+        "d": "inflation must be very high"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "QE provides a way around the conventional zero-lower-bound problem by:",
+      "options": {
+        "a": "targeting bond demand and longer-term rates rather than relying only on further cuts in short policy rates",
+        "b": "changing the CPI basket",
+        "c": "raising reserve requirements until money disappears",
+        "d": "fixing the unemployment rate directly"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "The expected inflation rate formed at t for t+1 is:",
+      "options": {
+        "a": "(P_t − P^e_{t+1})/P^e_{t+1}",
+        "b": "(P^e_{t+1} − P_t)/P_t",
+        "c": "i_t − r_t exactly without approximation in all cases",
+        "d": "P_t/P^e_{t+1}"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "The exact relationship presented before approximation is:",
+      "options": {
+        "a": "r_t = i_t + π^e_{t+1} exactly",
+        "b": "1 + r_t = (1 + i_t)/(1 + π^e_{t+1})",
+        "c": "1 + r_t = (1 + i_t)(1 + π^e_{t+1})",
+        "d": "1 + i_t = (1 + r_t)/(1 + π^e_{t+1})"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "The approximate Fisher relation used in the course is:",
+      "options": {
+        "a": "i_t ≈ π^e_{t+1} − r_t",
+        "b": "r_t ≈ i_t/π^e_{t+1}",
+        "c": "r_t ≈ i_t − π^e_{t+1}",
+        "d": "r_t ≈ i_t + π^e_{t+1}"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "If the nominal interest rate is 6% and expected inflation is 2%, the approximate real interest rate is:",
+      "options": {
+        "a": "3%",
+        "b": "8%",
+        "c": "4%",
+        "d": "−4%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "For a fixed nominal interest rate, higher expected inflation implies:",
+      "options": {
+        "a": "a lower real interest rate",
+        "b": "a higher real interest rate",
+        "c": "a lower nominal money supply by identity",
+        "d": "no change in the real rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "If expected inflation is zero, then under the Fisher approximation:",
+      "options": {
+        "a": "the nominal rate must be zero",
+        "b": "money demand is perfectly elastic",
+        "c": "the real rate is always negative",
+        "d": "the nominal and real interest rates coincide"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "In the money-demand equation, the relevant opportunity-cost interest rate is the:",
+      "options": {
+        "a": "real interest rate only",
+        "b": "nominal interest rate",
+        "c": "GDP growth rate",
+        "d": "natural unemployment rate"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "Why is the nominal rate the relevant rate for money demand in this model?",
+      "options": {
+        "a": "Agents compare nominal transaction balances with the nominal return on alternative financial assets.",
+        "b": "Expected inflation never matters for any decision.",
+        "c": "The central bank cannot affect nominal rates.",
+        "d": "Transactions are measured only in real goods and never in currency."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "Suppose PY rises while M^s is fixed. In the standard money market, equilibrium is restored by:",
+      "options": {
+        "a": "a lower i that further increases money demand",
+        "b": "a higher i that reduces desired money holdings through L(i)",
+        "c": "an automatic fall in P required by accounting identity",
+        "d": "an increase in M^s caused directly by households"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "Suppose the central bank buys securities in an open-market operation and the economy is not in a liquidity trap. The most direct chain is:",
+      "options": {
+        "a": "bank reserves ↓ → monetary base ↓ → interest rate ↓",
+        "b": "money demand disappears → prices necessarily fall",
+        "c": "bank reserves ↑ → monetary base ↑ → money supply/liquidity ↑ → equilibrium interest rate tends to ↓",
+        "d": "GDP automatically rises one-for-one with the asset purchase"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "A bank with excess reserves can choose between lending them on the interbank market and placing them at the ECB. This helps explain why the ECB deposit rate is:",
+      "options": {
+        "a": "irrelevant for reserve allocation",
+        "b": "equal to the inflation rate",
+        "c": "a floor for the interbank rate",
+        "d": "a ceiling for the interbank rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "A bank facing a reserve shortage can borrow overnight through the marginal lending facility. This helps explain why the marginal lending rate is:",
+      "options": {
+        "a": "a floor for the interbank rate",
+        "b": "a ceiling for the interbank rate",
+        "c": "necessarily below the deposit rate",
+        "d": "a measure of real GDP"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "(Select the incorrect answer) In the chapter's simplified monetary system:",
+      "options": {
+        "a": "the central bank controls the monetary base",
+        "b": "commercial banks can create deposits through lending",
+        "c": "commercial banks have the monopoly over creation of the monetary base",
+        "d": "money supply includes currency and deposits"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

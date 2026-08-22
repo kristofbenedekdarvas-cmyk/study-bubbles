@@ -1,0 +1,666 @@
+{
+  "id": "binge1113_ch10_mcq_bank",
+  "name": "Chapter 10 - The goods market in an open economy - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In a closed economy, interior demand C+I+G and demand for domestically produced goods Z coincide because:",
+      "options": {
+        "a": "prices are flexible",
+        "b": "domestic agents cannot buy foreign output and foreigners do not buy domestic output",
+        "c": "government spending is zero",
+        "d": "imports equal exports by accounting identity"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "In an open economy, demand for domestically produced goods is:",
+      "options": {
+        "a": "Z = C + I + G",
+        "b": "Z = C + I + G − X + M",
+        "c": "Z = C + I + G + X − M",
+        "d": "Z = X + M only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "Interior demand refers to:",
+      "options": {
+        "a": "X−M",
+        "b": "only demand for domestically produced goods",
+        "c": "C+I+G, the demand expressed by domestic households, firms and government",
+        "d": "only private consumption"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Why are imports subtracted from interior demand when constructing Z?",
+      "options": {
+        "a": "Imports are already included in exports.",
+        "b": "Part of C+I+G is spent on foreign rather than domestic goods.",
+        "c": "Imports lower foreign output.",
+        "d": "Imports are negative production by definition."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "Why are exports added to Z?",
+      "options": {
+        "a": "Exports are domestic consumption.",
+        "b": "Exports are transfers rather than goods.",
+        "c": "Exports reduce foreign income.",
+        "d": "Foreign agents demand domestically produced goods."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "The chapter models exports as:",
+      "options": {
+        "a": "X = x1Y + x2ε",
+        "b": "X = X0 + x1Y* − x2ε",
+        "c": "X = X0 − x1Y* + x2ε",
+        "d": "X = X0 + m1Y"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "An increase in foreign income Y* tends to:",
+      "options": {
+        "a": "increase domestic imports only",
+        "b": "decrease domestic exports",
+        "c": "leave exports unchanged by assumption",
+        "d": "increase domestic exports"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "An increase in the real exchange rate ε tends to reduce exports because:",
+      "options": {
+        "a": "domestic goods become more expensive relative to foreign goods",
+        "b": "foreign income necessarily falls",
+        "c": "domestic goods become cheaper abroad",
+        "d": "the nominal interest rate rises by identity"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "The parameter x1 measures:",
+      "options": {
+        "a": "the sensitivity of exports to foreign income",
+        "b": "the saving rate",
+        "c": "the sensitivity of taxes to income",
+        "d": "the marginal propensity to import"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "The parameter x2 measures:",
+      "options": {
+        "a": "the sensitivity of money demand to interest rates",
+        "b": "the sensitivity of exports to the relative price/real exchange rate",
+        "c": "the depreciation rate",
+        "d": "the sensitivity of investment to income"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "The chapter models imports, expressed in units of domestic goods, as:",
+      "options": {
+        "a": "M = M0 + m1Y − m2ε",
+        "b": "M = X0 + x1Y*",
+        "c": "M = M0 + m1Y + m2ε",
+        "d": "M = M0 − m1Y − m2ε"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "The marginal import ratio m1 captures:",
+      "options": {
+        "a": "the tax response to income",
+        "b": "the response of imports to foreign interest rates",
+        "c": "the increase in exports induced by foreign income",
+        "d": "the increase in imports induced by a rise in domestic income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "Why is M assumed to rise with domestic output Y?",
+      "options": {
+        "a": "Higher domestic income raises domestic expenditure, including spending on foreign goods.",
+        "b": "Exports must equal imports.",
+        "c": "The domestic currency necessarily appreciates.",
+        "d": "Foreigners become richer."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "An increase in ε has two opposing effects on imports expressed in domestic-good units because:",
+      "options": {
+        "a": "it raises both quantities and prices with no ambiguity",
+        "b": "it changes only exports",
+        "c": "it lowers both quantities and prices",
+        "d": "it increases imported quantities as foreign goods become relatively cheaper, but lowers their domestic-good-unit price"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "The course assumes m2>0. This means that after a real appreciation:",
+      "options": {
+        "a": "imports are independent of ε",
+        "b": "exports rise",
+        "c": "the price effect dominates and measured imports fall",
+        "d": "the quantity response dominates the lower domestic-good-unit price, so measured imports rise"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "The assumption that the relevant quantity response is strong enough is referred to in the chapter as:",
+      "options": {
+        "a": "the Fisher condition",
+        "b": "Okun’s law",
+        "c": "the Marshall-Lerner condition",
+        "d": "the impossible trinity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "The DD curve in the open-economy goods-market graph represents:",
+      "options": {
+        "a": "net exports X−M",
+        "b": "interior demand C+I+G",
+        "c": "exports only",
+        "d": "money demand"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "Subtracting imports from DD gives the AA curve, which represents:",
+      "options": {
+        "a": "the trade balance only",
+        "b": "foreign demand for domestic goods",
+        "c": "total demand including exports",
+        "d": "domestic agents’ demand for domestically produced goods, C+I+G−M"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Why is AA flatter than DD?",
+      "options": {
+        "a": "Taxes are constant.",
+        "b": "Government spending falls with income.",
+        "c": "Imports increase with domestic income, creating a leakage from additional interior demand.",
+        "d": "Exports decrease with domestic income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "Adding exports X to AA yields ZZ. Relative to AA, ZZ:",
+      "options": {
+        "a": "is steeper because X falls with Y",
+        "b": "is flatter because X rises with Y",
+        "c": "coincides with DD by identity",
+        "d": "is shifted upward but has the same slope because X does not depend on domestic Y"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "The NX curve is decreasing in domestic output because:",
+      "options": {
+        "a": "higher Y depreciates the currency by identity",
+        "b": "higher Y lowers imports",
+        "c": "higher Y necessarily lowers foreign income",
+        "d": "higher Y raises imports while exports are not directly driven by domestic Y"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Y_tb denotes:",
+      "options": {
+        "a": "the domestic-output level at which NX=0",
+        "b": "potential output",
+        "c": "the output level at which taxes equal spending",
+        "d": "the output level at which investment is zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "At the short-run goods-market equilibrium in an open economy:",
+      "options": {
+        "a": "imports must equal investment",
+        "b": "Y equals demand for domestically produced goods Z",
+        "c": "NX must be zero",
+        "d": "Y equals interior demand C+I+G necessarily"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "At goods-market equilibrium, the trade balance:",
+      "options": {
+        "a": "must be zero",
+        "b": "must equal government saving",
+        "c": "must be positive",
+        "d": "can be either in surplus or deficit"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "Consider ΔG>0 entirely spent on domestic goods. In the ZZ diagram, the immediate effect is:",
+      "options": {
+        "a": "a downward shift of ZZ",
+        "b": "an upward shift of ZZ by ΔG",
+        "c": "a shift of NX upward",
+        "d": "a rotation of ZZ with no intercept change"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "Under the same assumption, DD also:",
+      "options": {
+        "a": "becomes horizontal",
+        "b": "shifts upward along with ZZ",
+        "c": "remains unchanged",
+        "d": "shifts downward"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "Why does Y_tb remain unchanged after ΔG>0 when all extra public spending is domestic?",
+      "options": {
+        "a": "Imports fall by ΔG.",
+        "b": "DD and ZZ shift together, so their intersection is unchanged.",
+        "c": "Exports rise by ΔG.",
+        "d": "NX shifts upward by exactly ΔG."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "Why does the equilibrium trade balance deteriorate after an expansive interior-demand shock?",
+      "options": {
+        "a": "The higher equilibrium Y raises imports while exports are unchanged.",
+        "b": "The NX schedule shifts upward.",
+        "c": "Exports fall because Y rises directly.",
+        "d": "Imports fall and exports rise."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "Compared with a closed economy, the open-economy fiscal multiplier is smaller because:",
+      "options": {
+        "a": "fiscal policy cannot affect output at all",
+        "b": "foreign income always falls",
+        "c": "taxes are necessarily higher",
+        "d": "part of induced expenditure leaks into imports"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "The open-economy government-spending multiplier is:",
+      "options": {
+        "a": "1 / [1 − (c1(1−t1)+b1−m1)]",
+        "b": "m1 / [1−c1]",
+        "c": "1 / (c1+b1+m1)",
+        "d": "1 / [1 − (c1(1−t1)+b1+m1)]"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "Holding all other parameters fixed, a higher m1 makes the fiscal multiplier:",
+      "options": {
+        "a": "larger",
+        "b": "unchanged",
+        "c": "negative necessarily",
+        "d": "smaller"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "Suppose c1(1−t1)+b1=0.70 and m1=0.10. The open-economy autonomous multiplier is:",
+      "options": {
+        "a": "1.67",
+        "b": "10",
+        "c": "3.33",
+        "d": "2.5"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "For the same c1(1−t1)+b1=0.70, the closed-economy multiplier would be 1/(1−0.70)=3.33. The difference from 2.5 is due to:",
+      "options": {
+        "a": "the Fisher effect",
+        "b": "capital depreciation",
+        "c": "the import leakage",
+        "d": "the export multiplier"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "An increase in foreign income Y* has the direct effect of:",
+      "options": {
+        "a": "shifting DD upward",
+        "b": "lowering exports by x2ΔY*",
+        "c": "raising exports by x1ΔY*",
+        "d": "raising imports by m1ΔY*"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "When Y* rises, ZZ:",
+      "options": {
+        "a": "and DD both shift by the same amount",
+        "b": "shifts upward while DD remains unchanged",
+        "c": "does not move",
+        "d": "shifts downward while DD rises"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "An increase in Y* shifts the NX schedule:",
+      "options": {
+        "a": "nowhere",
+        "b": "downward, worsening the trade balance",
+        "c": "only if G rises",
+        "d": "upward/rightward, improving the trade balance at a given Y"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "After Y* rises, equilibrium domestic output:",
+      "options": {
+        "a": "decreases",
+        "b": "must equal Y_tb",
+        "c": "increases",
+        "d": "is unchanged"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "Why does the trade balance improve after an increase in Y* even though domestic imports subsequently rise?",
+      "options": {
+        "a": "The NX curve slopes upward.",
+        "b": "Imports fall as Y rises.",
+        "c": "The induced import increase does not fully offset the original export increase.",
+        "d": "Exports are unchanged."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "A real depreciation in the course convention corresponds to:",
+      "options": {
+        "a": "Δε>0",
+        "b": "P* falling with E and P fixed",
+        "c": "Δε<0",
+        "d": "ΔE>0 necessarily"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "A real depreciation can result from:",
+      "options": {
+        "a": "a fall in P* only",
+        "b": "a rise in E only",
+        "c": "a fall in E or P, or a rise in P*",
+        "d": "a rise in P only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "Once quantity adjustments occur and the Marshall-Lerner condition is satisfied, a real depreciation tends to:",
+      "options": {
+        "a": "lower exports, raise imports, and worsen NX",
+        "b": "raise imports and exports equally by identity",
+        "c": "raise exports, lower imports, and improve NX",
+        "d": "leave both trade flows unchanged"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "Why can the trade balance initially deteriorate immediately after a real depreciation?",
+      "options": {
+        "a": "The fiscal multiplier becomes negative.",
+        "b": "Imports instantly fall to zero.",
+        "c": "Exports instantly collapse because domestic goods are cheaper.",
+        "d": "Export/import quantities are initially fixed while imports become more expensive in domestic-good units."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "The J-curve describes:",
+      "options": {
+        "a": "the IS curve under fixed exchange rates",
+        "b": "an initial deterioration followed by a later improvement of net exports after a real depreciation",
+        "c": "a permanent deterioration of net exports after appreciation",
+        "d": "the relation between saving and depreciation in Solow"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "In the J-curve diagram, the trade balance returns to its pre-shock level before:",
+      "options": {
+        "a": "continuing to improve toward a new level above the initial balance",
+        "b": "falling permanently below the initial balance",
+        "c": "becoming identically zero forever",
+        "d": "output returns to zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "A real depreciation shifts ZZ upward in the medium of the chapter’s quantity-adjusted analysis because:",
+      "options": {
+        "a": "interior demand DD necessarily rises",
+        "b": "taxes fall automatically",
+        "c": "net exports are higher at each Y",
+        "d": "foreign income falls"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "After a real depreciation, DD:",
+      "options": {
+        "a": "shifts downward because imports rise",
+        "b": "does not shift directly",
+        "c": "shifts upward by the same amount as ZZ",
+        "d": "becomes vertical"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "Starting from NX=0, after a successful real depreciation and adjustment, the new equilibrium typically has:",
+      "options": {
+        "a": "higher output but necessarily worse NX",
+        "b": "unchanged output and NX",
+        "c": "lower output and a trade deficit",
+        "d": "higher output and an improved/positive trade balance"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "An increase in Y* and a real depreciation are similar in that both ultimately tend to:",
+      "options": {
+        "a": "lower domestic output and improve NX",
+        "b": "lower output and worsen NX",
+        "c": "raise output and worsen NX",
+        "d": "raise domestic output and improve the trade balance"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "A key welfare difference is that a real depreciation:",
+      "options": {
+        "a": "has no distributional or consumption consequences",
+        "b": "makes foreign goods cheaper for domestic agents",
+        "c": "raises foreign income without changing relative prices",
+        "d": "makes foreign goods relatively more expensive for domestic agents and can lower their satisfaction at a given income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "In the closed-economy goods-market equilibrium, national saving equals:",
+      "options": {
+        "a": "net exports NX",
+        "b": "government spending",
+        "c": "foreign saving only",
+        "d": "domestic investment I"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "In the simplified open-economy goods-market setting of Chapter 10:",
+      "options": {
+        "a": "NX = C+G",
+        "b": "NX is unrelated to saving",
+        "c": "NX = national saving − domestic investment",
+        "d": "NX = domestic investment − national saving"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "If NX<0 in this simplified setting, then:",
+      "options": {
+        "a": "domestic investment exceeds national saving and the economy imports saving",
+        "b": "the government budget must be in surplus",
+        "c": "national saving exceeds domestic investment",
+        "d": "domestic investment must be zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "Private saving in the Chapter 10 identity is:",
+      "options": {
+        "a": "Y−C−G",
+        "b": "Y−C−T",
+        "c": "T−G",
+        "d": "X−M"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "Public saving in the Chapter 10 identity is:",
+      "options": {
+        "a": "T−G",
+        "b": "X−M",
+        "c": "G−T",
+        "d": "Y−C−T"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "(Select the incorrect answer) Following an increase in foreign income Y*:",
+      "options": {
+        "a": "exports rise directly",
+        "b": "DD shifts upward because domestic households become richer",
+        "c": "equilibrium domestic output rises",
+        "d": "ZZ shifts upward"
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

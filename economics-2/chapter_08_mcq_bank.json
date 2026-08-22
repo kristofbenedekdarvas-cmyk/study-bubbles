@@ -1,0 +1,858 @@
+{
+  "id": "binge1113_ch8_mcq_bank",
+  "name": "Chapter 8 - The IS-LM-PC model and the Phillips curve - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The original Phillips study (1958) examined the relationship between:",
+      "options": {
+        "a": "money growth and output in Belgium",
+        "b": "wage growth and unemployment in the United Kingdom",
+        "c": "GDP and inflation in the United States",
+        "d": "saving and investment in Germany"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "Samuelson and Solow (1960) are cited for:",
+      "options": {
+        "a": "inventing the GDP deflator",
+        "b": "deriving the money multiplier",
+        "c": "creating the Solow growth model in this chapter only",
+        "d": "confirming a negative inflation-unemployment relationship in US data"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "In the 1960s and 1970s, the original Phillips curve was often interpreted as suggesting:",
+      "options": {
+        "a": "a policy trade-off between lower unemployment and higher inflation",
+        "b": "that potential output is fixed by the exchange rate",
+        "c": "that unemployment and inflation always rise together",
+        "d": "that monetary policy cannot affect demand"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "The AS relationship used as the starting point for the Phillips curve is:",
+      "options": {
+        "a": "W/P = 1+θ",
+        "b": "P_t = P^e_t(1+θ)F(u_t,z)",
+        "c": "P_t = P^e_t/(1+θ)F(u_t,z)",
+        "d": "Y=C+I+G"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "The functional form assumed for wage-setting in the derivation is:",
+      "options": {
+        "a": "F(u_t,z)=Y_t/L only",
+        "b": "F(u_t,z)=u_t−z",
+        "c": "F(u_t,z)=1−ϕu_t+z",
+        "d": "F(u_t,z)=1+ϕu_t−z"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "After approximation, the Phillips relationship derived from AS is:",
+      "options": {
+        "a": "π_t ≈ π^e_t − θ − z + ϕu_t",
+        "b": "π_t = M^s/P",
+        "c": "π_t = u_t + Y_t",
+        "d": "π_t ≈ π^e_t + θ + z − ϕu_t"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "For given expected inflation, a higher markup θ tends to:",
+      "options": {
+        "a": "raise actual inflation",
+        "b": "leave inflation unchanged",
+        "c": "lower actual inflation",
+        "d": "raise unemployment without any price effect"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "For given expected inflation, a higher wage-setting factor z tends to:",
+      "options": {
+        "a": "raise inflation",
+        "b": "lower inflation",
+        "c": "leave inflation unchanged",
+        "d": "reduce wage claims"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "For given expected inflation and structural parameters, higher unemployment tends to:",
+      "options": {
+        "a": "leave inflation unchanged",
+        "b": "raise inflation",
+        "c": "lower inflation",
+        "d": "raise potential output through the price equation"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "The annex shows that P_t/P_{t−1} can be written as:",
+      "options": {
+        "a": "1−π_t",
+        "b": "1+π_t",
+        "c": "π_t only",
+        "d": "P_{t−1}/P_t"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "Likewise, P^e_t/P_{t−1} is written as:",
+      "options": {
+        "a": "P_t/P^e_t",
+        "b": "1−π^e_t",
+        "c": "π^e_t/P_t",
+        "d": "1+π^e_t"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "The approximation from 1+π_t=(1+π^e_t)(1+θ)(1−ϕu_t+z) drops mainly:",
+      "options": {
+        "a": "expected inflation entirely",
+        "b": "the markup entirely",
+        "c": "products of small rates/terms such as θπ^e_t and similar cross-products",
+        "d": "the unemployment term entirely"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "If expected inflation is assumed to be zero, the Phillips curve becomes:",
+      "options": {
+        "a": "π_t = π_{t−1}+ϕu_t",
+        "b": "π_t = (θ+z) − ϕu_t",
+        "c": "π_t = θ−z+ϕu_t",
+        "d": "π_t = 0 for all u"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "The price-wage intuition behind the original Phillips curve is that lower unemployment:",
+      "options": {
+        "a": "reduces labour demand and lowers wages",
+        "b": "strengthens wage bargaining, raising wages and then prices",
+        "c": "changes only the money supply",
+        "d": "weakens wage bargaining and lowers prices"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "The initial Phillips relationship became less stable after the 1970s partly because of:",
+      "options": {
+        "a": "the creation of the CPI",
+        "b": "the 1973 and 1979 oil shocks",
+        "c": "the Maastricht Treaty",
+        "d": "the invention of GDP in the 1930s"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "The more important structural explanation highlighted for the mutation of the Phillips curve is:",
+      "options": {
+        "a": "expected inflation was legally fixed at zero",
+        "b": "unemployment ceased to exist",
+        "c": "agents changed how they formed inflation expectations after persistent positive inflation",
+        "d": "markups became zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Once inflation became persistent, wage bargainers began to:",
+      "options": {
+        "a": "set wages only as a function of money supply",
+        "b": "ignore prices completely",
+        "c": "incorporate expected future inflation into nominal wage negotiations",
+        "d": "assume future inflation was always zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "The general expectation rule used in the chapter is:",
+      "options": {
+        "a": "π^e_t = π_t+u_t",
+        "b": "π^e_t = r_t−i_t",
+        "c": "π^e_t = λπ̄^e_t + (1−λ)π_{t−1}",
+        "d": "π^e_t = λπ_{t−1} only for all λ"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Anchored expectations correspond to:",
+      "options": {
+        "a": "λ>1",
+        "b": "λ=1, so expected inflation is tied to a fixed/target value",
+        "c": "λ=0, so π^e_t=π_{t−1}",
+        "d": "π^e_t=0 necessarily"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "Backward-looking/adaptive expectations correspond to:",
+      "options": {
+        "a": "π^e_t=u_t",
+        "b": "λ=0, so π^e_t=π_{t−1}",
+        "c": "π^e_t=π^T regardless of history",
+        "d": "λ=1"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "The chapter focuses on the two polar cases λ=0 and λ=1 mainly to:",
+      "options": {
+        "a": "claim intermediate λ values are mathematically impossible",
+        "b": "eliminate expected inflation",
+        "c": "make unemployment equal zero",
+        "d": "contrast adaptive and anchored expectation dynamics clearly"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "At the natural unemployment rate u_n, the Phillips equation implies:",
+      "options": {
+        "a": "u_n=0",
+        "b": "π_t=π^T necessarily even with adaptive expectations",
+        "c": "π_t=0 necessarily",
+        "d": "π_t = π^e_t"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "The natural unemployment rate from the simplified Phillips curve is:",
+      "options": {
+        "a": "u_n=θ−z",
+        "b": "u_n=(θ+z)/ϕ",
+        "c": "u_n=0",
+        "d": "u_n=ϕ/(θ+z)"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "Rewriting around u_n gives:",
+      "options": {
+        "a": "π_t=ϕu_t",
+        "b": "π_t−π^e_t = Y_n−Y_t",
+        "c": "π_t−π^e_t = +ϕ(u_t−u_n)",
+        "d": "π_t−π^e_t = −ϕ(u_t−u_n)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "Using u=1−Y/L, the Phillips curve can be written as:",
+      "options": {
+        "a": "π_t−π^e_t = (ϕ/L)(Y_n−Y_t)",
+        "b": "π_t−π^e_t = (ϕ/L)(Y_t−Y_n)",
+        "c": "π_t−π^e_t = L(Y_t−Y_n)",
+        "d": "π_t−π^e_t = Y_t/Y_n"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "A positive output gap therefore implies:",
+      "options": {
+        "a": "expected inflation exceeds actual inflation",
+        "b": "actual inflation must be zero",
+        "c": "actual inflation is below expected inflation",
+        "d": "actual inflation exceeds expected inflation"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "A negative output gap implies:",
+      "options": {
+        "a": "actual inflation is above expected inflation",
+        "b": "actual inflation is below expected inflation",
+        "c": "inflation is necessarily negative",
+        "d": "potential output falls automatically"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "With anchored expectations at target π^T, the Phillips curve is:",
+      "options": {
+        "a": "π_t−π_{t−1}=(ϕ/L)(Y_t−Y_n)",
+        "b": "π_t = π^T + (ϕ/L)(Y_t−Y_n)",
+        "c": "π_t=π^T−(ϕ/L)(Y_t−Y_n)",
+        "d": "π_t=0"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "With anchored expectations, a boom Y>Yn causes inflation to:",
+      "options": {
+        "a": "remain exactly at target",
+        "b": "rise above the target",
+        "c": "fall below target",
+        "d": "become independent of Y"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "With anchored expectations, a downturn Y<Yn causes inflation to:",
+      "options": {
+        "a": "rise above target",
+        "b": "fall below the target",
+        "c": "remain exactly at target",
+        "d": "accelerate regardless of the gap"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "If Y returns to Yn under anchored expectations, inflation:",
+      "options": {
+        "a": "remains permanently at the elevated boom level",
+        "b": "returns to the target π^T",
+        "c": "must fall below zero",
+        "d": "keeps accelerating"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "With adaptive expectations, the modified Phillips curve is:",
+      "options": {
+        "a": "π_t=π^T+(ϕ/L)(Y_t−Y_n)",
+        "b": "π_t−π_{t−1}=−(ϕ/L)(Y_t−Y_n)",
+        "c": "π_t−π_{t−1}=(ϕ/L)(Y_t−Y_n)",
+        "d": "π_t=0"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "Under adaptive expectations, a positive output gap causes:",
+      "options": {
+        "a": "inflation to increase from one period to the next",
+        "b": "inflation to remain constant",
+        "c": "the price level to return to its initial level automatically",
+        "d": "inflation to fall"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "Under adaptive expectations, keeping Y above Yn for several periods implies:",
+      "options": {
+        "a": "progressively accelerating inflation",
+        "b": "zero expected inflation",
+        "c": "stable inflation at the initial rate",
+        "d": "falling inflation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Under adaptive expectations, once Y returns to Yn:",
+      "options": {
+        "a": "expected inflation falls to zero",
+        "b": "inflation immediately returns to the original level",
+        "c": "inflation necessarily becomes zero",
+        "d": "inflation stops changing but need not return to its initial level"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "To bring adaptive-expectation inflation back down to its old level after a boom, the economy generally needs:",
+      "options": {
+        "a": "higher markups",
+        "b": "a permanent positive output gap",
+        "c": "a period of negative output gaps",
+        "d": "Y=Yn for one period only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "The sacrifice ratio refers to:",
+      "options": {
+        "a": "the ratio of exports to imports",
+        "b": "the depreciation rate of capital",
+        "c": "the ratio of inflation to the money supply",
+        "d": "lost economic activity associated with anti-inflationary policy"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "The NAIRU is:",
+      "options": {
+        "a": "the unemployment rate at which GDP growth is zero",
+        "b": "the unemployment rate at which inflation is zero",
+        "c": "frictional unemployment only",
+        "d": "the unemployment rate at which inflation is stable rather than accelerating or decelerating"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "If u>u_n under the modified Phillips curve, inflation:",
+      "options": {
+        "a": "is constant",
+        "b": "increases over time",
+        "c": "decreases over time",
+        "d": "must be positive"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "If u<u_n under the modified Phillips curve, inflation:",
+      "options": {
+        "a": "must be negative",
+        "b": "is constant",
+        "c": "increases over time",
+        "d": "decreases over time"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "NAWRU is another name for:",
+      "options": {
+        "a": "the structural unemployment rate consistent with non-accelerating wage/inflation dynamics",
+        "b": "the money multiplier",
+        "c": "the output gap",
+        "d": "the natural real interest rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "The IS-LM-PC model combines:",
+      "options": {
+        "a": "only the labour market and long-run growth",
+        "b": "only the current account and exchange rate",
+        "c": "only GDP accounting identities",
+        "d": "short-run goods/financial-market equilibrium with the Phillips-curve inflation dynamics"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "In the lower PC panel drawn against Y, the PC crosses zero inflation surprise at:",
+      "options": {
+        "a": "the nominal interest rate",
+        "b": "Y=0",
+        "c": "Y=Yn",
+        "d": "Y>Yn always"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "Medium-run equilibrium in IS-LM-PC requires:",
+      "options": {
+        "a": "Y=Yn and π_t=π^e_t",
+        "b": "u=0",
+        "c": "i=0",
+        "d": "Y≠Yn and accelerating inflation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "The natural/Wicksellian real interest rate r* is:",
+      "options": {
+        "a": "the unemployment rate",
+        "b": "the nominal interest rate minus actual inflation only",
+        "c": "a policy rate freely chosen at any long-run value by the central bank",
+        "d": "the real interest rate consistent with output at its potential level Yn"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "The central bank:",
+      "options": {
+        "a": "can move the actual real interest rate temporarily away from r* but does not arbitrarily determine the structural r*",
+        "b": "sets Yn directly through the money supply",
+        "c": "sets r* permanently by decree independent of IS",
+        "d": "cannot affect interest rates at all"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "A positive demand shock initially shifts:",
+      "options": {
+        "a": "PC down",
+        "b": "potential output up automatically",
+        "c": "IS to the right",
+        "d": "IS left"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "With anchored expectations, the initial positive demand shock causes:",
+      "options": {
+        "a": "Y to remain at Yn immediately",
+        "b": "inflation to fall below target",
+        "c": "Y, r and inflation to rise above their initial/target levels",
+        "d": "Y and inflation to fall"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "As prices rise after a positive demand shock, real money supply falls and LM tends to:",
+      "options": {
+        "a": "shift upward",
+        "b": "remain fixed by identity",
+        "c": "shift IS right",
+        "d": "shift downward"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "With anchored expectations, the economy eventually returns to:",
+      "options": {
+        "a": "the initial r* regardless of the IS shift",
+        "b": "Y>Yn permanently",
+        "c": "Y=Yn and inflation=π^T, but at a new higher natural interest rate if IS is permanently shifted right",
+        "d": "inflation permanently above target with no adjustment"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "With backward-looking expectations, higher inflation raises next period's expected inflation. For a given nominal rate, this tends to:",
+      "options": {
+        "a": "lower the real interest rate and dampen the upward LM adjustment",
+        "b": "raise the real interest rate",
+        "c": "eliminate inflation",
+        "d": "shift PC down"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "Without central-bank intervention after a persistent positive demand shock under adaptive expectations:",
+      "options": {
+        "a": "inflation can keep accelerating",
+        "b": "the natural interest rate becomes negative by definition",
+        "c": "output must collapse to zero",
+        "d": "inflation must return to π0 immediately"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "A restrictive monetary intervention can stop the acceleration by:",
+      "options": {
+        "a": "raising money supply",
+        "b": "shifting IS right",
+        "c": "shifting LM sufficiently upward and returning Y to its new medium-run potential position",
+        "d": "reducing the output gap by increasing Y further"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "After inflation acceleration has been stopped under adaptive expectations, inflation:",
+      "options": {
+        "a": "must keep accelerating forever",
+        "b": "automatically returns to π0 once Y=Yn",
+        "c": "can remain permanently above its original level unless a negative output gap is created",
+        "d": "must become zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "A negative demand shock initially tends to:",
+      "options": {
+        "a": "raise output and inflation",
+        "b": "lower output and inflation",
+        "c": "raise potential output",
+        "d": "shift PC upward through θ"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "Normally, falling prices after a negative demand shock tend to raise real money balances and shift LM:",
+      "options": {
+        "a": "nowhere",
+        "b": "to the right only if taxes rise",
+        "c": "upward, worsening the downturn",
+        "d": "downward, helping output recover"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "At the zero lower bound with backward-looking expectations, falling expected inflation can cause the real interest rate to:",
+      "options": {
+        "a": "equal expected inflation",
+        "b": "fall without limit",
+        "c": "rise even when the nominal rate cannot be lowered further",
+        "d": "remain zero"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "The chain behind a deflation spiral is:",
+      "options": {
+        "a": "higher money supply → higher nominal rate → more inflation",
+        "b": "weak demand → higher inflation → lower real rate → boom",
+        "c": "lower unemployment → lower wages → deflation",
+        "d": "weak demand → lower inflation/expected inflation → higher real rate at ZLB → even weaker demand → more deflation"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "A deflation spiral is particularly dangerous because:",
+      "options": {
+        "a": "deflation automatically raises consumption enough to offset the shock",
+        "b": "expected inflation becomes anchored at a high target",
+        "c": "the conventional nominal-rate instrument is constrained while real borrowing costs can rise",
+        "d": "the central bank can always set i far below zero without limit in the model"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "A negative supply shock represented by Δθ>0 causes:",
+      "options": {
+        "a": "Yn to rise and PC to shift down",
+        "b": "potential output Yn to fall and the PC curve to shift upward",
+        "c": "IS to shift right only",
+        "d": "LM to shift down only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "Immediately after such a negative supply shock, inflation can rise even if:",
+      "options": {
+        "a": "output is initially at the old potential level because the new potential level is lower",
+        "b": "the markup falls",
+        "c": "expected inflation falls to zero",
+        "d": "the money supply is unchanged and Y=0"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "The combination of elevated inflation and depressed output after a supply shock is:",
+      "options": {
+        "a": "absolute convergence",
+        "b": "stagflation",
+        "c": "a liquidity trap",
+        "d": "money neutrality"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "With backward-looking expectations after a negative supply shock, the central bank is pushed toward:",
+      "options": {
+        "a": "restrictive monetary policy to prevent persistent inflation dynamics and move toward the new lower Yn",
+        "b": "expansive policy to keep Y at the old Yn indefinitely without inflation cost",
+        "c": "fiscal expansion only",
+        "d": "no action because inflation is transitory by definition"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "Why can expansive fiscal policy conflict with monetary stabilisation after a negative supply shock?",
+      "options": {
+        "a": "Fiscal expansion lowers inflation directly.",
+        "b": "Trying to sustain demand near the old output level can generate still higher inflation while monetary policy is trying to restrain it.",
+        "c": "Fiscal expansion raises potential output instantly.",
+        "d": "Monetary policy has no effect on inflation."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "The chapter nevertheless gives fiscal policy a possible role after an energy shock through:",
+      "options": {
+        "a": "raising potential output by definition",
+        "b": "permanently fixing all energy prices in the model",
+        "c": "targeted redistribution toward groups hit disproportionately by the shock",
+        "d": "setting the natural interest rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "Suppose r1=2% and i1=5%, with r_t=i_t−π^e_{t+1}. Then π^e_2 equals:",
+      "options": {
+        "a": "−3%",
+        "b": "2%",
+        "c": "3%",
+        "d": "7%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "If expectations are adaptive so π^e_2=π1, then in the previous question π1 equals:",
+      "options": {
+        "a": "3%",
+        "b": "1%",
+        "c": "5%",
+        "d": "7%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "If the Phillips curve gives π1−π^e_1=2% and π1=3%, then π^e_1 was:",
+      "options": {
+        "a": "3%",
+        "b": "5%",
+        "c": "1%",
+        "d": "−1%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "Continuing with adaptive expectations and a +2 percentage-point inflation surprise each period, if π1=3%, then π2 is:",
+      "options": {
+        "a": "7%",
+        "b": "3%",
+        "c": "5%",
+        "d": "1%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "If r2 remains 2% and π^e_3=π2=5%, then i2 must be:",
+      "options": {
+        "a": "7%",
+        "b": "3%",
+        "c": "5%",
+        "d": "−3%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "(Select the incorrect answer) For the NAIRU:",
+      "options": {
+        "a": "it is the unemployment rate at which inflation is stable under the modified Phillips curve",
+        "b": "it coincides with u_n in the model",
+        "c": "it is necessarily the unemployment rate at which inflation equals the central bank's target",
+        "d": "if unemployment is below it, inflation tends to accelerate"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "id": "binge1113_ch5_mcq_bank",
+  "name": "Chapter 5 - The goods market - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In the short run of the goods-market model, the course assumes:",
+      "options": {
+        "a": "fixed prices, fixed technology and a fixed capital stock",
+        "b": "a variable capital stock but fixed prices only",
+        "c": "flexible prices and endogenous technology",
+        "d": "only the nominal exchange rate is fixed"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "In the medium run, compared with the short run:",
+      "options": {
+        "a": "all production factors are fully endogenous",
+        "b": "prices may change, while technology and the capital stock remain fixed",
+        "c": "technology changes but prices remain fixed",
+        "d": "prices remain fixed and capital grows endogenously"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "In the long run, potential GDP is determined importantly by:",
+      "options": {
+        "a": "the evolution of capital and technology",
+        "b": "a permanently horizontal aggregate-supply curve",
+        "c": "only current government spending",
+        "d": "fixed capital and fixed technology"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "Why is the short-run aggregate-supply curve treated as horizontal in this chapter?",
+      "options": {
+        "a": "Firms are assumed able to meet extra demand at unchanged prices because productive resources are underutilised.",
+        "b": "All firms are at full capacity.",
+        "c": "Wages and prices adjust instantly.",
+        "d": "The natural unemployment rate is zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "The fixed-price short-run assumption is more plausible for longer when:",
+      "options": {
+        "a": "the economy is at full employment with no spare capacity",
+        "b": "all prices are auctioned continuously",
+        "c": "worker market power is limited and/or prices are fixed for longer periods",
+        "d": "technology changes every day"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "Under the chapter's short-run assumptions, output Y is determined by:",
+      "options": {
+        "a": "the money multiplier only",
+        "b": "potential output only",
+        "c": "aggregate demand Z because supply accommodates demand at the fixed price level",
+        "d": "the nominal exchange rate only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "This chapter initially studies a closed economy, so:",
+      "options": {
+        "a": "net exports X−M are set to zero",
+        "b": "taxes are set to zero",
+        "c": "investment is set to zero",
+        "d": "government spending is set to zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "In the closed-economy goods-market model, aggregate demand is:",
+      "options": {
+        "a": "Z = C + I + G",
+        "b": "Z = C + S",
+        "c": "Z = C + I + G + X − M with nonzero NX by assumption",
+        "d": "Z = Y − T only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "For a given disposable income, the household's central intertemporal choice is between:",
+      "options": {
+        "a": "exports and imports",
+        "b": "money supply and money demand",
+        "c": "wages and prices",
+        "d": "current consumption and saving for future consumption"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "Wealth is a:",
+      "options": {
+        "a": "flow equal to income not consumed",
+        "b": "flow of resources earned over a period",
+        "c": "tax rate",
+        "d": "stock equal to assets owned minus liabilities at a given moment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "Income is a:",
+      "options": {
+        "a": "capital depreciation rate",
+        "b": "flow of resources received over a period",
+        "c": "price index",
+        "d": "stock of all assets net of liabilities"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Saving is:",
+      "options": {
+        "a": "the same thing as wealth",
+        "b": "all current consumption",
+        "c": "the portion of income not consumed during a period",
+        "d": "the value of assets at one instant"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "Life-cycle reasoning implies that current consumption depends not only on current disposable income but also on:",
+      "options": {
+        "a": "only the current nominal interest rate",
+        "b": "wealth and expectations about future income",
+        "c": "only government spending",
+        "d": "only current taxes"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Discounted wealth includes:",
+      "options": {
+        "a": "accumulated wealth, current disposable income and the present value of expected future income",
+        "b": "government debt only",
+        "c": "only current disposable income",
+        "d": "only financial wealth, excluding expected income"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "If a normal consumer perceives higher discounted wealth, current consumption tends to:",
+      "options": {
+        "a": "remain unchanged by assumption",
+        "b": "decrease",
+        "c": "become equal to saving",
+        "d": "increase"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "Consumption smoothing implies that consumption generally reacts to a temporary current-income change:",
+      "options": {
+        "a": "not at all even for credit-constrained households",
+        "b": "less than proportionally",
+        "c": "more than proportionally in all cases",
+        "d": "one-for-one by definition"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "Credit-market imperfections can make consumption:",
+      "options": {
+        "a": "more sensitive to current income because some households cannot borrow freely",
+        "b": "less sensitive than life-cycle theory predicts in every case",
+        "c": "completely independent of current income",
+        "d": "equal to wealth"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "A change in expectations about future income can change current consumption:",
+      "options": {
+        "a": "only if taxes are zero",
+        "b": "only after current income changes first",
+        "c": "never in the life-cycle model",
+        "d": "even when current income is unchanged"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "Holding other determinants fixed, which expectation change tends to raise current consumption?",
+      "options": {
+        "a": "greater uncertainty about future income",
+        "b": "tighter access to credit",
+        "c": "a decline in household wealth",
+        "d": "an increase in expected future income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "Holding other determinants fixed, which wealth change tends to raise current consumption?",
+      "options": {
+        "a": "a fall in disposable income",
+        "b": "an appreciation of household financial or real-estate wealth",
+        "c": "a deterioration in consumer confidence",
+        "d": "greater uncertainty"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "Easier access to credit tends to:",
+      "options": {
+        "a": "eliminate saving",
+        "b": "reduce consumption mechanically",
+        "c": "increase consumption by allowing households to spend more than current income when desired",
+        "d": "reduce expected wealth"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "Greater uncertainty about future prospects tends to:",
+      "options": {
+        "a": "raise autonomous taxes",
+        "b": "reduce current consumption through precautionary behaviour",
+        "c": "leave consumption unchanged",
+        "d": "raise consumption because uncertainty has a positive sign in the model"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "Consumer-confidence indicators aim to measure:",
+      "options": {
+        "a": "households' views about the economic outlook and future prospects",
+        "b": "the natural unemployment rate",
+        "c": "firms' markup θ",
+        "d": "the reserve ratio"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "The simplified consumption function is:",
+      "options": {
+        "a": "C = C0 − c1 YD",
+        "b": "C = I + G",
+        "c": "C = C0 + c1 YD",
+        "d": "C = YD − C0/c1 only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "Autonomous consumption C0 captures:",
+      "options": {
+        "a": "consumption influences not directly tied to current disposable income, such as wealth, expectations and confidence",
+        "b": "the marginal response of consumption to YD",
+        "c": "all taxes",
+        "d": "only government purchases"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "The marginal propensity to consume c1 is:",
+      "options": {
+        "a": "C/Y always",
+        "b": "1/t1",
+        "c": "ΔYD/ΔC",
+        "d": "ΔC/ΔYD"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "The course assumes for the marginal propensity to consume:",
+      "options": {
+        "a": "0 < c1 < 1",
+        "b": "c1 < 0",
+        "c": "c1 > 1 necessarily",
+        "d": "c1 = 0 necessarily"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "If C = 50 + 0.8YD and disposable income rises by 100, consumption rises by:",
+      "options": {
+        "a": "80",
+        "b": "50",
+        "c": "100",
+        "d": "20"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "Private saving satisfies:",
+      "options": {
+        "a": "Y = C + S + X only",
+        "b": "S = C + YD",
+        "c": "S = G − T",
+        "d": "YD = C + S"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "Given C = C0 + c1YD, the implied saving function is:",
+      "options": {
+        "a": "S = YD/(1−c1)",
+        "b": "S = C0 + c1YD",
+        "c": "S = −C0 + (1−c1)YD",
+        "d": "S = −C0 − c1YD"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "The marginal propensity to save s1 equals:",
+      "options": {
+        "a": "t1",
+        "b": "c1/(1−c1)",
+        "c": "1 − c1",
+        "d": "1 + c1"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "A firm should undertake an investment when its expected net present value is:",
+      "options": {
+        "a": "lower than depreciation regardless of profits",
+        "b": "negative",
+        "c": "positive",
+        "d": "equal to the nominal price level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "In the investment notation, Π^e_t denotes:",
+      "options": {
+        "a": "the aggregate price level",
+        "b": "net taxes",
+        "c": "the reserve ratio",
+        "d": "expected future profits from the investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "The risk premium σ represents:",
+      "options": {
+        "a": "the marginal propensity to consume",
+        "b": "expected inflation",
+        "c": "the additional financing return/cost above the risk-free real interest rate associated with risk",
+        "d": "the depreciation rate"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "The depreciation rate δ means that after one period a machine retains:",
+      "options": {
+        "a": "δ+1 of its value",
+        "b": "1+δ of its value",
+        "c": "zero value regardless of δ",
+        "d": "1−δ of its previous value"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "Holding expected profits fixed, a higher risk-adjusted real interest rate tends to:",
+      "options": {
+        "a": "turn investment into consumption",
+        "b": "raise the present value",
+        "c": "lower the present value of expected investment profits",
+        "d": "have no effect on discounting"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "The determinants of investment are summarized as:",
+      "options": {
+        "a": "I depends only on current activity",
+        "b": "I increases with expected future activity and current activity, and decreases with the real interest rate and risk premium",
+        "c": "I rises with interest rates and falls with expected activity",
+        "d": "I decreases with all four variables"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "Why does higher current activity Y tend to raise investment?",
+      "options": {
+        "a": "Firms have stronger current profits/internal funds and may appear more creditworthy.",
+        "b": "It eliminates all bank lending.",
+        "c": "It mechanically lowers expected profits.",
+        "d": "It raises depreciation to 100%."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "The simplified investment equation is:",
+      "options": {
+        "a": "I = I0 − b1Y + b2(rn+σ)",
+        "b": "I = b2Y − I0",
+        "c": "I = I0 + b1Y + b2(rn+σ)",
+        "d": "I = I0 + b1Y − b2(rn + σ)"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "Autonomous investment I0 is:",
+      "options": {
+        "a": "government investment only",
+        "b": "the sensitivity of investment to current income",
+        "c": "the part of investment not correlated with current income in the simplified equation",
+        "d": "the interest-rate sensitivity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "In Chapter 5, rn and σ are treated as:",
+      "options": {
+        "a": "components of disposable income",
+        "b": "parameters that must be zero",
+        "c": "exogenous variables",
+        "d": "endogenous variables determined by the goods market"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "If I = 100 + 0.2Y − 50(rn+σ), a 1 percentage-point rise in rn interpreted as 0.01 lowers I by:",
+      "options": {
+        "a": "0.5 units",
+        "b": "0.01 units",
+        "c": "5 units",
+        "d": "50 units"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "Government spending G is treated as exogenous mainly because:",
+      "options": {
+        "a": "G never changes",
+        "b": "G equals taxes by identity",
+        "c": "government objectives are not modelled as a simple behavioural response to current economic variables",
+        "d": "government has no budget constraint in reality"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "Net taxes T are:",
+      "options": {
+        "a": "gross tax receipts only",
+        "b": "tax revenues corrected for transfers/subsidies paid back to households and firms",
+        "c": "government purchases only",
+        "d": "exports minus imports"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Disposable income is:",
+      "options": {
+        "a": "YD = T − Y",
+        "b": "YD = Y − T",
+        "c": "YD = Y + T",
+        "d": "YD = C + I + G"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "The linear net-tax function is:",
+      "options": {
+        "a": "T = T0 + t1Y",
+        "b": "T = T0 − t1Y",
+        "c": "T = t1/Y",
+        "d": "T = Y − T0 only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "Autonomous net taxes T0 include components that:",
+      "options": {
+        "a": "must be zero",
+        "b": "are identical to government purchases",
+        "c": "are always proportional to income",
+        "d": "do not change directly with current income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "The coefficient t1 measures:",
+      "options": {
+        "a": "the cash preference ratio",
+        "b": "the sensitivity of net taxes to current income",
+        "c": "the marginal propensity to consume",
+        "d": "the interest sensitivity of investment"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "Combining T = T0 + t1Y with YD = Y−T gives:",
+      "options": {
+        "a": "YD = −T0 + t1Y",
+        "b": "YD = Y/(1−t1)",
+        "c": "YD = T0 +(1+t1)Y",
+        "d": "YD = −T0 + (1−t1)Y"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "The short-run goods-market equilibrium condition is:",
+      "options": {
+        "a": "Y = C + S only",
+        "b": "P = P^e",
+        "c": "Y = Z = C + I + G",
+        "d": "M^s = M^d"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "In the structural model, which variables are endogenous?",
+      "options": {
+        "a": "Z, C, I, YD and Y",
+        "b": "c1, t1, b1 and b2 only",
+        "c": "G, rn and σ only",
+        "d": "C0, T0 and I0 only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "Which are exogenous in the Chapter 5 structural model?",
+      "options": {
+        "a": "Y, C and I",
+        "b": "Z and YD",
+        "c": "c1, t1 and b1 only",
+        "d": "G, rn and σ"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "Which are parameters rather than endogenous variables?",
+      "options": {
+        "a": "G, rn and σ",
+        "b": "Z and YD",
+        "c": "C0, T0, I0, c1, t1, b1 and b2",
+        "d": "Y, C and I"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "In the Keynesian cross, equilibrium occurs at:",
+      "options": {
+        "a": "the point where saving is zero",
+        "b": "the point where prices equal expected prices",
+        "c": "the intersection of the aggregate-demand curve Z(Y) and the 45-degree line Y=Z",
+        "d": "the vertical intercept of Z only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "The multiplier mechanism means that an autonomous increase in demand:",
+      "options": {
+        "a": "works only through prices, which are flexible in this model",
+        "b": "induces further consumption and investment responses, so equilibrium output rises by more than the initial direct demand increase",
+        "c": "raises output only by the initial amount with no feedback",
+        "d": "necessarily lowers output"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "Solving the model gives a denominator for the autonomous-spending multiplier equal to:",
+      "options": {
+        "a": "1−c1 only",
+        "b": "c1+t1+b1",
+        "c": "1 − [c1(1−t1) + b1]",
+        "d": "1 + c1(1−t1) + b1"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "The government-spending multiplier is:",
+      "options": {
+        "a": "1−[c1(1−t1)+b1]",
+        "b": "b2 / {1 − [c1(1−t1)+b1]}",
+        "c": "−c1 / {1 − [c1(1−t1)+b1]}",
+        "d": "1 / {1 − [c1(1−t1)+b1]}"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "A higher marginal propensity to consume c1, all else equal, tends to:",
+      "options": {
+        "a": "make the multiplier necessarily negative",
+        "b": "leave it unchanged",
+        "c": "decrease the multiplier",
+        "d": "increase the government-spending multiplier"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "A higher tax sensitivity t1, all else equal, tends to:",
+      "options": {
+        "a": "increase the multiplier",
+        "b": "leave it unchanged",
+        "c": "make b1 zero",
+        "d": "reduce the multiplier by weakening disposable-income feedback"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q60",
+      "text": "A higher sensitivity of investment to current activity b1 tends to:",
+      "options": {
+        "a": "decrease the multiplier",
+        "b": "affect only taxes",
+        "c": "have no effect on equilibrium output",
+        "d": "increase the multiplier through stronger induced-investment feedback"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q61",
+      "text": "The multiplier of autonomous taxes T0 is:",
+      "options": {
+        "a": "positive because higher taxes raise consumption",
+        "b": "positive and equal to the G multiplier",
+        "c": "negative because higher autonomous taxes reduce disposable income and consumption",
+        "d": "zero because taxes are transfers"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q62",
+      "text": "An increase in autonomous investment I0 has:",
+      "options": {
+        "a": "no effect on output",
+        "b": "the same basic multiplier denominator as an equal increase in G",
+        "c": "an effect only on prices",
+        "d": "a negative effect on output"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q63",
+      "text": "A rise in rn or σ lowers equilibrium output because it:",
+      "options": {
+        "a": "raises investment",
+        "b": "reduces investment and then triggers negative multiplier feedback",
+        "c": "raises disposable income directly",
+        "d": "lowers net taxes automatically"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q64",
+      "text": "In a closed economy, goods-market equilibrium can also be expressed as:",
+      "options": {
+        "a": "exports equal imports necessarily because saving is zero",
+        "b": "real wages equal nominal wages",
+        "c": "saving equals investment after accounting for government saving appropriately",
+        "d": "money supply equals money demand"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q65",
+      "text": "Starting from Y=C+I+G and disposable-income definitions, national saving is linked to investment because:",
+      "options": {
+        "a": "investment is a government transfer",
+        "b": "resources not consumed by private or public sectors finance investment in the closed economy",
+        "c": "imports finance all investment",
+        "d": "all saving must be held as currency"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q66",
+      "text": "Suppose C0=40, c1=0.75, T0=20, t1=0.20, I0=60, b1=0.10, G=50, and the interest/risk term b2(rn+σ)=10. The autonomous numerator C0−c1T0+I0−10+G equals:",
+      "options": {
+        "a": "145",
+        "b": "125",
+        "c": "95",
+        "d": "160"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q67",
+      "text": "With c1=0.75, t1=0.20 and b1=0.10, the multiplier denominator is 1−[0.75(0.8)+0.10] =:",
+      "options": {
+        "a": "0.20",
+        "b": "0.30",
+        "c": "1.70",
+        "d": "0.70"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q68",
+      "text": "Using the same parameters, the government-spending multiplier is approximately:",
+      "options": {
+        "a": "3.33",
+        "b": "1.43",
+        "c": "0.30",
+        "d": "2.00"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q69",
+      "text": "If the multiplier is 2.5 and autonomous government spending rises by 20, equilibrium output rises by:",
+      "options": {
+        "a": "50",
+        "b": "20",
+        "c": "70",
+        "d": "8"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q70",
+      "text": "If c1=0.8 and the autonomous-tax multiplier denominator is 0.4, a 10-unit rise in T0 changes equilibrium output by:",
+      "options": {
+        "a": "−8",
+        "b": "+8",
+        "c": "+20",
+        "d": "−20"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q71",
+      "text": "A firm considers a machine with expected annual profits that are unchanged, but the risk premium rises sharply. The NPV criterion predicts:",
+      "options": {
+        "a": "depreciation becomes negative",
+        "b": "fewer projects will have positive NPV, so investment falls",
+        "c": "investment is unchanged because only nominal rates matter",
+        "d": "more projects become profitable"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q72",
+      "text": "(Select the incorrect answer) Under the short-run Keynesian goods-market assumptions:",
+      "options": {
+        "a": "prices are fixed",
+        "b": "productive factors are underemployed",
+        "c": "firms are assumed to be at full capacity and unable to expand output without immediate price increases",
+        "d": "aggregate demand determines equilibrium output"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "id": "binge1113_ch2_mcq_bank",
+  "name": "Chapter 2 - Measuring prices and inflation - Comprehensive MCQ Bank",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "A price index compares:",
+      "options": {
+        "a": "the quantity of a basket at two dates without using prices",
+        "b": "nominal GDP with population",
+        "c": "the price level of the same basket at a given date with its price level at a chosen baseline date",
+        "d": "the income approach to GDP with the expenditure approach"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "text": "For a single product i, the basic price index at date t with baseline a is:",
+      "options": {
+        "a": "p_it / p_ia",
+        "b": "p_ia / p_it",
+        "c": "(p_it + p_ia)/2",
+        "d": "p_it − p_ia"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "text": "At the baseline date a, a basic price index expressed in base 1 must equal:",
+      "options": {
+        "a": "0",
+        "b": "the inflation rate",
+        "c": "1",
+        "d": "100 regardless of the chosen base convention"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q4",
+      "text": "An index in base 100 is obtained from the corresponding base-1 index by:",
+      "options": {
+        "a": "subtracting 1 and multiplying by 100",
+        "b": "multiplying it by 100",
+        "c": "dividing it by 100",
+        "d": "adding 100"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q5",
+      "text": "If a base-1 price index is 1.18 in 2025 relative to 2020, the price in 2025 is:",
+      "options": {
+        "a": "18 times the 2020 price",
+        "b": "necessarily €1.18",
+        "c": "1.18 times the 2020 price",
+        "d": "0.18 times the 2020 price"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q6",
+      "text": "If a base-100 price index equals 93 in year t relative to the base year, the price level is:",
+      "options": {
+        "a": "unchanged because only 100 has an interpretation",
+        "b": "7% above its baseline level",
+        "c": "7% below its baseline level",
+        "d": "93% below its baseline level"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q7",
+      "text": "For a date t after the baseline a, the cumulative price growth rate from a to t using a base-1 index is:",
+      "options": {
+        "a": "P_t|a − 1",
+        "b": "P_t|a",
+        "c": "1/P_t|a − 1",
+        "d": "P_a|t − 1 only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q8",
+      "text": "A price index is 1.25 in 2024 with 2020 as baseline. The cumulative inflation rate from 2020 to 2024 is:",
+      "options": {
+        "a": "20%",
+        "b": "25%",
+        "c": "−20%",
+        "d": "125%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q9",
+      "text": "A price index for 2012 is 1.20 when 2015 is the baseline. The growth factor of prices from 2012 to 2015 is:",
+      "options": {
+        "a": "0.20",
+        "b": "1.20",
+        "c": "2.20",
+        "d": "1/1.20 ≈ 0.833"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q10",
+      "text": "If P_2012|2015 = 1.20, then from 2012 to 2015 prices changed by approximately:",
+      "options": {
+        "a": "−20%",
+        "b": "−16.7%",
+        "c": "+16.7%",
+        "d": "+20%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q11",
+      "text": "The price growth factor from t1 to t2 can be computed from a common price-index series as:",
+      "options": {
+        "a": "P_t1|a / P_t2|a",
+        "b": "P_t2|a − P_t1|a",
+        "c": "P_t1|a + P_t2|a",
+        "d": "P_t2|a / P_t1|a"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q12",
+      "text": "Suppose a price index equals 110 in 2022 and 121 in 2024, both with the same base year. Inflation from 2022 to 2024 is:",
+      "options": {
+        "a": "1%",
+        "b": "11%",
+        "c": "10%",
+        "d": "21%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q13",
+      "text": "Changing the baseline year of a price index:",
+      "options": {
+        "a": "changes the numerical index levels but not the measured price growth factor between two given dates",
+        "b": "changes both index levels and the true growth factor between any two dates",
+        "c": "leaves all index levels unchanged",
+        "d": "is impossible once the series has been published"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q14",
+      "text": "Why does the absolute level of a price index have meaning only relative to its baseline?",
+      "options": {
+        "a": "Because the index directly measures quantities rather than prices.",
+        "b": "Because index levels are measured in euros.",
+        "c": "Because all price indices have the same baseline by law.",
+        "d": "Because it is a ratio comparing current prices with the chosen reference-price level."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q15",
+      "text": "The fundamental problem when constructing a composite price index is:",
+      "options": {
+        "a": "how to convert all quantities into labour hours",
+        "b": "how to weight the prices of different products in a single aggregate",
+        "c": "how to eliminate all relative-price changes",
+        "d": "how to ensure every product receives exactly the same economic importance"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q16",
+      "text": "A simple arithmetic average of product prices may have questionable economic meaning because:",
+      "options": {
+        "a": "products can differ greatly in economic importance and units, yet an unweighted average treats them symmetrically",
+        "b": "an average always uses base-year quantities",
+        "c": "it necessarily equals a Laspeyres index",
+        "d": "prices cannot mathematically be averaged"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q17",
+      "text": "A weighted composite price index gives a larger influence to a product when:",
+      "options": {
+        "a": "its price is numerically smaller",
+        "b": "it was introduced more recently",
+        "c": "it is imported",
+        "d": "the product has a larger weight in the relevant basket"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q18",
+      "text": "A Laspeyres price index uses:",
+      "options": {
+        "a": "current-period quantities as weights",
+        "b": "future quantities expected by households",
+        "c": "base-period quantities as fixed basket weights",
+        "d": "equal weights for all products"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q19",
+      "text": "The Laspeyres price index at t relative to a is:",
+      "options": {
+        "a": "Σ p_it q_it / Σ p_ia q_ia",
+        "b": "Σ p_it q_ia / Σ p_ia q_ia",
+        "c": "Σ p_ia q_it / Σ p_it q_ia",
+        "d": "Σ q_it / Σ q_ia"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q20",
+      "text": "The interpretation of a Laspeyres index equal to 1.30 is that:",
+      "options": {
+        "a": "every single price rose by exactly 30%",
+        "b": "the current-period basket contains 30% more goods",
+        "c": "real consumption rose by 30%",
+        "d": "the base-period basket costs 30% more at current prices than it cost in the base period"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q21",
+      "text": "In the course example, the 2018 reference basket has quantities (100, 50, 40) and costs 3000 in 2018. If the same basket costs 3550 in 2019, the 2019 Laspeyres index is approximately:",
+      "options": {
+        "a": "0.183",
+        "b": "1.550",
+        "c": "1.183",
+        "d": "0.845"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q22",
+      "text": "A Laspeyres index holds the basket composition fixed in order to:",
+      "options": {
+        "a": "eliminate the need for a baseline",
+        "b": "force every product price to have the same weight",
+        "c": "isolate how the cost of a given reference basket changes as prices change",
+        "d": "measure changes in current quantities only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q23",
+      "text": "The Belgian CPI described in the course is:",
+      "options": {
+        "a": "a GDP deflator limited to exported goods",
+        "b": "a stock-market index",
+        "c": "a Laspeyres-type index tracking a broad basket of household goods and services",
+        "d": "an index of domestic producer profits only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q24",
+      "text": "The slides state that the Belgian CPI basket contains approximately:",
+      "options": {
+        "a": "520 goods and services divided into 12 categories",
+        "b": "all goods produced in Belgium regardless of household consumption",
+        "c": "only food and energy products",
+        "d": "12 goods divided into 520 categories"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q25",
+      "text": "Since 2006, the Belgian CPI basket composition is reviewed:",
+      "options": {
+        "a": "once every ten years only",
+        "b": "only when inflation exceeds 10%",
+        "c": "yearly",
+        "d": "daily"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q26",
+      "text": "The purpose of regularly updating the CPI basket is to:",
+      "options": {
+        "a": "ensure all prices receive equal weights",
+        "b": "make inflation independent of consumer substitution",
+        "c": "keep the reference basket closer to current household consumption habits",
+        "d": "turn the CPI into the GDP deflator"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q27",
+      "text": "The Belgian \"Indice Santé\" is based on the CPI basket but excludes:",
+      "options": {
+        "a": "services and durable goods",
+        "b": "food, housing and medical care",
+        "c": "all imported products",
+        "d": "alcoholic beverages, tobacco products and motor fuels"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q28",
+      "text": "The Harmonised CPI is designed mainly to:",
+      "options": {
+        "a": "measure only Belgian export prices",
+        "b": "make inflation measures more comparable across EU countries using harmonised basket rules",
+        "c": "calculate purchasing power parity with one product",
+        "d": "replace national accounts GDP"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q29",
+      "text": "The Belgian HCPI weights shown in the slides sum to:",
+      "options": {
+        "a": "1 only because it cannot be expressed in per mille",
+        "b": "520",
+        "c": "100",
+        "d": "1000 per mille"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q30",
+      "text": "A product category with a larger HCPI weight will, for a given percentage price change:",
+      "options": {
+        "a": "have a smaller impact by construction",
+        "b": "have a larger direct impact on measured HCPI inflation",
+        "c": "affect only real GDP, not inflation",
+        "d": "have no impact because the index is unweighted"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q31",
+      "text": "When using a composite price index, measured inflation can differ across indices because:",
+      "options": {
+        "a": "inflation is independent of the reference basket",
+        "b": "different weighting conventions give different importance to individual price changes",
+        "c": "all composite indices must use identical weights",
+        "d": "only basic price indices can be used to calculate growth rates"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q32",
+      "text": "Changing the reference year of a composite Laspeyres-type index can affect measured inflation because:",
+      "options": {
+        "a": "the reference year can imply a different set of expenditure weights",
+        "b": "the index no longer has a baseline",
+        "c": "the basic mathematical growth-factor formula becomes invalid",
+        "d": "all prices are converted into quantities"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q33",
+      "text": "The CPI and GDP deflator can evolve differently because:",
+      "options": {
+        "a": "they cover and weight different sets of prices",
+        "b": "the CPI is always equal to the GDP deflator in an open economy",
+        "c": "the GDP deflator excludes all domestic production",
+        "d": "one measures quantities and the other unemployment"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q34",
+      "text": "Which statement is most accurate?",
+      "options": {
+        "a": "Every valid price index must yield exactly the same inflation rate.",
+        "b": "There is no single convention-free inflation number when different composite price indices use different baskets and weights.",
+        "c": "Changing a basket affects only the index level, never measured inflation.",
+        "d": "Only changes in energy prices can make inflation measures differ."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q35",
+      "text": "Laspeyres price indices are generally considered to have an upward bias in measured inflation partly because they:",
+      "options": {
+        "a": "systematically use future prices",
+        "b": "treat falling prices as rising prices",
+        "c": "do not fully adjust for improvements in product quality",
+        "d": "exclude all durable goods"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q36",
+      "text": "If a product's price rises by 8% while its quality improves substantially, a price index that ignores quality change may:",
+      "options": {
+        "a": "understate inflation by exactly 8%",
+        "b": "automatically correct the price using GDP per capita",
+        "c": "overstate the pure inflation component of the price increase",
+        "d": "measure only quantity growth"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q37",
+      "text": "The \"new product bias\" arises because new products are often added to a CPI basket:",
+      "options": {
+        "a": "with zero weight forever",
+        "b": "before they exist",
+        "c": "only after their prices have risen permanently",
+        "d": "only after they become widely consumed, potentially missing earlier price declines"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q38",
+      "text": "The substitution bias in a fixed-basket index arises because:",
+      "options": {
+        "a": "the index excludes all goods with rising prices",
+        "b": "consumers shift toward relatively cheaper goods, while the fixed basket continues to weight the original consumption pattern",
+        "c": "consumers never respond to relative prices",
+        "d": "the index uses current quantities every period"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q39",
+      "text": "If the price of one good rises sharply relative to substitutes, actual consumers may reduce purchases of it. A fixed Laspeyres basket will tend to:",
+      "options": {
+        "a": "convert the price increase into real wage growth",
+        "b": "understate inflation because it immediately lowers the good's weight",
+        "c": "be unaffected by the good's price",
+        "d": "overstate the increase in the cost of maintaining consumers' adapted consumption pattern"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q40",
+      "text": "Annual basket revisions reduce substitution bias because they:",
+      "options": {
+        "a": "update weights to reflect changed consumption patterns, although substitution within the year can still be missed",
+        "b": "make the basket completely flexible at every instant",
+        "c": "remove all quality-measurement problems",
+        "d": "force all consumers to buy the reference basket"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q41",
+      "text": "In macroeconomics, a real variable is:",
+      "options": {
+        "a": "a variable measured only in physical units and never monetary units",
+        "b": "a nominal variable adjusted for the aggregate evolution of prices",
+        "c": "a variable that is simply observed rather than expected",
+        "d": "a variable that excludes all taxes"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q42",
+      "text": "The generic way to obtain a real variable from a nominal monetary variable is to:",
+      "options": {
+        "a": "divide the nominal variable by an appropriate price index",
+        "b": "add the price index",
+        "c": "multiply it by the inflation rate",
+        "d": "subtract the nominal interest rate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q43",
+      "text": "For a single good with nominal expenditure v^n_it = p_it q_it and price index P^i_t|a = p_it/p_ia, the real expenditure is:",
+      "options": {
+        "a": "p_ia q_it",
+        "b": "p_it q_it",
+        "c": "p_it/p_ia",
+        "d": "q_it/p_it"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q44",
+      "text": "Why does the growth rate of a correctly deflated real variable for a single good depend only on quantities?",
+      "options": {
+        "a": "Because the same reference price multiplies quantities at both dates and cancels in the growth ratio.",
+        "b": "Because nominal prices are assumed never to change.",
+        "c": "Because all goods have unit prices.",
+        "d": "Because the baseline date must equal both comparison dates."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q45",
+      "text": "Changing the reference date used to express a real variable:",
+      "options": {
+        "a": "changes both its level and its quantity growth factor",
+        "b": "changes its level but not its growth factor between two given dates",
+        "c": "has no effect on its level",
+        "d": "turns the variable nominal"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q46",
+      "text": "For an aggregate nominal variable v^n_t and an aggregate price index P_t|a, the associated real variable is:",
+      "options": {
+        "a": "P_t|a / v^n_t",
+        "b": "v^n_t − P_t|a",
+        "c": "v^n_t × P_t|a",
+        "d": "v^n_t / P_t|a"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q47",
+      "text": "The real wage is defined as:",
+      "options": {
+        "a": "the wage divided by real GDP",
+        "b": "the nominal wage plus inflation",
+        "c": "the nominal wage multiplied by the CPI",
+        "d": "the nominal wage divided by a consumption price index"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q48",
+      "text": "The economic interpretation of the real wage is:",
+      "options": {
+        "a": "the firm's total labour cost including all capital income",
+        "b": "the purchasing power of the nominal wage in terms of the reference consumption basket",
+        "c": "the worker's hours worked",
+        "d": "the worker's nominal tax rate"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q49",
+      "text": "A worker's nominal wage rises by 5% while the relevant price index rises by 8%. The worker's real wage:",
+      "options": {
+        "a": "falls",
+        "b": "is unchanged",
+        "c": "rises by 13%",
+        "d": "rises by 3%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q50",
+      "text": "A worker's nominal wage rises by 12% while consumer prices rise by 7%. The worker's purchasing power:",
+      "options": {
+        "a": "cannot be assessed without the GDP deflator specifically",
+        "b": "is unchanged because both variables increased",
+        "c": "falls because any positive inflation lowers real wages",
+        "d": "rises because nominal wage growth exceeds price growth"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "q51",
+      "text": "A CPI with base year 2010 equals 140 in 2024. If a worker's nominal wage rose only 25% over the same period, then relative to 2010 the worker's real wage has:",
+      "options": {
+        "a": "decreased",
+        "b": "remained unchanged",
+        "c": "increased",
+        "d": "become impossible to measure without changing the base year"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q52",
+      "text": "A price index equals 80 in 2018 and 100 in 2020. What was the cumulative inflation rate from 2018 to 2020?",
+      "options": {
+        "a": "20%",
+        "b": "−20%",
+        "c": "25%",
+        "d": "80%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q53",
+      "text": "A price index equals 150 in 2020 and 165 in 2022. The price growth factor from 2020 to 2022 is:",
+      "options": {
+        "a": "1.10",
+        "b": "15",
+        "c": "0.91",
+        "d": "1.15"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q54",
+      "text": "An item costs €48 in the base year and its base-100 index is 125 today. Its current price is:",
+      "options": {
+        "a": "€60",
+        "b": "€73",
+        "c": "€38.40",
+        "d": "€125"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q55",
+      "text": "An item costs €60 today and its base-100 price index is 120. Its base-year price was:",
+      "options": {
+        "a": "€40",
+        "b": "€50",
+        "c": "€72",
+        "d": "€60"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "q56",
+      "text": "A basket contains 2 units of good A and 1 unit of good B in the base year. Base-year prices are €10 and €20; current prices are €15 and €22. The Laspeyres price index in base 1 is:",
+      "options": {
+        "a": "(2×15 + 1×22)/(2×10 + 1×20) = 1.30",
+        "b": "(15+22)/(10+20) ≈ 1.23",
+        "c": "(2×15 + 1×22)/(2+1) ≈ 17.33",
+        "d": "(2×10 + 1×20)/(2×15 + 1×22) ≈ 0.77"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "q57",
+      "text": "Suppose a nominal salary is €3,000 and the relevant base-1 CPI is 1.25. The real salary in base-year purchasing-power units is:",
+      "options": {
+        "a": "€3,750",
+        "b": "€3,000",
+        "c": "€2,400",
+        "d": "€1,750"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q58",
+      "text": "(Select the incorrect answer) A well-constructed answer about inflation measurement should recognise that:",
+      "options": {
+        "a": "price-index levels depend on the chosen baseline",
+        "b": "different baskets can yield different measured inflation rates",
+        "c": "a composite price index is completely independent of its weighting rule",
+        "d": "growth between two dates can be calculated by taking a ratio of index values"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "q59",
+      "text": "The chapter explicitly distinguishes measuring inflation from explaining inflation. Its conclusion is that:",
+      "options": {
+        "a": "inflation can only arise from measurement bias",
+        "b": "the construction of the CPI itself explains all causes of inflation",
+        "c": "once a price index is built no macroeconomic model of inflation is needed",
+        "d": "price indices measure how the aggregate price level evolves, while later chapters analyse mechanisms causing those movements"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}
