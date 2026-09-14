@@ -1,0 +1,2478 @@
+{
+  "id": "intermediate-microeconomics-ch1-6",
+  "name": "Intermediate Microeconomics MCQ Bank (Ch. 1–6)",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "name": "Chapter 1: Introduction to microeconomics",
+      "questions": [
+        {
+          "id": "ch1q1",
+          "text": "Which statement best captures the economic problem of scarcity?",
+          "options": {
+            "a": "Every good has a positive money price.",
+            "b": "Resources are limited relative to the wants they could be used to satisfy.",
+            "c": "People are unable to compare alternative uses of resources.",
+            "d": "Firms always face shortages of labor."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q2",
+          "text": "Microeconomics is primarily concerned with",
+          "options": {
+            "a": "the determination of a country’s long-run growth rate only.",
+            "b": "the accounting rules used to construct the balance of payments.",
+            "c": "the measurement of national income and aggregate unemployment only.",
+            "d": "the behavior and choices of individual economic decision makers such as consumers and firms."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q3",
+          "text": "Which of the following can be a microeconomic question?",
+          "options": {
+            "a": "What determines the national unemployment rate over the business cycle.",
+            "b": "How a tax on a particular good changes the choices of consumers and firms in that market.",
+            "c": "How aggregate output is measured in national accounts.",
+            "d": "How the overall price level changes across the entire economy."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q4",
+          "text": "An economic model is best described as",
+          "options": {
+            "a": "a simplified formal description of an economic problem built on explicit assumptions.",
+            "b": "a forecast that is valid only if every variable is endogenous.",
+            "c": "a complete description of reality with no simplifying assumptions.",
+            "d": "a historical narrative that contains no variables."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q5",
+          "text": "In an economic model, an exogenous variable is a variable whose value is",
+          "options": {
+            "a": "chosen by the consumer in the objective function.",
+            "b": "taken as given by the model.",
+            "c": "determined by solving the model.",
+            "d": "always equal to zero in equilibrium."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q6",
+          "text": "In an economic model, an endogenous variable is a variable whose value is",
+          "options": {
+            "a": "measured outside the model but not explained by it.",
+            "b": "fixed by assumption and never allowed to change.",
+            "c": "necessarily controlled by the government.",
+            "d": "determined within the model."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q7",
+          "text": "Constrained optimization refers to",
+          "options": {
+            "a": "maximizing every possible objective at the same time.",
+            "b": "comparing two equilibria after an exogenous change.",
+            "c": "choosing the best feasible alternative while respecting restrictions on the choice.",
+            "d": "setting prices so that quantity demanded equals quantity supplied."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q8",
+          "text": "In a constrained optimization problem, the objective function describes",
+          "options": {
+            "a": "the exogenous variables that must remain constant forever.",
+            "b": "the restrictions that define the feasible set.",
+            "c": "the price adjustment rule that clears a market.",
+            "d": "the relationship the decision maker seeks to maximize or minimize."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q9",
+          "text": "In a constrained optimization problem, a constraint is",
+          "options": {
+            "a": "the marginal benefit of the last unit chosen.",
+            "b": "the value of the objective at the optimum.",
+            "c": "a variable determined only after equilibrium is reached.",
+            "d": "a restriction or limit imposed on the decision maker’s choices."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q10",
+          "text": "The standard rational-choice assumption used in the slides is that a decision maker",
+          "options": {
+            "a": "tries to choose the best alternative available to them.",
+            "b": "never changes behavior when incentives change.",
+            "c": "always chooses the cheapest alternative regardless of preferences.",
+            "d": "always has perfect information about every future event."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q11",
+          "text": "Why can a brewery optimally split an advertising budget between TV and radio even if TV generates more total sales than radio at every equal spending level?",
+          "options": {
+            "a": "Radio advertising must have a larger total effect at every spending level.",
+            "b": "Optimal allocation depends on marginal effects, not simply on total effects at equal spending levels.",
+            "c": "Rational firms ignore diminishing marginal effects when allocating a fixed budget.",
+            "d": "The budget constraint does not apply to advertising decisions."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q12",
+          "text": "The term “marginal” in microeconomics refers to",
+          "options": {
+            "a": "the change in a dependent variable caused by a small additional unit of an independent variable.",
+            "b": "a change in an exogenous variable that leaves all endogenous variables fixed.",
+            "c": "the total level of a variable before any choice is made.",
+            "d": "the average value of all feasible alternatives."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q13",
+          "text": "Diminishing marginal impact of advertising means that",
+          "options": {
+            "a": "the first euro spent has no effect on sales.",
+            "b": "the marginal impact is constant at every level of spending.",
+            "c": "total sales must eventually become negative.",
+            "d": "additional spending generates smaller and smaller increments in sales as spending rises."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q14",
+          "text": "An equilibrium is a state that",
+          "options": {
+            "a": "must involve zero profits for every firm in every market.",
+            "b": "can exist only when government fixes the market price.",
+            "c": "will persist as long as relevant exogenous factors remain unchanged.",
+            "d": "requires every individual to consume identical bundles."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q15",
+          "text": "The equilibrium principle used for the apartment market says that prices adjust until",
+          "options": {
+            "a": "quantity demanded equals quantity supplied.",
+            "b": "all apartments have identical quality.",
+            "c": "every renter has the same reservation price.",
+            "d": "the supply curve becomes horizontal."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q16",
+          "text": "A renter’s reservation price is",
+          "options": {
+            "a": "the rent of the renter’s outside option by definition.",
+            "b": "the lowest rent a landlord is legally allowed to charge.",
+            "c": "the highest rent the renter is willing to pay for an apartment.",
+            "d": "the market-clearing rent after all trades occur."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q17",
+          "text": "All else equal, when the rental price of city-center apartments falls, the quantity demanded tends to",
+          "options": {
+            "a": "increase because more potential renters have reservation prices above the rent.",
+            "b": "remain unchanged because reservation prices adjust one-for-one with rent.",
+            "c": "become zero unless the price equals the equilibrium price.",
+            "d": "decrease because supply is fixed in the short run."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q18",
+          "text": "In the short-run apartment-market example, the supply curve is vertical because",
+          "options": {
+            "a": "the number of available apartments is fixed in the short run.",
+            "b": "demand is perfectly elastic.",
+            "c": "the equilibrium price is fixed by assumption.",
+            "d": "landlords have identical reservation prices."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q19",
+          "text": "If the apartment rent is below the equilibrium rent, then",
+          "options": {
+            "a": "quantity supplied exceeds quantity demanded and the rent tends to rise.",
+            "b": "quantity demanded is below quantity supplied and the rent tends to fall.",
+            "c": "quantity demanded exceeds quantity supplied and the rent tends to rise.",
+            "d": "quantity demanded equals quantity supplied automatically."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q20",
+          "text": "If the apartment rent is above the equilibrium rent, then",
+          "options": {
+            "a": "quantity demanded and quantity supplied both become zero.",
+            "b": "quantity demanded is below quantity supplied and the rent tends to fall.",
+            "c": "quantity demanded exceeds quantity supplied and the rent tends to rise.",
+            "d": "the market must remain permanently out of equilibrium."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q21",
+          "text": "In the simple apartment-market model, an efficient market allocation assigns apartments to",
+          "options": {
+            "a": "renters selected randomly, regardless of willingness to pay.",
+            "b": "only those whose reservation price equals zero.",
+            "c": "the people with the lowest reservation prices.",
+            "d": "the people with the greatest willingness to pay."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch1q22",
+          "text": "Comparative statics is the method of",
+          "options": {
+            "a": "measuring only changes in accounting identities.",
+            "b": "tracing the exact time path by which a market moves between equilibria.",
+            "c": "comparing two static equilibria before and after a change in an exogenous variable.",
+            "d": "maximizing a utility function without any constraints."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q23",
+          "text": "Comparative statics generally does NOT tell us",
+          "options": {
+            "a": "how the equilibrium may differ after an exogenous change.",
+            "b": "which variables are endogenous in a specified model.",
+            "c": "the dynamic path the market follows from the old equilibrium to the new equilibrium.",
+            "d": "whether a supply or demand shift changes equilibrium outcomes."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q24",
+          "text": "If new city-center apartments are constructed, the standard comparative-statics prediction is",
+          "options": {
+            "a": "a lower equilibrium rent with no change in equilibrium quantity.",
+            "b": "an ambiguous quantity effect and a necessarily higher rent.",
+            "c": "a lower equilibrium rent and a higher equilibrium quantity of rented apartments.",
+            "d": "a higher equilibrium rent and a lower equilibrium quantity."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch1q25",
+          "text": "Suppose some rental apartments are converted into owner-occupied condominiums, reducing both rental supply and rental demand. Which outcome is unambiguous in the slides?",
+          "options": {
+            "a": "The equilibrium rent must fall.",
+            "b": "The equilibrium quantity of rental apartments falls.",
+            "c": "The equilibrium rent must rise.",
+            "d": "The equilibrium quantity of rental apartments rises."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q26",
+          "text": "When both rental supply and rental demand decrease, the effect on the equilibrium rent can be ambiguous because",
+          "options": {
+            "a": "the equilibrium principle no longer applies.",
+            "b": "the supply shift tends to raise rent while the demand shift tends to lower rent.",
+            "c": "both shifts necessarily raise rent by the same amount.",
+            "d": "prices do not respond to simultaneous supply and demand shifts."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q27",
+          "text": "Which statement correctly distinguishes constrained optimization from equilibrium analysis?",
+          "options": {
+            "a": "Constrained optimization studies the best feasible choice of a decision maker, whereas equilibrium analysis studies mutual consistency of choices in a system such as a market.",
+            "b": "Constrained optimization concerns only firms, while equilibrium analysis concerns only consumers.",
+            "c": "Constrained optimization determines exogenous variables, while equilibrium analysis fixes all endogenous variables by assumption.",
+            "d": "They are the same analytical tool with different names."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch1q28",
+          "text": "Refer to the accompanying figure. What does the point where the demand curve intersects the vertical supply curve represent?",
+          "options": {
+            "a": "A rent below equilibrium at which there is excess supply.",
+            "b": "The maximum reservation price in the market regardless of supply.",
+            "c": "A rent above equilibrium at which there is excess demand.",
+            "d": "The market-clearing rent p* at which the fixed apartment supply equals quantity demanded."
+          },
+          "answer": "d",
+          "image": "assets/ch1_market_equilibrium.png"
+        },
+        {
+          "id": "ch1q29",
+          "text": "If an exogenous variable changes in a model, the purpose of comparative statics is to ask",
+          "options": {
+            "a": "which exogenous variable the model should redefine as endogenous after the change.",
+            "b": "how the model’s endogenous equilibrium outcomes change as a result.",
+            "c": "whether the original assumptions can be discarded entirely.",
+            "d": "how to keep every endogenous variable fixed despite the change."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch1q30",
+          "text": "Why are assumptions useful in economic models?",
+          "options": {
+            "a": "They simplify reality so that important mechanisms and relationships can be analyzed clearly.",
+            "b": "They guarantee that a model will predict every real-world observation exactly.",
+            "c": "They ensure that all economic decisions are unconstrained.",
+            "d": "They eliminate the need to distinguish exogenous from endogenous variables."
+          },
+          "answer": "a",
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "name": "Chapter 2: Budget constraint",
+      "questions": [
+        {
+          "id": "ch2q1",
+          "text": "For prices p1 and p2 and income m, the consumer’s budget set consists of all bundles satisfying",
+          "options": {
+            "a": "x1 + x2 = p1 + p2.",
+            "b": "p1x1 + p2x2 ≤ m.",
+            "c": "p1x1 + p2x2 = 0.",
+            "d": "p1x1 + p2x2 ≥ m."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q2",
+          "text": "The budget line consists of bundles that",
+          "options": {
+            "a": "cost exactly the consumer’s income m.",
+            "b": "cost strictly less than income m.",
+            "c": "are preferred to every affordable bundle.",
+            "d": "maximize utility for every possible preference ordering."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q3",
+          "text": "Which statement best distinguishes the budget set from the budget line?",
+          "options": {
+            "a": "There is no distinction; the two terms are identical.",
+            "b": "The budget set depends only on preferences, while the budget line depends only on technology.",
+            "c": "The budget set contains all affordable bundles, while the budget line contains bundles that exhaust income.",
+            "d": "The budget line contains all affordable bundles, while the budget set contains only utility-maximizing bundles."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q4",
+          "text": "If good 2 is treated as a composite good representing spending on everything else, a convenient normalization is",
+          "options": {
+            "a": "m = 0.",
+            "b": "p1 = 0.",
+            "c": "p2 = 1.",
+            "d": "x2 = 1 for every consumer."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q5",
+          "text": "With p2 = 1, the budget constraint becomes",
+          "options": {
+            "a": "x1 + p1x2 ≤ m.",
+            "b": "p1x1 + x2 ≤ m.",
+            "c": "p1x1 + p1x2 ≤ 1.",
+            "d": "x1 + x2 ≤ p1m."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q6",
+          "text": "For the budget line p1x1 + p2x2 = m, the vertical intercept is",
+          "options": {
+            "a": "m/p2.",
+            "b": "m/p1.",
+            "c": "p2/p1.",
+            "d": "−p1/p2."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q7",
+          "text": "For the budget line p1x1 + p2x2 = m, the horizontal intercept is",
+          "options": {
+            "a": "m/p2.",
+            "b": "p1/p2.",
+            "c": "−p2/p1.",
+            "d": "m/p1."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q8",
+          "text": "The slope of the budget line when x2 is on the vertical axis is",
+          "options": {
+            "a": "m/p2.",
+            "b": "−p2/p1.",
+            "c": "p1 + p2.",
+            "d": "−p1/p2."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q9",
+          "text": "The absolute value of the budget-line slope, p1/p2, measures",
+          "options": {
+            "a": "the opportunity cost of one unit of good 1 in units of good 2.",
+            "b": "the consumer’s marginal utility of income.",
+            "c": "the rate at which the consumer is willing to substitute the goods, regardless of preferences.",
+            "d": "the amount of good 1 obtainable if all income is spent on good 2."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q10",
+          "text": "Why is the budget-line slope negative when both goods have positive prices?",
+          "options": {
+            "a": "Relative prices must be negative for a budget constraint to bind.",
+            "b": "Consuming more of one good while exhausting the budget requires consuming less of the other.",
+            "c": "An increase in income always lowers consumption of both goods.",
+            "d": "Consumers dislike both goods at the margin."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q11",
+          "text": "If income increases while both prices remain unchanged, the budget line",
+          "options": {
+            "a": "rotates around the horizontal intercept.",
+            "b": "shifts outward in a parallel fashion.",
+            "c": "rotates around the vertical intercept.",
+            "d": "becomes steeper without changing either intercept."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q12",
+          "text": "If income falls while both prices remain unchanged, the budget line",
+          "options": {
+            "a": "does not change because relative prices are unchanged.",
+            "b": "becomes flatter but keeps the same intercepts.",
+            "c": "shifts inward in a parallel fashion.",
+            "d": "rotates outward around the x1-intercept."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q13",
+          "text": "If p1 rises while p2 and income remain fixed, the budget line",
+          "options": {
+            "a": "becomes steeper and the x1-intercept moves inward, while the x2-intercept is unchanged.",
+            "b": "becomes flatter and the x2-intercept moves inward.",
+            "c": "shifts outward in parallel.",
+            "d": "keeps the same slope and both intercepts."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q14",
+          "text": "If p1 falls while p2 and income remain fixed, the budget line",
+          "options": {
+            "a": "keeps its slope but raises the x2-intercept.",
+            "b": "shifts inward in parallel.",
+            "c": "becomes steeper and the x1-intercept moves inward.",
+            "d": "becomes flatter and the x1-intercept moves outward."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q15",
+          "text": "Multiplying both prices by t while holding nominal income fixed is equivalent to",
+          "options": {
+            "a": "adding t units of both goods to every affordable bundle.",
+            "b": "dividing only p1 by t.",
+            "c": "multiplying income by t while leaving prices fixed.",
+            "d": "dividing income by t while leaving prices at their original levels."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q16",
+          "text": "If p1, p2, and m are all multiplied by the same positive factor t, then",
+          "options": {
+            "a": "the slope changes but the intercepts do not.",
+            "b": "the budget set expands by a factor t.",
+            "c": "the budget set is unchanged.",
+            "d": "the budget set shrinks by a factor t."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q17",
+          "text": "Why does perfectly balanced inflation leave the budget set unchanged when income rises in the same proportion as all prices?",
+          "options": {
+            "a": "All real purchasing-power ratios and relative prices remain unchanged.",
+            "b": "Every consumer purchases fixed quantities by assumption.",
+            "c": "Nominal income is irrelevant to affordability.",
+            "d": "Inflation necessarily changes the slope but not the intercepts."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q18",
+          "text": "The numeraire is",
+          "options": {
+            "a": "a price normalized to 1 and used as the unit relative to which other prices and income are measured.",
+            "b": "the good with the highest absolute price.",
+            "c": "the consumer’s most preferred good.",
+            "d": "the amount of income left unspent at the optimum."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q19",
+          "text": "Normalizing p2 to 1 changes",
+          "options": {
+            "a": "the budget set unless p1 also equals 1.",
+            "b": "the units in which prices and income are expressed, but not the underlying budget set.",
+            "c": "the physical quantities of goods in every bundle.",
+            "d": "the consumer’s real opportunities and preferences."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q20",
+          "text": "A per-unit quantity tax t on good 1 changes its effective price from p1 to",
+          "options": {
+            "a": "p1/t.",
+            "b": "p1(1 − t).",
+            "c": "p1 + t.",
+            "d": "p1 − t."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q21",
+          "text": "An ad valorem tax at rate τ on good 1 changes its effective price to",
+          "options": {
+            "a": "p1/τ.",
+            "b": "p1 + τ regardless of the original price.",
+            "c": "(1 + τ)p1.",
+            "d": "(1 − τ)p1."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q22",
+          "text": "A per-unit subsidy s on good 1 changes its effective price to",
+          "options": {
+            "a": "p1 − s.",
+            "b": "(1 + s)p1.",
+            "c": "p1 + s.",
+            "d": "p1/s."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q23",
+          "text": "An ad valorem subsidy at rate σ on good 1 changes its effective price to",
+          "options": {
+            "a": "(1 + σ)p1.",
+            "b": "σ/p1.",
+            "c": "p1 − σ regardless of units.",
+            "d": "(1 − σ)p1."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q24",
+          "text": "A lump-sum tax differs from a tax on good 1 because a lump-sum tax",
+          "options": {
+            "a": "necessarily creates a kink in the budget line.",
+            "b": "reduces income without directly changing the relative price p1/p2.",
+            "c": "changes only the slope of the budget line.",
+            "d": "makes good 1 free up to a quota."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q25",
+          "text": "A rationing constraint x1 ≤ x̄1",
+          "options": {
+            "a": "requires the consumer to buy exactly x̄1 units.",
+            "b": "removes otherwise affordable bundles with consumption of good 1 above x̄1.",
+            "c": "increases the horizontal intercept of the original budget line.",
+            "d": "changes the consumer’s preferences against good 1."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q26",
+          "text": "If good 1 is untaxed up to x̄1 but taxed per unit for consumption above x̄1, the budget line typically",
+          "options": {
+            "a": "becomes vertical at every quantity.",
+            "b": "has a kink at x1 = x̄1.",
+            "c": "shifts in parallel without changing slope anywhere.",
+            "d": "remains a single straight line with the original slope."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch2q27",
+          "text": "A policy that gives a household a fixed amount of food purchasing power rather than subsidizing every unit of food can",
+          "options": {
+            "a": "change preferences rather than constraints.",
+            "b": "be represented only by a proportional increase in all prices.",
+            "c": "never affect the shape of the budget set.",
+            "d": "create a budget set with a kink or flat extension relative to the original cash-only budget."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch2q28",
+          "text": "Suppose p1 = €4, p2 = €2, and m = €40. If the consumer buys one additional unit of good 1 while remaining on the budget line, how much good 2 must be forgone?",
+          "options": {
+            "a": "1/2 unit of good 2.",
+            "b": "8 units of good 2.",
+            "c": "2 units of good 2.",
+            "d": "4 units of good 2."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch2q29",
+          "text": "Suppose p1 = 5, p2 = 10, and m = 100. The budget line has",
+          "options": {
+            "a": "a slope of −1/2, an x1-intercept of 20, and an x2-intercept of 10.",
+            "b": "a slope of 1/2, an x1-intercept of 20, and an x2-intercept of 10.",
+            "c": "a slope of −1/2, an x1-intercept of 10, and an x2-intercept of 20.",
+            "d": "a slope of −2, an x1-intercept of 10, and an x2-intercept of 20."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch2q30",
+          "text": "Refer to the accompanying figure. Which change is illustrated?",
+          "options": {
+            "a": "An equal proportional increase in both prices and income.",
+            "b": "A decrease in the price of good 2 with income fixed.",
+            "c": "An increase in income with both prices fixed.",
+            "d": "An increase in the price of good 1, holding income and the price of good 2 fixed."
+          },
+          "answer": "d",
+          "image": "assets/ch2_price_increase_budget.png"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "name": "Chapter 3: Preferences",
+      "questions": [
+        {
+          "id": "ch3q1",
+          "text": "Consumer preferences describe",
+          "options": {
+            "a": "the technology used to produce the goods.",
+            "b": "how a consumer ranks alternative consumption bundles by desirability.",
+            "c": "the market prices of the goods in each bundle.",
+            "d": "the consumer’s budget constraint only."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q2",
+          "text": "The notation X ≻ Y means that",
+          "options": {
+            "a": "the consumer is indifferent between X and Y.",
+            "b": "the consumer strictly prefers bundle X to bundle Y.",
+            "c": "X contains more of every good than Y by definition.",
+            "d": "X is more expensive than Y."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q3",
+          "text": "The notation X ∼ Y means that",
+          "options": {
+            "a": "the consumer is indifferent between X and Y.",
+            "b": "X and Y have identical market prices.",
+            "c": "X is weakly preferred to Y but Y is not weakly preferred to X.",
+            "d": "X must contain the same physical quantities as Y."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q4",
+          "text": "The notation X ≽ Y means that",
+          "options": {
+            "a": "X costs at least as much as Y.",
+            "b": "the consumer strictly prefers Y to X.",
+            "c": "X and Y must lie on different indifference curves.",
+            "d": "the consumer regards X as at least as good as Y."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q5",
+          "text": "Preference relations are called ordinal because they",
+          "options": {
+            "a": "require every bundle to have a unique market price.",
+            "b": "measure utility in objectively comparable units.",
+            "c": "can compare bundles only when they contain the same amount of one good.",
+            "d": "rank bundles without assigning behavioral meaning to the size of differences between ranks."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q6",
+          "text": "Completeness of preferences means that",
+          "options": {
+            "a": "every bundle is strictly preferred to every other bundle.",
+            "b": "any two bundles can be compared: one is at least as good as the other, or both are.",
+            "c": "every indifference curve is strictly convex.",
+            "d": "all consumers have identical preferences."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q7",
+          "text": "Transitivity requires that if X ≽ Y and Y ≽ Z, then",
+          "options": {
+            "a": "X ≽ Z.",
+            "b": "X ∼ Z necessarily.",
+            "c": "Z ≻ X.",
+            "d": "Y must be strictly preferred to both X and Z."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q8",
+          "text": "Why are completeness and transitivity useful in consumer theory?",
+          "options": {
+            "a": "They guarantee that more is always better.",
+            "b": "They make the preference ranking sufficiently consistent to identify best choices.",
+            "c": "They determine market prices without a budget constraint.",
+            "d": "They imply that all goods are perfect substitutes."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q9",
+          "text": "The weakly preferred set to a bundle X consists of",
+          "options": {
+            "a": "only bundles exactly indifferent to X.",
+            "b": "only bundles strictly worse than X.",
+            "c": "all bundles that the consumer regards as at least as good as X.",
+            "d": "all bundles affordable at the consumer’s current income."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q10",
+          "text": "An indifference curve through bundle X contains",
+          "options": {
+            "a": "all bundles that cost the same as X.",
+            "b": "all bundles strictly preferred to X.",
+            "c": "all bundles that contain the same quantity of good 1 as X.",
+            "d": "all bundles that the consumer regards as equally desirable as X."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q11",
+          "text": "Why can two indifference curves representing different preference levels not cross under transitive preferences?",
+          "options": {
+            "a": "A crossing would imply negative prices.",
+            "b": "A crossing would make both goods discrete.",
+            "c": "A crossing would imply that bundles on supposedly different curves are both indifferent through the intersection, contradicting their different rankings.",
+            "d": "A crossing would violate the budget constraint."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q12",
+          "text": "Perfect substitutes are goods for which the consumer is willing to substitute one for the other",
+          "options": {
+            "a": "only in fixed proportions.",
+            "b": "at a rate that must rise with consumption.",
+            "c": "only when income changes.",
+            "d": "at a constant rate."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q13",
+          "text": "Indifference curves for perfect substitutes are typically",
+          "options": {
+            "a": "vertical lines regardless of which good is neutral.",
+            "b": "parallel straight lines.",
+            "c": "concentric circles around a satiation point.",
+            "d": "L-shaped."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q14",
+          "text": "Perfect complements are goods that are consumed",
+          "options": {
+            "a": "only one at a time.",
+            "b": "at a constant substitution rate.",
+            "c": "together in fixed proportions.",
+            "d": "in quantities determined solely by relative prices."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q15",
+          "text": "Indifference curves for perfect complements are typically",
+          "options": {
+            "a": "closed circles around the origin.",
+            "b": "upward-sloping straight lines.",
+            "c": "parallel straight lines.",
+            "d": "L-shaped."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q16",
+          "text": "A “bad” is a commodity for which",
+          "options": {
+            "a": "the consumer wants the good only in a fixed proportion with another good.",
+            "b": "the consumer is always indifferent to its quantity.",
+            "c": "more of the commodity makes the consumer worse off, other things equal.",
+            "d": "the price is negative by definition."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q17",
+          "text": "If x1 is a bad and x2 is a good, an indifference curve may slope upward because",
+          "options": {
+            "a": "the consumer must be violating transitivity.",
+            "b": "more of the bad must be compensated by more of the good to keep utility unchanged.",
+            "c": "the goods are necessarily perfect complements.",
+            "d": "more of both commodities always makes the consumer worse off."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q18",
+          "text": "A neutral good is one whose quantity",
+          "options": {
+            "a": "must be consumed in a fixed ratio with another good.",
+            "b": "determines the slope of every indifference curve through prices.",
+            "c": "does not affect the consumer’s ranking of bundles over the relevant range.",
+            "d": "always lowers utility."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q19",
+          "text": "With a satiation point, the consumer has",
+          "options": {
+            "a": "an overall best bundle, and moving beyond it in some direction can make a good effectively become a bad.",
+            "b": "no ability to compare bundles.",
+            "c": "monotonic preferences everywhere.",
+            "d": "only straight-line indifference curves."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q20",
+          "text": "A discrete good is a good that",
+          "options": {
+            "a": "has a zero price.",
+            "b": "is always a bad.",
+            "c": "must be a perfect complement to money.",
+            "d": "is available only in integer or otherwise indivisible amounts."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q21",
+          "text": "For a discrete good, the set of bundles indifferent to a given bundle may appear as",
+          "options": {
+            "a": "a set of separate points rather than a smooth continuous curve.",
+            "b": "a continuous circle by necessity.",
+            "c": "the entire consumption set.",
+            "d": "a single vertical budget line."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q22",
+          "text": "Monotonicity of preferences, as used in the slides, means that",
+          "options": {
+            "a": "a bundle with at least as much of every good and more of at least one good is strictly preferred.",
+            "b": "averages are always strictly preferred to extremes.",
+            "c": "all goods are perfect substitutes.",
+            "d": "utility must be cardinal."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q23",
+          "text": "Under monotonic preferences over two goods, indifference curves are typically downward sloping because",
+          "options": {
+            "a": "the budget line is always tangent to the indifference curve.",
+            "b": "both goods are bads.",
+            "c": "if one good increases, some of the other must decrease to keep the consumer indifferent.",
+            "d": "prices must have opposite signs."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q24",
+          "text": "Convex preferences imply that",
+          "options": {
+            "a": "weighted averages of two indifferent bundles are at least as good as the extreme bundles.",
+            "b": "indifference curves must be straight lines.",
+            "c": "more of every good can make the consumer worse off.",
+            "d": "the consumer always prefers an extreme bundle to a balanced bundle."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q25",
+          "text": "The economic intuition for convex preferences is often summarized as",
+          "options": {
+            "a": "a requirement that all goods be complements.",
+            "b": "a preference for consuming only the cheaper good.",
+            "c": "a preference for lower consumption of all goods.",
+            "d": "a preference for balanced mixtures rather than extreme bundles."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch3q26",
+          "text": "A set is convex if",
+          "options": {
+            "a": "every point in the set lies on a straight line through the origin.",
+            "b": "the line segment connecting any two points in the set lies entirely in the set.",
+            "c": "the set contains no boundary points.",
+            "d": "all points in the set have the same utility."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q27",
+          "text": "Strict convexity strengthens convexity by requiring that",
+          "options": {
+            "a": "all indifference curves are linear.",
+            "b": "a nontrivial weighted average of two distinct indifferent bundles is strictly preferred to the extremes.",
+            "c": "the consumer is indifferent among all weighted averages.",
+            "d": "preferences are no longer complete."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q28",
+          "text": "Perfect-substitute preferences are generally",
+          "options": {
+            "a": "strictly convex but not convex.",
+            "b": "necessarily concave.",
+            "c": "convex but not strictly convex.",
+            "d": "neither complete nor transitive."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q29",
+          "text": "The marginal rate of substitution (MRS) is",
+          "options": {
+            "a": "the slope of an indifference curve at a bundle and the rate at which the consumer is just willing to trade one good for the other.",
+            "b": "the consumer’s total willingness to pay for the entire bundle.",
+            "c": "the difference between the two goods’ market prices.",
+            "d": "the slope of the budget line determined only by prices."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q30",
+          "text": "For ordinary “goods” with downward-sloping indifference curves, the MRS is usually negative because",
+          "options": {
+            "a": "market prices are negative.",
+            "b": "maintaining the same utility requires giving up some of one good to obtain more of the other.",
+            "c": "preferences are incomplete.",
+            "d": "both marginal utilities are negative."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch3q31",
+          "text": "If good 2 is a composite good measured in euros, the MRS of good 2 for good 1 can be interpreted as",
+          "options": {
+            "a": "the consumer’s marginal willingness to pay in euros for a little more of good 1.",
+            "b": "the consumer’s total income.",
+            "c": "the market price of good 1 regardless of the consumer’s preferences.",
+            "d": "the amount of good 1 the government rations."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch3q32",
+          "text": "A diminishing absolute MRS as x1 increases is consistent with convex preferences because",
+          "options": {
+            "a": "the goods must be perfect substitutes.",
+            "b": "the indifference curve becomes upward sloping.",
+            "c": "the consumer becomes progressively less willing to give up good 2 for additional units of good 1.",
+            "d": "the consumer becomes more willing to give up good 2 as x1 rises."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch3q33",
+          "text": "Refer to the accompanying figure. Why are the two depicted curves called “alleged” indifference curves?",
+          "options": {
+            "a": "Their intersection would violate the logic of transitive preference rankings for distinct indifference curves.",
+            "b": "Indifference curves are required to be straight.",
+            "c": "They cross the axes instead of the budget line.",
+            "d": "They are too steep to represent preferences."
+          },
+          "answer": "a",
+          "image": "assets/ch3_indifference_crossing.png"
+        },
+        {
+          "id": "ch3q34",
+          "text": "If X ∼ Y and preferences are convex, which statement must hold for the midpoint M = 0.5X + 0.5Y?",
+          "options": {
+            "a": "M is incomparable with X and Y.",
+            "b": "M must be indifferent to X under strict convexity.",
+            "c": "X ≻ M and Y ≻ M.",
+            "d": "M ≽ X and M ≽ Y."
+          },
+          "answer": "d",
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "name": "Chapter 4: Utility",
+      "questions": [
+        {
+          "id": "ch4q1",
+          "text": "A utility function represents preferences when it assigns",
+          "options": {
+            "a": "numbers equal to the market cost of each bundle.",
+            "b": "higher numbers to more-preferred bundles and lower numbers to less-preferred bundles.",
+            "c": "cardinal units that are comparable across all consumers.",
+            "d": "the same number to all affordable bundles."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q2",
+          "text": "The utility concept used in standard consumer theory in these slides is primarily",
+          "options": {
+            "a": "technological: utility measures physical productivity.",
+            "b": "cardinal: utility differences have a unique behavioral meaning.",
+            "c": "interpersonal: one consumer’s utility can be compared directly with another’s.",
+            "d": "ordinal: only the ranking of bundles matters."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q3",
+          "text": "If A ≻ B, a utility representation u must satisfy",
+          "options": {
+            "a": "u(A) > u(B).",
+            "b": "u(A) < u(B).",
+            "c": "u(A) = u(B).",
+            "d": "u(A) − u(B) = 1 exactly."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q4",
+          "text": "Why is a utility representation generally not unique?",
+          "options": {
+            "a": "Market prices determine only one possible utility scale.",
+            "b": "Utility must be measured in euros, which can be converted to other currencies.",
+            "c": "Any strictly increasing transformation preserves the ranking of bundles.",
+            "d": "Preferences are assumed to be incomplete."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q5",
+          "text": "A monotonic transformation f(u) is one that",
+          "options": {
+            "a": "reverses all rankings.",
+            "b": "maps every utility level to the same number.",
+            "c": "must be linear with slope exactly one.",
+            "d": "preserves order: if u1 > u2, then f(u1) > f(u2)."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q6",
+          "text": "A differentiable transformation f(u) is strictly increasing where",
+          "options": {
+            "a": "df/du = 0 everywhere.",
+            "b": "df/du < 0.",
+            "c": "df/du > 0.",
+            "d": "f(u) = 0 for all u."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q7",
+          "text": "If v(x1,x2) = f(u(x1,x2)) and f is strictly increasing, then v and u",
+          "options": {
+            "a": "represent opposite preference orderings.",
+            "b": "can represent the same preferences only if f is the identity function.",
+            "c": "represent the same preferences.",
+            "d": "must have identical numerical marginal utilities."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q8",
+          "text": "Cardinal utility would attach behavioral significance to",
+          "options": {
+            "a": "only market prices.",
+            "b": "the size of utility differences between bundles.",
+            "c": "only the ranking of bundles.",
+            "d": "the slope of the budget line but not preferences."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q9",
+          "text": "In standard consumer-choice theory, cardinal utility is unnecessary because",
+          "options": {
+            "a": "marginal utility is always constant.",
+            "b": "prices already measure utility directly.",
+            "c": "choice behavior can be described using only ordinal rankings.",
+            "d": "all consumers have the same utility function."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q10",
+          "text": "A utility function can be viewed geometrically as",
+          "options": {
+            "a": "a labeling system for indifference curves.",
+            "b": "a rule that makes every indifference curve linear.",
+            "c": "a supply curve for consumption goods.",
+            "d": "a replacement for the budget constraint."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q11",
+          "text": "All bundles on the same indifference curve have",
+          "options": {
+            "a": "the same market cost.",
+            "b": "the same quantity of good 1.",
+            "c": "the same utility level in a given utility representation.",
+            "d": "the same marginal utilities for both goods."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q12",
+          "text": "For u(x1,x2) = x1x2, an indifference curve at utility level k satisfies",
+          "options": {
+            "a": "x2 = k − x1.",
+            "b": "x2 = k/x1.",
+            "c": "x2 = kx1.",
+            "d": "x2 = x1/k."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q13",
+          "text": "On the nonnegative consumption set, v(x1,x2) = (x1x2)^2 represents the same preferences as u(x1,x2) = x1x2 because",
+          "options": {
+            "a": "only linear transformations preserve preferences.",
+            "b": "squaring reverses the ranking of all bundles.",
+            "c": "the two functions have identical marginal utility levels everywhere.",
+            "d": "squaring is increasing for nonnegative utility values."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q14",
+          "text": "Perfect-substitute preferences can be represented by",
+          "options": {
+            "a": "u(x1,x2) = min(ax1,bx2).",
+            "b": "u(x1,x2) = x1/x2 necessarily.",
+            "c": "u(x1,x2) = ax1 + bx2 with a,b > 0.",
+            "d": "u(x1,x2) = v(x1) + x2 only if a = 0."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q15",
+          "text": "For u(x1,x2) = ax1 + bx2, the slope of an indifference curve is",
+          "options": {
+            "a": "ab.",
+            "b": "−b/a.",
+            "c": "a + b.",
+            "d": "−a/b."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q16",
+          "text": "Perfect-complement preferences can be represented by",
+          "options": {
+            "a": "u(x1,x2) = max(ax1,bx2).",
+            "b": "u(x1,x2) = ax1 + bx2.",
+            "c": "u(x1,x2) = min(ax1,bx2) for positive a and b.",
+            "d": "u(x1,x2) = x1 − x2."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q17",
+          "text": "In a perfect-complements utility function u = min(ax1,bx2), utility is limited by",
+          "options": {
+            "a": "the component available in the smaller effective proportion.",
+            "b": "the sum of expenditures on both goods.",
+            "c": "the larger of ax1 and bx2.",
+            "d": "the good with the higher market price regardless of quantities."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q18",
+          "text": "Quasilinear preferences can be represented by a utility function of the form",
+          "options": {
+            "a": "u(x1,x2) = v(x1) + x2.",
+            "b": "u(x1,x2) = min(x1,x2).",
+            "c": "u(x1,x2) = x1x2 only.",
+            "d": "u(x1,x2) = v(x1)x2 with no additive term."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q19",
+          "text": "A characteristic feature of quasilinear indifference curves is that they are",
+          "options": {
+            "a": "rays from the origin.",
+            "b": "parallel only when prices are equal.",
+            "c": "L-shaped with a common kink.",
+            "d": "vertical translations of one another."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q20",
+          "text": "A Cobb-Douglas utility function has the form",
+          "options": {
+            "a": "u(x1,x2) = x1^c x2^d with c,d > 0.",
+            "b": "u(x1,x2) = min(cx1,dx2).",
+            "c": "u(x1,x2) = cx1 + dx2 only.",
+            "d": "u(x1,x2) = c/x1 + d/x2."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q21",
+          "text": "Cobb-Douglas preferences are a standard example of",
+          "options": {
+            "a": "preferences over two bads.",
+            "b": "preferences with satiation at a finite point.",
+            "c": "nontransitive preferences.",
+            "d": "monotonic, convex, well-behaved preferences."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q22",
+          "text": "Why can Cobb-Douglas exponents be normalized to sum to one without changing preferences?",
+          "options": {
+            "a": "The exponents are market prices and can be divided by income.",
+            "b": "Any transformation, even a decreasing one, preserves preferences.",
+            "c": "Only the sum of exponents affects the budget constraint.",
+            "d": "A positive power transformation can rescale the exponents while preserving rankings."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q23",
+          "text": "The marginal utility of good 1 is",
+          "options": {
+            "a": "the total derivative of income with respect to x1.",
+            "b": "the partial derivative ∂u/∂x1, holding x2 fixed.",
+            "c": "the slope of the budget line.",
+            "d": "the ratio p1/p2."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q24",
+          "text": "Marginal utility by itself has limited behavioral meaning because",
+          "options": {
+            "a": "its numerical magnitude changes under monotonic transformations of utility.",
+            "b": "it is always zero at an optimum.",
+            "c": "it depends only on prices, not preferences.",
+            "d": "it cannot be computed from a differentiable utility function."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q25",
+          "text": "For a differentiable utility function, the MRS of good 2 for good 1 is",
+          "options": {
+            "a": "−MU2/MU1.",
+            "b": "p1 + p2 by definition.",
+            "c": "MU1 + MU2.",
+            "d": "−MU1/MU2."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch4q26",
+          "text": "The MRS is invariant to a strictly increasing differentiable transformation of utility because",
+          "options": {
+            "a": "the MRS is defined without reference to preferences.",
+            "b": "the common transformation factor cancels in the ratio of marginal utilities.",
+            "c": "the transformation changes prices proportionally.",
+            "d": "marginal utilities themselves are invariant."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q27",
+          "text": "For Cobb-Douglas utility u = x1^c x2^d, the MRS is",
+          "options": {
+            "a": "−(c x2)/(d x1).",
+            "b": "−(c x1)/(d x2).",
+            "c": "−(d x2)/(c x1).",
+            "d": "−cd x1x2."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q28",
+          "text": "In a linear estimated utility function for commuting characteristics, a coefficient can be interpreted as",
+          "options": {
+            "a": "the marginal utility weight placed on that characteristic.",
+            "b": "the consumer’s total income.",
+            "c": "the market price of that characteristic.",
+            "d": "the probability of choosing public transport."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch4q29",
+          "text": "In the commuting example U = −0.147TW − 0.0411TT − 2.24C, the negative coefficients on time and cost indicate that",
+          "options": {
+            "a": "commuters prefer longer trips and higher costs.",
+            "b": "more walking time, travel time, or monetary cost lowers utility, other things equal.",
+            "c": "utility is cardinally comparable across commuters.",
+            "d": "time and cost are neutral characteristics."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch4q30",
+          "text": "Ratios of coefficients in a linear utility model can be used to estimate",
+          "options": {
+            "a": "the number of consumers in the market.",
+            "b": "the level of aggregate supply.",
+            "c": "marginal rates of substitution between characteristics.",
+            "d": "the slope of the consumer’s budget line only."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch4q31",
+          "text": "Refer to the accompanying figure for u(x1,x2)=x1x2. Moving from the curve labeled k=1 to the curve labeled k=3 represents",
+          "options": {
+            "a": "a move to a lower utility level.",
+            "b": "a move to a higher utility level and therefore to a more-preferred indifference curve.",
+            "c": "a change in market prices rather than preferences.",
+            "d": "no change in the preference ranking because all indifference curves have equal utility."
+          },
+          "answer": "b",
+          "image": "assets/ch4_product_indifference_curves.png"
+        },
+        {
+          "id": "ch4q32",
+          "text": "If utility is multiplied by a positive constant, such as v = 5u, then",
+          "options": {
+            "a": "the MRS is multiplied by 25.",
+            "b": "the represented preferences and the MRS are unchanged, although marginal utility numbers are multiplied by 5.",
+            "c": "the represented preference ranking is reversed.",
+            "d": "all indifference curves shift to different physical bundles."
+          },
+          "answer": "b",
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "name": "Chapter 5: Choice",
+      "questions": [
+        {
+          "id": "ch5q1",
+          "text": "The basic consumer-choice model says that a consumer chooses",
+          "options": {
+            "a": "the bundle with the largest x1-intercept.",
+            "b": "the bundle with the lowest total expenditure regardless of preferences.",
+            "c": "the most preferred bundle in the budget set.",
+            "d": "the bundle containing equal quantities of both goods."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q2",
+          "text": "Equivalently, consumer choice can be formulated as",
+          "options": {
+            "a": "maximizing prices subject to demand.",
+            "b": "equalizing all quantities regardless of prices.",
+            "c": "minimizing income subject to a production function.",
+            "d": "maximizing utility subject to the budget constraint."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q3",
+          "text": "With monotonic preferences, an optimal bundle typically lies on the budget line because",
+          "options": {
+            "a": "if income were left unspent, more of at least one good could be purchased and would be preferred.",
+            "b": "the budget set contains only its boundary.",
+            "c": "the budget line is always an indifference curve.",
+            "d": "utility is independent of quantities inside the budget set."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q4",
+          "text": "For a smooth interior optimum with well-behaved preferences, a necessary tangency condition is",
+          "options": {
+            "a": "MRS = p1 + p2.",
+            "b": "MRS = −p1/p2.",
+            "c": "MU1 = MU2 regardless of prices.",
+            "d": "x1 = x2 regardless of preferences."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q5",
+          "text": "Why can the tangency condition fail at a kinked optimum?",
+          "options": {
+            "a": "Kinked preferences are necessarily incomplete.",
+            "b": "The indifference curve may not have a unique tangent at the kink.",
+            "c": "Prices are undefined at a kink.",
+            "d": "The budget constraint is absent."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q6",
+          "text": "Why can the tangency condition fail at a boundary optimum?",
+          "options": {
+            "a": "The consumer must have negative income.",
+            "b": "The budget line is horizontal at all boundary points.",
+            "c": "A boundary optimum is never utility maximizing.",
+            "d": "The optimum may occur where one good is consumed in zero quantity, so the budget line need not be tangent to an indifference curve."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q7",
+          "text": "For convex preferences, a tangency point between a smooth indifference curve and the budget line is",
+          "options": {
+            "a": "never an optimum.",
+            "b": "sufficient only when preferences are concave.",
+            "c": "necessarily unique even with flat indifference-curve segments.",
+            "d": "sufficient for an optimum, though multiple optima can still occur with flat spots."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q8",
+          "text": "Strictly convex preferences imply that, on a given budget line, the consumer has",
+          "options": {
+            "a": "only boundary optima.",
+            "b": "no utility-maximizing bundle.",
+            "c": "a unique optimal bundle.",
+            "d": "infinitely many optimal bundles."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q9",
+          "text": "At an interior optimum, equality of MRS and the price ratio means that",
+          "options": {
+            "a": "the two market prices must be equal.",
+            "b": "the consumer is indifferent to all affordable bundles.",
+            "c": "marginal utilities must both be zero.",
+            "d": "the consumer’s marginal willingness to trade the goods equals the market’s rate of exchange."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q10",
+          "text": "If the consumer’s MRS differs from −p1/p2 at an interior bundle, then",
+          "options": {
+            "a": "the budget constraint cannot bind.",
+            "b": "the bundle cannot be optimal because a feasible reallocation can improve utility.",
+            "c": "the bundle must be the unique optimum.",
+            "d": "the consumer is necessarily at a satiation point."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q11",
+          "text": "A Marshallian demand function gives",
+          "options": {
+            "a": "the utility level as a function of quantities only.",
+            "b": "the market supply of the good as a function of wages.",
+            "c": "the production cost of the good.",
+            "d": "the utility-maximizing quantity of a good as a function of prices and income."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q12",
+          "text": "Different preferences can generate different demand functions because",
+          "options": {
+            "a": "the optimal bundle depends on how the consumer ranks affordable bundles.",
+            "b": "preferences determine the budget line’s slope.",
+            "c": "prices have no role in demand.",
+            "d": "income is irrelevant to all consumers."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q13",
+          "text": "For one-for-one perfect substitutes with u=x1+x2, if p1 < p2, the consumer will generally",
+          "options": {
+            "a": "spend all income on good 2.",
+            "b": "buy equal physical quantities of both goods.",
+            "c": "spend all income on good 1.",
+            "d": "buy zero of both goods."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q14",
+          "text": "For one-for-one perfect substitutes with p1 = p2, the consumer",
+          "options": {
+            "a": "must buy only good 2.",
+            "b": "is indifferent among all budget-line bundles.",
+            "c": "has no feasible bundle.",
+            "d": "must buy only good 1."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q15",
+          "text": "For perfect complements u=min(x1,x2), the utility-maximizing bundle satisfies",
+          "options": {
+            "a": "x1 = x2 and p1x1 + p2x2 = m.",
+            "b": "MU1/p1 = 0 for both goods.",
+            "c": "x1/x2 = p1/p2.",
+            "d": "x1 = 0 regardless of prices."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q16",
+          "text": "For u=min(x1,x2), Marshallian demand is",
+          "options": {
+            "a": "x1=m/(p1−p2).",
+            "b": "x1 = x2 = m/(p1+p2).",
+            "c": "x1=m/p1 and x2=m/p2 simultaneously.",
+            "d": "x1=x2=p1+p2."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q17",
+          "text": "If good 2 is a bad and good 1 is a desirable good, the consumer with monotonic preferences over good 1 will generally choose",
+          "options": {
+            "a": "the maximum possible amount of the bad.",
+            "b": "x2 = 0 and spend available income on good 1.",
+            "c": "only good 2.",
+            "d": "equal quantities of the good and the bad."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q18",
+          "text": "For a discrete good, demand may change only when price crosses",
+          "options": {
+            "a": "a reservation-price threshold at which the consumer becomes indifferent between adjacent integer quantities.",
+            "b": "the consumer’s income exactly.",
+            "c": "the price of the composite good only.",
+            "d": "zero, because discrete goods cannot have positive prices."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q19",
+          "text": "One way to solve a smooth interior utility-maximization problem is to combine",
+          "options": {
+            "a": "the price offer curve with the production function.",
+            "b": "two different utility functions with no budget constraint.",
+            "c": "the MRS condition with the binding budget constraint.",
+            "d": "the supply curve with an accounting identity."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q20",
+          "text": "In the substitution method, solving the budget constraint for x2 and substituting it into utility produces",
+          "options": {
+            "a": "a proof that the optimum is always at a corner.",
+            "b": "a new market-equilibrium condition.",
+            "c": "a utility function that no longer depends on prices or income.",
+            "d": "a one-variable unconstrained maximization problem over feasible x1."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q21",
+          "text": "The first-order condition from the substitution method reproduces the result that",
+          "options": {
+            "a": "the ratio of marginal utilities equals the price ratio at an interior optimum.",
+            "b": "income must equal total utility.",
+            "c": "the prices must be equal.",
+            "d": "both marginal utilities must be zero."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q22",
+          "text": "The Lagrangian for utility maximization can be written as",
+          "options": {
+            "a": "L = u(x1,x2) − λ(p1x1 + p2x2 − m).",
+            "b": "L = u(x1,x2) + p1 + p2 + m.",
+            "c": "L = λu(x1,x2) with no budget term.",
+            "d": "L = p1x1 + p2x2 − u(x1,x2) with no multiplier."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q23",
+          "text": "The first-order conditions from the Lagrangian imply",
+          "options": {
+            "a": "MU1 = p2 and MU2 = p1 always.",
+            "b": "λ = 0 for every interior optimum.",
+            "c": "MU1 = MU2 = 0.",
+            "d": "MU1 = λp1 and MU2 = λp2."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q24",
+          "text": "At an interior optimum, MU1/p1 = MU2/p2 means that",
+          "options": {
+            "a": "the marginal utility per euro spent is equalized across goods.",
+            "b": "the consumer spends the same number of euros on every good.",
+            "c": "the quantities of all goods must be equal.",
+            "d": "both goods must have the same price."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q25",
+          "text": "The Lagrange multiplier λ on the budget constraint can be interpreted as",
+          "options": {
+            "a": "the consumer’s total expenditure on good 1.",
+            "b": "the market price of utility.",
+            "c": "the marginal utility of an additional euro of income.",
+            "d": "the slope of the demand curve."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q26",
+          "text": "For Cobb-Douglas utility u=x1^c x2^d, the Marshallian demand for good 1 is",
+          "options": {
+            "a": "x1 = m/(p1+p2).",
+            "b": "x1 = [d/(c+d)] m/p1.",
+            "c": "x1 = [c/(c+d)] m/p1.",
+            "d": "x1 = cp1/m."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q27",
+          "text": "For normalized Cobb-Douglas utility u=x1^α x2^(1−α), the consumer spends",
+          "options": {
+            "a": "a fraction α of income on each good.",
+            "b": "all income on the cheaper good.",
+            "c": "equal fractions on both goods regardless of α.",
+            "d": "the fraction α of income on good 1 and 1−α on good 2."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch5q28",
+          "text": "If observed expenditure shares on two goods are relatively stable across price-income situations, a natural utility specification to consider is",
+          "options": {
+            "a": "satiated preferences with a bliss point.",
+            "b": "perfect substitutes with equal prices only.",
+            "c": "Cobb-Douglas preferences.",
+            "d": "preferences over two bads."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q29",
+          "text": "If all consumers face the same prices, choose interior optima, and have well-behaved preferences, then for any two goods",
+          "options": {
+            "a": "their income levels must be equal.",
+            "b": "their utility functions must be identical.",
+            "c": "their MRS values at their chosen bundles are equal across consumers because each equals the common market price ratio.",
+            "d": "their demanded quantities must be equal."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q30",
+          "text": "Compared with a quantity tax that raises the same revenue from one consumer, a revenue-equivalent lump-sum income tax can make that consumer better off because",
+          "options": {
+            "a": "it makes all goods free at the margin.",
+            "b": "it preserves the original relative price and therefore removes the substitution distortion caused by the commodity tax.",
+            "c": "it forces the consumer to purchase the taxed bundle.",
+            "d": "it always raises more revenue."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q31",
+          "text": "A key limitation of the “income tax is better than a quantity tax” result is that",
+          "options": {
+            "a": "the revenue-equivalent income tax can differ across individuals and broader labor-supply and supply-side responses may matter.",
+            "b": "the result applies only when the consumer has no budget constraint.",
+            "c": "the result assumes quantity taxes do not change prices.",
+            "d": "the result requires all goods to be bads."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q32",
+          "text": "The indirect utility function v(p1,p2,m) gives",
+          "options": {
+            "a": "the market demand curve for good 1.",
+            "b": "the maximum utility attainable at prices p1,p2 and income m.",
+            "c": "the minimum expenditure needed to reach a fixed utility level.",
+            "d": "utility as a function of quantities only."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q33",
+          "text": "The indirect utility function can be obtained by",
+          "options": {
+            "a": "replacing preferences with the market supply curve.",
+            "b": "substituting prices into the production function.",
+            "c": "substituting Marshallian demand functions into the direct utility function.",
+            "d": "differentiating the budget constraint with respect to utility."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q34",
+          "text": "At the optimum, ∂v/∂m equals",
+          "options": {
+            "a": "−x1.",
+            "b": "p1/p2.",
+            "c": "the Lagrange multiplier λ, the marginal utility of income.",
+            "d": "total expenditure m."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch5q35",
+          "text": "Roy’s identity recovers Marshallian demand from the indirect utility function using",
+          "options": {
+            "a": "xi = (∂v/∂m)/(∂v/∂pi).",
+            "b": "xi = −(∂v/∂pi)/(∂v/∂m).",
+            "c": "xi = pi(∂v/∂m).",
+            "d": "xi = ∂v/∂pi + ∂v/∂m."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch5q36",
+          "text": "Refer to the accompanying figure. What feature of the optimum is illustrated?",
+          "options": {
+            "a": "The consumer has perfect-complement preferences with a kinked optimum.",
+            "b": "The optimum is a boundary solution with zero consumption of good 2, so tangency is not required.",
+            "c": "The optimum is an interior tangency with positive quantities of both goods.",
+            "d": "The budget line is irrelevant because the consumer is satiated."
+          },
+          "answer": "b",
+          "image": "assets/ch5_boundary_optimum.png"
+        },
+        {
+          "id": "ch5q37",
+          "text": "For Cobb-Douglas utility u=x1^0.5 x2^0.5 with p1=1, p2=2, and m=100, the optimal bundle is",
+          "options": {
+            "a": "(x1,x2) = (50,25).",
+            "b": "(20,40).",
+            "c": "(100,0).",
+            "d": "(25,50)."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q38",
+          "text": "If λ is large at the optimum, this indicates that",
+          "options": {
+            "a": "a small increase in income would generate a relatively large increase in maximal utility.",
+            "b": "the consumer’s budget constraint is slack.",
+            "c": "the consumer is necessarily at a corner solution.",
+            "d": "all prices must be large."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch5q39",
+          "text": "For a smooth interior optimum, the condition MU1/p1 = MU2/p2 can be understood as a “no profitable reallocation” condition because",
+          "options": {
+            "a": "prices no longer influence choice.",
+            "b": "the consumer receives zero marginal utility from both goods.",
+            "c": "the consumer must spend equal euro amounts on both goods.",
+            "d": "moving a euro from one good to the other cannot raise utility when marginal utility per euro is already equalized."
+          },
+          "answer": "d",
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "name": "Chapter 6: Demand",
+      "questions": [
+        {
+          "id": "ch6q1",
+          "text": "A Marshallian demand function gives the optimal quantity of a good as a function of",
+          "options": {
+            "a": "the quantities of other consumers only.",
+            "b": "production costs only.",
+            "c": "prices and income.",
+            "d": "utility level only."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q2",
+          "text": "Comparative statics of demand studies",
+          "options": {
+            "a": "how firms choose production technology.",
+            "b": "how utility numbers change under monotonic transformations.",
+            "c": "only the time path of adjustment between two market equilibria.",
+            "d": "how optimal choices change when prices or income change."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q3",
+          "text": "A normal good is one for which, holding prices fixed, demand",
+          "options": {
+            "a": "is independent of income by definition.",
+            "b": "increases when income increases.",
+            "c": "decreases when income increases.",
+            "d": "increases when its own price increases."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q4",
+          "text": "An inferior good is one for which, over the relevant income range, demand",
+          "options": {
+            "a": "is always zero.",
+            "b": "must increase when its own price rises.",
+            "c": "increases when income increases.",
+            "d": "decreases when income increases."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q5",
+          "text": "Whether a good is inferior can depend on",
+          "options": {
+            "a": "whether the good is discrete.",
+            "b": "the consumer’s income level and the relevant range being considered.",
+            "c": "whether the consumer has complete preferences.",
+            "d": "only the sign of its market price."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q6",
+          "text": "The income offer curve traces",
+          "options": {
+            "a": "market equilibria as supply shifts.",
+            "b": "the utility-maximizing bundles chosen at different income levels, holding prices fixed.",
+            "c": "bundles with equal expenditure but different preferences.",
+            "d": "the quantities chosen at different own prices, holding income fixed."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q7",
+          "text": "Another name for the income offer curve is the",
+          "options": {
+            "a": "income expansion path.",
+            "b": "compensated supply path.",
+            "c": "inverse demand curve.",
+            "d": "price offer curve."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q8",
+          "text": "An Engel curve plots",
+          "options": {
+            "a": "the utility level against both quantities.",
+            "b": "the demand for one good against income, holding prices fixed.",
+            "c": "the price of one good against the price of another good.",
+            "d": "the price of one good against the quantity demanded, holding income fixed."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q9",
+          "text": "If both goods are normal, the income expansion path generally has",
+          "options": {
+            "a": "a positive slope in (x1,x2) space.",
+            "b": "a vertical slope necessarily.",
+            "c": "no relation to income.",
+            "d": "a negative slope necessarily."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q10",
+          "text": "For Cobb-Douglas utility u=x1^a x2^(1−a), demand for good 1 is",
+          "options": {
+            "a": "x1 = m/(p1+p2).",
+            "b": "x1 = a m/p1.",
+            "c": "x1 = a p1/m.",
+            "d": "x1 = (1−a)m/p1."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q11",
+          "text": "For Cobb-Douglas preferences, Marshallian demands are linear in income, so",
+          "options": {
+            "a": "Engel curves are necessarily vertical.",
+            "b": "the price offer curve is always horizontal.",
+            "c": "both goods are inferior.",
+            "d": "Engel curves are straight lines through the origin."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q12",
+          "text": "A luxury good is one for which demand",
+          "options": {
+            "a": "falls when income rises.",
+            "b": "rises by a greater proportion than income.",
+            "c": "is completely independent of income.",
+            "d": "rises by a smaller proportion than income."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q13",
+          "text": "A necessary good, in the terminology of the slides, is one for which demand",
+          "options": {
+            "a": "rises by a smaller proportion than income.",
+            "b": "rises by a greater proportion than income.",
+            "c": "falls whenever income rises.",
+            "d": "must have unit income elasticity exactly."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q14",
+          "text": "Preferences are homothetic if scaling both bundles by the same positive factor",
+          "options": {
+            "a": "changes the relative price of the goods.",
+            "b": "makes the consumer indifferent between them.",
+            "c": "preserves their preference ranking.",
+            "d": "reverses their preference ranking."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q15",
+          "text": "With homothetic preferences, if income is multiplied by t while prices are fixed, the demanded bundle",
+          "options": {
+            "a": "is divided by t.",
+            "b": "must move to a boundary solution.",
+            "c": "does not change.",
+            "d": "is multiplied by t."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q16",
+          "text": "A key implication of homothetic preferences is that",
+          "options": {
+            "a": "the MRS is constant at all bundles.",
+            "b": "every good is inferior.",
+            "c": "income offer curves and Engel curves are straight lines through the origin.",
+            "d": "own-price demand slopes upward."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q17",
+          "text": "For quasilinear utility u=v(x1)+x2, an interior first-order condition for x1 is",
+          "options": {
+            "a": "v′(x1*) = x2.",
+            "b": "v′(x1*) = p1/p2.",
+            "c": "v′(x1*) = p1+p2.",
+            "d": "v′(x1*) = m."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q18",
+          "text": "Under quasilinear preferences, interior demand for good 1 is independent of income because",
+          "options": {
+            "a": "income enters utility after substitution only as an additive constant with respect to x1.",
+            "b": "good 1 is always inferior.",
+            "c": "the price ratio changes one-for-one with income.",
+            "d": "the budget constraint does not contain income."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q19",
+          "text": "For quasilinear preferences, the Engel curve for good 1 is vertical over the interior range because",
+          "options": {
+            "a": "changing income does not change the chosen x1.",
+            "b": "good 1 has zero price.",
+            "c": "changing income changes x1 proportionally.",
+            "d": "x1 must always equal x2."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q20",
+          "text": "For u=ln(x1)+x2, the interior demand for good 1 is",
+          "options": {
+            "a": "x1 = m/(p1+p2).",
+            "b": "x1 = m/p1.",
+            "c": "x1 = p1/p2.",
+            "d": "x1 = p2/p1."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q21",
+          "text": "An ordinary good, as defined in the price-demand discussion, has demand that",
+          "options": {
+            "a": "is independent of its own price.",
+            "b": "decreases when its own price decreases.",
+            "c": "increases when its own price decreases.",
+            "d": "must also be an inferior good."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q22",
+          "text": "A Giffen good is unusual because",
+          "options": {
+            "a": "its demand is independent of price.",
+            "b": "it must be a luxury good.",
+            "c": "it has no budget constraint.",
+            "d": "its demand decreases when its own price decreases, over the relevant range."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q23",
+          "text": "For an ordinary good, the own-price derivative typically satisfies",
+          "options": {
+            "a": "dx1/dp1 = m.",
+            "b": "dx1/dp1 < 0.",
+            "c": "dx1/dp1 > 0.",
+            "d": "dx1/dp1 = 1."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q24",
+          "text": "The price offer curve for good 1 traces",
+          "options": {
+            "a": "bundles along a single indifference curve as utility is held fixed.",
+            "b": "utility-maximizing bundles as p1 varies while p2 and income are held fixed.",
+            "c": "utility-maximizing bundles as income varies while both prices are fixed.",
+            "d": "market supply as all input prices vary."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q25",
+          "text": "The ordinary demand curve for good 1 plots",
+          "options": {
+            "a": "x2 as a function of income only.",
+            "b": "utility as a function of x1.",
+            "c": "x1 as a function of p1, holding p2 and income fixed.",
+            "d": "p2 as a function of x2."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q26",
+          "text": "For one-for-one perfect substitutes, if p1 > p2, demand for good 1 is",
+          "options": {
+            "a": "m/p2.",
+            "b": "m/(p1+p2).",
+            "c": "zero.",
+            "d": "m/p1."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q27",
+          "text": "For one-for-one perfect substitutes, if p1 < p2, demand for good 1 is",
+          "options": {
+            "a": "m/(p1+p2).",
+            "b": "zero.",
+            "c": "m/p2.",
+            "d": "m/p1."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q28",
+          "text": "For perfect complements u=min(x1,x2), demand for good 1 is",
+          "options": {
+            "a": "m/p2.",
+            "b": "p2/p1.",
+            "c": "m/(p1+p2).",
+            "d": "m/p1."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q29",
+          "text": "For a discrete good, a reservation price for the nth unit is",
+          "options": {
+            "a": "the minimum legal price for the good.",
+            "b": "the price at which the consumer is just indifferent between buying the nth unit and not buying it.",
+            "c": "the market-clearing price of the entire industry.",
+            "d": "the price of the composite good."
+          },
+          "answer": "b",
+          "image": null
+        },
+        {
+          "id": "ch6q30",
+          "text": "A discrete-good demand curve can be represented by",
+          "options": {
+            "a": "only an Engel curve, never a price-quantity relation.",
+            "b": "a single smooth horizontal line.",
+            "c": "a vertical line independent of preferences.",
+            "d": "a sequence of reservation-price thresholds at which quantity demanded jumps by units."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q31",
+          "text": "Good 1 is a substitute for good 2 if, holding other determinants fixed,",
+          "options": {
+            "a": "demand for good 1 falls when the price of good 2 rises.",
+            "b": "demand for good 1 is independent of all prices.",
+            "c": "demand for good 1 rises when the price of good 2 rises.",
+            "d": "demand for good 1 rises when its own price rises."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q32",
+          "text": "Good 1 is a complement to good 2 if",
+          "options": {
+            "a": "demand for good 1 falls when the price of good 2 rises.",
+            "b": "both goods have identical prices.",
+            "c": "both goods are normal.",
+            "d": "demand for good 1 rises when the price of good 2 rises."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q33",
+          "text": "The inverse demand function expresses",
+          "options": {
+            "a": "quantity demanded as a function of price only.",
+            "b": "income as a function of utility.",
+            "c": "price as a function of quantity demanded.",
+            "d": "utility as a function of prices and income."
+          },
+          "answer": "c",
+          "image": null
+        },
+        {
+          "id": "ch6q34",
+          "text": "If Cobb-Douglas demand for good 1 is x1 = am/p1, the inverse demand is",
+          "options": {
+            "a": "p1 = am/x1.",
+            "b": "p1 = am x1.",
+            "c": "p1 = a/(mx1).",
+            "d": "p1 = x1/(am)."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q35",
+          "text": "At an interior optimum, inverse demand is related to marginal willingness to pay by",
+          "options": {
+            "a": "p1 = p2|MRS|.",
+            "b": "p1 + p2 = |MRS|.",
+            "c": "p1 = |MRS|/p2.",
+            "d": "p1 = p2/|MRS| always."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q36",
+          "text": "If good 2 is money with p2=1, the inverse demand curve for good 1 measures",
+          "options": {
+            "a": "the consumer’s marginal willingness to pay for additional units of good 1.",
+            "b": "the marginal utility of money multiplied by income.",
+            "c": "the average production cost of good 1.",
+            "d": "the consumer’s total income at each quantity."
+          },
+          "answer": "a",
+          "image": null
+        },
+        {
+          "id": "ch6q37",
+          "text": "A downward-sloping inverse demand curve means that",
+          "options": {
+            "a": "marginal willingness to pay rises with consumption.",
+            "b": "the good must be Giffen.",
+            "c": "the consumer’s income is falling along the curve.",
+            "d": "marginal willingness to pay declines as consumption of the good increases."
+          },
+          "answer": "d",
+          "image": null
+        },
+        {
+          "id": "ch6q38",
+          "text": "Refer to the accompanying figure. Which behavior identifies good 1 as Giffen in the figure?",
+          "options": {
+            "a": "When the price of good 1 decreases, the chosen quantity of good 1 also decreases.",
+            "b": "Demand for good 1 increases only because income rises.",
+            "c": "When the price of good 1 decreases, the chosen quantity of good 1 increases.",
+            "d": "Demand for good 1 is unchanged when its price changes."
+          },
+          "answer": "a",
+          "image": "assets/ch6_giffen_response.png"
+        }
+      ]
+    }
+  ]
+}

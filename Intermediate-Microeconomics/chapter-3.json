@@ -1,0 +1,414 @@
+{
+  "id": "chapter-3",
+  "name": "Chapter 3: Preferences",
+  "questions": [
+    {
+      "id": "ch3q1",
+      "text": "Consumer preferences describe",
+      "options": {
+        "a": "the technology used to produce the goods.",
+        "b": "how a consumer ranks alternative consumption bundles by desirability.",
+        "c": "the market prices of the goods in each bundle.",
+        "d": "the consumer’s budget constraint only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q2",
+      "text": "The notation X ≻ Y means that",
+      "options": {
+        "a": "the consumer is indifferent between X and Y.",
+        "b": "the consumer strictly prefers bundle X to bundle Y.",
+        "c": "X contains more of every good than Y by definition.",
+        "d": "X is more expensive than Y."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q3",
+      "text": "The notation X ∼ Y means that",
+      "options": {
+        "a": "the consumer is indifferent between X and Y.",
+        "b": "X and Y have identical market prices.",
+        "c": "X is weakly preferred to Y but Y is not weakly preferred to X.",
+        "d": "X must contain the same physical quantities as Y."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q4",
+      "text": "The notation X ≽ Y means that",
+      "options": {
+        "a": "X costs at least as much as Y.",
+        "b": "the consumer strictly prefers Y to X.",
+        "c": "X and Y must lie on different indifference curves.",
+        "d": "the consumer regards X as at least as good as Y."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q5",
+      "text": "Preference relations are called ordinal because they",
+      "options": {
+        "a": "require every bundle to have a unique market price.",
+        "b": "measure utility in objectively comparable units.",
+        "c": "can compare bundles only when they contain the same amount of one good.",
+        "d": "rank bundles without assigning behavioral meaning to the size of differences between ranks."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q6",
+      "text": "Completeness of preferences means that",
+      "options": {
+        "a": "every bundle is strictly preferred to every other bundle.",
+        "b": "any two bundles can be compared: one is at least as good as the other, or both are.",
+        "c": "every indifference curve is strictly convex.",
+        "d": "all consumers have identical preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q7",
+      "text": "Transitivity requires that if X ≽ Y and Y ≽ Z, then",
+      "options": {
+        "a": "X ≽ Z.",
+        "b": "X ∼ Z necessarily.",
+        "c": "Z ≻ X.",
+        "d": "Y must be strictly preferred to both X and Z."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q8",
+      "text": "Why are completeness and transitivity useful in consumer theory?",
+      "options": {
+        "a": "They guarantee that more is always better.",
+        "b": "They make the preference ranking sufficiently consistent to identify best choices.",
+        "c": "They determine market prices without a budget constraint.",
+        "d": "They imply that all goods are perfect substitutes."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q9",
+      "text": "The weakly preferred set to a bundle X consists of",
+      "options": {
+        "a": "only bundles exactly indifferent to X.",
+        "b": "only bundles strictly worse than X.",
+        "c": "all bundles that the consumer regards as at least as good as X.",
+        "d": "all bundles affordable at the consumer’s current income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q10",
+      "text": "An indifference curve through bundle X contains",
+      "options": {
+        "a": "all bundles that cost the same as X.",
+        "b": "all bundles strictly preferred to X.",
+        "c": "all bundles that contain the same quantity of good 1 as X.",
+        "d": "all bundles that the consumer regards as equally desirable as X."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q11",
+      "text": "Why can two indifference curves representing different preference levels not cross under transitive preferences?",
+      "options": {
+        "a": "A crossing would imply negative prices.",
+        "b": "A crossing would make both goods discrete.",
+        "c": "A crossing would imply that bundles on supposedly different curves are both indifferent through the intersection, contradicting their different rankings.",
+        "d": "A crossing would violate the budget constraint."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q12",
+      "text": "Perfect substitutes are goods for which the consumer is willing to substitute one for the other",
+      "options": {
+        "a": "only in fixed proportions.",
+        "b": "at a rate that must rise with consumption.",
+        "c": "only when income changes.",
+        "d": "at a constant rate."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q13",
+      "text": "Indifference curves for perfect substitutes are typically",
+      "options": {
+        "a": "vertical lines regardless of which good is neutral.",
+        "b": "parallel straight lines.",
+        "c": "concentric circles around a satiation point.",
+        "d": "L-shaped."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q14",
+      "text": "Perfect complements are goods that are consumed",
+      "options": {
+        "a": "only one at a time.",
+        "b": "at a constant substitution rate.",
+        "c": "together in fixed proportions.",
+        "d": "in quantities determined solely by relative prices."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q15",
+      "text": "Indifference curves for perfect complements are typically",
+      "options": {
+        "a": "closed circles around the origin.",
+        "b": "upward-sloping straight lines.",
+        "c": "parallel straight lines.",
+        "d": "L-shaped."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q16",
+      "text": "A “bad” is a commodity for which",
+      "options": {
+        "a": "the consumer wants the good only in a fixed proportion with another good.",
+        "b": "the consumer is always indifferent to its quantity.",
+        "c": "more of the commodity makes the consumer worse off, other things equal.",
+        "d": "the price is negative by definition."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q17",
+      "text": "If x1 is a bad and x2 is a good, an indifference curve may slope upward because",
+      "options": {
+        "a": "the consumer must be violating transitivity.",
+        "b": "more of the bad must be compensated by more of the good to keep utility unchanged.",
+        "c": "the goods are necessarily perfect complements.",
+        "d": "more of both commodities always makes the consumer worse off."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q18",
+      "text": "A neutral good is one whose quantity",
+      "options": {
+        "a": "must be consumed in a fixed ratio with another good.",
+        "b": "determines the slope of every indifference curve through prices.",
+        "c": "does not affect the consumer’s ranking of bundles over the relevant range.",
+        "d": "always lowers utility."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q19",
+      "text": "With a satiation point, the consumer has",
+      "options": {
+        "a": "an overall best bundle, and moving beyond it in some direction can make a good effectively become a bad.",
+        "b": "no ability to compare bundles.",
+        "c": "monotonic preferences everywhere.",
+        "d": "only straight-line indifference curves."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q20",
+      "text": "A discrete good is a good that",
+      "options": {
+        "a": "has a zero price.",
+        "b": "is always a bad.",
+        "c": "must be a perfect complement to money.",
+        "d": "is available only in integer or otherwise indivisible amounts."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q21",
+      "text": "For a discrete good, the set of bundles indifferent to a given bundle may appear as",
+      "options": {
+        "a": "a set of separate points rather than a smooth continuous curve.",
+        "b": "a continuous circle by necessity.",
+        "c": "the entire consumption set.",
+        "d": "a single vertical budget line."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q22",
+      "text": "Monotonicity of preferences, as used in the slides, means that",
+      "options": {
+        "a": "a bundle with at least as much of every good and more of at least one good is strictly preferred.",
+        "b": "averages are always strictly preferred to extremes.",
+        "c": "all goods are perfect substitutes.",
+        "d": "utility must be cardinal."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q23",
+      "text": "Under monotonic preferences over two goods, indifference curves are typically downward sloping because",
+      "options": {
+        "a": "the budget line is always tangent to the indifference curve.",
+        "b": "both goods are bads.",
+        "c": "if one good increases, some of the other must decrease to keep the consumer indifferent.",
+        "d": "prices must have opposite signs."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q24",
+      "text": "Convex preferences imply that",
+      "options": {
+        "a": "weighted averages of two indifferent bundles are at least as good as the extreme bundles.",
+        "b": "indifference curves must be straight lines.",
+        "c": "more of every good can make the consumer worse off.",
+        "d": "the consumer always prefers an extreme bundle to a balanced bundle."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q25",
+      "text": "The economic intuition for convex preferences is often summarized as",
+      "options": {
+        "a": "a requirement that all goods be complements.",
+        "b": "a preference for consuming only the cheaper good.",
+        "c": "a preference for lower consumption of all goods.",
+        "d": "a preference for balanced mixtures rather than extreme bundles."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch3q26",
+      "text": "A set is convex if",
+      "options": {
+        "a": "every point in the set lies on a straight line through the origin.",
+        "b": "the line segment connecting any two points in the set lies entirely in the set.",
+        "c": "the set contains no boundary points.",
+        "d": "all points in the set have the same utility."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q27",
+      "text": "Strict convexity strengthens convexity by requiring that",
+      "options": {
+        "a": "all indifference curves are linear.",
+        "b": "a nontrivial weighted average of two distinct indifferent bundles is strictly preferred to the extremes.",
+        "c": "the consumer is indifferent among all weighted averages.",
+        "d": "preferences are no longer complete."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q28",
+      "text": "Perfect-substitute preferences are generally",
+      "options": {
+        "a": "strictly convex but not convex.",
+        "b": "necessarily concave.",
+        "c": "convex but not strictly convex.",
+        "d": "neither complete nor transitive."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q29",
+      "text": "The marginal rate of substitution (MRS) is",
+      "options": {
+        "a": "the slope of an indifference curve at a bundle and the rate at which the consumer is just willing to trade one good for the other.",
+        "b": "the consumer’s total willingness to pay for the entire bundle.",
+        "c": "the difference between the two goods’ market prices.",
+        "d": "the slope of the budget line determined only by prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q30",
+      "text": "For ordinary “goods” with downward-sloping indifference curves, the MRS is usually negative because",
+      "options": {
+        "a": "market prices are negative.",
+        "b": "maintaining the same utility requires giving up some of one good to obtain more of the other.",
+        "c": "preferences are incomplete.",
+        "d": "both marginal utilities are negative."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch3q31",
+      "text": "If good 2 is a composite good measured in euros, the MRS of good 2 for good 1 can be interpreted as",
+      "options": {
+        "a": "the consumer’s marginal willingness to pay in euros for a little more of good 1.",
+        "b": "the consumer’s total income.",
+        "c": "the market price of good 1 regardless of the consumer’s preferences.",
+        "d": "the amount of good 1 the government rations."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch3q32",
+      "text": "A diminishing absolute MRS as x1 increases is consistent with convex preferences because",
+      "options": {
+        "a": "the goods must be perfect substitutes.",
+        "b": "the indifference curve becomes upward sloping.",
+        "c": "the consumer becomes progressively less willing to give up good 2 for additional units of good 1.",
+        "d": "the consumer becomes more willing to give up good 2 as x1 rises."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch3q33",
+      "text": "Refer to the accompanying figure. Why are the two depicted curves called “alleged” indifference curves?",
+      "options": {
+        "a": "Their intersection would violate the logic of transitive preference rankings for distinct indifference curves.",
+        "b": "Indifference curves are required to be straight.",
+        "c": "They cross the axes instead of the budget line.",
+        "d": "They are too steep to represent preferences."
+      },
+      "answer": "a",
+      "image": "assets/ch3_indifference_crossing.png"
+    },
+    {
+      "id": "ch3q34",
+      "text": "If X ∼ Y and preferences are convex, which statement must hold for the midpoint M = 0.5X + 0.5Y?",
+      "options": {
+        "a": "M is incomparable with X and Y.",
+        "b": "M must be indifferent to X under strict convexity.",
+        "c": "X ≻ M and Y ≻ M.",
+        "d": "M ≽ X and M ≽ Y."
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}

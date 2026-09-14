@@ -1,0 +1,366 @@
+{
+  "id": "chapter-1",
+  "name": "Chapter 1: Introduction to microeconomics",
+  "questions": [
+    {
+      "id": "ch1q1",
+      "text": "Which statement best captures the economic problem of scarcity?",
+      "options": {
+        "a": "Every good has a positive money price.",
+        "b": "Resources are limited relative to the wants they could be used to satisfy.",
+        "c": "People are unable to compare alternative uses of resources.",
+        "d": "Firms always face shortages of labor."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q2",
+      "text": "Microeconomics is primarily concerned with",
+      "options": {
+        "a": "the determination of a country’s long-run growth rate only.",
+        "b": "the accounting rules used to construct the balance of payments.",
+        "c": "the measurement of national income and aggregate unemployment only.",
+        "d": "the behavior and choices of individual economic decision makers such as consumers and firms."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q3",
+      "text": "Which of the following can be a microeconomic question?",
+      "options": {
+        "a": "What determines the national unemployment rate over the business cycle.",
+        "b": "How a tax on a particular good changes the choices of consumers and firms in that market.",
+        "c": "How aggregate output is measured in national accounts.",
+        "d": "How the overall price level changes across the entire economy."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q4",
+      "text": "An economic model is best described as",
+      "options": {
+        "a": "a simplified formal description of an economic problem built on explicit assumptions.",
+        "b": "a forecast that is valid only if every variable is endogenous.",
+        "c": "a complete description of reality with no simplifying assumptions.",
+        "d": "a historical narrative that contains no variables."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q5",
+      "text": "In an economic model, an exogenous variable is a variable whose value is",
+      "options": {
+        "a": "chosen by the consumer in the objective function.",
+        "b": "taken as given by the model.",
+        "c": "determined by solving the model.",
+        "d": "always equal to zero in equilibrium."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q6",
+      "text": "In an economic model, an endogenous variable is a variable whose value is",
+      "options": {
+        "a": "measured outside the model but not explained by it.",
+        "b": "fixed by assumption and never allowed to change.",
+        "c": "necessarily controlled by the government.",
+        "d": "determined within the model."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q7",
+      "text": "Constrained optimization refers to",
+      "options": {
+        "a": "maximizing every possible objective at the same time.",
+        "b": "comparing two equilibria after an exogenous change.",
+        "c": "choosing the best feasible alternative while respecting restrictions on the choice.",
+        "d": "setting prices so that quantity demanded equals quantity supplied."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q8",
+      "text": "In a constrained optimization problem, the objective function describes",
+      "options": {
+        "a": "the exogenous variables that must remain constant forever.",
+        "b": "the restrictions that define the feasible set.",
+        "c": "the price adjustment rule that clears a market.",
+        "d": "the relationship the decision maker seeks to maximize or minimize."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q9",
+      "text": "In a constrained optimization problem, a constraint is",
+      "options": {
+        "a": "the marginal benefit of the last unit chosen.",
+        "b": "the value of the objective at the optimum.",
+        "c": "a variable determined only after equilibrium is reached.",
+        "d": "a restriction or limit imposed on the decision maker’s choices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q10",
+      "text": "The standard rational-choice assumption used in the slides is that a decision maker",
+      "options": {
+        "a": "tries to choose the best alternative available to them.",
+        "b": "never changes behavior when incentives change.",
+        "c": "always chooses the cheapest alternative regardless of preferences.",
+        "d": "always has perfect information about every future event."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q11",
+      "text": "Why can a brewery optimally split an advertising budget between TV and radio even if TV generates more total sales than radio at every equal spending level?",
+      "options": {
+        "a": "Radio advertising must have a larger total effect at every spending level.",
+        "b": "Optimal allocation depends on marginal effects, not simply on total effects at equal spending levels.",
+        "c": "Rational firms ignore diminishing marginal effects when allocating a fixed budget.",
+        "d": "The budget constraint does not apply to advertising decisions."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q12",
+      "text": "The term “marginal” in microeconomics refers to",
+      "options": {
+        "a": "the change in a dependent variable caused by a small additional unit of an independent variable.",
+        "b": "a change in an exogenous variable that leaves all endogenous variables fixed.",
+        "c": "the total level of a variable before any choice is made.",
+        "d": "the average value of all feasible alternatives."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q13",
+      "text": "Diminishing marginal impact of advertising means that",
+      "options": {
+        "a": "the first euro spent has no effect on sales.",
+        "b": "the marginal impact is constant at every level of spending.",
+        "c": "total sales must eventually become negative.",
+        "d": "additional spending generates smaller and smaller increments in sales as spending rises."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q14",
+      "text": "An equilibrium is a state that",
+      "options": {
+        "a": "must involve zero profits for every firm in every market.",
+        "b": "can exist only when government fixes the market price.",
+        "c": "will persist as long as relevant exogenous factors remain unchanged.",
+        "d": "requires every individual to consume identical bundles."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q15",
+      "text": "The equilibrium principle used for the apartment market says that prices adjust until",
+      "options": {
+        "a": "quantity demanded equals quantity supplied.",
+        "b": "all apartments have identical quality.",
+        "c": "every renter has the same reservation price.",
+        "d": "the supply curve becomes horizontal."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q16",
+      "text": "A renter’s reservation price is",
+      "options": {
+        "a": "the rent of the renter’s outside option by definition.",
+        "b": "the lowest rent a landlord is legally allowed to charge.",
+        "c": "the highest rent the renter is willing to pay for an apartment.",
+        "d": "the market-clearing rent after all trades occur."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q17",
+      "text": "All else equal, when the rental price of city-center apartments falls, the quantity demanded tends to",
+      "options": {
+        "a": "increase because more potential renters have reservation prices above the rent.",
+        "b": "remain unchanged because reservation prices adjust one-for-one with rent.",
+        "c": "become zero unless the price equals the equilibrium price.",
+        "d": "decrease because supply is fixed in the short run."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q18",
+      "text": "In the short-run apartment-market example, the supply curve is vertical because",
+      "options": {
+        "a": "the number of available apartments is fixed in the short run.",
+        "b": "demand is perfectly elastic.",
+        "c": "the equilibrium price is fixed by assumption.",
+        "d": "landlords have identical reservation prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q19",
+      "text": "If the apartment rent is below the equilibrium rent, then",
+      "options": {
+        "a": "quantity supplied exceeds quantity demanded and the rent tends to rise.",
+        "b": "quantity demanded is below quantity supplied and the rent tends to fall.",
+        "c": "quantity demanded exceeds quantity supplied and the rent tends to rise.",
+        "d": "quantity demanded equals quantity supplied automatically."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q20",
+      "text": "If the apartment rent is above the equilibrium rent, then",
+      "options": {
+        "a": "quantity demanded and quantity supplied both become zero.",
+        "b": "quantity demanded is below quantity supplied and the rent tends to fall.",
+        "c": "quantity demanded exceeds quantity supplied and the rent tends to rise.",
+        "d": "the market must remain permanently out of equilibrium."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q21",
+      "text": "In the simple apartment-market model, an efficient market allocation assigns apartments to",
+      "options": {
+        "a": "renters selected randomly, regardless of willingness to pay.",
+        "b": "only those whose reservation price equals zero.",
+        "c": "the people with the lowest reservation prices.",
+        "d": "the people with the greatest willingness to pay."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch1q22",
+      "text": "Comparative statics is the method of",
+      "options": {
+        "a": "measuring only changes in accounting identities.",
+        "b": "tracing the exact time path by which a market moves between equilibria.",
+        "c": "comparing two static equilibria before and after a change in an exogenous variable.",
+        "d": "maximizing a utility function without any constraints."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q23",
+      "text": "Comparative statics generally does NOT tell us",
+      "options": {
+        "a": "how the equilibrium may differ after an exogenous change.",
+        "b": "which variables are endogenous in a specified model.",
+        "c": "the dynamic path the market follows from the old equilibrium to the new equilibrium.",
+        "d": "whether a supply or demand shift changes equilibrium outcomes."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q24",
+      "text": "If new city-center apartments are constructed, the standard comparative-statics prediction is",
+      "options": {
+        "a": "a lower equilibrium rent with no change in equilibrium quantity.",
+        "b": "an ambiguous quantity effect and a necessarily higher rent.",
+        "c": "a lower equilibrium rent and a higher equilibrium quantity of rented apartments.",
+        "d": "a higher equilibrium rent and a lower equilibrium quantity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch1q25",
+      "text": "Suppose some rental apartments are converted into owner-occupied condominiums, reducing both rental supply and rental demand. Which outcome is unambiguous in the slides?",
+      "options": {
+        "a": "The equilibrium rent must fall.",
+        "b": "The equilibrium quantity of rental apartments falls.",
+        "c": "The equilibrium rent must rise.",
+        "d": "The equilibrium quantity of rental apartments rises."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q26",
+      "text": "When both rental supply and rental demand decrease, the effect on the equilibrium rent can be ambiguous because",
+      "options": {
+        "a": "the equilibrium principle no longer applies.",
+        "b": "the supply shift tends to raise rent while the demand shift tends to lower rent.",
+        "c": "both shifts necessarily raise rent by the same amount.",
+        "d": "prices do not respond to simultaneous supply and demand shifts."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q27",
+      "text": "Which statement correctly distinguishes constrained optimization from equilibrium analysis?",
+      "options": {
+        "a": "Constrained optimization studies the best feasible choice of a decision maker, whereas equilibrium analysis studies mutual consistency of choices in a system such as a market.",
+        "b": "Constrained optimization concerns only firms, while equilibrium analysis concerns only consumers.",
+        "c": "Constrained optimization determines exogenous variables, while equilibrium analysis fixes all endogenous variables by assumption.",
+        "d": "They are the same analytical tool with different names."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch1q28",
+      "text": "Refer to the accompanying figure. What does the point where the demand curve intersects the vertical supply curve represent?",
+      "options": {
+        "a": "A rent below equilibrium at which there is excess supply.",
+        "b": "The maximum reservation price in the market regardless of supply.",
+        "c": "A rent above equilibrium at which there is excess demand.",
+        "d": "The market-clearing rent p* at which the fixed apartment supply equals quantity demanded."
+      },
+      "answer": "d",
+      "image": "assets/ch1_market_equilibrium.png"
+    },
+    {
+      "id": "ch1q29",
+      "text": "If an exogenous variable changes in a model, the purpose of comparative statics is to ask",
+      "options": {
+        "a": "which exogenous variable the model should redefine as endogenous after the change.",
+        "b": "how the model’s endogenous equilibrium outcomes change as a result.",
+        "c": "whether the original assumptions can be discarded entirely.",
+        "d": "how to keep every endogenous variable fixed despite the change."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch1q30",
+      "text": "Why are assumptions useful in economic models?",
+      "options": {
+        "a": "They simplify reality so that important mechanisms and relationships can be analyzed clearly.",
+        "b": "They guarantee that a model will predict every real-world observation exactly.",
+        "c": "They ensure that all economic decisions are unconstrained.",
+        "d": "They eliminate the need to distinguish exogenous from endogenous variables."
+      },
+      "answer": "a",
+      "image": null
+    }
+  ]
+}

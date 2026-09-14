@@ -1,0 +1,390 @@
+{
+  "id": "chapter-4",
+  "name": "Chapter 4: Utility",
+  "questions": [
+    {
+      "id": "ch4q1",
+      "text": "A utility function represents preferences when it assigns",
+      "options": {
+        "a": "numbers equal to the market cost of each bundle.",
+        "b": "higher numbers to more-preferred bundles and lower numbers to less-preferred bundles.",
+        "c": "cardinal units that are comparable across all consumers.",
+        "d": "the same number to all affordable bundles."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q2",
+      "text": "The utility concept used in standard consumer theory in these slides is primarily",
+      "options": {
+        "a": "technological: utility measures physical productivity.",
+        "b": "cardinal: utility differences have a unique behavioral meaning.",
+        "c": "interpersonal: one consumer’s utility can be compared directly with another’s.",
+        "d": "ordinal: only the ranking of bundles matters."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q3",
+      "text": "If A ≻ B, a utility representation u must satisfy",
+      "options": {
+        "a": "u(A) > u(B).",
+        "b": "u(A) < u(B).",
+        "c": "u(A) = u(B).",
+        "d": "u(A) − u(B) = 1 exactly."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q4",
+      "text": "Why is a utility representation generally not unique?",
+      "options": {
+        "a": "Market prices determine only one possible utility scale.",
+        "b": "Utility must be measured in euros, which can be converted to other currencies.",
+        "c": "Any strictly increasing transformation preserves the ranking of bundles.",
+        "d": "Preferences are assumed to be incomplete."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q5",
+      "text": "A monotonic transformation f(u) is one that",
+      "options": {
+        "a": "reverses all rankings.",
+        "b": "maps every utility level to the same number.",
+        "c": "must be linear with slope exactly one.",
+        "d": "preserves order: if u1 > u2, then f(u1) > f(u2)."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q6",
+      "text": "A differentiable transformation f(u) is strictly increasing where",
+      "options": {
+        "a": "df/du = 0 everywhere.",
+        "b": "df/du < 0.",
+        "c": "df/du > 0.",
+        "d": "f(u) = 0 for all u."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q7",
+      "text": "If v(x1,x2) = f(u(x1,x2)) and f is strictly increasing, then v and u",
+      "options": {
+        "a": "represent opposite preference orderings.",
+        "b": "can represent the same preferences only if f is the identity function.",
+        "c": "represent the same preferences.",
+        "d": "must have identical numerical marginal utilities."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q8",
+      "text": "Cardinal utility would attach behavioral significance to",
+      "options": {
+        "a": "only market prices.",
+        "b": "the size of utility differences between bundles.",
+        "c": "only the ranking of bundles.",
+        "d": "the slope of the budget line but not preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q9",
+      "text": "In standard consumer-choice theory, cardinal utility is unnecessary because",
+      "options": {
+        "a": "marginal utility is always constant.",
+        "b": "prices already measure utility directly.",
+        "c": "choice behavior can be described using only ordinal rankings.",
+        "d": "all consumers have the same utility function."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q10",
+      "text": "A utility function can be viewed geometrically as",
+      "options": {
+        "a": "a labeling system for indifference curves.",
+        "b": "a rule that makes every indifference curve linear.",
+        "c": "a supply curve for consumption goods.",
+        "d": "a replacement for the budget constraint."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q11",
+      "text": "All bundles on the same indifference curve have",
+      "options": {
+        "a": "the same market cost.",
+        "b": "the same quantity of good 1.",
+        "c": "the same utility level in a given utility representation.",
+        "d": "the same marginal utilities for both goods."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q12",
+      "text": "For u(x1,x2) = x1x2, an indifference curve at utility level k satisfies",
+      "options": {
+        "a": "x2 = k − x1.",
+        "b": "x2 = k/x1.",
+        "c": "x2 = kx1.",
+        "d": "x2 = x1/k."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q13",
+      "text": "On the nonnegative consumption set, v(x1,x2) = (x1x2)^2 represents the same preferences as u(x1,x2) = x1x2 because",
+      "options": {
+        "a": "only linear transformations preserve preferences.",
+        "b": "squaring reverses the ranking of all bundles.",
+        "c": "the two functions have identical marginal utility levels everywhere.",
+        "d": "squaring is increasing for nonnegative utility values."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q14",
+      "text": "Perfect-substitute preferences can be represented by",
+      "options": {
+        "a": "u(x1,x2) = min(ax1,bx2).",
+        "b": "u(x1,x2) = x1/x2 necessarily.",
+        "c": "u(x1,x2) = ax1 + bx2 with a,b > 0.",
+        "d": "u(x1,x2) = v(x1) + x2 only if a = 0."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q15",
+      "text": "For u(x1,x2) = ax1 + bx2, the slope of an indifference curve is",
+      "options": {
+        "a": "ab.",
+        "b": "−b/a.",
+        "c": "a + b.",
+        "d": "−a/b."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q16",
+      "text": "Perfect-complement preferences can be represented by",
+      "options": {
+        "a": "u(x1,x2) = max(ax1,bx2).",
+        "b": "u(x1,x2) = ax1 + bx2.",
+        "c": "u(x1,x2) = min(ax1,bx2) for positive a and b.",
+        "d": "u(x1,x2) = x1 − x2."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q17",
+      "text": "In a perfect-complements utility function u = min(ax1,bx2), utility is limited by",
+      "options": {
+        "a": "the component available in the smaller effective proportion.",
+        "b": "the sum of expenditures on both goods.",
+        "c": "the larger of ax1 and bx2.",
+        "d": "the good with the higher market price regardless of quantities."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q18",
+      "text": "Quasilinear preferences can be represented by a utility function of the form",
+      "options": {
+        "a": "u(x1,x2) = v(x1) + x2.",
+        "b": "u(x1,x2) = min(x1,x2).",
+        "c": "u(x1,x2) = x1x2 only.",
+        "d": "u(x1,x2) = v(x1)x2 with no additive term."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q19",
+      "text": "A characteristic feature of quasilinear indifference curves is that they are",
+      "options": {
+        "a": "rays from the origin.",
+        "b": "parallel only when prices are equal.",
+        "c": "L-shaped with a common kink.",
+        "d": "vertical translations of one another."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q20",
+      "text": "A Cobb-Douglas utility function has the form",
+      "options": {
+        "a": "u(x1,x2) = x1^c x2^d with c,d > 0.",
+        "b": "u(x1,x2) = min(cx1,dx2).",
+        "c": "u(x1,x2) = cx1 + dx2 only.",
+        "d": "u(x1,x2) = c/x1 + d/x2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q21",
+      "text": "Cobb-Douglas preferences are a standard example of",
+      "options": {
+        "a": "preferences over two bads.",
+        "b": "preferences with satiation at a finite point.",
+        "c": "nontransitive preferences.",
+        "d": "monotonic, convex, well-behaved preferences."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q22",
+      "text": "Why can Cobb-Douglas exponents be normalized to sum to one without changing preferences?",
+      "options": {
+        "a": "The exponents are market prices and can be divided by income.",
+        "b": "Any transformation, even a decreasing one, preserves preferences.",
+        "c": "Only the sum of exponents affects the budget constraint.",
+        "d": "A positive power transformation can rescale the exponents while preserving rankings."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q23",
+      "text": "The marginal utility of good 1 is",
+      "options": {
+        "a": "the total derivative of income with respect to x1.",
+        "b": "the partial derivative ∂u/∂x1, holding x2 fixed.",
+        "c": "the slope of the budget line.",
+        "d": "the ratio p1/p2."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q24",
+      "text": "Marginal utility by itself has limited behavioral meaning because",
+      "options": {
+        "a": "its numerical magnitude changes under monotonic transformations of utility.",
+        "b": "it is always zero at an optimum.",
+        "c": "it depends only on prices, not preferences.",
+        "d": "it cannot be computed from a differentiable utility function."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q25",
+      "text": "For a differentiable utility function, the MRS of good 2 for good 1 is",
+      "options": {
+        "a": "−MU2/MU1.",
+        "b": "p1 + p2 by definition.",
+        "c": "MU1 + MU2.",
+        "d": "−MU1/MU2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch4q26",
+      "text": "The MRS is invariant to a strictly increasing differentiable transformation of utility because",
+      "options": {
+        "a": "the MRS is defined without reference to preferences.",
+        "b": "the common transformation factor cancels in the ratio of marginal utilities.",
+        "c": "the transformation changes prices proportionally.",
+        "d": "marginal utilities themselves are invariant."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q27",
+      "text": "For Cobb-Douglas utility u = x1^c x2^d, the MRS is",
+      "options": {
+        "a": "−(c x2)/(d x1).",
+        "b": "−(c x1)/(d x2).",
+        "c": "−(d x2)/(c x1).",
+        "d": "−cd x1x2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q28",
+      "text": "In a linear estimated utility function for commuting characteristics, a coefficient can be interpreted as",
+      "options": {
+        "a": "the marginal utility weight placed on that characteristic.",
+        "b": "the consumer’s total income.",
+        "c": "the market price of that characteristic.",
+        "d": "the probability of choosing public transport."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch4q29",
+      "text": "In the commuting example U = −0.147TW − 0.0411TT − 2.24C, the negative coefficients on time and cost indicate that",
+      "options": {
+        "a": "commuters prefer longer trips and higher costs.",
+        "b": "more walking time, travel time, or monetary cost lowers utility, other things equal.",
+        "c": "utility is cardinally comparable across commuters.",
+        "d": "time and cost are neutral characteristics."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch4q30",
+      "text": "Ratios of coefficients in a linear utility model can be used to estimate",
+      "options": {
+        "a": "the number of consumers in the market.",
+        "b": "the level of aggregate supply.",
+        "c": "marginal rates of substitution between characteristics.",
+        "d": "the slope of the consumer’s budget line only."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch4q31",
+      "text": "Refer to the accompanying figure for u(x1,x2)=x1x2. Moving from the curve labeled k=1 to the curve labeled k=3 represents",
+      "options": {
+        "a": "a move to a lower utility level.",
+        "b": "a move to a higher utility level and therefore to a more-preferred indifference curve.",
+        "c": "a change in market prices rather than preferences.",
+        "d": "no change in the preference ranking because all indifference curves have equal utility."
+      },
+      "answer": "b",
+      "image": "assets/ch4_product_indifference_curves.png"
+    },
+    {
+      "id": "ch4q32",
+      "text": "If utility is multiplied by a positive constant, such as v = 5u, then",
+      "options": {
+        "a": "the MRS is multiplied by 25.",
+        "b": "the represented preferences and the MRS are unchanged, although marginal utility numbers are multiplied by 5.",
+        "c": "the represented preference ranking is reversed.",
+        "d": "all indifference curves shift to different physical bundles."
+      },
+      "answer": "b",
+      "image": null
+    }
+  ]
+}

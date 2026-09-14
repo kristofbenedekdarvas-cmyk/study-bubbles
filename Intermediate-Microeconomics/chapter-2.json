@@ -1,0 +1,366 @@
+{
+  "id": "chapter-2",
+  "name": "Chapter 2: Budget constraint",
+  "questions": [
+    {
+      "id": "ch2q1",
+      "text": "For prices p1 and p2 and income m, the consumer’s budget set consists of all bundles satisfying",
+      "options": {
+        "a": "x1 + x2 = p1 + p2.",
+        "b": "p1x1 + p2x2 ≤ m.",
+        "c": "p1x1 + p2x2 = 0.",
+        "d": "p1x1 + p2x2 ≥ m."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q2",
+      "text": "The budget line consists of bundles that",
+      "options": {
+        "a": "cost exactly the consumer’s income m.",
+        "b": "cost strictly less than income m.",
+        "c": "are preferred to every affordable bundle.",
+        "d": "maximize utility for every possible preference ordering."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q3",
+      "text": "Which statement best distinguishes the budget set from the budget line?",
+      "options": {
+        "a": "There is no distinction; the two terms are identical.",
+        "b": "The budget set depends only on preferences, while the budget line depends only on technology.",
+        "c": "The budget set contains all affordable bundles, while the budget line contains bundles that exhaust income.",
+        "d": "The budget line contains all affordable bundles, while the budget set contains only utility-maximizing bundles."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q4",
+      "text": "If good 2 is treated as a composite good representing spending on everything else, a convenient normalization is",
+      "options": {
+        "a": "m = 0.",
+        "b": "p1 = 0.",
+        "c": "p2 = 1.",
+        "d": "x2 = 1 for every consumer."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q5",
+      "text": "With p2 = 1, the budget constraint becomes",
+      "options": {
+        "a": "x1 + p1x2 ≤ m.",
+        "b": "p1x1 + x2 ≤ m.",
+        "c": "p1x1 + p1x2 ≤ 1.",
+        "d": "x1 + x2 ≤ p1m."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q6",
+      "text": "For the budget line p1x1 + p2x2 = m, the vertical intercept is",
+      "options": {
+        "a": "m/p2.",
+        "b": "m/p1.",
+        "c": "p2/p1.",
+        "d": "−p1/p2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q7",
+      "text": "For the budget line p1x1 + p2x2 = m, the horizontal intercept is",
+      "options": {
+        "a": "m/p2.",
+        "b": "p1/p2.",
+        "c": "−p2/p1.",
+        "d": "m/p1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q8",
+      "text": "The slope of the budget line when x2 is on the vertical axis is",
+      "options": {
+        "a": "m/p2.",
+        "b": "−p2/p1.",
+        "c": "p1 + p2.",
+        "d": "−p1/p2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q9",
+      "text": "The absolute value of the budget-line slope, p1/p2, measures",
+      "options": {
+        "a": "the opportunity cost of one unit of good 1 in units of good 2.",
+        "b": "the consumer’s marginal utility of income.",
+        "c": "the rate at which the consumer is willing to substitute the goods, regardless of preferences.",
+        "d": "the amount of good 1 obtainable if all income is spent on good 2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q10",
+      "text": "Why is the budget-line slope negative when both goods have positive prices?",
+      "options": {
+        "a": "Relative prices must be negative for a budget constraint to bind.",
+        "b": "Consuming more of one good while exhausting the budget requires consuming less of the other.",
+        "c": "An increase in income always lowers consumption of both goods.",
+        "d": "Consumers dislike both goods at the margin."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q11",
+      "text": "If income increases while both prices remain unchanged, the budget line",
+      "options": {
+        "a": "rotates around the horizontal intercept.",
+        "b": "shifts outward in a parallel fashion.",
+        "c": "rotates around the vertical intercept.",
+        "d": "becomes steeper without changing either intercept."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q12",
+      "text": "If income falls while both prices remain unchanged, the budget line",
+      "options": {
+        "a": "does not change because relative prices are unchanged.",
+        "b": "becomes flatter but keeps the same intercepts.",
+        "c": "shifts inward in a parallel fashion.",
+        "d": "rotates outward around the x1-intercept."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q13",
+      "text": "If p1 rises while p2 and income remain fixed, the budget line",
+      "options": {
+        "a": "becomes steeper and the x1-intercept moves inward, while the x2-intercept is unchanged.",
+        "b": "becomes flatter and the x2-intercept moves inward.",
+        "c": "shifts outward in parallel.",
+        "d": "keeps the same slope and both intercepts."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q14",
+      "text": "If p1 falls while p2 and income remain fixed, the budget line",
+      "options": {
+        "a": "keeps its slope but raises the x2-intercept.",
+        "b": "shifts inward in parallel.",
+        "c": "becomes steeper and the x1-intercept moves inward.",
+        "d": "becomes flatter and the x1-intercept moves outward."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q15",
+      "text": "Multiplying both prices by t while holding nominal income fixed is equivalent to",
+      "options": {
+        "a": "adding t units of both goods to every affordable bundle.",
+        "b": "dividing only p1 by t.",
+        "c": "multiplying income by t while leaving prices fixed.",
+        "d": "dividing income by t while leaving prices at their original levels."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q16",
+      "text": "If p1, p2, and m are all multiplied by the same positive factor t, then",
+      "options": {
+        "a": "the slope changes but the intercepts do not.",
+        "b": "the budget set expands by a factor t.",
+        "c": "the budget set is unchanged.",
+        "d": "the budget set shrinks by a factor t."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q17",
+      "text": "Why does perfectly balanced inflation leave the budget set unchanged when income rises in the same proportion as all prices?",
+      "options": {
+        "a": "All real purchasing-power ratios and relative prices remain unchanged.",
+        "b": "Every consumer purchases fixed quantities by assumption.",
+        "c": "Nominal income is irrelevant to affordability.",
+        "d": "Inflation necessarily changes the slope but not the intercepts."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q18",
+      "text": "The numeraire is",
+      "options": {
+        "a": "a price normalized to 1 and used as the unit relative to which other prices and income are measured.",
+        "b": "the good with the highest absolute price.",
+        "c": "the consumer’s most preferred good.",
+        "d": "the amount of income left unspent at the optimum."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q19",
+      "text": "Normalizing p2 to 1 changes",
+      "options": {
+        "a": "the budget set unless p1 also equals 1.",
+        "b": "the units in which prices and income are expressed, but not the underlying budget set.",
+        "c": "the physical quantities of goods in every bundle.",
+        "d": "the consumer’s real opportunities and preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q20",
+      "text": "A per-unit quantity tax t on good 1 changes its effective price from p1 to",
+      "options": {
+        "a": "p1/t.",
+        "b": "p1(1 − t).",
+        "c": "p1 + t.",
+        "d": "p1 − t."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q21",
+      "text": "An ad valorem tax at rate τ on good 1 changes its effective price to",
+      "options": {
+        "a": "p1/τ.",
+        "b": "p1 + τ regardless of the original price.",
+        "c": "(1 + τ)p1.",
+        "d": "(1 − τ)p1."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q22",
+      "text": "A per-unit subsidy s on good 1 changes its effective price to",
+      "options": {
+        "a": "p1 − s.",
+        "b": "(1 + s)p1.",
+        "c": "p1 + s.",
+        "d": "p1/s."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q23",
+      "text": "An ad valorem subsidy at rate σ on good 1 changes its effective price to",
+      "options": {
+        "a": "(1 + σ)p1.",
+        "b": "σ/p1.",
+        "c": "p1 − σ regardless of units.",
+        "d": "(1 − σ)p1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q24",
+      "text": "A lump-sum tax differs from a tax on good 1 because a lump-sum tax",
+      "options": {
+        "a": "necessarily creates a kink in the budget line.",
+        "b": "reduces income without directly changing the relative price p1/p2.",
+        "c": "changes only the slope of the budget line.",
+        "d": "makes good 1 free up to a quota."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q25",
+      "text": "A rationing constraint x1 ≤ x̄1",
+      "options": {
+        "a": "requires the consumer to buy exactly x̄1 units.",
+        "b": "removes otherwise affordable bundles with consumption of good 1 above x̄1.",
+        "c": "increases the horizontal intercept of the original budget line.",
+        "d": "changes the consumer’s preferences against good 1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q26",
+      "text": "If good 1 is untaxed up to x̄1 but taxed per unit for consumption above x̄1, the budget line typically",
+      "options": {
+        "a": "becomes vertical at every quantity.",
+        "b": "has a kink at x1 = x̄1.",
+        "c": "shifts in parallel without changing slope anywhere.",
+        "d": "remains a single straight line with the original slope."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch2q27",
+      "text": "A policy that gives a household a fixed amount of food purchasing power rather than subsidizing every unit of food can",
+      "options": {
+        "a": "change preferences rather than constraints.",
+        "b": "be represented only by a proportional increase in all prices.",
+        "c": "never affect the shape of the budget set.",
+        "d": "create a budget set with a kink or flat extension relative to the original cash-only budget."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch2q28",
+      "text": "Suppose p1 = €4, p2 = €2, and m = €40. If the consumer buys one additional unit of good 1 while remaining on the budget line, how much good 2 must be forgone?",
+      "options": {
+        "a": "1/2 unit of good 2.",
+        "b": "8 units of good 2.",
+        "c": "2 units of good 2.",
+        "d": "4 units of good 2."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch2q29",
+      "text": "Suppose p1 = 5, p2 = 10, and m = 100. The budget line has",
+      "options": {
+        "a": "a slope of −1/2, an x1-intercept of 20, and an x2-intercept of 10.",
+        "b": "a slope of 1/2, an x1-intercept of 20, and an x2-intercept of 10.",
+        "c": "a slope of −1/2, an x1-intercept of 10, and an x2-intercept of 20.",
+        "d": "a slope of −2, an x1-intercept of 10, and an x2-intercept of 20."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch2q30",
+      "text": "Refer to the accompanying figure. Which change is illustrated?",
+      "options": {
+        "a": "An equal proportional increase in both prices and income.",
+        "b": "A decrease in the price of good 2 with income fixed.",
+        "c": "An increase in income with both prices fixed.",
+        "d": "An increase in the price of good 1, holding income and the price of good 2 fixed."
+      },
+      "answer": "d",
+      "image": "assets/ch2_price_increase_budget.png"
+    }
+  ]
+}

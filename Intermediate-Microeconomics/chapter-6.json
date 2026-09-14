@@ -1,0 +1,462 @@
+{
+  "id": "chapter-6",
+  "name": "Chapter 6: Demand",
+  "questions": [
+    {
+      "id": "ch6q1",
+      "text": "A Marshallian demand function gives the optimal quantity of a good as a function of",
+      "options": {
+        "a": "the quantities of other consumers only.",
+        "b": "production costs only.",
+        "c": "prices and income.",
+        "d": "utility level only."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q2",
+      "text": "Comparative statics of demand studies",
+      "options": {
+        "a": "how firms choose production technology.",
+        "b": "how utility numbers change under monotonic transformations.",
+        "c": "only the time path of adjustment between two market equilibria.",
+        "d": "how optimal choices change when prices or income change."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q3",
+      "text": "A normal good is one for which, holding prices fixed, demand",
+      "options": {
+        "a": "is independent of income by definition.",
+        "b": "increases when income increases.",
+        "c": "decreases when income increases.",
+        "d": "increases when its own price increases."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q4",
+      "text": "An inferior good is one for which, over the relevant income range, demand",
+      "options": {
+        "a": "is always zero.",
+        "b": "must increase when its own price rises.",
+        "c": "increases when income increases.",
+        "d": "decreases when income increases."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q5",
+      "text": "Whether a good is inferior can depend on",
+      "options": {
+        "a": "whether the good is discrete.",
+        "b": "the consumer’s income level and the relevant range being considered.",
+        "c": "whether the consumer has complete preferences.",
+        "d": "only the sign of its market price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q6",
+      "text": "The income offer curve traces",
+      "options": {
+        "a": "market equilibria as supply shifts.",
+        "b": "the utility-maximizing bundles chosen at different income levels, holding prices fixed.",
+        "c": "bundles with equal expenditure but different preferences.",
+        "d": "the quantities chosen at different own prices, holding income fixed."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q7",
+      "text": "Another name for the income offer curve is the",
+      "options": {
+        "a": "income expansion path.",
+        "b": "compensated supply path.",
+        "c": "inverse demand curve.",
+        "d": "price offer curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q8",
+      "text": "An Engel curve plots",
+      "options": {
+        "a": "the utility level against both quantities.",
+        "b": "the demand for one good against income, holding prices fixed.",
+        "c": "the price of one good against the price of another good.",
+        "d": "the price of one good against the quantity demanded, holding income fixed."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q9",
+      "text": "If both goods are normal, the income expansion path generally has",
+      "options": {
+        "a": "a positive slope in (x1,x2) space.",
+        "b": "a vertical slope necessarily.",
+        "c": "no relation to income.",
+        "d": "a negative slope necessarily."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q10",
+      "text": "For Cobb-Douglas utility u=x1^a x2^(1−a), demand for good 1 is",
+      "options": {
+        "a": "x1 = m/(p1+p2).",
+        "b": "x1 = a m/p1.",
+        "c": "x1 = a p1/m.",
+        "d": "x1 = (1−a)m/p1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q11",
+      "text": "For Cobb-Douglas preferences, Marshallian demands are linear in income, so",
+      "options": {
+        "a": "Engel curves are necessarily vertical.",
+        "b": "the price offer curve is always horizontal.",
+        "c": "both goods are inferior.",
+        "d": "Engel curves are straight lines through the origin."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q12",
+      "text": "A luxury good is one for which demand",
+      "options": {
+        "a": "falls when income rises.",
+        "b": "rises by a greater proportion than income.",
+        "c": "is completely independent of income.",
+        "d": "rises by a smaller proportion than income."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q13",
+      "text": "A necessary good, in the terminology of the slides, is one for which demand",
+      "options": {
+        "a": "rises by a smaller proportion than income.",
+        "b": "rises by a greater proportion than income.",
+        "c": "falls whenever income rises.",
+        "d": "must have unit income elasticity exactly."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q14",
+      "text": "Preferences are homothetic if scaling both bundles by the same positive factor",
+      "options": {
+        "a": "changes the relative price of the goods.",
+        "b": "makes the consumer indifferent between them.",
+        "c": "preserves their preference ranking.",
+        "d": "reverses their preference ranking."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q15",
+      "text": "With homothetic preferences, if income is multiplied by t while prices are fixed, the demanded bundle",
+      "options": {
+        "a": "is divided by t.",
+        "b": "must move to a boundary solution.",
+        "c": "does not change.",
+        "d": "is multiplied by t."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q16",
+      "text": "A key implication of homothetic preferences is that",
+      "options": {
+        "a": "the MRS is constant at all bundles.",
+        "b": "every good is inferior.",
+        "c": "income offer curves and Engel curves are straight lines through the origin.",
+        "d": "own-price demand slopes upward."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q17",
+      "text": "For quasilinear utility u=v(x1)+x2, an interior first-order condition for x1 is",
+      "options": {
+        "a": "v′(x1*) = x2.",
+        "b": "v′(x1*) = p1/p2.",
+        "c": "v′(x1*) = p1+p2.",
+        "d": "v′(x1*) = m."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q18",
+      "text": "Under quasilinear preferences, interior demand for good 1 is independent of income because",
+      "options": {
+        "a": "income enters utility after substitution only as an additive constant with respect to x1.",
+        "b": "good 1 is always inferior.",
+        "c": "the price ratio changes one-for-one with income.",
+        "d": "the budget constraint does not contain income."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q19",
+      "text": "For quasilinear preferences, the Engel curve for good 1 is vertical over the interior range because",
+      "options": {
+        "a": "changing income does not change the chosen x1.",
+        "b": "good 1 has zero price.",
+        "c": "changing income changes x1 proportionally.",
+        "d": "x1 must always equal x2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q20",
+      "text": "For u=ln(x1)+x2, the interior demand for good 1 is",
+      "options": {
+        "a": "x1 = m/(p1+p2).",
+        "b": "x1 = m/p1.",
+        "c": "x1 = p1/p2.",
+        "d": "x1 = p2/p1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q21",
+      "text": "An ordinary good, as defined in the price-demand discussion, has demand that",
+      "options": {
+        "a": "is independent of its own price.",
+        "b": "decreases when its own price decreases.",
+        "c": "increases when its own price decreases.",
+        "d": "must also be an inferior good."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q22",
+      "text": "A Giffen good is unusual because",
+      "options": {
+        "a": "its demand is independent of price.",
+        "b": "it must be a luxury good.",
+        "c": "it has no budget constraint.",
+        "d": "its demand decreases when its own price decreases, over the relevant range."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q23",
+      "text": "For an ordinary good, the own-price derivative typically satisfies",
+      "options": {
+        "a": "dx1/dp1 = m.",
+        "b": "dx1/dp1 < 0.",
+        "c": "dx1/dp1 > 0.",
+        "d": "dx1/dp1 = 1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q24",
+      "text": "The price offer curve for good 1 traces",
+      "options": {
+        "a": "bundles along a single indifference curve as utility is held fixed.",
+        "b": "utility-maximizing bundles as p1 varies while p2 and income are held fixed.",
+        "c": "utility-maximizing bundles as income varies while both prices are fixed.",
+        "d": "market supply as all input prices vary."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q25",
+      "text": "The ordinary demand curve for good 1 plots",
+      "options": {
+        "a": "x2 as a function of income only.",
+        "b": "utility as a function of x1.",
+        "c": "x1 as a function of p1, holding p2 and income fixed.",
+        "d": "p2 as a function of x2."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q26",
+      "text": "For one-for-one perfect substitutes, if p1 > p2, demand for good 1 is",
+      "options": {
+        "a": "m/p2.",
+        "b": "m/(p1+p2).",
+        "c": "zero.",
+        "d": "m/p1."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q27",
+      "text": "For one-for-one perfect substitutes, if p1 < p2, demand for good 1 is",
+      "options": {
+        "a": "m/(p1+p2).",
+        "b": "zero.",
+        "c": "m/p2.",
+        "d": "m/p1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q28",
+      "text": "For perfect complements u=min(x1,x2), demand for good 1 is",
+      "options": {
+        "a": "m/p2.",
+        "b": "p2/p1.",
+        "c": "m/(p1+p2).",
+        "d": "m/p1."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q29",
+      "text": "For a discrete good, a reservation price for the nth unit is",
+      "options": {
+        "a": "the minimum legal price for the good.",
+        "b": "the price at which the consumer is just indifferent between buying the nth unit and not buying it.",
+        "c": "the market-clearing price of the entire industry.",
+        "d": "the price of the composite good."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch6q30",
+      "text": "A discrete-good demand curve can be represented by",
+      "options": {
+        "a": "only an Engel curve, never a price-quantity relation.",
+        "b": "a single smooth horizontal line.",
+        "c": "a vertical line independent of preferences.",
+        "d": "a sequence of reservation-price thresholds at which quantity demanded jumps by units."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q31",
+      "text": "Good 1 is a substitute for good 2 if, holding other determinants fixed,",
+      "options": {
+        "a": "demand for good 1 falls when the price of good 2 rises.",
+        "b": "demand for good 1 is independent of all prices.",
+        "c": "demand for good 1 rises when the price of good 2 rises.",
+        "d": "demand for good 1 rises when its own price rises."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q32",
+      "text": "Good 1 is a complement to good 2 if",
+      "options": {
+        "a": "demand for good 1 falls when the price of good 2 rises.",
+        "b": "both goods have identical prices.",
+        "c": "both goods are normal.",
+        "d": "demand for good 1 rises when the price of good 2 rises."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q33",
+      "text": "The inverse demand function expresses",
+      "options": {
+        "a": "quantity demanded as a function of price only.",
+        "b": "income as a function of utility.",
+        "c": "price as a function of quantity demanded.",
+        "d": "utility as a function of prices and income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch6q34",
+      "text": "If Cobb-Douglas demand for good 1 is x1 = am/p1, the inverse demand is",
+      "options": {
+        "a": "p1 = am/x1.",
+        "b": "p1 = am x1.",
+        "c": "p1 = a/(mx1).",
+        "d": "p1 = x1/(am)."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q35",
+      "text": "At an interior optimum, inverse demand is related to marginal willingness to pay by",
+      "options": {
+        "a": "p1 = p2|MRS|.",
+        "b": "p1 + p2 = |MRS|.",
+        "c": "p1 = |MRS|/p2.",
+        "d": "p1 = p2/|MRS| always."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q36",
+      "text": "If good 2 is money with p2=1, the inverse demand curve for good 1 measures",
+      "options": {
+        "a": "the consumer’s marginal willingness to pay for additional units of good 1.",
+        "b": "the marginal utility of money multiplied by income.",
+        "c": "the average production cost of good 1.",
+        "d": "the consumer’s total income at each quantity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch6q37",
+      "text": "A downward-sloping inverse demand curve means that",
+      "options": {
+        "a": "marginal willingness to pay rises with consumption.",
+        "b": "the good must be Giffen.",
+        "c": "the consumer’s income is falling along the curve.",
+        "d": "marginal willingness to pay declines as consumption of the good increases."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch6q38",
+      "text": "Refer to the accompanying figure. Which behavior identifies good 1 as Giffen in the figure?",
+      "options": {
+        "a": "When the price of good 1 decreases, the chosen quantity of good 1 also decreases.",
+        "b": "Demand for good 1 increases only because income rises.",
+        "c": "When the price of good 1 decreases, the chosen quantity of good 1 increases.",
+        "d": "Demand for good 1 is unchanged when its price changes."
+      },
+      "answer": "a",
+      "image": "assets/ch6_giffen_response.png"
+    }
+  ]
+}

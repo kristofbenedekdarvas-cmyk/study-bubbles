@@ -1,0 +1,474 @@
+{
+  "id": "chapter-5",
+  "name": "Chapter 5: Choice",
+  "questions": [
+    {
+      "id": "ch5q1",
+      "text": "The basic consumer-choice model says that a consumer chooses",
+      "options": {
+        "a": "the bundle with the largest x1-intercept.",
+        "b": "the bundle with the lowest total expenditure regardless of preferences.",
+        "c": "the most preferred bundle in the budget set.",
+        "d": "the bundle containing equal quantities of both goods."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q2",
+      "text": "Equivalently, consumer choice can be formulated as",
+      "options": {
+        "a": "maximizing prices subject to demand.",
+        "b": "equalizing all quantities regardless of prices.",
+        "c": "minimizing income subject to a production function.",
+        "d": "maximizing utility subject to the budget constraint."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q3",
+      "text": "With monotonic preferences, an optimal bundle typically lies on the budget line because",
+      "options": {
+        "a": "if income were left unspent, more of at least one good could be purchased and would be preferred.",
+        "b": "the budget set contains only its boundary.",
+        "c": "the budget line is always an indifference curve.",
+        "d": "utility is independent of quantities inside the budget set."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q4",
+      "text": "For a smooth interior optimum with well-behaved preferences, a necessary tangency condition is",
+      "options": {
+        "a": "MRS = p1 + p2.",
+        "b": "MRS = −p1/p2.",
+        "c": "MU1 = MU2 regardless of prices.",
+        "d": "x1 = x2 regardless of preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q5",
+      "text": "Why can the tangency condition fail at a kinked optimum?",
+      "options": {
+        "a": "Kinked preferences are necessarily incomplete.",
+        "b": "The indifference curve may not have a unique tangent at the kink.",
+        "c": "Prices are undefined at a kink.",
+        "d": "The budget constraint is absent."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q6",
+      "text": "Why can the tangency condition fail at a boundary optimum?",
+      "options": {
+        "a": "The consumer must have negative income.",
+        "b": "The budget line is horizontal at all boundary points.",
+        "c": "A boundary optimum is never utility maximizing.",
+        "d": "The optimum may occur where one good is consumed in zero quantity, so the budget line need not be tangent to an indifference curve."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q7",
+      "text": "For convex preferences, a tangency point between a smooth indifference curve and the budget line is",
+      "options": {
+        "a": "never an optimum.",
+        "b": "sufficient only when preferences are concave.",
+        "c": "necessarily unique even with flat indifference-curve segments.",
+        "d": "sufficient for an optimum, though multiple optima can still occur with flat spots."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q8",
+      "text": "Strictly convex preferences imply that, on a given budget line, the consumer has",
+      "options": {
+        "a": "only boundary optima.",
+        "b": "no utility-maximizing bundle.",
+        "c": "a unique optimal bundle.",
+        "d": "infinitely many optimal bundles."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q9",
+      "text": "At an interior optimum, equality of MRS and the price ratio means that",
+      "options": {
+        "a": "the two market prices must be equal.",
+        "b": "the consumer is indifferent to all affordable bundles.",
+        "c": "marginal utilities must both be zero.",
+        "d": "the consumer’s marginal willingness to trade the goods equals the market’s rate of exchange."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q10",
+      "text": "If the consumer’s MRS differs from −p1/p2 at an interior bundle, then",
+      "options": {
+        "a": "the budget constraint cannot bind.",
+        "b": "the bundle cannot be optimal because a feasible reallocation can improve utility.",
+        "c": "the bundle must be the unique optimum.",
+        "d": "the consumer is necessarily at a satiation point."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q11",
+      "text": "A Marshallian demand function gives",
+      "options": {
+        "a": "the utility level as a function of quantities only.",
+        "b": "the market supply of the good as a function of wages.",
+        "c": "the production cost of the good.",
+        "d": "the utility-maximizing quantity of a good as a function of prices and income."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q12",
+      "text": "Different preferences can generate different demand functions because",
+      "options": {
+        "a": "the optimal bundle depends on how the consumer ranks affordable bundles.",
+        "b": "preferences determine the budget line’s slope.",
+        "c": "prices have no role in demand.",
+        "d": "income is irrelevant to all consumers."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q13",
+      "text": "For one-for-one perfect substitutes with u=x1+x2, if p1 < p2, the consumer will generally",
+      "options": {
+        "a": "spend all income on good 2.",
+        "b": "buy equal physical quantities of both goods.",
+        "c": "spend all income on good 1.",
+        "d": "buy zero of both goods."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q14",
+      "text": "For one-for-one perfect substitutes with p1 = p2, the consumer",
+      "options": {
+        "a": "must buy only good 2.",
+        "b": "is indifferent among all budget-line bundles.",
+        "c": "has no feasible bundle.",
+        "d": "must buy only good 1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q15",
+      "text": "For perfect complements u=min(x1,x2), the utility-maximizing bundle satisfies",
+      "options": {
+        "a": "x1 = x2 and p1x1 + p2x2 = m.",
+        "b": "MU1/p1 = 0 for both goods.",
+        "c": "x1/x2 = p1/p2.",
+        "d": "x1 = 0 regardless of prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q16",
+      "text": "For u=min(x1,x2), Marshallian demand is",
+      "options": {
+        "a": "x1=m/(p1−p2).",
+        "b": "x1 = x2 = m/(p1+p2).",
+        "c": "x1=m/p1 and x2=m/p2 simultaneously.",
+        "d": "x1=x2=p1+p2."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q17",
+      "text": "If good 2 is a bad and good 1 is a desirable good, the consumer with monotonic preferences over good 1 will generally choose",
+      "options": {
+        "a": "the maximum possible amount of the bad.",
+        "b": "x2 = 0 and spend available income on good 1.",
+        "c": "only good 2.",
+        "d": "equal quantities of the good and the bad."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q18",
+      "text": "For a discrete good, demand may change only when price crosses",
+      "options": {
+        "a": "a reservation-price threshold at which the consumer becomes indifferent between adjacent integer quantities.",
+        "b": "the consumer’s income exactly.",
+        "c": "the price of the composite good only.",
+        "d": "zero, because discrete goods cannot have positive prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q19",
+      "text": "One way to solve a smooth interior utility-maximization problem is to combine",
+      "options": {
+        "a": "the price offer curve with the production function.",
+        "b": "two different utility functions with no budget constraint.",
+        "c": "the MRS condition with the binding budget constraint.",
+        "d": "the supply curve with an accounting identity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q20",
+      "text": "In the substitution method, solving the budget constraint for x2 and substituting it into utility produces",
+      "options": {
+        "a": "a proof that the optimum is always at a corner.",
+        "b": "a new market-equilibrium condition.",
+        "c": "a utility function that no longer depends on prices or income.",
+        "d": "a one-variable unconstrained maximization problem over feasible x1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q21",
+      "text": "The first-order condition from the substitution method reproduces the result that",
+      "options": {
+        "a": "the ratio of marginal utilities equals the price ratio at an interior optimum.",
+        "b": "income must equal total utility.",
+        "c": "the prices must be equal.",
+        "d": "both marginal utilities must be zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q22",
+      "text": "The Lagrangian for utility maximization can be written as",
+      "options": {
+        "a": "L = u(x1,x2) − λ(p1x1 + p2x2 − m).",
+        "b": "L = u(x1,x2) + p1 + p2 + m.",
+        "c": "L = λu(x1,x2) with no budget term.",
+        "d": "L = p1x1 + p2x2 − u(x1,x2) with no multiplier."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q23",
+      "text": "The first-order conditions from the Lagrangian imply",
+      "options": {
+        "a": "MU1 = p2 and MU2 = p1 always.",
+        "b": "λ = 0 for every interior optimum.",
+        "c": "MU1 = MU2 = 0.",
+        "d": "MU1 = λp1 and MU2 = λp2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q24",
+      "text": "At an interior optimum, MU1/p1 = MU2/p2 means that",
+      "options": {
+        "a": "the marginal utility per euro spent is equalized across goods.",
+        "b": "the consumer spends the same number of euros on every good.",
+        "c": "the quantities of all goods must be equal.",
+        "d": "both goods must have the same price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q25",
+      "text": "The Lagrange multiplier λ on the budget constraint can be interpreted as",
+      "options": {
+        "a": "the consumer’s total expenditure on good 1.",
+        "b": "the market price of utility.",
+        "c": "the marginal utility of an additional euro of income.",
+        "d": "the slope of the demand curve."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q26",
+      "text": "For Cobb-Douglas utility u=x1^c x2^d, the Marshallian demand for good 1 is",
+      "options": {
+        "a": "x1 = m/(p1+p2).",
+        "b": "x1 = [d/(c+d)] m/p1.",
+        "c": "x1 = [c/(c+d)] m/p1.",
+        "d": "x1 = cp1/m."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q27",
+      "text": "For normalized Cobb-Douglas utility u=x1^α x2^(1−α), the consumer spends",
+      "options": {
+        "a": "a fraction α of income on each good.",
+        "b": "all income on the cheaper good.",
+        "c": "equal fractions on both goods regardless of α.",
+        "d": "the fraction α of income on good 1 and 1−α on good 2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch5q28",
+      "text": "If observed expenditure shares on two goods are relatively stable across price-income situations, a natural utility specification to consider is",
+      "options": {
+        "a": "satiated preferences with a bliss point.",
+        "b": "perfect substitutes with equal prices only.",
+        "c": "Cobb-Douglas preferences.",
+        "d": "preferences over two bads."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q29",
+      "text": "If all consumers face the same prices, choose interior optima, and have well-behaved preferences, then for any two goods",
+      "options": {
+        "a": "their income levels must be equal.",
+        "b": "their utility functions must be identical.",
+        "c": "their MRS values at their chosen bundles are equal across consumers because each equals the common market price ratio.",
+        "d": "their demanded quantities must be equal."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q30",
+      "text": "Compared with a quantity tax that raises the same revenue from one consumer, a revenue-equivalent lump-sum income tax can make that consumer better off because",
+      "options": {
+        "a": "it makes all goods free at the margin.",
+        "b": "it preserves the original relative price and therefore removes the substitution distortion caused by the commodity tax.",
+        "c": "it forces the consumer to purchase the taxed bundle.",
+        "d": "it always raises more revenue."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q31",
+      "text": "A key limitation of the “income tax is better than a quantity tax” result is that",
+      "options": {
+        "a": "the revenue-equivalent income tax can differ across individuals and broader labor-supply and supply-side responses may matter.",
+        "b": "the result applies only when the consumer has no budget constraint.",
+        "c": "the result assumes quantity taxes do not change prices.",
+        "d": "the result requires all goods to be bads."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q32",
+      "text": "The indirect utility function v(p1,p2,m) gives",
+      "options": {
+        "a": "the market demand curve for good 1.",
+        "b": "the maximum utility attainable at prices p1,p2 and income m.",
+        "c": "the minimum expenditure needed to reach a fixed utility level.",
+        "d": "utility as a function of quantities only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q33",
+      "text": "The indirect utility function can be obtained by",
+      "options": {
+        "a": "replacing preferences with the market supply curve.",
+        "b": "substituting prices into the production function.",
+        "c": "substituting Marshallian demand functions into the direct utility function.",
+        "d": "differentiating the budget constraint with respect to utility."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q34",
+      "text": "At the optimum, ∂v/∂m equals",
+      "options": {
+        "a": "−x1.",
+        "b": "p1/p2.",
+        "c": "the Lagrange multiplier λ, the marginal utility of income.",
+        "d": "total expenditure m."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch5q35",
+      "text": "Roy’s identity recovers Marshallian demand from the indirect utility function using",
+      "options": {
+        "a": "xi = (∂v/∂m)/(∂v/∂pi).",
+        "b": "xi = −(∂v/∂pi)/(∂v/∂m).",
+        "c": "xi = pi(∂v/∂m).",
+        "d": "xi = ∂v/∂pi + ∂v/∂m."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch5q36",
+      "text": "Refer to the accompanying figure. What feature of the optimum is illustrated?",
+      "options": {
+        "a": "The consumer has perfect-complement preferences with a kinked optimum.",
+        "b": "The optimum is a boundary solution with zero consumption of good 2, so tangency is not required.",
+        "c": "The optimum is an interior tangency with positive quantities of both goods.",
+        "d": "The budget line is irrelevant because the consumer is satiated."
+      },
+      "answer": "b",
+      "image": "assets/ch5_boundary_optimum.png"
+    },
+    {
+      "id": "ch5q37",
+      "text": "For Cobb-Douglas utility u=x1^0.5 x2^0.5 with p1=1, p2=2, and m=100, the optimal bundle is",
+      "options": {
+        "a": "(x1,x2) = (50,25).",
+        "b": "(20,40).",
+        "c": "(100,0).",
+        "d": "(25,50)."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q38",
+      "text": "If λ is large at the optimum, this indicates that",
+      "options": {
+        "a": "a small increase in income would generate a relatively large increase in maximal utility.",
+        "b": "the consumer’s budget constraint is slack.",
+        "c": "the consumer is necessarily at a corner solution.",
+        "d": "all prices must be large."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch5q39",
+      "text": "For a smooth interior optimum, the condition MU1/p1 = MU2/p2 can be understood as a “no profitable reallocation” condition because",
+      "options": {
+        "a": "prices no longer influence choice.",
+        "b": "the consumer receives zero marginal utility from both goods.",
+        "c": "the consumer must spend equal euro amounts on both goods.",
+        "d": "moving a euro from one good to the other cannot raise utility when marginal utility per euro is already equalized."
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}
