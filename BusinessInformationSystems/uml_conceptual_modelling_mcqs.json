@@ -1,0 +1,382 @@
+{
+  "id": "uml-cm-exercises-ch4",
+  "name": "BIS Chapter 4 — Conceptual Modelling MCQs",
+  "questions": [
+    {
+      "id": "cmq1",
+      "text": "Which of the following describes better the term “Association” in a UML class diagram?",
+      "options": {
+        "a": "An association is a relationship between two classes showing how those classes exchange messages.",
+        "b": "An association is a relationship between two classes showing that depending on the multiplicity between them one of the classes is a more refined version of another.",
+        "c": "An association represents a structural relationship that connects two classes.",
+        "d": "None of the previous statements is correct."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "cmq2",
+      "text": "Which of the following describes better the term “Specialization” in a UML class diagram?",
+      "options": {
+        "a": "A specialization is a relationship between two classes showing how those relate to each other.",
+        "b": "A specialization is a relationship between two classes that indicates that any instance of a subclass is associated to any instance of the super class.",
+        "c": "A specialization is a mechanism in which the subclasses inherit the attributes and associations of the superclass.",
+        "d": "None of the previous statements is correct."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "cmq3a",
+      "text": "Each instance of X needs to be related to at least one instance of Y, and viceversa.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q3_model.png"
+    },
+    {
+      "id": "cmq3b",
+      "text": "Can an object of type X be related to an object of type Y that is not related to an object of type Z ?",
+      "options": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "answer": "b",
+      "image": "assets/uml_q3_model.png"
+    },
+    {
+      "id": "cmq3c",
+      "text": "Can an object of type Z be related to more than one object of type X, via an object of type Y ?",
+      "options": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "answer": "a",
+      "image": "assets/uml_q3_model.png"
+    },
+    {
+      "id": "cmq3d",
+      "text": "Does every object of type X have to be related to at least one object of type Z via an object of type Y ?",
+      "options": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "answer": "a",
+      "image": "assets/uml_q3_model.png"
+    },
+    {
+      "id": "cmq3e",
+      "text": "Which of the following statements is TRUE?",
+      "options": {
+        "a": "Every object of type Y has to be related to an object of type W.",
+        "b": "Every object of type Z has to be related to exactly one object of type Y.",
+        "c": "Every object of type X has to be related to exactly one object of type Z.",
+        "d": "None of the previous ones."
+      },
+      "answer": "d",
+      "image": "assets/uml_q3_model.png"
+    },
+    {
+      "id": "cmq5a",
+      "text": "Because every aisle contains at least one product, and every supermarket has at least one aisle available, every LocalStore contains at least one product.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq5b",
+      "text": "Because the specialization is incomplete, there may be instances of supermarkets that are not considered either hypermarkets or local stores.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq5c",
+      "text": "A Hypermarket may contain no products.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq5d",
+      "text": "Because the specialisation is disjoint, each aisle is available either in a HyperMarket or a LocalStore.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq5e",
+      "text": "The same product can be available in different SuperMarkets.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq5f",
+      "text": "The same aisle, containing the same products, can be available in different SuperMarkets.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q5_model.png"
+    },
+    {
+      "id": "cmq6a",
+      "text": "An employee can have different job positions at the same university.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq6b",
+      "text": "An employee can have different job positions at the same organisational unit (OU).",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq6c",
+      "text": "Each job position in an organizational unit must have at least one employee",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq6d",
+      "text": "An employee can only have one job position at the same organizational unit, but can have the same job position in other organizational units.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq6e",
+      "text": "Each employee needs to be related with some university via a job position in an Organisational Unit of that university.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq6f",
+      "text": "A job position within an organization unit can be taken by one and only one employee.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q6_model.png"
+    },
+    {
+      "id": "cmq7a",
+      "text": "If Ana is an employee of LIRIS (an organizational unit within KU Leuven), and professor and researcher are job positions, then the model makes it possible that Ana is a professor and a researcher at the same time.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q7_model.png"
+    },
+    {
+      "id": "cmq7b",
+      "text": "A job position within a university can be taken by several employees.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q7_model.png"
+    },
+    {
+      "id": "cmq7c",
+      "text": "An employee can have different job positions at different organizational units.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q7_model.png"
+    },
+    {
+      "id": "cmq7d",
+      "text": "If there is an instance of job position and an instance of employee, then there must be at least an instance of organizational unit.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q7_model.png"
+    },
+    {
+      "id": "cmq8a",
+      "text": "Because of the composition, a university must have at least one employee.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q8_model.png"
+    },
+    {
+      "id": "cmq8b",
+      "text": "A job position needs to belong to a university.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q8_model.png"
+    },
+    {
+      "id": "cmq8c",
+      "text": "Because of the composition, an organizational unit cannot belong to 2 different universities.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q8_model.png"
+    },
+    {
+      "id": "cmq8d",
+      "text": "Because of the composition, an organizational unit can never exist without being part of a university.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q8_model.png"
+    },
+    {
+      "id": "cmq8e",
+      "text": "When a university is deleted, all employees of its organizational units are deleted as well.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q8_model.png"
+    },
+    {
+      "id": "cmq9a",
+      "text": "If there is a company instance, there must be at least one job.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q9_model.png"
+    },
+    {
+      "id": "cmq9c",
+      "text": "According to the cardinalities, a job must be linked to at least one employee, but may not be linked to any company.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q9_model.png"
+    },
+    {
+      "id": "cmq9d",
+      "text": "Due to the specialization, the same person cannot own a company and be an employee of the same company.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q9_model.png"
+    },
+    {
+      "id": "cmq9e",
+      "text": "An employee may not be linked with a job.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "a",
+      "image": "assets/uml_q9_model.png"
+    },
+    {
+      "id": "cmq9f",
+      "text": "An employee can have two jobs in the same company.",
+      "options": {
+        "a": "True",
+        "b": "False"
+      },
+      "answer": "b",
+      "image": "assets/uml_q9_model.png"
+    },
+    {
+      "id": "cmq10_left_a",
+      "text": "Considering the left UML class diagram, is the following scenario possible to represent? BIS and EST are subjects; Ana is studying BIS, which is taught by Prof. Serral, but EST is an old subject and does not have lecturers or students at the moment.",
+      "options": {
+        "a": "Yes, it is possible.",
+        "b": "No, it is not possible."
+      },
+      "answer": "b",
+      "image": "assets/uml_q10_left_model.png"
+    },
+    {
+      "id": "cmq10_left_b",
+      "text": "Considering the left UML class diagram, is the following scenario possible to represent? John is a student but has not yet registered to any subject.",
+      "options": {
+        "a": "Yes, it is possible.",
+        "b": "No, it is not possible."
+      },
+      "answer": "b",
+      "image": "assets/uml_q10_left_model.png"
+    },
+    {
+      "id": "cmq10_right_a",
+      "text": "Considering the right UML class diagram, is the following scenario possible to represent? BIS and EST are subjects; Ana is studying BIS, which is taught by Prof. Serral, but EST is an old subject and does not have lecturers or students at the moment.",
+      "options": {
+        "a": "Yes, it is possible.",
+        "b": "No, it is not possible."
+      },
+      "answer": "b",
+      "image": "assets/uml_q10_right_model.png"
+    },
+    {
+      "id": "cmq10_right_b",
+      "text": "Considering the right UML class diagram, is the following scenario possible to represent? John is a student but has not yet registered to any subject.",
+      "options": {
+        "a": "Yes, it is possible.",
+        "b": "No, it is not possible."
+      },
+      "answer": "a",
+      "image": "assets/uml_q10_right_model.png"
+    }
+  ]
+}
