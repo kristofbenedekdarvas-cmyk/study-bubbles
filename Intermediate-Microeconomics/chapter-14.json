@@ -1,0 +1,498 @@
+{
+  "id": "chapter-14",
+  "name": "Chapter 14: Cost minimization",
+  "questions": [
+    {
+      "id": "ch14q1",
+      "text": "What is the firm's objective in the cost-minimization problem at a given output?",
+      "options": {
+        "a": "Select the lowest feasible output price.",
+        "b": "Maximize market demand.",
+        "c": "Choose a feasible input combination that minimizes total input expenditure.",
+        "d": "Maximize output regardless of input expenditure."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q2",
+      "text": "What does the cost function c(w1,w2,y) measure?",
+      "options": {
+        "a": "Maximum revenue at those input prices.",
+        "b": "Average utility of consuming y units.",
+        "c": "Minimum cost of producing y units at input prices w1 and w2.",
+        "d": "The minimum income necessary to buy both inputs as final consumption."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q3",
+      "text": "What does an isocost line represent?",
+      "options": {
+        "a": "Output quantities with identical marginal cost.",
+        "b": "Consumer bundles with the same satisfaction.",
+        "c": "Input bundles with the same physical output.",
+        "d": "Input bundles with the same total expenditure."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q4",
+      "text": "What is the slope of an isocost line with input 2 on the vertical axis and input 1 on the horizontal axis?",
+      "options": {
+        "a": "w1+w2.",
+        "b": "-w2/w1.",
+        "c": "-w1/w2.",
+        "d": "-MP1/MP2 regardless of input choice."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q5",
+      "text": "Why is the cost-minimizing input choice a point on the lowest attainable isocost line?",
+      "options": {
+        "a": "Isocost lines correspond to different utility levels.",
+        "b": "The firm seeks to maximize fixed costs.",
+        "c": "Higher isocost lines always yield lower output.",
+        "d": "All higher isocost lines imply greater expenditure for the required output."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q6",
+      "text": "For smooth isoquants and an interior optimum, what tangency condition must hold?",
+      "options": {
+        "a": "Input quantities must be identical.",
+        "b": "MP1/MP2 = w1/w2.",
+        "c": "MP1+MP2 = w1+w2.",
+        "d": "MP1/w1 = w2/MP2."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q7",
+      "text": "What is the economic meaning of MP1/w1 = MP2/w2 at an interior cost minimum?",
+      "options": {
+        "a": "Both inputs must have the same price.",
+        "b": "Each euro spent on either input yields the same marginal output.",
+        "c": "Marginal costs must be zero.",
+        "d": "Total output is equal for both inputs."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q8",
+      "text": "If the marginal output per euro spent on labor exceeds that of capital at an interior input choice, how can cost be lowered at fixed output?",
+      "options": {
+        "a": "Decrease output permanently.",
+        "b": "Use relatively more capital and less labor.",
+        "c": "Increase both inputs in equal quantities.",
+        "d": "Use relatively more labor and less capital until the marginal product per euro is equalized."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q9",
+      "text": "Which constraint must a conditional factor demand satisfy?",
+      "options": {
+        "a": "Produce at least the specified output level at least cost.",
+        "b": "Keep consumer utility fixed.",
+        "c": "Maximize profit for a fixed market demand.",
+        "d": "Maximize output price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q10",
+      "text": "Conditional factor demand functions depend on which variables?",
+      "options": {
+        "a": "Input prices and required output.",
+        "b": "Monopoly demand elasticity alone.",
+        "c": "Income and consumer tastes only.",
+        "d": "The firm's fixed market share only."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q11",
+      "text": "For f(x1,x2)=min(x1,x2) and positive factor prices, which input combination minimizes cost for output y?",
+      "options": {
+        "a": "x1=y and x2=0.",
+        "b": "x1=2y and x2=0.",
+        "c": "x1=0 and x2=y.",
+        "d": "x1=y and x2=y."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q12",
+      "text": "Under f(x1,x2)=min(x1,x2), what is the long-run cost function?",
+      "options": {
+        "a": "y/(w1+w2).",
+        "b": "(w1+w2)y.",
+        "c": "(w1-w2)y.",
+        "d": "min(w1,w2)y."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q13",
+      "text": "For f(x1,x2)=x1+x2 with strictly unequal positive input prices, what is cost-minimizing production?",
+      "options": {
+        "a": "Use only the cheaper input.",
+        "b": "Use only the more expensive input.",
+        "c": "Use no inputs and still produce y.",
+        "d": "Use the two inputs in equal quantities."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q14",
+      "text": "For f(x1,x2)=x1+x2, what is the long-run cost function?",
+      "options": {
+        "a": "min(w1,w2)y.",
+        "b": "(w1+w2)y.",
+        "c": "max(w1,w2)y.",
+        "d": "y/(w1+w2)."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q15",
+      "text": "Why might an input cost minimum occur at a corner instead of a smooth tangency?",
+      "options": {
+        "a": "Inputs may be perfect substitutes or an interior tangency may not be optimal or feasible.",
+        "b": "Input prices must be zero.",
+        "c": "A corner cannot be cost minimizing under any technology.",
+        "d": "Isoquants must always be tangent at every corner."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q16",
+      "text": "When one input becomes more expensive relative to another at fixed output under a smooth convex technology, what substitution is usually expected?",
+      "options": {
+        "a": "Away from the more expensive input toward the cheaper input.",
+        "b": "Toward the more expensive input.",
+        "c": "Away from every input simultaneously while keeping output fixed.",
+        "d": "Toward both inputs in identical proportions irrespective of technology."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q17",
+      "text": "If the wage rises holding the rental rate of capital fixed, how does the isocost slope -w/r change with labor horizontally measured?",
+      "options": {
+        "a": "It becomes positive.",
+        "b": "It becomes flatter.",
+        "c": "It becomes steeper in absolute value.",
+        "d": "It stays unchanged."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q18",
+      "text": "What is an expansion path?",
+      "options": {
+        "a": "The path followed by prices as consumer income rises.",
+        "b": "A line joining equal-profit bundles.",
+        "c": "A producer-surplus curve as output is taxed.",
+        "d": "The locus of cost-minimizing input bundles as output varies at fixed input prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q19",
+      "text": "What is a normal input in conditional factor demand?",
+      "options": {
+        "a": "An input whose cost-minimizing use falls when output rises.",
+        "b": "An input whose cost-minimizing use rises when required output rises.",
+        "c": "An input whose price falls when output rises.",
+        "d": "An input whose marginal product is always increasing."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q20",
+      "text": "What is an inferior input in conditional factor demand?",
+      "options": {
+        "a": "An input that can never be productive.",
+        "b": "An input with a negative market price.",
+        "c": "An input whose use necessarily falls when its own price falls.",
+        "d": "An input whose cost-minimizing use falls as required output rises, at fixed input prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q21",
+      "text": "Why can the expansion path bend toward one input as the firm scales up?",
+      "options": {
+        "a": "Input prices must change with output.",
+        "b": "Total cost always falls as output rises.",
+        "c": "The least-cost input mix can change with output because technology need not be homothetic.",
+        "d": "Every cost-minimizing bundle has identical input ratios."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q22",
+      "text": "How is the cost function obtained from conditional input demands?",
+      "options": {
+        "a": "Differentiate total revenue with respect to price.",
+        "b": "Insert the cost-minimizing input quantities into the expenditure expression.",
+        "c": "Insert Marshallian demand into the consumer's utility function.",
+        "d": "Add the factor prices without accounting for quantities."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q23",
+      "text": "What does Shephard's lemma in production theory say?",
+      "options": {
+        "a": "The partial derivative of profit with respect to output price equals conditional labor demand.",
+        "b": "The partial derivative of minimum cost with respect to an input price equals conditional demand for that input.",
+        "c": "The second derivative of cost with respect to output is always zero.",
+        "d": "The derivative of output with respect to input prices equals revenue."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q24",
+      "text": "If c(w1,w2,y) is differentiable, what does dc/dw1 equal?",
+      "options": {
+        "a": "The output price.",
+        "b": "The marginal cost of output.",
+        "c": "The negative of optimal output.",
+        "d": "The cost-minimizing quantity of input 1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q25",
+      "text": "Why is a cost function nondecreasing in input prices?",
+      "options": {
+        "a": "A rise in an input price cannot make producing the same output cheaper at any unchanged feasible input combination.",
+        "b": "Average fixed cost always rises at the same rate.",
+        "c": "Higher input prices make technologies more efficient.",
+        "d": "Firms always increase output when prices rise."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q26",
+      "text": "What is the homogeneity of the cost function in all input prices?",
+      "options": {
+        "a": "It is homogeneous of degree one in input prices.",
+        "b": "It is homogeneous of degree zero in input prices.",
+        "c": "It is homogeneous of degree two in input prices.",
+        "d": "It is independent of all input prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q27",
+      "text": "If both input prices double and technology and output stay fixed, what happens to minimum cost?",
+      "options": {
+        "a": "It halves.",
+        "b": "It is unchanged.",
+        "c": "It quadruples.",
+        "d": "It doubles."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q28",
+      "text": "Under standard technology, how is minimum cost shaped as a function of input prices?",
+      "options": {
+        "a": "It is necessarily convex in input prices.",
+        "b": "It is independent of relative input prices.",
+        "c": "It is concave in input prices.",
+        "d": "It is always strictly linear in each individual price."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q29",
+      "text": "What does the marginal cost of output equal when the cost function is differentiable in output?",
+      "options": {
+        "a": "The partial derivative of c(w,y) with respect to y.",
+        "b": "The sum of conditional factor quantities.",
+        "c": "The derivative of consumer expenditure with respect to price.",
+        "d": "The wage divided by the rental rate."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q30",
+      "text": "With constant returns to scale and constant input prices, how does minimum total cost change when output doubles?",
+      "options": {
+        "a": "It becomes independent of output.",
+        "b": "It more than doubles.",
+        "c": "It doubles.",
+        "d": "It less than doubles."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q31",
+      "text": "With increasing returns to scale, what cost behavior is associated with expanding output proportionally at fixed input prices?",
+      "options": {
+        "a": "Input prices must fall to zero.",
+        "b": "Long-run cost rises less than proportionally, under the usual cost-minimization assumptions.",
+        "c": "Long-run cost rises more than proportionally.",
+        "d": "Long-run cost always equals zero."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q32",
+      "text": "With decreasing returns to scale, what happens to the long-run average cost as scale expands, in the standard model?",
+      "options": {
+        "a": "It stays exactly constant.",
+        "b": "It becomes negative.",
+        "c": "It tends to increase.",
+        "d": "It must decrease."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q33",
+      "text": "What is the connection between increasing returns to scale and economies of scale?",
+      "options": {
+        "a": "Increasing returns always generate rising long-run average cost.",
+        "b": "They are unrelated to cost behavior.",
+        "c": "Increasing returns generally generate declining long-run average cost at fixed input prices.",
+        "d": "Economies of scale mean marginal products are all negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q34",
+      "text": "How does the short-run cost-minimization problem differ from the long-run problem?",
+      "options": {
+        "a": "All inputs are freely adjustable in the short run but not in the long run.",
+        "b": "At least one input is constrained at a fixed level in the short run.",
+        "c": "Short-run firms never face input prices.",
+        "d": "Long-run firms must produce only zero output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q35",
+      "text": "At any required output, how do optimized long-run costs compare with costs under an arbitrary fixed short-run input level?",
+      "options": {
+        "a": "Short-run costs are always zero.",
+        "b": "Long-run costs must be strictly higher.",
+        "c": "Long-run costs are independent of technology.",
+        "d": "Long-run costs cannot be higher because the firm has more input choices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q36",
+      "text": "When do short-run and long-run total costs coincide at a particular output?",
+      "options": {
+        "a": "When the short-run fixed factor equals the long-run optimal factor choice for that output.",
+        "b": "At every output irrespective of plant size.",
+        "c": "Only when output is zero.",
+        "d": "Whenever labor and capital have the same price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch14q37",
+      "text": "Why is it incorrect to regard any arbitrarily chosen plant size as long-run cost minimizing?",
+      "options": {
+        "a": "Long-run optimization holds all input levels fixed.",
+        "b": "Plant size never affects costs.",
+        "c": "Long-run optimization chooses plant size jointly with other inputs.",
+        "d": "Output price directly determines the cheapest input bundle without technology."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch14q38",
+      "text": "What changes when an input price rises, with output required to stay fixed?",
+      "options": {
+        "a": "Minimum cost necessarily falls.",
+        "b": "Minimum cost weakly rises, and the firm may substitute away from that input.",
+        "c": "Minimum cost always stays unchanged.",
+        "d": "The production function shifts outward automatically."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q39",
+      "text": "What is the distinction between a cost function and a production function?",
+      "options": {
+        "a": "Both map prices to consumer utility.",
+        "b": "The production function gives maximal output from inputs; the cost function gives minimum expenditure for output at factor prices.",
+        "c": "A cost function is independent of input prices.",
+        "d": "A production function is necessarily expressed in euros."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch14q40",
+      "text": "What does the envelope theorem imply about the marginal cost of output at an optimized factor mix?",
+      "options": {
+        "a": "It must be negative under all increasing returns.",
+        "b": "It equals average fixed cost at every output.",
+        "c": "It does not depend on the production process.",
+        "d": "It captures the marginal resource cost of producing an additional unit with inputs optimally adjusted."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch14q41",
+      "text": "At the smooth cost-minimizing tangency in the diagram, what must equal the relative input price?",
+      "options": {
+        "a": "The absolute technical rate of substitution MP1/MP2.",
+        "b": "The ratio of input quantities x1/x2 in every technology.",
+        "c": "The average cost of producing the final good.",
+        "d": "Total output divided by total cost."
+      },
+      "answer": "a",
+      "image": "assets/chapter_14_isocost_isoquant_tangency.png"
+    }
+  ]
+}

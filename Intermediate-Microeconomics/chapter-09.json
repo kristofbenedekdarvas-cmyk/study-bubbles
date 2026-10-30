@@ -1,0 +1,546 @@
+{
+  "id": "chapter-9",
+  "name": "Chapter 9: Uncertainty",
+  "questions": [
+    {
+      "id": "ch9q1",
+      "text": "What is a lottery in expected-utility theory?",
+      "options": {
+        "a": "A random process with equal probabilities for every outcome.",
+        "b": "A choice that always causes financial loss.",
+        "c": "A gamble that necessarily offers positive expected profit.",
+        "d": "A set of possible outcomes associated with probabilities."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q2",
+      "text": "Which property must the probabilities of a complete lottery satisfy?",
+      "options": {
+        "a": "Each probability must equal the corresponding monetary payoff.",
+        "b": "Their sum can exceed one if outcomes overlap.",
+        "c": "Each lies between zero and one and their sum equals one.",
+        "d": "Every probability must be strictly positive."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q3",
+      "text": "The expected monetary value of a lottery is what?",
+      "options": {
+        "a": "Its highest possible payoff.",
+        "b": "The payoff of its median outcome regardless of probability.",
+        "c": "The probability-weighted average of its possible payoffs.",
+        "d": "The most likely payoff."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q4",
+      "text": "A fair gamble with payoffs expressed as gains or losses relative to the status quo has which expected gain?",
+      "options": {
+        "a": "Equal to its payoff variance.",
+        "b": "Zero.",
+        "c": "Strictly negative.",
+        "d": "Strictly positive."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q5",
+      "text": "Which expression describes the variance of lottery payoffs?",
+      "options": {
+        "a": "The square root of expected payoff.",
+        "b": "The difference between largest and smallest payoffs only.",
+        "c": "The probability-weighted sum of squared deviations from the expected payoff.",
+        "d": "The sum of unweighted payoffs."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q6",
+      "text": "How is the standard deviation of lottery payoffs related to their variance?",
+      "options": {
+        "a": "It is the positive square root of variance.",
+        "b": "It always equals expected utility.",
+        "c": "It is variance squared.",
+        "d": "It is the expected payoff divided by variance."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q7",
+      "text": "Which comparison better isolates risk rather than average payoff?",
+      "options": {
+        "a": "Two lotteries with different expected payoffs and identical dispersion.",
+        "b": "Two lotteries with equal expected payoffs but different dispersion.",
+        "c": "Two outcomes that are both certain.",
+        "d": "Two fixed payments with identical amounts and dates."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q8",
+      "text": "Why can a risk-averse person reject a lottery with a positive expected monetary gain?",
+      "options": {
+        "a": "Risk aversion implies the expected monetary payoff is negative.",
+        "b": "Risk aversion prohibits any consumption in bad states.",
+        "c": "Expected utility, not merely expected money, drives the decision.",
+        "d": "Expected utility cannot be defined over wealth."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q9",
+      "text": "What is a state of nature?",
+      "options": {
+        "a": "A possible realization of an uncertain event.",
+        "b": "A fixed price of an asset.",
+        "c": "An unchangeable preference parameter.",
+        "d": "A jurisdiction where insurance is sold."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q10",
+      "text": "What is a contingent consumption plan?",
+      "options": {
+        "a": "A budget line without uncertainty.",
+        "b": "Consumption determined only after probabilities become equal.",
+        "c": "Consumption specified separately for each possible state of nature.",
+        "d": "A plan to consume equal amounts of every good in every year."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q11",
+      "text": "In the insurance model, purchasing additional coverage K with premium rate gamma generally does what?",
+      "options": {
+        "a": "Lowers wealth in the loss state but raises it in the no-loss state.",
+        "b": "Raises wealth equally in both states with no cost.",
+        "c": "Eliminates the probability of loss.",
+        "d": "Raises wealth in the loss state net of premium and lowers wealth in the no-loss state."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q12",
+      "text": "If a person has wealth W, loss L, insurance coverage K and premium gamma K, wealth in the loss state is what?",
+      "options": {
+        "a": "W - L - K + gamma K.",
+        "b": "W - L + K - gamma K.",
+        "c": "W + K without premiums.",
+        "d": "W + L - K."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q13",
+      "text": "Under the same contract, wealth in the no-loss state is what?",
+      "options": {
+        "a": "W - L + K.",
+        "b": "W - gamma K.",
+        "c": "W - L - gamma K.",
+        "d": "W + K + gamma K."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q14",
+      "text": "With insurance premium gamma per unit of coverage, what is the slope of the insurance opportunity line when good-state wealth is vertical and bad-state wealth is horizontal?",
+      "options": {
+        "a": "-(1-gamma)/gamma.",
+        "b": "-gamma/(1-gamma).",
+        "c": "-1/gamma for all gamma.",
+        "d": "-gamma."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q15",
+      "text": "Why can insurance improve welfare without changing the probability of an accident?",
+      "options": {
+        "a": "It converts a risky technology into a sure technology.",
+        "b": "It necessarily increases the expected monetary payoff.",
+        "c": "It redistributes resources from a good state to a bad state.",
+        "d": "It raises the objective probability of all good states."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q16",
+      "text": "A two-state von Neumann-Morgenstern expected utility function has which form?",
+      "options": {
+        "a": "v(pi1 c1 + pi2 c2) for all preferences.",
+        "b": "v(c1) + v(c2) without probabilities.",
+        "c": "pi1 c1 times pi2 c2 for all preferences.",
+        "d": "pi1 v(c1) + pi2 v(c2)."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q17",
+      "text": "Why is expected utility additive across mutually exclusive states?",
+      "options": {
+        "a": "Every consumer must be risk neutral.",
+        "b": "Probabilities can be ignored.",
+        "c": "Consumers always consume both states simultaneously.",
+        "d": "The independence assumption permits state outcomes to enter separately with probability weights."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q18",
+      "text": "Which transformation preserves the expected-utility representation of a utility index?",
+      "options": {
+        "a": "A positive affine transformation, a v + b with a greater than zero.",
+        "b": "Every strictly increasing nonlinear transformation of the von Neumann-Morgenstern index.",
+        "c": "Taking any decreasing transformation.",
+        "d": "Multiplying the index by a negative constant."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q19",
+      "text": "Why is a strictly increasing nonlinear transformation of a von Neumann-Morgenstern index generally problematic?",
+      "options": {
+        "a": "It can change preferences over lotteries even if it preserves the ranking of certain outcomes.",
+        "b": "It always reverses preferences over certain outcomes.",
+        "c": "It forces all lotteries to have zero variance.",
+        "d": "It makes probabilities sum to more than one."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q20",
+      "text": "What is the relevant objective in expected-utility maximization?",
+      "options": {
+        "a": "The utility of the maximum payoff only.",
+        "b": "The probability of the worst state alone.",
+        "c": "The highest monetary payoff regardless of likelihood.",
+        "d": "The probability-weighted utility of state-contingent outcomes."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q21",
+      "text": "For a strictly risk-averse person, which utility curvature characterizes utility of wealth?",
+      "options": {
+        "a": "Strict concavity.",
+        "b": "A step function that is necessarily increasing in risk.",
+        "c": "Strict convexity.",
+        "d": "Constant marginal utility with no curvature."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q22",
+      "text": "For a risk-loving person, which curvature characterizes utility of wealth in the standard model?",
+      "options": {
+        "a": "Convexity.",
+        "b": "Verticality of all indifference curves.",
+        "c": "Strict concavity.",
+        "d": "Linearity only."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q23",
+      "text": "For a risk-neutral person, utility of wealth may be represented by which functional form?",
+      "options": {
+        "a": "A constant function that values no outcomes.",
+        "b": "A strictly concave function only.",
+        "c": "A strictly convex function only.",
+        "d": "A linear function of wealth."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q24",
+      "text": "Which inequality expresses risk aversion for a nondegenerate wealth lottery?",
+      "options": {
+        "a": "u(E[W]) is at least E[u(W)].",
+        "b": "E[u(W)] always exceeds u(E[W]).",
+        "c": "u(E[W]) equals the maximum utility in every state.",
+        "d": "u(E[W]) is necessarily zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q25",
+      "text": "For a strictly risk-averse individual considering a nondegenerate fair gamble in wealth, what is preferred?",
+      "options": {
+        "a": "Taking the gamble regardless of its size.",
+        "b": "Keeping certain wealth rather than accepting the fair gamble.",
+        "c": "The worst outcome of the gamble.",
+        "d": "Being indifferent in all cases."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q26",
+      "text": "What does Jensen's inequality imply for concave Bernoulli utility?",
+      "options": {
+        "a": "Expected utility exceeds utility at expected wealth.",
+        "b": "Expected wealth must be negative.",
+        "c": "Utility at expected wealth is at least expected utility of wealth.",
+        "d": "Variance must equal zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q27",
+      "text": "A risk-neutral decision maker compares lotteries mainly by what?",
+      "options": {
+        "a": "Payoff variance only.",
+        "b": "Expected monetary payoff.",
+        "c": "The lowest possible payoff only.",
+        "d": "Skewness regardless of expected payoff."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q28",
+      "text": "What effect does increasing dispersion of payoffs at unchanged mean have on a risk-averse person's expected utility, under a mean-preserving spread?",
+      "options": {
+        "a": "It makes the person's expected wealth rise.",
+        "b": "It necessarily raises expected utility.",
+        "c": "It leaves expected utility unchanged for every strictly concave utility.",
+        "d": "It weakly lowers expected utility."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q29",
+      "text": "What is a certainty equivalent of a risky lottery?",
+      "options": {
+        "a": "A payment that makes the lottery riskless for society.",
+        "b": "The minimum possible lottery payoff by definition.",
+        "c": "The sure wealth amount delivering the same utility as the lottery's expected utility.",
+        "d": "The largest lottery payoff."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q30",
+      "text": "For a risk-averse consumer, how does the certainty equivalent typically compare with the lottery's expected payoff?",
+      "options": {
+        "a": "It is below the expected payoff for a nondegenerate lottery under strict concavity.",
+        "b": "It always equals the maximum outcome.",
+        "c": "It is above expected payoff.",
+        "d": "It always equals expected payoff regardless of risk."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q31",
+      "text": "How is a lottery's risk premium usually defined?",
+      "options": {
+        "a": "Variance multiplied by probability.",
+        "b": "Expected payoff minus certainty equivalent.",
+        "c": "Minimum payoff minus mean payoff.",
+        "d": "Certainty equivalent minus maximum payoff."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q32",
+      "text": "For a strictly risk-averse decision maker facing a risky lottery, the risk premium is generally what?",
+      "options": {
+        "a": "Identical to the lottery's standard deviation.",
+        "b": "Always zero.",
+        "c": "Positive.",
+        "d": "Negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q33",
+      "text": "For a risk-neutral person, the risk premium for a fair lottery is what?",
+      "options": {
+        "a": "Always positive.",
+        "b": "Always negative.",
+        "c": "Equal to the expected loss.",
+        "d": "Zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q34",
+      "text": "For a risk-loving person, the risk premium defined as expected wealth minus certainty equivalent is typically what?",
+      "options": {
+        "a": "Zero regardless of uncertainty.",
+        "b": "Negative.",
+        "c": "Positive.",
+        "d": "Equal to the loss probability."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q35",
+      "text": "A consumer has utility u(W) = sqrt(W). What happens to marginal utility as wealth increases?",
+      "options": {
+        "a": "It decreases, consistent with risk aversion.",
+        "b": "It remains constant, consistent with neutrality.",
+        "c": "It increases, consistent with risk loving.",
+        "d": "It becomes negative for any positive wealth."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q36",
+      "text": "An actuarially fair insurance premium per euro of coverage equals what?",
+      "options": {
+        "a": "The consumer's wealth level.",
+        "b": "The possible monetary loss itself.",
+        "c": "One minus the probability of loss.",
+        "d": "The probability of the insured loss."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q37",
+      "text": "For a strictly risk-averse individual with fair insurance and a fixed possible loss, what is the standard optimum?",
+      "options": {
+        "a": "Coverage designed to maximize wealth variance.",
+        "b": "Full insurance, equalizing wealth across states.",
+        "c": "Coverage strictly greater than any possible loss by necessity.",
+        "d": "No insurance regardless of preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q38",
+      "text": "Why does equalizing consumption across states characterize full insurance?",
+      "options": {
+        "a": "It changes loss probability to zero.",
+        "b": "It removes consumption risk while preserving expected resources under fair pricing.",
+        "c": "It maximizes variance.",
+        "d": "It eliminates premiums altogether."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch9q39",
+      "text": "If the insurance premium exceeds the actuarially fair rate, what does this mean for the insurer's expected profit per unit?",
+      "options": {
+        "a": "It is positive before expenses, given the model's assumptions.",
+        "b": "It must equal the consumer's risk premium.",
+        "c": "It is negative by definition.",
+        "d": "It is exactly zero by definition."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q40",
+      "text": "When insurance is unfairly priced, which statement is most accurate?",
+      "options": {
+        "a": "No consumer can ever buy insurance.",
+        "b": "Full insurance must still maximize expected utility regardless of premium.",
+        "c": "A risk-averse consumer may rationally choose partial insurance rather than full insurance.",
+        "d": "Every risk-averse consumer must buy full insurance."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q41",
+      "text": "Why can a small positive expected monetary return fail to compensate a person for taking risk?",
+      "options": {
+        "a": "All consumers have constant marginal utility.",
+        "b": "A positive return rules out negative outcomes.",
+        "c": "The utility cost of variability may exceed the expected monetary gain.",
+        "d": "The lottery must be actuarially fair."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch9q42",
+      "text": "What is the optimality condition for an interior purchase of contingent consumption via insurance?",
+      "options": {
+        "a": "The marginal rate of substitution across states equals the insurance trade-off rate.",
+        "b": "The insurance premium must be zero.",
+        "c": "The marginal utility in the good state must be zero.",
+        "d": "The two states must have equal probabilities."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q43",
+      "text": "Why does the wealth distribution become certain when full insurance is actuarially fair in the simple two-state model?",
+      "options": {
+        "a": "Wealth after premiums equals W minus the expected loss in both states.",
+        "b": "The loss probability becomes one.",
+        "c": "The insurance contract removes the physical loss.",
+        "d": "The household pays a premium only if the accident occurs."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch9q44",
+      "text": "If a consumer's utility is concave, what does the consumer generally prefer between a certain €100 and a risky lottery with mean €100?",
+      "options": {
+        "a": "Indifference in every case.",
+        "b": "The lottery in every case.",
+        "c": "The lottery only because its variance is positive.",
+        "d": "The certain €100, with strict preference under strict concavity and nonzero risk."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch9q45",
+      "text": "What attitude toward risk is represented by the displayed curvature of utility of wealth?",
+      "options": {
+        "a": "Risk loving, because utility is convex in wealth.",
+        "b": "Risk neutrality, because utility is linear.",
+        "c": "An inability to compare lotteries.",
+        "d": "Risk aversion, because utility is concave in wealth."
+      },
+      "answer": "d",
+      "image": "assets/chapter_09_risk_aversion.png"
+    }
+  ]
+}

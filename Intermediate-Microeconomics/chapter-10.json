@@ -1,0 +1,510 @@
+{
+  "id": "chapter-10",
+  "name": "Chapter 10: Consumer's surplus",
+  "questions": [
+    {
+      "id": "ch10q1",
+      "text": "For a discrete good, what does the reservation price of its first unit represent?",
+      "options": {
+        "a": "The price at which market supply becomes zero.",
+        "b": "The highest price at which the consumer is willing to buy one unit rather than none.",
+        "c": "The minimum price the producer must receive to cover fixed costs.",
+        "d": "The lowest price the consumer would ever pay for any unit."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q2",
+      "text": "For a discrete good, the reservation price of the nth unit represents what?",
+      "options": {
+        "a": "The average income of the consumer.",
+        "b": "The additional variable cost of production.",
+        "c": "The incremental willingness to pay for consuming unit n rather than n-1.",
+        "d": "The price of consuming all n units together."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q3",
+      "text": "Under quasilinear preferences u(x,y) = v(x) + y, with v(0) = 0, what is the reservation price for the first unit?",
+      "options": {
+        "a": "v(0) - v(1).",
+        "b": "v(1).",
+        "c": "v(1) + income.",
+        "d": "v(1) times the quantity of y."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q4",
+      "text": "Under the same quasilinear preferences, how do we compute the reservation price of the nth unit?",
+      "options": {
+        "a": "v(n) - n times income.",
+        "b": "v(n) - v(n-1).",
+        "c": "v(n) + v(n-1).",
+        "d": "v(n)/n regardless of n."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q5",
+      "text": "When marginal willingness to pay decreases with each additional unit, how do the reservation prices behave?",
+      "options": {
+        "a": "They are weakly decreasing across successive units.",
+        "b": "They increase strictly with every unit.",
+        "c": "They are identical to marginal costs.",
+        "d": "They are all equal to income."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q6",
+      "text": "If a consumer optimally purchases n units at price p and successive reservation prices are decreasing, what must hold?",
+      "options": {
+        "a": "Every reservation price must be below p.",
+        "b": "The (n+1)th reservation price must exceed p.",
+        "c": "The first reservation price must equal p exactly.",
+        "d": "The nth reservation price is at least p and the (n+1)th reservation price is at most p."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q7",
+      "text": "Why is the demand curve for a discrete good often step-shaped?",
+      "options": {
+        "a": "Consumer income changes at every quantity.",
+        "b": "All units are purchased at exactly the same marginal willingness to pay.",
+        "c": "Different additional units become worth purchasing at distinct reservation-price thresholds.",
+        "d": "Market prices are fixed by law."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q8",
+      "text": "Under quasilinear preferences, how can v(n) be recovered from the demand schedule if v(0)=0?",
+      "options": {
+        "a": "Sum the reservation prices for the first n units.",
+        "b": "Multiply the last reservation price by income.",
+        "c": "Sum the market supply prices.",
+        "d": "Integrate the producer's marginal cost curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q9",
+      "text": "What does gross consumer surplus for n discrete units represent?",
+      "options": {
+        "a": "Total wealth of all market consumers.",
+        "b": "Total spending on those units.",
+        "c": "The sum of the willingness to pay for those n units before deducting the expenditure on them.",
+        "d": "Profit earned by the seller."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q10",
+      "text": "What is net consumer surplus when n units are purchased at unit price p?",
+      "options": {
+        "a": "The consumer's entire income.",
+        "b": "The sum of the first n reservation prices minus np.",
+        "c": "np minus gross willingness to pay.",
+        "d": "The sum of reservation prices plus np."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q11",
+      "text": "Why can consumers obtain positive surplus on units they purchase?",
+      "options": {
+        "a": "Their monetary income necessarily increases after buying.",
+        "b": "Their willingness to pay for some units exceeds the market price.",
+        "c": "The seller always sells below marginal cost.",
+        "d": "Consumers receive refunds on every purchase."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q12",
+      "text": "A consumer values three units at €12, €9 and €5 respectively and the market price is €6. What is the consumer's surplus from buying optimally?",
+      "options": {
+        "a": "€9.",
+        "b": "€14.",
+        "c": "€26.",
+        "d": "€3."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q13",
+      "text": "Which units will a consumer buy at a uniform price p under quasilinear utility and declining reservation prices?",
+      "options": {
+        "a": "Units with marginal willingness to pay at least p.",
+        "b": "Only units with marginal willingness to pay strictly below p.",
+        "c": "Only units whose marginal willingness to pay equals zero.",
+        "d": "Every available unit regardless of willingness to pay."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q14",
+      "text": "With quasilinear utility and a continuous good x, what interior condition defines inverse demand?",
+      "options": {
+        "a": "p(x) = marginal cost of the producer.",
+        "b": "p(x) = v(x)/income.",
+        "c": "p(x) = average willingness to pay regardless of x.",
+        "d": "p(x) = v'(x)."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q15",
+      "text": "For continuous quasilinear demand, gross willingness to pay for x units can be represented by what?",
+      "options": {
+        "a": "The derivative of total expenditure.",
+        "b": "The area under inverse demand from zero to x.",
+        "c": "The area under market supply alone.",
+        "d": "The rectangle p times x only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q16",
+      "text": "In a price-quantity diagram, consumer surplus at price p and chosen quantity x is what area?",
+      "options": {
+        "a": "The entire region to the right of quantity x.",
+        "b": "The rectangle between quantity zero and x below price p.",
+        "c": "The area under inverse demand and above price p up to x.",
+        "d": "The area below the supply curve and above zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q17",
+      "text": "Why does a price increase typically reduce consumer surplus?",
+      "options": {
+        "a": "It makes willingness to pay increase mechanically.",
+        "b": "It raises expenditure on remaining purchases and eliminates surplus on some forgone units.",
+        "c": "It always causes total utility to rise.",
+        "d": "It increases consumers' income by the price change."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q18",
+      "text": "When price increases and quantity demanded falls, which component of lost surplus applies to units still purchased?",
+      "options": {
+        "a": "Only the difference in fixed costs.",
+        "b": "The gain from reduced purchases.",
+        "c": "The entire cost of production.",
+        "d": "The extra payment on units that continue to be purchased."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q19",
+      "text": "Which component of surplus loss after a price increase comes from reduced consumption?",
+      "options": {
+        "a": "Surplus previously earned on units no longer purchased.",
+        "b": "Savings on units never previously bought.",
+        "c": "A change in producer's wage bill alone.",
+        "d": "Extra payment on units still purchased."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q20",
+      "text": "Why is consumer surplus an exact monetary welfare measure under quasilinear preferences with interior numeraire consumption?",
+      "options": {
+        "a": "Demand for the non-numeraire good has no income effect.",
+        "b": "Consumer preferences are always homothetic.",
+        "c": "Producers earn zero profit.",
+        "d": "Prices never change."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q21",
+      "text": "Why may ordinary consumer surplus be an imperfect welfare measure with general preferences?",
+      "options": {
+        "a": "Income effects make willingness to pay depend on the consumer's utility or income level.",
+        "b": "Indifference curves cease to exist.",
+        "c": "Demand is always perfectly elastic.",
+        "d": "Producer surplus always equals zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q22",
+      "text": "When is a change in ordinary consumer surplus more likely to approximate a welfare change well?",
+      "options": {
+        "a": "When income effects dominate substitution effects.",
+        "b": "When the consumer cannot spend money on other goods.",
+        "c": "When income effects for the good are small.",
+        "d": "When demand is a Giffen curve everywhere."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q23",
+      "text": "For a quasilinear utility function u(x,y)=v(x)+y, what does the numeraire good y permit?",
+      "options": {
+        "a": "Fixing demand for x independently of price.",
+        "b": "Forcing every reservation price to be identical.",
+        "c": "Expressing changes in utility from x in monetary units.",
+        "d": "Eliminating the consumer's budget constraint."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q24",
+      "text": "If market price falls, what generally happens to ordinary consumer surplus?",
+      "options": {
+        "a": "It becomes negative for all buyers.",
+        "b": "It is necessarily unchanged.",
+        "c": "It falls.",
+        "d": "It rises."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q25",
+      "text": "What is the economic interpretation of consumer surplus under quasilinear preferences?",
+      "options": {
+        "a": "The total monetary income received after consumption.",
+        "b": "The producer's avoided fixed costs.",
+        "c": "Net willingness to pay above the amount actually spent.",
+        "d": "The market-clearing value of unsold output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q26",
+      "text": "After a price increase, compensating variation (as a positive compensation amount) is what?",
+      "options": {
+        "a": "Money removed at old prices to achieve post-change utility.",
+        "b": "The tax revenue from the price increase.",
+        "c": "The firm's additional cost of production.",
+        "d": "Additional money needed at the new prices to restore the initial utility level."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q27",
+      "text": "After a price increase, equivalent variation (as a positive loss amount) is what?",
+      "options": {
+        "a": "The difference between accounting and economic profit.",
+        "b": "The value of the consumer's initial endowment.",
+        "c": "Additional money needed at new prices to regain old utility.",
+        "d": "Money that could be taken away at the old prices to reduce welfare to its post-increase level."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q28",
+      "text": "Which price vector is used in the compensating variation calculation after a price increase?",
+      "options": {
+        "a": "The old prices only.",
+        "b": "The average of the old and new prices necessarily.",
+        "c": "A price vector with both goods' prices set to zero.",
+        "d": "The new prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q29",
+      "text": "Which price vector is used in the equivalent variation calculation after a price increase?",
+      "options": {
+        "a": "The old prices.",
+        "b": "A price vector equal to marginal costs.",
+        "c": "The new prices only.",
+        "d": "A vector with every price doubled."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q30",
+      "text": "Why can compensating and equivalent variation differ under general preferences?",
+      "options": {
+        "a": "They differ only when preferences are irrational.",
+        "b": "Income effects make the money metric depend on the reference utility level and prices.",
+        "c": "Compensating variation measures producers and equivalent variation measures consumers.",
+        "d": "The two definitions always use the same utility and price vectors."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q31",
+      "text": "When are compensating and equivalent variation equal in the slide's standard case?",
+      "options": {
+        "a": "Under quasilinear preferences with no income effect for the affected good.",
+        "b": "Whenever a price rises, regardless of preferences.",
+        "c": "Only when expenditure is zero.",
+        "d": "Only when the good is Giffen."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q32",
+      "text": "How are compensating and equivalent variation related to the expenditure function e(p,u)?",
+      "options": {
+        "a": "They are both derivatives of profit with respect to input prices.",
+        "b": "They can only be computed from market supply.",
+        "c": "They are differences in minimum expenditures evaluated at appropriate prices and utility levels.",
+        "d": "They are the same as firm revenue and profit."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q33",
+      "text": "Suppose p0 and p1 are initial and new prices, with utility u0 before and u1 after a price increase. What is positive compensating variation?",
+      "options": {
+        "a": "e(p0,u0)-e(p0,u1).",
+        "b": "e(p1,u0)+e(p0,u1).",
+        "c": "e(p1,u1)-e(p1,u0).",
+        "d": "e(p1,u0)-e(p1,u1)."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q34",
+      "text": "Under the same notation, what is positive equivalent variation?",
+      "options": {
+        "a": "e(p1,u0)-e(p1,u1).",
+        "b": "e(p0,u1)-e(p0,u0).",
+        "c": "e(p0,u0)-e(p0,u1).",
+        "d": "e(p1,u1)+e(p0,u0)."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch10q35",
+      "text": "Why is it useful to distinguish ordinary surplus from CV and EV?",
+      "options": {
+        "a": "CV and EV ignore consumer preferences.",
+        "b": "CV and EV are exact money-metric welfare changes using the expenditure function, whereas ordinary surplus may be approximate.",
+        "c": "Ordinary surplus always gives more accurate welfare measurement.",
+        "d": "CV and EV measure only producer welfare."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q36",
+      "text": "If reservation prices are €14, €10 and €7, and the uniform price is €8, how many units maximize net surplus?",
+      "options": {
+        "a": "Two.",
+        "b": "One.",
+        "c": "Three.",
+        "d": "Zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q37",
+      "text": "If demand shifts outward because of higher income, why is the original area under demand not automatically an exact welfare index?",
+      "options": {
+        "a": "The demand curve becomes identical to marginal cost.",
+        "b": "Willingness to pay can vary with income, violating the quasilinear simplification.",
+        "c": "Consumer surplus becomes independent of quantity.",
+        "d": "The price must be zero."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q38",
+      "text": "Which statement is correct about willingness to pay for a discrete additional unit?",
+      "options": {
+        "a": "It is always larger than the consumer's total income.",
+        "b": "It equals the seller's average fixed cost.",
+        "c": "It equals the market equilibrium price for all consumers.",
+        "d": "It is determined by indifference between buying that unit and not buying it, given the remaining spending possibilities."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q39",
+      "text": "If a price decline induces additional purchases, where do the gains on the newly bought units appear in the surplus diagram?",
+      "options": {
+        "a": "Only above the original price line.",
+        "b": "In the area between demand and the new price over the additional quantity range.",
+        "c": "Entirely below the supply curve.",
+        "d": "Only on the units purchased before the price decline."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch10q40",
+      "text": "Under quasilinear utility, why can market demand reveal marginal willingness to pay?",
+      "options": {
+        "a": "Marginal willingness to pay equals average cost.",
+        "b": "All consumers have identical marginal utility of income by definition regardless of numeraire.",
+        "c": "The income effect is always large and positive.",
+        "d": "The marginal utility of x expressed in numeraire units equals its inverse demand price."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch10q41",
+      "text": "If a consumer values two units at €10 and €6 and market price is €5, what is total consumer surplus from buying both?",
+      "options": {
+        "a": "€6.",
+        "b": "€10.",
+        "c": "€16.",
+        "d": "€1."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch10q42",
+      "text": "For the displayed price increase, what do the shaded areas R and T represent together?",
+      "options": {
+        "a": "The total gain in producer surplus.",
+        "b": "The seller's total fixed costs.",
+        "c": "The total loss in consumer surplus.",
+        "d": "The entire new consumer expenditure."
+      },
+      "answer": "c",
+      "image": "assets/chapter_10_consumer_surplus_loss.png"
+    }
+  ]
+}

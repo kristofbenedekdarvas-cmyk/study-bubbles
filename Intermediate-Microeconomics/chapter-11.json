@@ -1,0 +1,570 @@
+{
+  "id": "chapter-11",
+  "name": "Chapter 11: Market demand",
+  "questions": [
+    {
+      "id": "ch11q1",
+      "text": "How is the market demand for a good constructed from individual demands at a fixed price?",
+      "options": {
+        "a": "Add the quantities demanded by all consumers at that price.",
+        "b": "Multiply one consumer's demand by total income regardless of heterogeneity.",
+        "c": "Average the prices every individual is willing to pay.",
+        "d": "Add individual marginal costs."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q2",
+      "text": "What is meant by horizontal summation of individual demand curves?",
+      "options": {
+        "a": "Incomes are averaged before finding price.",
+        "b": "Expenditure shares are multiplied together.",
+        "c": "Quantities demanded are added at each common price.",
+        "d": "Prices paid are added at each common quantity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q3",
+      "text": "Market demand generally depends on what besides prices?",
+      "options": {
+        "a": "The distribution of income across consumers.",
+        "b": "Only the number of suppliers.",
+        "c": "Only the producer's fixed costs.",
+        "d": "Only total income, without any assumptions."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q4",
+      "text": "When does a representative-consumer aggregate demand depend on total income rather than its distribution?",
+      "options": {
+        "a": "When aggregation assumptions justify representing market demand with a single consumer's income aggregate.",
+        "b": "Only when all firms are monopolists.",
+        "c": "For every set of individual preferences automatically.",
+        "d": "Only when no prices are observed."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q5",
+      "text": "What does an inverse market demand function P(Q) represent?",
+      "options": {
+        "a": "The total cost of producing Q units.",
+        "b": "The price elasticity of supply at every price.",
+        "c": "The price at which consumers collectively demand quantity Q.",
+        "d": "The income elasticity at quantity Q."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q6",
+      "text": "Why might the slope of market demand change at a given price even if each individual's demand is linear?",
+      "options": {
+        "a": "Some consumers enter or leave the market as price crosses their choke price.",
+        "b": "Market demand is vertically summed.",
+        "c": "Individual demands necessarily have a constant elasticity.",
+        "d": "Every consumer must have identical choke prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q7",
+      "text": "If two individuals have demand q1(p) and q2(p), what is market demand at p?",
+      "options": {
+        "a": "The larger individual quantity only.",
+        "b": "q1(p) times q2(p).",
+        "c": "(q1(p)+q2(p))/p.",
+        "d": "max(0,q1(p)) + max(0,q2(p)) when negative quantities are infeasible."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q8",
+      "text": "What is own-price elasticity of demand?",
+      "options": {
+        "a": "The absolute price change divided by total revenue.",
+        "b": "The total cost of producing another unit.",
+        "c": "The percentage change in quantity demanded divided by the percentage change in its price.",
+        "d": "The percentage change in income divided by quantity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q9",
+      "text": "For a differentiable demand function q(p), which expression gives point elasticity?",
+      "options": {
+        "a": "p+q.",
+        "b": "(dp/dq)(p/q).",
+        "c": "(dq/dp)(p/q).",
+        "d": "(dq/dp)(q/p)."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q10",
+      "text": "Why is ordinary own-price demand elasticity typically negative?",
+      "options": {
+        "a": "Marginal revenue must always be negative.",
+        "b": "Higher own prices generally reduce quantity demanded.",
+        "c": "Higher own prices raise all consumers' incomes.",
+        "d": "Quantity demanded never reacts to prices."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q11",
+      "text": "When is demand elastic by the conventional absolute-value criterion?",
+      "options": {
+        "a": "Marginal cost exceeds price.",
+        "b": "Absolute price elasticity is less than one.",
+        "c": "Absolute price elasticity exceeds one.",
+        "d": "Income elasticity is negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q12",
+      "text": "When is demand unit elastic?",
+      "options": {
+        "a": "The income elasticity is always zero.",
+        "b": "The absolute value of own-price elasticity equals one.",
+        "c": "The price equals total revenue.",
+        "d": "The slope of the demand curve equals one."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q13",
+      "text": "Why does elasticity differ from the slope of demand?",
+      "options": {
+        "a": "The slope is always constant for all demands.",
+        "b": "Elasticity normalizes the quantity response by the price and quantity levels.",
+        "c": "Elasticity measures only changes in supply.",
+        "d": "Elasticity has the same units as price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q14",
+      "text": "For a downward-sloping linear demand, where is demand most price elastic in absolute value?",
+      "options": {
+        "a": "Only at the point where price is zero.",
+        "b": "Near the low-price, high-quantity intercept.",
+        "c": "At every point equally.",
+        "d": "Near the high-price, low-quantity intercept."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q15",
+      "text": "For a downward-sloping linear demand, what is elasticity at the quantity-axis intercept where price is zero?",
+      "options": {
+        "a": "Zero in the limiting sense.",
+        "b": "Negative infinity.",
+        "c": "Positive infinity.",
+        "d": "Exactly negative one."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q16",
+      "text": "For a linear demand curve, where is own-price elasticity equal to minus one?",
+      "options": {
+        "a": "At the midpoint between the two intercepts.",
+        "b": "At the price-axis intercept.",
+        "c": "At the quantity-axis intercept.",
+        "d": "At every possible quantity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q17",
+      "text": "What is total revenue as a function of the good's price?",
+      "options": {
+        "a": "Price minus average cost.",
+        "b": "Price multiplied by quantity demanded at that price.",
+        "c": "Income divided by price elasticity.",
+        "d": "Marginal cost times output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q18",
+      "text": "If demand is inelastic and price rises slightly, what happens to total revenue?",
+      "options": {
+        "a": "It necessarily becomes negative.",
+        "b": "It falls.",
+        "c": "It rises.",
+        "d": "It remains unchanged."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q19",
+      "text": "If demand is elastic and price rises slightly, what happens to total revenue?",
+      "options": {
+        "a": "It becomes equal to profit.",
+        "b": "It remains unchanged.",
+        "c": "It rises.",
+        "d": "It falls."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q20",
+      "text": "If demand is unit elastic, what is the marginal effect of a small price change on total revenue?",
+      "options": {
+        "a": "Strictly negative.",
+        "b": "Strictly positive.",
+        "c": "Zero.",
+        "d": "Equal to the change in marginal cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q21",
+      "text": "If demand is elastic, what is the sign of marginal revenue as quantity expands along a standard downward-sloping demand curve?",
+      "options": {
+        "a": "Undefined for every quantity.",
+        "b": "Exactly zero.",
+        "c": "Negative.",
+        "d": "Positive."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q22",
+      "text": "If demand is inelastic, what is the sign of marginal revenue as quantity expands?",
+      "options": {
+        "a": "Exactly zero.",
+        "b": "Negative.",
+        "c": "Positive.",
+        "d": "Necessarily equal to price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q23",
+      "text": "If demand is unit elastic at a point, what is marginal revenue there?",
+      "options": {
+        "a": "Equal to price.",
+        "b": "Equal to total revenue.",
+        "c": "Zero.",
+        "d": "Negative infinity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q24",
+      "text": "Why would a profit-maximizing price setter with nonnegative marginal cost avoid an inelastic segment of demand?",
+      "options": {
+        "a": "Marginal revenue is always positive there.",
+        "b": "Price would be below zero.",
+        "c": "Reducing output would increase revenue and weakly reduce cost.",
+        "d": "Increasing output would increase both price and revenue."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q25",
+      "text": "For inverse demand P(Q)=a-bQ with b positive, what is marginal revenue?",
+      "options": {
+        "a": "a-2bQ.",
+        "b": "2a-bQ.",
+        "c": "bQ-a.",
+        "d": "a-bQ."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q26",
+      "text": "How does the linear marginal revenue curve compare with linear inverse demand?",
+      "options": {
+        "a": "Marginal revenue always lies above demand.",
+        "b": "They have identical slopes and intercepts.",
+        "c": "They share a price-axis intercept, but marginal revenue declines twice as steeply.",
+        "d": "Marginal revenue is horizontal at all quantities."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q27",
+      "text": "At what quantity is revenue maximized for inverse demand P(Q)=a-bQ?",
+      "options": {
+        "a": "Q=a/(2b).",
+        "b": "Q=a/b.",
+        "c": "Q=b/a.",
+        "d": "Q=2a/b."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q28",
+      "text": "Which demand function has constant own-price elasticity epsilon?",
+      "options": {
+        "a": "q(p)=A-bp with b positive in all cases.",
+        "b": "q(p)=A/p plus a fixed positive amount in all cases.",
+        "c": "q(p)=A+p^2 regardless of epsilon.",
+        "d": "q(p)=A p^epsilon for A positive."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q29",
+      "text": "If q(p)=A p^epsilon, what is the slope in a log-log plot of quantity against price?",
+      "options": {
+        "a": "1/epsilon.",
+        "b": "A+epsilon.",
+        "c": "A.",
+        "d": "epsilon."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q30",
+      "text": "Which demand specification is unit elastic at every positive price?",
+      "options": {
+        "a": "q(p)=A-p.",
+        "b": "q(p)=A/p for A positive.",
+        "c": "q(p)=A+p.",
+        "d": "q(p)=A-p^2."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q31",
+      "text": "For a demand curve that is unit elastic everywhere, how does total revenue change with price?",
+      "options": {
+        "a": "It always decreases with price.",
+        "b": "It is zero at every price.",
+        "c": "It always increases with price.",
+        "d": "It stays constant."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q32",
+      "text": "For constant absolute elasticity greater than one, what is true of MR relative to price?",
+      "options": {
+        "a": "MR is negative.",
+        "b": "MR exceeds price.",
+        "c": "MR equals price.",
+        "d": "MR is positive but strictly below price."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q33",
+      "text": "For constant absolute elasticity smaller than one, what is true of marginal revenue?",
+      "options": {
+        "a": "It is negative.",
+        "b": "It equals price.",
+        "c": "It is always positive.",
+        "d": "It is identically zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q34",
+      "text": "What is the income elasticity of demand?",
+      "options": {
+        "a": "The percentage change in quantity demanded divided by the percentage change in income.",
+        "b": "The percentage price change divided by quantity.",
+        "c": "Market revenue divided by total income.",
+        "d": "The derivative of profits with respect to wages."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q35",
+      "text": "For a normal good, the income elasticity of demand is what?",
+      "options": {
+        "a": "Always greater than one.",
+        "b": "Positive.",
+        "c": "Always zero.",
+        "d": "Negative."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q36",
+      "text": "For an inferior good, income elasticity is what?",
+      "options": {
+        "a": "Always equal to one.",
+        "b": "Positive.",
+        "c": "Always greater than one.",
+        "d": "Negative."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q37",
+      "text": "For a luxury good under the slides' classification, what is generally true of income elasticity?",
+      "options": {
+        "a": "It is exactly minus one.",
+        "b": "It must be zero.",
+        "c": "It is negative.",
+        "d": "It exceeds one."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch11q38",
+      "text": "What does an income elasticity between zero and one describe?",
+      "options": {
+        "a": "An inferior good.",
+        "b": "A normal necessity whose demand increases less than proportionally with income.",
+        "c": "A luxury with more-than-proportional response.",
+        "d": "A Giffen good necessarily."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q39",
+      "text": "What is the expenditure-share-weighted average of income elasticities across all goods in a fully spent budget?",
+      "options": {
+        "a": "Minus one.",
+        "b": "The price elasticity of market demand.",
+        "c": "One.",
+        "d": "Zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q40",
+      "text": "Why must the expenditure-share-weighted income elasticities sum to one?",
+      "options": {
+        "a": "Income effects cancel for every consumer.",
+        "b": "Total consumer expenditure equals income, so expenditure changes add up to the income change.",
+        "c": "Every good has unit income elasticity.",
+        "d": "Every price must equal one."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q41",
+      "text": "If one good in a two-good economy has income elasticity greater than one and both goods have positive expenditure shares, what must be true of the other good?",
+      "options": {
+        "a": "Its own-price elasticity must be positive.",
+        "b": "Its income elasticity is less than one.",
+        "c": "It must have exactly zero demand.",
+        "d": "Its income elasticity must also exceed one."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q42",
+      "text": "What does the Laffer curve relate?",
+      "options": {
+        "a": "The market wage to productivity only.",
+        "b": "The interest rate to the present value of income.",
+        "c": "The tax rate to the revenue collected from that tax.",
+        "d": "The quantity of a good to its marginal utility."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch11q43",
+      "text": "Why may tax revenue decline when the tax rate becomes very high?",
+      "options": {
+        "a": "The taxed activity or tax base can shrink enough to outweigh the higher rate.",
+        "b": "Marginal tax revenue necessarily equals the tax rate.",
+        "c": "Government revenue is unrelated to economic behavior.",
+        "d": "Every higher tax rate always raises labor supply."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q44",
+      "text": "In the stylized Laffer diagram where no labor is supplied at a 100% tax rate, what is tax revenue at that rate?",
+      "options": {
+        "a": "Zero.",
+        "b": "Maximal.",
+        "c": "Equal to output price.",
+        "d": "Equal to gross wages."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch11q45",
+      "text": "If a wage tax rises and labor supply is responsive to the net wage, what force can reduce the tax base?",
+      "options": {
+        "a": "A reduction in the gross wage paid by firms to zero in every case.",
+        "b": "A decline in labor supplied as the after-tax wage falls.",
+        "c": "A rise in the after-tax wage.",
+        "d": "Automatic growth in labor productivity."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q46",
+      "text": "What cannot be inferred merely from the existence of a hump-shaped Laffer curve?",
+      "options": {
+        "a": "That some rates can produce more revenue than others.",
+        "b": "That a particular tax cut necessarily increases current tax revenue.",
+        "c": "That tax revenue depends on both the rate and tax base.",
+        "d": "That behavioral responses affect receipts."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch11q47",
+      "text": "Along the depicted linear demand curve, which region is most price elastic in absolute value?",
+      "options": {
+        "a": "Only the exact midpoint.",
+        "b": "Every point has identical elasticity.",
+        "c": "The low-price, high-quantity portion near the horizontal quantity intercept.",
+        "d": "The high-price, low-quantity portion near the vertical price intercept."
+      },
+      "answer": "d",
+      "image": "assets/chapter_11_elasticity_linear_demand.png"
+    }
+  ]
+}

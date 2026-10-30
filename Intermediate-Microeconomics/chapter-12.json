@@ -1,0 +1,534 @@
+{
+  "id": "chapter-12",
+  "name": "Chapter 12: Technology",
+  "questions": [
+    {
+      "id": "ch12q1",
+      "text": "What does a production function describe?",
+      "options": {
+        "a": "The maximum feasible output from each input bundle.",
+        "b": "The willingness to pay for inputs.",
+        "c": "The firm's actual profit at every price.",
+        "d": "The minimum consumer spending for any utility level."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q2",
+      "text": "What is a production set?",
+      "options": {
+        "a": "Only the firm's profit-maximizing plans.",
+        "b": "The set of bundles consumers prefer.",
+        "c": "All technologically feasible input-output combinations.",
+        "d": "Every market-clearing price vector."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q3",
+      "text": "When is a production plan (x,y) technologically feasible if the production function is f(x)?",
+      "options": {
+        "a": "Whenever input spending equals revenue.",
+        "b": "When y is no greater than f(x), assuming free disposal of output.",
+        "c": "Only when y exceeds f(x).",
+        "d": "Only when output price equals marginal cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q4",
+      "text": "What are factors of production?",
+      "options": {
+        "a": "The prices of substitutes in consumption.",
+        "b": "Only monetary profits.",
+        "c": "Only finished goods sold to consumers.",
+        "d": "Inputs such as labor, capital, land and raw materials."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q5",
+      "text": "An isoquant depicts what?",
+      "options": {
+        "a": "Firms producing at identical average cost only.",
+        "b": "Price and output combinations with equal profit.",
+        "c": "Consumption bundles yielding equal utility.",
+        "d": "Input combinations capable of producing a specified output level."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q6",
+      "text": "Which feature distinguishes an isoquant from an indifference curve?",
+      "options": {
+        "a": "An isoquant relates physical inputs to output, while an indifference curve relates consumption bundles to utility.",
+        "b": "Isoquants show fixed consumer income.",
+        "c": "Isoquants are always upward sloping.",
+        "d": "Indifference curves involve input prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q7",
+      "text": "What does a higher isoquant usually represent under monotonic technology?",
+      "options": {
+        "a": "A lower amount of output.",
+        "b": "A higher product price.",
+        "c": "A higher level of achievable output.",
+        "d": "The same output with a lower fixed cost only."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q8",
+      "text": "In a Leontief or fixed-proportions production function, how are inputs related?",
+      "options": {
+        "a": "Firms can freely replace all inputs with any others.",
+        "b": "They are always perfect substitutes.",
+        "c": "One input always has zero marginal product.",
+        "d": "They are perfect complements used in required proportions."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q9",
+      "text": "What shape do fixed-proportions isoquants typically have?",
+      "options": {
+        "a": "Straight lines with constant negative slope.",
+        "b": "Perfect circles.",
+        "c": "Vertical lines at every output.",
+        "d": "L-shaped with kinks at efficient input combinations."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q10",
+      "text": "For f(x1,x2)=min(x1,x2), what happens if x1 increases while x2 remains strictly smaller?",
+      "options": {
+        "a": "Output necessarily doubles.",
+        "b": "Output does not increase.",
+        "c": "Output rises one-for-one.",
+        "d": "Output decreases due to scale economies."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q11",
+      "text": "With perfect-substitutes production technology, which form is typical?",
+      "options": {
+        "a": "f(x1,x2)=x1x2 only.",
+        "b": "f(x1,x2)=min(a1x1,a2x2).",
+        "c": "f(x1,x2)=max(0,x1-x2) necessarily.",
+        "d": "f(x1,x2)=a1x1+a2x2 with positive coefficients."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q12",
+      "text": "What shape are isoquants under perfect-substitutes technology with positive coefficients?",
+      "options": {
+        "a": "Convex parabolas opening upward.",
+        "b": "L-shaped curves.",
+        "c": "Straight lines.",
+        "d": "Concentric circles."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q13",
+      "text": "For a Cobb-Douglas production function A x1^a x2^b with positive exponents, what is generally true of isoquants in the positive quadrant?",
+      "options": {
+        "a": "They are straight lines for all a and b.",
+        "b": "They must be L-shaped.",
+        "c": "They slope downward and are smooth and convex to the origin.",
+        "d": "They are horizontal at every output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q14",
+      "text": "How does the fixed-proportions technology differ from a perfect-substitutes technology?",
+      "options": {
+        "a": "Fixed proportions imply no need for both inputs.",
+        "b": "Both allow the same flexible substitution.",
+        "c": "Fixed proportions limit input substitution, while perfect substitutes permit constant-rate replacement.",
+        "d": "Perfect substitutes require exact fixed input ratios."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q15",
+      "text": "What does free disposal of inputs mean in production theory?",
+      "options": {
+        "a": "Extra inputs can be discarded without forcing output to fall.",
+        "b": "The firm can acquire any input at zero price.",
+        "c": "Extra output must always be sold at a profit.",
+        "d": "Every input must have strictly increasing marginal product."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q16",
+      "text": "What does monotonicity of the production function mean?",
+      "options": {
+        "a": "Adding inputs cannot reduce the maximum feasible output.",
+        "b": "Adding inputs always doubles output.",
+        "c": "Input prices rise whenever input quantity rises.",
+        "d": "Average cost necessarily falls with output."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q17",
+      "text": "If two input bundles can each produce at least y units, what does convexity of the input requirement set imply?",
+      "options": {
+        "a": "A weighted average necessarily produces less than y.",
+        "b": "The input bundles must be identical.",
+        "c": "Any weighted average of the two bundles can also produce at least y.",
+        "d": "Each input must be a perfect substitute."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q18",
+      "text": "Why is convexity economically useful in cost-minimization analysis?",
+      "options": {
+        "a": "It eliminates the role of input prices.",
+        "b": "It supports well-behaved trade-offs and often interior or stable optimum input choices.",
+        "c": "It forces all marginal products to be constant.",
+        "d": "It guarantees every optimum uses only one factor."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q19",
+      "text": "What is the marginal product of an input?",
+      "options": {
+        "a": "The cost of one more unit of output.",
+        "b": "The additional output from a small increase in that input holding other inputs fixed.",
+        "c": "Output divided by all input prices.",
+        "d": "The additional revenue from an increase in market price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q20",
+      "text": "What is diminishing marginal product?",
+      "options": {
+        "a": "All factors have negative marginal products.",
+        "b": "A doubling of all inputs yields less than double output by definition.",
+        "c": "Total output necessarily declines as input use increases.",
+        "d": "The marginal product of an input falls as more of that input is used, other inputs fixed."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q21",
+      "text": "Why is diminishing marginal product different from decreasing returns to scale?",
+      "options": {
+        "a": "It changes one input holding others fixed, while returns to scale change all inputs proportionally.",
+        "b": "Both definitions are identical.",
+        "c": "Returns to scale concern only labor prices.",
+        "d": "Diminishing marginal product requires output to be zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q22",
+      "text": "What does the technical rate of substitution (TRS) describe?",
+      "options": {
+        "a": "How much of one input can be given up as another increases while holding output fixed.",
+        "b": "The difference between accounting and economic profit.",
+        "c": "The rate at which output price changes with consumer demand.",
+        "d": "The willingness of a consumer to pay for insurance."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q23",
+      "text": "For a differentiable two-input production function, what is the slope of an isoquant?",
+      "options": {
+        "a": "MP1+MP2.",
+        "b": "-MP1/MP2.",
+        "c": "MP2/MP1 always positive.",
+        "d": "-w1/w2 regardless of the location on any isoquant."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q24",
+      "text": "With a smoothly convex isoquant, what happens to the absolute slope as x1 increases along the isoquant?",
+      "options": {
+        "a": "It remains exactly fixed by definition of convexity.",
+        "b": "It typically decreases.",
+        "c": "It increases without bound.",
+        "d": "It switches sign from negative to positive."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q25",
+      "text": "What is the technical interpretation of a high absolute TRS of input 1 for input 2?",
+      "options": {
+        "a": "An additional unit of input 1 can replace relatively many units of input 2 at constant output.",
+        "b": "Input 1 has no marginal product.",
+        "c": "Input 2 must be free.",
+        "d": "Input 1 cannot replace any input 2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q26",
+      "text": "At the kink of a Leontief isoquant, why is the standard smooth tangency condition inappropriate?",
+      "options": {
+        "a": "Both inputs always have identical prices.",
+        "b": "The isoquant is not differentiable at the efficient input ratio.",
+        "c": "Output is negative at the kink.",
+        "d": "Production is impossible at the kink."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q27",
+      "text": "What distinguishes the short run from the long run in production theory?",
+      "options": {
+        "a": "Short-run profits must equal zero.",
+        "b": "In the long run all inputs are free.",
+        "c": "Output cannot vary in the short run.",
+        "d": "At least one input is fixed in the short run; all relevant inputs are variable in the long run."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q28",
+      "text": "Why can a firm adjust more fully to a price or demand change in the long run?",
+      "options": {
+        "a": "It can vary inputs such as plant size that were fixed in the short run.",
+        "b": "All consumer preferences become linear.",
+        "c": "It never faces technological constraints in the long run.",
+        "d": "Fixed costs rise with every output change by definition."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q29",
+      "text": "What are constant returns to scale?",
+      "options": {
+        "a": "Scaling all inputs by t scales output by t, for t greater than zero.",
+        "b": "Increasing one input by t always adds exactly t output.",
+        "c": "Total cost is constant regardless of output.",
+        "d": "Doubling all inputs always halves output."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q30",
+      "text": "What are increasing returns to scale?",
+      "options": {
+        "a": "Doubling every input exactly doubles output.",
+        "b": "Increasing one input at fixed others always produces more output.",
+        "c": "Multiplying every input by t greater than one raises output by more than t.",
+        "d": "All marginal products must increase at every bundle."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q31",
+      "text": "What are decreasing returns to scale?",
+      "options": {
+        "a": "Marginal cost decreases at all output levels by definition.",
+        "b": "Multiplying all inputs by t greater than one raises output by less than t.",
+        "c": "Doubling inputs reduces output to zero.",
+        "d": "Increasing one input must reduce total output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q32",
+      "text": "For Cobb-Douglas technology A x1^a x2^b, what determines returns to scale?",
+      "options": {
+        "a": "The level of the technology coefficient A only.",
+        "b": "The sum of the exponents a+b.",
+        "c": "The difference a-b only.",
+        "d": "The ratio of factor prices only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q33",
+      "text": "For Cobb-Douglas technology with a+b=1, returns to scale are what?",
+      "options": {
+        "a": "Undefined regardless of inputs.",
+        "b": "Decreasing.",
+        "c": "Constant.",
+        "d": "Increasing."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q34",
+      "text": "For Cobb-Douglas technology with a+b>1, returns to scale are what?",
+      "options": {
+        "a": "Necessarily negative.",
+        "b": "Constant.",
+        "c": "Decreasing.",
+        "d": "Increasing."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q35",
+      "text": "For Cobb-Douglas technology with 0<a+b<1, returns to scale are what?",
+      "options": {
+        "a": "Constant.",
+        "b": "Increasing.",
+        "c": "Decreasing.",
+        "d": "Necessarily zero output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q36",
+      "text": "A technology has diminishing marginal product of labor when capital is fixed. What can be inferred about returns to scale?",
+      "options": {
+        "a": "It must have constant returns to scale.",
+        "b": "It must have decreasing returns to scale.",
+        "c": "It must have increasing returns to scale.",
+        "d": "Nothing definitive without knowing how output responds when all inputs change."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q37",
+      "text": "What is a characteristic of perfect-substitutes production f=x1+2x2 under a common proportional scale-up?",
+      "options": {
+        "a": "It has decreasing returns to scale.",
+        "b": "It has constant returns to scale.",
+        "c": "It has increasing returns to scale.",
+        "d": "Its returns to scale vary with prices."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q38",
+      "text": "What is a characteristic of the Leontief production f=min(x1,2x2) under proportional scaling?",
+      "options": {
+        "a": "It has constant returns to scale.",
+        "b": "It has no defined output.",
+        "c": "It has decreasing returns to scale.",
+        "d": "It has increasing returns to scale."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q39",
+      "text": "When all inputs double and output triples, the observed response indicates what?",
+      "options": {
+        "a": "Constant returns to scale.",
+        "b": "Increasing returns to scale over that change.",
+        "c": "Diminishing marginal product of every input.",
+        "d": "Decreasing returns to scale."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch12q40",
+      "text": "When all inputs double and output rises by only 60%, the response indicates what?",
+      "options": {
+        "a": "Decreasing returns to scale over that change.",
+        "b": "Negative marginal products of all inputs.",
+        "c": "Increasing returns to scale.",
+        "d": "Constant returns to scale."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch12q41",
+      "text": "When input 2 is fixed, what does the slope of output against input 1 measure?",
+      "options": {
+        "a": "The marginal cost of output.",
+        "b": "The rate of return on investment.",
+        "c": "The marginal product of input 1.",
+        "d": "The technical rate of substitution."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch12q42",
+      "text": "What does a movement along one isoquant represent?",
+      "options": {
+        "a": "Changing the market price while input quantities stay fixed.",
+        "b": "Increasing output by holding all inputs fixed.",
+        "c": "Changes in consumer utility only.",
+        "d": "Input substitution that leaves output unchanged."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q43",
+      "text": "Why might one input's marginal product increase when the other input increases?",
+      "options": {
+        "a": "Returns to scale must be decreasing.",
+        "b": "Diminishing marginal product forbids any complementarity.",
+        "c": "An isoquant must always be upward sloping.",
+        "d": "The inputs may be technologically complementary in raising each other's productivity."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch12q44",
+      "text": "Which technological feature does the illustrated L-shaped isoquant capture?",
+      "options": {
+        "a": "Only one of the inputs is ever technologically productive.",
+        "b": "Both inputs can replace each other at a constant rate.",
+        "c": "Production requires inputs in fixed proportions at the efficient kink.",
+        "d": "Output falls whenever a firm adds an input."
+      },
+      "answer": "c",
+      "image": "assets/chapter_12_fixed_proportions_isoquants.png"
+    }
+  ]
+}

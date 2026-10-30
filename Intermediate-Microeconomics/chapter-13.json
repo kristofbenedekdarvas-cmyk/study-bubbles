@@ -1,0 +1,510 @@
+{
+  "id": "chapter-13",
+  "name": "Chapter 13: Profit maximization",
+  "questions": [
+    {
+      "id": "ch13q1",
+      "text": "In a competitive firm with several inputs and outputs, economic profit equals what?",
+      "options": {
+        "a": "Revenue from outputs minus the opportunity cost of all inputs.",
+        "b": "Revenue minus only cash payments to workers.",
+        "c": "The difference between output quantities and input quantities.",
+        "d": "Revenue minus sunk historical expenditures regardless of opportunity cost."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q2",
+      "text": "Why should the owner's time be counted as a cost in economic-profit calculations?",
+      "options": {
+        "a": "It is never used in production.",
+        "b": "It is necessarily a fixed accounting expense.",
+        "c": "It has an opportunity cost even if no wage is explicitly paid.",
+        "d": "It has a price equal to zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q3",
+      "text": "Why should machinery already owned by a firm be assigned a rental cost in economic profit?",
+      "options": {
+        "a": "The firm forgoes the market rental return it could earn elsewhere.",
+        "b": "Capital costs matter only if paid in cash this year.",
+        "c": "Historical purchase price is always the current opportunity cost.",
+        "d": "The machinery cannot be used in other industries."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q4",
+      "text": "What is a fixed input in the short run?",
+      "options": {
+        "a": "An input whose quantity cannot be adjusted over that horizon.",
+        "b": "An input with a permanently zero price.",
+        "c": "An input whose marginal product is always zero.",
+        "d": "An input that cannot be employed in the long run."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q5",
+      "text": "What is a variable input?",
+      "options": {
+        "a": "An input that always makes profit positive.",
+        "b": "An input whose quantity the firm can adjust over the relevant horizon.",
+        "c": "An input that has a fixed total cost regardless of quantity.",
+        "d": "An input supplied only by monopoly."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q6",
+      "text": "What is a quasi-fixed input?",
+      "options": {
+        "a": "An input needed in equal quantity for every additional unit of output.",
+        "b": "An input that is free and infinitely available.",
+        "c": "An input whose price rises with output by definition.",
+        "d": "An input required in a fixed amount whenever output is positive, but not necessarily when output is zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q7",
+      "text": "Why can a competitive firm rationally have negative economic profit in the short run?",
+      "options": {
+        "a": "Marginal revenue must be below zero in competition.",
+        "b": "Some unavoidable fixed costs may remain even when output is zero.",
+        "c": "Competitive firms cannot shut down production.",
+        "d": "Output prices are always below variable costs."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q8",
+      "text": "Why can long-run optimal profit be at least zero if exit is possible without avoidable commitments?",
+      "options": {
+        "a": "All variable inputs become free.",
+        "b": "The firm can set any market price.",
+        "c": "The firm can choose to cease operations rather than incur negative economic profit.",
+        "d": "The firm always earns strictly positive economic profit."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q9",
+      "text": "For a price-taking firm with output price p and variable input 1 paid w1, what interior first-order condition maximizes short-run profit?",
+      "options": {
+        "a": "p equals the marginal product divided by w1.",
+        "b": "Marginal product of input 1 equals p times w1.",
+        "c": "p times the marginal product of input 1 equals w1.",
+        "d": "Total output equals total cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q10",
+      "text": "What is the value of the marginal product of labor for a competitive output market?",
+      "options": {
+        "a": "The sales price minus the wage.",
+        "b": "Output price times the marginal physical product of labor.",
+        "c": "The derivative of revenue with respect to output price.",
+        "d": "Wage times the firm's total output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q11",
+      "text": "If the value of a variable input's marginal product exceeds its wage, what action can raise profit at an interior choice?",
+      "options": {
+        "a": "Stop production regardless of fixed costs.",
+        "b": "Decrease use of that input.",
+        "c": "Increase use of that input.",
+        "d": "Raise input price unilaterally."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q12",
+      "text": "If the value of a variable input's marginal product is below its wage, what action tends to raise profit?",
+      "options": {
+        "a": "Increase the fixed input's price.",
+        "b": "Increase use of that input.",
+        "c": "Increase output price in a competitive market.",
+        "d": "Reduce use of that input."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q13",
+      "text": "What does an isoprofit line in a one-variable-input production diagram show?",
+      "options": {
+        "a": "Consumption bundles yielding the same utility.",
+        "b": "Input-output combinations yielding the same economic profit.",
+        "c": "Input bundles producing the same output.",
+        "d": "Every feasible price vector."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q14",
+      "text": "In a diagram with output on the vertical axis and a variable input on the horizontal axis, what is the slope of an isoprofit line?",
+      "options": {
+        "a": "p/w1.",
+        "b": "-w1/p.",
+        "c": "The input's marginal product squared.",
+        "d": "w1/p."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q15",
+      "text": "How does a higher wage for the variable factor change the isoprofit-line slope, holding output price fixed?",
+      "options": {
+        "a": "It makes the line steeper.",
+        "b": "It has no effect on slope.",
+        "c": "It makes the line flatter.",
+        "d": "It reverses the slope's sign."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q16",
+      "text": "What is the geometry of short-run profit maximization for a differentiable concave production function?",
+      "options": {
+        "a": "The highest feasible isoprofit line is tangent to the production function.",
+        "b": "The output price equals the marginal product.",
+        "c": "The optimum must always be a corner at zero input.",
+        "d": "The lowest isoprofit line is tangent to the production function."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q17",
+      "text": "If the wage of a fixed input rises while its quantity cannot change and the firm still operates, what happens to optimal variable-input use in the simple model?",
+      "options": {
+        "a": "It changes because the variable input's marginal product instantly doubles.",
+        "b": "It always falls to zero.",
+        "c": "It always increases.",
+        "d": "It is unchanged, although profit falls."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q18",
+      "text": "If the price of output rises, what generally happens to demand for a variable input with diminishing marginal product?",
+      "options": {
+        "a": "It necessarily decreases.",
+        "b": "It remains constant for any technology.",
+        "c": "It increases.",
+        "d": "It becomes negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q19",
+      "text": "If the price of a variable input increases, what generally happens to its short-run profit-maximizing demand?",
+      "options": {
+        "a": "It is unaffected because factor demand is vertical.",
+        "b": "It decreases or stays unchanged, holding other conditions fixed.",
+        "c": "It causes output price to rise automatically for a price taker.",
+        "d": "It rises without exception."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q20",
+      "text": "What determines the short-run supply response of a competitive firm to an increase in output price?",
+      "options": {
+        "a": "Higher output value raises the incentive to employ productive variable inputs.",
+        "b": "The market price is set directly by the firm.",
+        "c": "Marginal productivity must rise as employment expands.",
+        "d": "Fixed factors become instantly variable."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q21",
+      "text": "In long-run profit maximization, what can the firm adjust?",
+      "options": {
+        "a": "Only labor, never capital.",
+        "b": "Only fixed costs already sunk.",
+        "c": "All relevant input quantities.",
+        "d": "Only the market price."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q22",
+      "text": "What condition holds for each freely chosen input in an interior competitive long-run optimum?",
+      "options": {
+        "a": "p times its marginal product equals its input price.",
+        "b": "Its marginal product equals total profit.",
+        "c": "Every input quantity equals its market price.",
+        "d": "All marginal products are identical regardless of wages."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q23",
+      "text": "How does a profit-maximizing factor demand differ from a conditional factor demand?",
+      "options": {
+        "a": "Profit-maximizing demand ignores output price.",
+        "b": "Conditional demand maximizes monopoly profit.",
+        "c": "Both are defined by fixed output only.",
+        "d": "Profit-maximizing demand chooses inputs with output endogenous, while conditional demand minimizes input cost for fixed output."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q24",
+      "text": "What is an inverse factor demand curve?",
+      "options": {
+        "a": "The factor price consistent with hiring a given quantity at the optimizing condition.",
+        "b": "The maximum wage that workers are willing to accept.",
+        "c": "The total amount spent on all inputs.",
+        "d": "Market output price as a function of total consumption."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q25",
+      "text": "Why is the inverse factor demand curve often downward sloping?",
+      "options": {
+        "a": "Input supply must be vertical.",
+        "b": "Diminishing marginal product reduces the value of additional units of a factor.",
+        "c": "Output demand must be perfectly inelastic.",
+        "d": "Higher wages always increase physical marginal productivity."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q26",
+      "text": "For a Cobb-Douglas producer f=x1^a x2^b, what is the factor-1 expenditure at an interior competitive optimum?",
+      "options": {
+        "a": "w1 x1 = a p y.",
+        "b": "w1 x1 = b p y.",
+        "c": "w1 x1 = (a+b) p.",
+        "d": "w1 x1 = p/y."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q27",
+      "text": "For the same Cobb-Douglas producer, what is factor-2 expenditure at an interior competitive optimum?",
+      "options": {
+        "a": "w2 x2 = p/x2.",
+        "b": "w2 x2 = (1-a-b) p y.",
+        "c": "w2 x2 = b p y.",
+        "d": "w2 x2 = a p y."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q28",
+      "text": "For a Cobb-Douglas firm with positive a and b and a+b<1, what kind of returns to scale make a finite interior profit maximum possible under positive prices?",
+      "options": {
+        "a": "A production function homogeneous of degree greater than one.",
+        "b": "Decreasing returns to scale.",
+        "c": "Increasing returns to scale.",
+        "d": "Constant returns to scale with strictly positive profit."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q29",
+      "text": "What is the implication of constant returns to scale and price-taking behavior for long-run economic profit in equilibrium with finite optimal production?",
+      "options": {
+        "a": "Economic profit equals the market price.",
+        "b": "Economic profit must be strictly negative.",
+        "c": "Economic profit is zero.",
+        "d": "Economic profit must be strictly positive."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q30",
+      "text": "Why would positive economic profit be inconsistent with a finite profit maximum under constant returns to scale and unchanged prices?",
+      "options": {
+        "a": "Costs would be fixed while output increases.",
+        "b": "Proportionally scaling inputs and output would proportionally increase positive profit without bound.",
+        "c": "Doubling inputs would necessarily reduce output.",
+        "d": "Increasing output necessarily raises output price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q31",
+      "text": "If a firm with constant returns to scale can earn positive profit at some scale at given prices, what happens in the idealized model without constraints?",
+      "options": {
+        "a": "The firm can increase profit without bound by scaling up.",
+        "b": "Marginal cost always rises to infinity.",
+        "c": "Profit necessarily becomes zero at the next unit.",
+        "d": "The firm must instantly shut down."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch13q32",
+      "text": "If output price is below minimum achievable unit cost under constant returns to scale, what is the profit-maximizing supply?",
+      "options": {
+        "a": "The firm's initial output regardless of costs.",
+        "b": "Exactly one unit.",
+        "c": "Infinite output.",
+        "d": "Zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q33",
+      "text": "If output price exactly equals constant long-run average cost under constant returns to scale, what happens to profit at feasible scales?",
+      "options": {
+        "a": "Profit rises proportionally with output.",
+        "b": "Profit falls proportionally with output.",
+        "c": "Marginal revenue becomes negative.",
+        "d": "Economic profit is zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q34",
+      "text": "What does the envelope theorem imply about the profit function's derivative with respect to output price, under standard differentiability conditions?",
+      "options": {
+        "a": "It equals optimal wage payments.",
+        "b": "It equals the marginal product of the fixed input.",
+        "c": "It is always zero.",
+        "d": "It equals the optimal output quantity."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q35",
+      "text": "Under the same conditions, what is the derivative of maximal profit with respect to an input price?",
+      "options": {
+        "a": "The optimal output level.",
+        "b": "The marginal revenue.",
+        "c": "The optimal demand for that input with a positive sign.",
+        "d": "The negative of the optimal demand for that input."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q36",
+      "text": "Why does an increase in a fixed input's rental rate reduce profit but not necessarily short-run output?",
+      "options": {
+        "a": "The fixed input's quantity becomes negative.",
+        "b": "It adds an unavoidable cost without changing the marginal return to the variable input.",
+        "c": "It always changes market demand.",
+        "d": "It increases the marginal physical product of labor."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q37",
+      "text": "What is the core objective of a competitive firm's profit-maximization problem?",
+      "options": {
+        "a": "Maximize gross revenue without regard to costs.",
+        "b": "Minimize average variable cost regardless of the output price.",
+        "c": "Choose feasible output and inputs to maximize revenue minus opportunity cost.",
+        "d": "Maximize the wage bill paid to labor."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q38",
+      "text": "Which condition is necessary but not always sufficient for a global optimum in a nonlinear profit problem?",
+      "options": {
+        "a": "Total revenue must equal zero.",
+        "b": "First-order marginal value equals marginal factor cost at an interior candidate.",
+        "c": "Wage must equal output price at every optimum.",
+        "d": "Average fixed cost must be increasing."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q39",
+      "text": "Why does a diminishing marginal product help ensure a stable interior optimum when only one variable input is chosen?",
+      "options": {
+        "a": "It makes profit strictly linear in input.",
+        "b": "The marginal value product falls as input use rises, so it can cross a constant wage from above.",
+        "c": "It means all factors are perfect substitutes.",
+        "d": "It causes marginal value product to rise without bound."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch13q40",
+      "text": "If a firm is a price taker in its factor markets, what is the marginal cost of hiring one additional unit of a particular input?",
+      "options": {
+        "a": "The market demand elasticity.",
+        "b": "The firm's output price.",
+        "c": "The given input price.",
+        "d": "Total wage expense paid to all current workers."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch13q41",
+      "text": "How should forgone interest on owner-supplied capital be treated when computing economic profit?",
+      "options": {
+        "a": "Ignored because it is not a cash transaction.",
+        "b": "Added to revenue.",
+        "c": "Classified as consumer surplus.",
+        "d": "As an opportunity cost of capital."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch13q42",
+      "text": "Why is the illustrated profit-maximizing input choice at a tangency?",
+      "options": {
+        "a": "Marginal product equals the isoprofit-line slope w1/p.",
+        "b": "The production function and isoprofit line always coincide everywhere.",
+        "c": "The firm's variable-input wage equals zero.",
+        "d": "Marginal product must equal the total cost."
+      },
+      "answer": "a",
+      "image": "assets/chapter_13_isoprofit_tangency.png"
+    }
+  ]
+}

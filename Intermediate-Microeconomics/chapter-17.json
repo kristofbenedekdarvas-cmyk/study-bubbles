@@ -1,0 +1,522 @@
+{
+  "id": "chapter-17",
+  "name": "Chapter 17: Factor markets",
+  "questions": [
+    {
+      "id": "ch17q1",
+      "text": "What distinguishes a monopoly from a price-taking firm?",
+      "options": {
+        "a": "A monopoly takes a perfectly elastic market price as given.",
+        "b": "A monopoly faces market demand and chooses output with an effect on its selling price.",
+        "c": "A monopoly is a buyer of labor only.",
+        "d": "A monopoly necessarily produces without any costs."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q2",
+      "text": "What is the profit-maximizing interior condition for a monopolist?",
+      "options": {
+        "a": "Total revenue equals total fixed cost.",
+        "b": "Price equals average fixed cost.",
+        "c": "Marginal revenue equals marginal cost.",
+        "d": "Price equals marginal revenue at every output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q3",
+      "text": "For a downward-sloping inverse demand P(y), how does marginal revenue compare with price for positive output?",
+      "options": {
+        "a": "Marginal revenue equals average fixed cost.",
+        "b": "Marginal revenue is below price.",
+        "c": "Marginal revenue always exceeds price.",
+        "d": "Marginal revenue equals price at every output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q4",
+      "text": "Why is monopoly marginal revenue below price?",
+      "options": {
+        "a": "Increasing sales generally requires lowering price on units sold as well as the marginal unit.",
+        "b": "Price must increase to sell more units.",
+        "c": "A monopolist is a price taker.",
+        "d": "Marginal revenue equals marginal cost by definition at every quantity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q5",
+      "text": "For linear inverse demand P(y)=a-by, what is marginal revenue?",
+      "options": {
+        "a": "a-by.",
+        "b": "a+by.",
+        "c": "a-2b.",
+        "d": "a-2by."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q6",
+      "text": "At what region of a standard downward-sloping demand curve does a profit-maximizing monopolist with nonnegative MC operate?",
+      "options": {
+        "a": "An elastic region, with absolute elasticity greater than one.",
+        "b": "Only where demand is vertical.",
+        "c": "Only at a point of zero demand.",
+        "d": "An inelastic region with negative MR."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q7",
+      "text": "Why is operating on an inelastic region inconsistent with profit maximization when MC is nonnegative?",
+      "options": {
+        "a": "Fixed cost must exceed revenue.",
+        "b": "Marginal revenue is positive in the inelastic region.",
+        "c": "Increasing output raises price.",
+        "d": "Reducing output raises revenue and weakly reduces cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q8",
+      "text": "What happens to a monopolist's markup when demand is more elastic, holding marginal cost fixed and positive in the standard constant-elasticity case?",
+      "options": {
+        "a": "The markup does not depend on elasticity.",
+        "b": "The markup becomes infinite.",
+        "c": "The optimal markup rises.",
+        "d": "The optimal markup over marginal cost falls."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q9",
+      "text": "How is the Lerner index (P-MC)/P related to the absolute demand elasticity at a monopoly interior optimum?",
+      "options": {
+        "a": "It equals 1/absolute elasticity.",
+        "b": "It equals marginal cost divided by quantity.",
+        "c": "It equals 1 + absolute elasticity.",
+        "d": "It equals absolute elasticity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q10",
+      "text": "In the competitive limit of infinitely elastic demand facing the firm, what happens to the monopoly markup condition?",
+      "options": {
+        "a": "Price becomes twice marginal cost.",
+        "b": "Price approaches marginal cost.",
+        "c": "Price approaches zero regardless of cost.",
+        "d": "Marginal revenue becomes negative."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q11",
+      "text": "For a monopolist with linear demand, how does MR compare graphically with inverse demand?",
+      "options": {
+        "a": "It is a horizontal line at zero price.",
+        "b": "It has the same slope but twice the intercept.",
+        "c": "It lies strictly above demand at all quantities.",
+        "d": "It shares the vertical intercept but is twice as steep downward."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q12",
+      "text": "Why may monopoly output be lower than efficient competitive output?",
+      "options": {
+        "a": "Monopoly always has lower marginal costs.",
+        "b": "The monopolist restricts quantity until marginal revenue rather than price equals marginal cost.",
+        "c": "The monopolist must set price equal to marginal cost.",
+        "d": "Consumers cannot purchase any good at a monopoly."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q13",
+      "text": "What is a factor's marginal revenue product (MRP)?",
+      "options": {
+        "a": "The additional revenue generated by employing one more unit of the factor.",
+        "b": "The average profit earned by all firms.",
+        "c": "Total revenue divided by total wages.",
+        "d": "The factor's marginal physical product alone."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q14",
+      "text": "If the factor affects output through y=f(x), which relationship holds for a monopoly producer?",
+      "options": {
+        "a": "MRP_x = MP_x divided by MR_y.",
+        "b": "MRP_x = total revenue plus factor price.",
+        "c": "MRP_x = MR_y times MP_x.",
+        "d": "MRP_x = P times total output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q15",
+      "text": "For a competitive seller, what is the marginal revenue product of an input?",
+      "options": {
+        "a": "Market output minus fixed cost.",
+        "b": "Marginal cost multiplied by wage.",
+        "c": "The factor's average product divided by output price.",
+        "d": "Output price multiplied by its marginal product."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q16",
+      "text": "Why is the marginal revenue product of a factor generally less under monopoly than under price-taking output behavior at a given output and factor use?",
+      "options": {
+        "a": "Monopoly marginal revenue is less than output price.",
+        "b": "Monopoly factor wages are always zero.",
+        "c": "Monopoly physical marginal product must be lower.",
+        "d": "Monopoly faces a perfectly elastic output demand."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q17",
+      "text": "If both firms face a common factor wage and comparable technology, which factor-demand pattern arises in the standard model?",
+      "options": {
+        "a": "The monopolist always hires more.",
+        "b": "Both necessarily hire identical quantities at all wages.",
+        "c": "A monopoly output seller hires less of the factor than an otherwise comparable competitive seller.",
+        "d": "A monopoly always hires zero workers."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q18",
+      "text": "What is the factor-hiring condition for a monopoly output seller that buys labor competitively?",
+      "options": {
+        "a": "Wage equals total revenue.",
+        "b": "Average product equals the wage.",
+        "c": "MRP of labor equals the market wage.",
+        "d": "Price times output equals the wage."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q19",
+      "text": "What is the factor-hiring condition for a competitive output seller that buys labor competitively?",
+      "options": {
+        "a": "Market wage equals market output demand.",
+        "b": "Value of marginal product equals the market wage.",
+        "c": "Wage equals total fixed cost.",
+        "d": "Marginal revenue product must be negative."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q20",
+      "text": "What is a monopsony?",
+      "options": {
+        "a": "A market with many price-taking employers.",
+        "b": "A market with one seller.",
+        "c": "A market with perfect competition on both sides.",
+        "d": "A market with a single buyer, such as one dominant employer of a particular factor."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q21",
+      "text": "What type of factor supply curve does a simple monopsonist typically face?",
+      "options": {
+        "a": "Perfectly horizontal at every price.",
+        "b": "Upward sloping.",
+        "c": "A vertical demand curve.",
+        "d": "Downward sloping because wages fall with hiring."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q22",
+      "text": "Why can the marginal expenditure on labor exceed the wage paid by a monopsonist?",
+      "options": {
+        "a": "Marginal product of labor is necessarily negative.",
+        "b": "Hiring an additional worker may require raising the wage on previously employed workers too.",
+        "c": "The firm sells output at a higher price.",
+        "d": "Labor supply must be perfectly elastic."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q23",
+      "text": "If inverse labor supply is w(L)=a+bL for b positive, what is marginal labor expenditure?",
+      "options": {
+        "a": "a+bL.",
+        "b": "a+2bL.",
+        "c": "a-bL.",
+        "d": "2a+bL."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q24",
+      "text": "What is the usual interior hiring condition for a monopsonist that is competitive in its output market?",
+      "options": {
+        "a": "Value of marginal product equals marginal factor expenditure.",
+        "b": "Wage equals marginal product divided by output price.",
+        "c": "Marginal factor expenditure equals zero.",
+        "d": "Wage equals total labor cost."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q25",
+      "text": "How does the monopsony wage compare with the marginal expenditure on labor at positive employment under increasing factor supply?",
+      "options": {
+        "a": "Wage always equals marginal labor expenditure.",
+        "b": "Wage is lower than marginal labor expenditure.",
+        "c": "Wage is higher than marginal labor expenditure.",
+        "d": "Marginal expenditure must be negative."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q26",
+      "text": "Relative to a competitive labor market with the same supply and labor demand schedules, monopsony generally leads to what?",
+      "options": {
+        "a": "Identical wages and employment.",
+        "b": "Higher wages and lower employment necessarily.",
+        "c": "Lower wages and lower employment.",
+        "d": "Higher wages and higher employment."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q27",
+      "text": "Why is monopsony employment Pareto inefficient in the standard model?",
+      "options": {
+        "a": "Labor supply becomes perfectly elastic.",
+        "b": "Every employed worker is paid more than marginal revenue product.",
+        "c": "Workers whose value of marginal product exceeds their opportunity cost are not hired.",
+        "d": "The firm hires until wage equals product price at every quantity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q28",
+      "text": "What is the elasticity-adjusted wage bill condition for a monopsonist, with positive factor supply elasticity eta?",
+      "options": {
+        "a": "Marginal factor expenditure equals wage times (1+1/eta).",
+        "b": "Marginal expenditure always equals wage.",
+        "c": "Wage equals output price times eta.",
+        "d": "Marginal factor expenditure equals wage times (1-1/eta)."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q29",
+      "text": "What happens to the monopsony wedge between wage and marginal expenditure as labor supply becomes very elastic?",
+      "options": {
+        "a": "It becomes smaller.",
+        "b": "It turns negative.",
+        "c": "It becomes infinite even when supply is perfectly elastic.",
+        "d": "It necessarily becomes larger."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q30",
+      "text": "In the standard competitive labor market, a binding minimum wage above equilibrium generally does what?",
+      "options": {
+        "a": "Reduces employment demanded relative to the competitive level.",
+        "b": "Increases labor demand at all wage levels.",
+        "c": "Raises employment above the competitive level without exception.",
+        "d": "Leaves employment unchanged at every minimum wage."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q31",
+      "text": "Under monopsony, what may a suitably chosen minimum wage do?",
+      "options": {
+        "a": "Increase both the wage and employment relative to the unregulated monopsony outcome.",
+        "b": "Eliminate the underlying labor supply curve.",
+        "c": "Always decrease employment regardless of its level.",
+        "d": "Necessarily leave employment unchanged."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q32",
+      "text": "Why can a minimum wage increase employment in a monopsonistic labor market?",
+      "options": {
+        "a": "It must lower workers' reservation wages to zero.",
+        "b": "It makes output demand perfectly elastic automatically.",
+        "c": "Over a range of hiring, the employer can acquire workers at a fixed regulated wage rather than raise all incumbents' wages.",
+        "d": "It shifts the marginal product curve to infinity."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q33",
+      "text": "Why may a sufficiently high minimum wage reduce employment even in a monopsony market?",
+      "options": {
+        "a": "Firms can hire limitless labor at any regulated wage.",
+        "b": "The labor supply curve becomes vertical at all wages.",
+        "c": "All minimum wages necessarily improve employment forever.",
+        "d": "Labor demand is downward sloping, and a wage above the relevant marginal value product discourages hiring."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q34",
+      "text": "What is an upstream monopolist in a vertical supply chain?",
+      "options": {
+        "a": "A firm that supplies labor to households.",
+        "b": "A monopolist selling an input used by another firm to produce a downstream good.",
+        "c": "A monopolist selling directly to final consumers only.",
+        "d": "A buyer with perfect competition in the factor market."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch17q35",
+      "text": "What is a downstream monopolist in the two-stage model?",
+      "options": {
+        "a": "A firm that buys no inputs.",
+        "b": "A monopolist choosing the upstream input's technological marginal cost.",
+        "c": "A monopolist using the upstream product as an input to sell a final good.",
+        "d": "A price-taking manufacturer facing horizontal demand."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q36",
+      "text": "What is double marginalization?",
+      "options": {
+        "a": "Two perfectly competitive sellers charging price equal to cost.",
+        "b": "A single firm paying the same fixed cost twice.",
+        "c": "Two successive monopolists each charge a markup, raising the final price and restricting output.",
+        "d": "Two firms competing aggressively to lower prices."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q37",
+      "text": "Why can vertical integration eliminate the simple double-markup problem?",
+      "options": {
+        "a": "Integration guarantees marginal cost is zero.",
+        "b": "Integration removes the need to produce an intermediate input.",
+        "c": "Integration makes consumer demand perfectly inelastic.",
+        "d": "The integrated firm accounts for the upstream input's true marginal cost rather than an inflated internal transfer price."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q38",
+      "text": "In the lecture's linear-demand vertical monopoly model, how does integrated output compare to output under separate upstream and downstream monopolies?",
+      "options": {
+        "a": "Integrated output must be zero.",
+        "b": "Both produce identical output.",
+        "c": "The integrated monopolist produces twice as much as the separated pair, given the model's assumptions.",
+        "d": "The integrated monopolist produces half as much."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q39",
+      "text": "Why might separate upstream and downstream monopolists jointly earn less profit than a vertically integrated monopolist?",
+      "options": {
+        "a": "Each applies a markup without internalizing the negative effect on the other's sales.",
+        "b": "Integration always doubles production costs.",
+        "c": "Separation eliminates every markup.",
+        "d": "The upstream firm cannot influence input price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch17q40",
+      "text": "Compared with vertically integrated monopoly, double marginalization typically produces what in the linear benchmark?",
+      "options": {
+        "a": "Identical quantities but higher fixed costs only.",
+        "b": "The competitive allocation automatically.",
+        "c": "Higher output and lower final-good price.",
+        "d": "Lower output and higher final-good price."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q41",
+      "text": "What is the socially efficient benchmark in a no-externality monopoly market with constant marginal cost?",
+      "options": {
+        "a": "Produce until marginal revenue is zero regardless of cost.",
+        "b": "Choose output where price equals average fixed cost.",
+        "c": "Set price equal to maximum willingness to pay with zero quantity.",
+        "d": "Produce until buyers' marginal willingness to pay equals marginal cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch17q42",
+      "text": "What is the key difference between monopoly power and monopsony power?",
+      "options": {
+        "a": "Monopsony always faces a downward-sloping supply curve.",
+        "b": "Monopoly power arises only in labor markets.",
+        "c": "Monopoly power concerns a seller of output; monopsony power concerns a buyer of an input.",
+        "d": "Both necessarily refer to the same firm's price-setting output decision."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch17q43",
+      "text": "In the monopsony diagram, why does marginal labor expenditure lie above inverse labor supply?",
+      "options": {
+        "a": "Wages decrease whenever labor is hired.",
+        "b": "Hiring more workers requires paying a higher wage on existing units as well.",
+        "c": "Labor is supplied at a fixed wage regardless of employment.",
+        "d": "Marginal productivity must always exceed output price."
+      },
+      "answer": "b",
+      "image": "assets/chapter_17_monopsony.png"
+    }
+  ]
+}

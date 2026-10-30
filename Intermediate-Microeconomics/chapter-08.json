@@ -1,0 +1,474 @@
+{
+  "id": "chapter-8",
+  "name": "Chapter 8: Intertemporal choice",
+  "questions": [
+    {
+      "id": "ch8q1",
+      "text": "In a two-period model, a consumer is a borrower in period 1 when what holds?",
+      "options": {
+        "a": "Second-period consumption equals second-period income.",
+        "b": "First-period consumption exceeds first-period income.",
+        "c": "The interest rate is zero.",
+        "d": "First-period consumption is below first-period income."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q2",
+      "text": "In the two-period model, a consumer is a lender in period 1 when what holds?",
+      "options": {
+        "a": "First-period consumption is greater than first-period income.",
+        "b": "First-period consumption is less than first-period income.",
+        "c": "Future consumption exceeds current consumption.",
+        "d": "Second-period income must be zero."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q3",
+      "text": "What is the slope of the intertemporal budget line when period-1 consumption is on the horizontal axis?",
+      "options": {
+        "a": "-1/(1+r).",
+        "b": "1+r.",
+        "c": "-(1+r).",
+        "d": "-r/(1+r)."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q4",
+      "text": "What happens to the budget line's slope in absolute value when the interest rate rises?",
+      "options": {
+        "a": "It increases.",
+        "b": "It remains fixed at one.",
+        "c": "It decreases.",
+        "d": "It becomes zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q5",
+      "text": "How can a two-period budget constraint be expressed in present-value terms?",
+      "options": {
+        "a": "c1 + (1+r)c2 = m1 + (1+r)m2.",
+        "b": "c1 + c2 = (m1+m2)/(1+r).",
+        "c": "c1 - c2 = m1 - m2.",
+        "d": "c1 + c2/(1+r) = m1 + m2/(1+r)."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q6",
+      "text": "How can a two-period budget constraint be expressed in future-value terms?",
+      "options": {
+        "a": "c2 = m2 - (1+r)m1.",
+        "b": "(1+r)c1 + c2 = (1+r)m1 + m2.",
+        "c": "c1 + (1+r)c2 = m1 + (1+r)m2.",
+        "d": "c1 + c2/(1+r) = (m1+m2)(1+r)."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q7",
+      "text": "At a zero interest rate, how much is €1 next period worth today?",
+      "options": {
+        "a": "An amount determined by borrowing behavior alone.",
+        "b": "€1 plus a positive premium.",
+        "c": "€0.",
+        "d": "€1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q8",
+      "text": "For a positive interest rate r, the present value of €1 received one period later is what?",
+      "options": {
+        "a": "1/(1+r) euros.",
+        "b": "r euros.",
+        "c": "(1+r) euros.",
+        "d": "(1-r) squared euros."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q9",
+      "text": "What is the period-1 consumption intercept of the two-period budget line?",
+      "options": {
+        "a": "m1 + m2/(1+r).",
+        "b": "m2/(1+r) - m1.",
+        "c": "m2 + (1+r)m1.",
+        "d": "m1 + m2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q10",
+      "text": "What is the period-2 consumption intercept of the two-period budget line?",
+      "options": {
+        "a": "(1+r)(m1+m2)/(1-r).",
+        "b": "(1+r)m1 + m2.",
+        "c": "m1/(1+r) + m2.",
+        "d": "m1 + m2/(1+r)."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q11",
+      "text": "Why does the intertemporal budget line pass through the endowment bundle?",
+      "options": {
+        "a": "The endowment is necessarily the midpoint of the line.",
+        "b": "The endowment always maximizes utility.",
+        "c": "Interest income always equals future income.",
+        "d": "Consuming exactly the income of each period requires neither borrowing nor lending."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q12",
+      "text": "When the interest rate changes and period incomes remain fixed, what happens to the budget line?",
+      "options": {
+        "a": "It shifts in parallel toward the origin.",
+        "b": "It shifts out in parallel.",
+        "c": "It pivots around the endowment bundle.",
+        "d": "It pivots around the origin, not the endowment."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q13",
+      "text": "What does the model assume about the interest rate for borrowing and lending?",
+      "options": {
+        "a": "There is no ability to transfer consumption across periods.",
+        "b": "Borrowing is free and lending is prohibited.",
+        "c": "Both activities are possible at the same constant rate r.",
+        "d": "Borrowing is always at twice the lending rate."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q14",
+      "text": "What does a consumer choose at an interior optimum under standard preferences?",
+      "options": {
+        "a": "A point where current and future income are exactly equal.",
+        "b": "A point with a budget-line slope of zero.",
+        "c": "A point where the intertemporal marginal rate of substitution matches 1+r in absolute value.",
+        "d": "The maximum possible future consumption regardless of preferences."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q15",
+      "text": "A lender faces a rise in the interest rate. Which change is unambiguously true in the slide's model?",
+      "options": {
+        "a": "The consumer must switch to borrowing.",
+        "b": "Current consumption must rise.",
+        "c": "The consumer cannot optimally switch to being a borrower if initially a lender.",
+        "d": "Future consumption must fall."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q16",
+      "text": "Why can a higher interest rate benefit someone who remains a lender?",
+      "options": {
+        "a": "Saved resources earn a higher return in period 2.",
+        "b": "Both period incomes rise mechanically.",
+        "c": "The budget line ceases to bind.",
+        "d": "Borrowing becomes cheaper."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q17",
+      "text": "For a borrower who remains a borrower when the interest rate rises, welfare does what?",
+      "options": {
+        "a": "Becomes independent of preferences.",
+        "b": "Falls.",
+        "c": "Rises without exception.",
+        "d": "Remains exactly unchanged."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q18",
+      "text": "Why is the response of saving to a higher interest rate generally ambiguous?",
+      "options": {
+        "a": "Only production technology determines savings.",
+        "b": "All lenders have identical preferences.",
+        "c": "A higher rate never changes the budget slope.",
+        "d": "Substitution and income effects can push first-period consumption in opposite directions."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q19",
+      "text": "For a lender, which is the substitution incentive created by a higher interest rate?",
+      "options": {
+        "a": "Shift consumption toward period 1, because saving returns less.",
+        "b": "Consume strictly equal amounts in each period.",
+        "c": "Consume only the endowment in both periods.",
+        "d": "Shift consumption toward period 2, as future consumption becomes cheaper relative to current consumption."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q20",
+      "text": "For a borrower, the substitution effect of a higher interest rate encourages what?",
+      "options": {
+        "a": "Less current consumption relative to future consumption.",
+        "b": "No response because borrowers cannot save.",
+        "c": "More borrowing at an unchanged cost.",
+        "d": "More current consumption relative to future consumption."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q21",
+      "text": "What makes the income effect of an interest-rate rise different for borrowers and lenders?",
+      "options": {
+        "a": "A lender gains purchasing power, while a borrower loses purchasing power.",
+        "b": "Both lose purchasing power equally.",
+        "c": "Both gain purchasing power equally.",
+        "d": "Borrower and lender status has no relation to wealth changes."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q22",
+      "text": "If a consumer starts at the endowment bundle, how does an interest-rate change affect the feasibility of that bundle?",
+      "options": {
+        "a": "It becomes feasible only if the consumer borrows.",
+        "b": "It becomes feasible only if income is constant across periods.",
+        "c": "It remains feasible because no intertemporal trade is required.",
+        "d": "It becomes infeasible for all higher rates."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q23",
+      "text": "What does present value allow economists to compare?",
+      "options": {
+        "a": "Payments received at different dates in common current-value units.",
+        "b": "Preferences of consumers without knowing their income.",
+        "c": "Profits without knowing prices.",
+        "d": "Marginal utilities without a utility function."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q24",
+      "text": "Why is a future payment discounted at positive interest rates?",
+      "options": {
+        "a": "Future money is always riskier by assumption.",
+        "b": "Money available today could earn interest before that future date.",
+        "c": "Every consumer is a borrower.",
+        "d": "The price of consumption must rise each period."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q25",
+      "text": "What is the present value of a payment A received two periods from today at fixed rate r?",
+      "options": {
+        "a": "A/(1-r)^2 for all r.",
+        "b": "A/(1+r)^2.",
+        "c": "A(1+r)^2.",
+        "d": "A/(1+2r)^0."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q26",
+      "text": "As the positive interest rate increases, the present value of a fixed future payment does what?",
+      "options": {
+        "a": "Decreases.",
+        "b": "Increases.",
+        "c": "Remains unchanged.",
+        "d": "First decreases and then always becomes negative."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q27",
+      "text": "As the payment date moves further into the future, its present value at a positive constant rate does what?",
+      "options": {
+        "a": "Rises.",
+        "b": "Doubles each period.",
+        "c": "Remains fixed.",
+        "d": "Falls."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q28",
+      "text": "When evaluating mutually exclusive investments with comparable risk and cost, which decision rule is appropriate?",
+      "options": {
+        "a": "Prefer the investment with the highest undiscounted sum of future revenues.",
+        "b": "Prefer the one with the largest nominal payment at the end.",
+        "c": "Prefer the investment with the highest net present value.",
+        "d": "Prefer the investment with the longest payment delay."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q29",
+      "text": "What is the net present value rule for accepting a standalone investment?",
+      "options": {
+        "a": "Accept if the first cash flow is negative.",
+        "b": "Accept if NPV is positive, assuming the market interest rate is the relevant discount rate.",
+        "c": "Accept if total undiscounted revenue is positive, irrespective of costs.",
+        "d": "Accept only if NPV is exactly zero."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q30",
+      "text": "Why might an investment paying more money in the future be inferior to one paying less now?",
+      "options": {
+        "a": "Its discounted present value may be smaller.",
+        "b": "Future money must have lower nominal value.",
+        "c": "It must have a negative accounting profit.",
+        "d": "Earlier cash flows are always risk-free and later cash flows are always worthless."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q31",
+      "text": "Suppose a project costs €100 now and pays €110 in one year. What is its NPV at 10% interest?",
+      "options": {
+        "a": "€-10.",
+        "b": "€10.",
+        "c": "€0.",
+        "d": "€110."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q32",
+      "text": "If two income streams have equal present value and the consumer can borrow and lend freely at r, what is true?",
+      "options": {
+        "a": "They yield the same affordable set of consumption plans.",
+        "b": "The stream with higher future income always dominates.",
+        "c": "The stream with higher first-period income always makes the consumer better off.",
+        "d": "One stream must lead to borrowing and the other to lending."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch8q33",
+      "text": "If one income endowment has strictly higher present value than another, what follows under frictionless credit markets?",
+      "options": {
+        "a": "It has a lower period-1 intercept.",
+        "b": "Its owner must save in period 1.",
+        "c": "Its owner must prefer future consumption.",
+        "d": "It offers a larger intertemporal consumption opportunity set."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q34",
+      "text": "For a three-period model with a constant r, how is period-3 consumption discounted to period 1?",
+      "options": {
+        "a": "By dividing by (1+r) only.",
+        "b": "By multiplying by (1+r)^2.",
+        "c": "It is not discounted at all.",
+        "d": "By dividing by (1+r)^2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q35",
+      "text": "What is the economic interpretation of choosing to lend in period 1?",
+      "options": {
+        "a": "Increasing current consumption without reducing future resources.",
+        "b": "Forgoing current consumption to finance greater future consumption.",
+        "c": "Choosing an endowment with lower present value.",
+        "d": "Consuming future income before it is earned."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch8q36",
+      "text": "Which feature determines whether a given consumer borrows or lends, assuming a competitive capital market?",
+      "options": {
+        "a": "Only second-period income.",
+        "b": "The interest rate alone regardless of income and preferences.",
+        "c": "The consumer's preferences relative to their endowment and the intertemporal price ratio.",
+        "d": "Only the nominal amount of first-period income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q37",
+      "text": "Why is the present-value budget formulation especially useful?",
+      "options": {
+        "a": "It forces consumption to equal income separately in each period.",
+        "b": "It eliminates the need to specify an interest rate.",
+        "c": "It expresses resources and spending at different dates in a common unit.",
+        "d": "It assumes that consumers cannot save."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch8q38",
+      "text": "If the market interest rate is positive, which of the following is true for a payment of €100 received next year?",
+      "options": {
+        "a": "Its present value is exactly €100.",
+        "b": "Its present value exceeds €100.",
+        "c": "Its present value is zero.",
+        "d": "Its present value is below €100."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch8q39",
+      "text": "What does the slope of the illustrated intertemporal budget line represent?",
+      "options": {
+        "a": "The price of period-2 consumption divided by total income.",
+        "b": "The negative gross interest factor, -(1+r).",
+        "c": "The ratio of the two incomes, -m1/m2.",
+        "d": "The negative discount factor, -1/(1+r)."
+      },
+      "answer": "b",
+      "image": "assets/chapter_08_intertemporal_budget.png"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "id": "chapter-16",
+  "name": "Chapter 16: Firm supply",
+  "questions": [
+    {
+      "id": "ch16q1",
+      "text": "What is the defining feature of a price-taking firm?",
+      "options": {
+        "a": "It faces market demand as a perfectly inelastic line.",
+        "b": "It can raise market price by restricting output alone.",
+        "c": "It chooses the market price and sells any output it wants.",
+        "d": "It treats the market output price as unaffected by its own production decision."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q2",
+      "text": "Which market structure is most consistent with perfect competition?",
+      "options": {
+        "a": "Several firms colluding to choose a common price.",
+        "b": "A sole buyer of labor with upward-sloping input supply.",
+        "c": "One firm selling a unique product with no close substitutes.",
+        "d": "Many small firms selling a homogeneous good with negligible individual market power."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q3",
+      "text": "How does the demand curve facing an individual price-taking firm appear at a given market price?",
+      "options": {
+        "a": "Vertical at its profit-maximizing output.",
+        "b": "Horizontal at the market price.",
+        "c": "The same downward-sloping curve as market demand.",
+        "d": "Upward sloping through the origin."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q4",
+      "text": "Why is it incorrect to confuse the demand facing one competitive firm with total market demand?",
+      "options": {
+        "a": "One firm can sell at a given price without materially affecting it, while total market quantity affects market equilibrium price.",
+        "b": "Both must be perfectly horizontal.",
+        "c": "The market demand includes only this firm's output.",
+        "d": "Both must be vertical."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q5",
+      "text": "What is marginal revenue for a price-taking firm?",
+      "options": {
+        "a": "Market price.",
+        "b": "Zero at every level of production.",
+        "c": "Average variable cost.",
+        "d": "Market price minus marginal cost."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q6",
+      "text": "Why does a competitive firm choose quantity rather than independently set price?",
+      "options": {
+        "a": "At the market price, it faces a perfectly elastic residual demand under the model's assumptions.",
+        "b": "It has a perfectly inelastic demand curve.",
+        "c": "It has no control over its technology.",
+        "d": "It can never shut down."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q7",
+      "text": "What is the standard interior first-order condition for a competitive firm's optimal output?",
+      "options": {
+        "a": "Price equals marginal revenue minus marginal cost.",
+        "b": "Price equals marginal cost.",
+        "c": "Total revenue equals total variable cost.",
+        "d": "Price equals average fixed cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q8",
+      "text": "Why is the condition p=MC not sufficient by itself for the global profit-maximizing output?",
+      "options": {
+        "a": "Marginal cost must be negative.",
+        "b": "One must also check that output is on the relevant rising MC branch and that producing is better than shutting down.",
+        "c": "Price must equal total cost rather than marginal cost.",
+        "d": "A competitive firm always operates at zero output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q9",
+      "text": "What is the relevant second-order condition for a smooth interior competitive supply optimum?",
+      "options": {
+        "a": "Average fixed cost is increasing.",
+        "b": "Market demand has elasticity zero.",
+        "c": "Marginal cost is locally nondecreasing with output.",
+        "d": "Marginal cost is strictly negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q10",
+      "text": "Which portion of marginal cost is the firm's short-run supply curve under standard assumptions?",
+      "options": {
+        "a": "The upward-sloping MC portion at or above minimum average variable cost.",
+        "b": "The average fixed cost curve.",
+        "c": "The entire MC curve, including points below minimum AVC.",
+        "d": "The average total cost curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q11",
+      "text": "Why can a competitive firm with p less than AC still rationally produce in the short run?",
+      "options": {
+        "a": "Profit maximization requires p greater than AC at every output.",
+        "b": "Revenue may cover variable costs and contribute toward unavoidable fixed costs.",
+        "c": "It necessarily earns positive accounting profit.",
+        "d": "Fixed costs disappear when output is positive."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q12",
+      "text": "What is the short-run shutdown rule for a competitive firm with avoidable variable costs?",
+      "options": {
+        "a": "Shut down when price is below minimum AVC.",
+        "b": "Always produce whenever price is positive.",
+        "c": "Shut down when price exceeds MC.",
+        "d": "Shut down whenever price is below AC."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q13",
+      "text": "At a market price equal to the minimum average variable cost, what can be true?",
+      "options": {
+        "a": "The firm must supply an infinite amount.",
+        "b": "The firm must have negative variable costs.",
+        "c": "The firm can be indifferent between operating at the shutdown output and producing zero, ignoring other complications.",
+        "d": "The firm must make positive economic profit."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q14",
+      "text": "If price is below minimum average variable cost, why is producing worse than temporarily shutting down?",
+      "options": {
+        "a": "Operating revenue does not cover the variable cost of any positive production plan.",
+        "b": "Marginal revenue is negative for a competitive firm.",
+        "c": "Average total cost is always below price.",
+        "d": "All fixed costs can be avoided by shutting down."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q15",
+      "text": "What cost must a firm pay in the usual short-run model even if it produces zero?",
+      "options": {
+        "a": "Variable production cost for positive output.",
+        "b": "Producer surplus.",
+        "c": "Marginal cost of the last unit.",
+        "d": "Unavoidable fixed cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q16",
+      "text": "How is the competitive firm's inverse supply described on its active short-run supply branch?",
+      "options": {
+        "a": "Price equals marginal cost as a function of output.",
+        "b": "Price equals total revenue minus fixed cost.",
+        "c": "Price equals the derivative of consumer utility.",
+        "d": "Price equals average fixed cost at all quantities."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q17",
+      "text": "If market price rises along a competitive firm's active supply curve with rising MC, what happens to optimal output?",
+      "options": {
+        "a": "It falls.",
+        "b": "It becomes negative.",
+        "c": "It rises.",
+        "d": "It remains strictly fixed."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q18",
+      "text": "What happens if price is between minimum AVC and minimum AC for a competitive firm?",
+      "options": {
+        "a": "It may operate with a loss smaller than its unavoidable fixed cost.",
+        "b": "It must shut down because it makes a loss.",
+        "c": "It must produce zero because MR is negative.",
+        "d": "It always earns positive economic profit."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q19",
+      "text": "What is the crucial distinction between shutdown and exit?",
+      "options": {
+        "a": "Shutdown and exit are identical in every time horizon.",
+        "b": "Exit means operating where price is below AVC.",
+        "c": "Shutdown raises market price by fiat.",
+        "d": "Shutdown is a short-run zero-output choice with unavoidable fixed costs; exit is a long-run decision that avoids all relevant costs."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q20",
+      "text": "For a firm with output y and variable cost cv(y), how is producer surplus measured?",
+      "options": {
+        "a": "Variable cost minus total revenue.",
+        "b": "p y - cv(y) - fixed cost.",
+        "c": "p y - cv(y).",
+        "d": "p y - fixed cost only."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q21",
+      "text": "How are producer surplus and short-run economic profit related with fixed cost F?",
+      "options": {
+        "a": "Profit equals producer surplus plus fixed cost.",
+        "b": "Profit equals producer surplus minus fixed cost.",
+        "c": "Profit is the negative of producer surplus.",
+        "d": "Profit always equals producer surplus for positive fixed cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q22",
+      "text": "Under a continuous upward-sloping active supply schedule, how is producer surplus represented geometrically?",
+      "options": {
+        "a": "The area above demand and below price.",
+        "b": "The area above the supply curve and below price up to the produced quantity.",
+        "c": "Total expenditure on inputs including fixed cost.",
+        "d": "The area to the right of market quantity only."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q23",
+      "text": "If market price increases and a competitive firm adjusts output optimally, what happens to producer surplus?",
+      "options": {
+        "a": "It necessarily decreases.",
+        "b": "It stays constant at all prices.",
+        "c": "It weakly increases, holding costs and technology fixed.",
+        "d": "It becomes equal to fixed cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q24",
+      "text": "If fixed cost is unchanged, what is the relation between changes in short-run profit and producer surplus?",
+      "options": {
+        "a": "They always have opposite signs.",
+        "b": "They are equal.",
+        "c": "Producer surplus remains constant when profit changes.",
+        "d": "They differ by twice the fixed cost."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q25",
+      "text": "Can producer surplus be positive while economic profit is negative?",
+      "options": {
+        "a": "No, the two measures always have the same sign.",
+        "b": "Yes, when positive producer surplus does not cover fixed cost.",
+        "c": "Yes, but only if the product price is negative.",
+        "d": "No, profit excludes fixed cost in economics."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q26",
+      "text": "What does the vertical distance between price and AVC at produced output measure when multiplied by output?",
+      "options": {
+        "a": "Fixed cost.",
+        "b": "Producer surplus.",
+        "c": "Total cost.",
+        "d": "Marginal revenue."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q27",
+      "text": "What additional adjustments can a firm make in the long run relative to the short run?",
+      "options": {
+        "a": "It can ignore economic costs.",
+        "b": "It can unilaterally determine the competitive market price.",
+        "c": "It can alter fixed factors such as plant size.",
+        "d": "It can choose consumer preferences."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q28",
+      "text": "What is the basic long-run operating condition for positive production?",
+      "options": {
+        "a": "Price must be below marginal cost.",
+        "b": "Price must equal average fixed cost.",
+        "c": "Price must cover long-run average cost at the chosen scale.",
+        "d": "Price may remain below every attainable long-run average cost indefinitely."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q29",
+      "text": "What is the long-run break-even price for a firm with U-shaped long-run average cost and free exit?",
+      "options": {
+        "a": "The minimum of average fixed cost.",
+        "b": "The maximum of marginal cost.",
+        "c": "Zero regardless of technology.",
+        "d": "The minimum of long-run average cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q30",
+      "text": "What characterizes the long-run supply curve of a constant-returns-to-scale firm at the minimum unit cost cmin?",
+      "options": {
+        "a": "A downward-sloping curve with positive monopoly markup.",
+        "b": "An upward-sloping curve through the origin at all quantities.",
+        "c": "A strictly vertical supply curve.",
+        "d": "A horizontal supply relationship at price cmin, with zero economic profit at feasible positive scales."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q31",
+      "text": "Why is a firm's long-run supply generally more elastic than short-run supply?",
+      "options": {
+        "a": "More factors can adjust to price changes.",
+        "b": "Long-run marginal cost must be zero.",
+        "c": "The long-run output price is always lower.",
+        "d": "Variable inputs become fixed in the long run."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch16q32",
+      "text": "At the output where the chosen short-run plant size is also long-run optimal, what holds for marginal costs under differentiability?",
+      "options": {
+        "a": "Both must be negative.",
+        "b": "Long-run marginal cost always exceeds short-run marginal cost.",
+        "c": "Short-run and long-run marginal costs coincide.",
+        "d": "Short-run marginal cost is zero."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q33",
+      "text": "Why does perfect competition imply price equals marginal revenue for a firm but not for a monopoly?",
+      "options": {
+        "a": "A competitive firm has fixed total revenue.",
+        "b": "A monopoly's marginal revenue always equals price.",
+        "c": "A competitive firm takes market price as given when changing output, whereas a monopoly faces downward-sloping demand.",
+        "d": "A monopoly has no production costs."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q34",
+      "text": "If minimum AVC is €8 and minimum AC is €12, and the competitive price is €10, what is generally optimal?",
+      "options": {
+        "a": "Produce zero because price is below AC.",
+        "b": "Exit immediately because short-run profits are negative.",
+        "c": "Earn positive profit because price exceeds AVC.",
+        "d": "Produce on the appropriate MC branch but earn a short-run economic loss."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q35",
+      "text": "At price above minimum AC, what is possible for a price-taking firm operating at its optimum?",
+      "options": {
+        "a": "Variable costs exceed total revenue at every output.",
+        "b": "A forced short-run shutdown.",
+        "c": "Marginal revenue is negative.",
+        "d": "Positive economic profit in the short run."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q36",
+      "text": "What is the short-run supply response to a rise in fixed cost, holding variable costs and market price fixed?",
+      "options": {
+        "a": "The supply curve shifts upward by the fixed cost at every output.",
+        "b": "The active MC supply schedule is unchanged, although profit falls.",
+        "c": "Marginal revenue falls by the fixed cost.",
+        "d": "Output must rise at every price."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch16q37",
+      "text": "Why are technology and cost constraints relevant to competitive supply?",
+      "options": {
+        "a": "They make the firm's demand curve downward sloping.",
+        "b": "They determine consumer income and preferences only.",
+        "c": "They allow the firm to manipulate market price.",
+        "d": "They determine MC and the cost-covering threshold at which supply is profitable to undertake."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q38",
+      "text": "Why can the individual competitive firm's demand be horizontal even if the industry demand slopes downward?",
+      "options": {
+        "a": "The industry has only one buyer.",
+        "b": "Industry quantities never affect equilibrium price.",
+        "c": "The firm is small relative to the market and regards the market price as given.",
+        "d": "Each firm sells a differentiated good at a chosen price."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch16q39",
+      "text": "Why might a short-run competitive firm's profit-maximizing output be zero even at positive price?",
+      "options": {
+        "a": "Positive prices are impossible under competition.",
+        "b": "Market demand is perfectly vertical.",
+        "c": "A firm's MC is always below zero.",
+        "d": "Price may be insufficient to cover any positive output's variable cost."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch16q40",
+      "text": "According to the illustrated short-run cost curves, which part of MC is relevant for positive competitive supply?",
+      "options": {
+        "a": "The upward-sloping section above the shutdown threshold at minimum AVC.",
+        "b": "Only the portion of MC below AVC.",
+        "c": "The entire average fixed cost curve.",
+        "d": "Every point on MC even below minimum AVC."
+      },
+      "answer": "a",
+      "image": "assets/chapter_16_short_run_supply.png"
+    }
+  ]
+}

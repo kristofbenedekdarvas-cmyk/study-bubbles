@@ -1,0 +1,522 @@
+{
+  "id": "chapter-15",
+  "name": "Chapter 15: Cost curves",
+  "questions": [
+    {
+      "id": "ch15q1",
+      "text": "How is total cost decomposed in the short run?",
+      "options": {
+        "a": "Marginal cost plus average cost.",
+        "b": "Variable cost plus fixed cost.",
+        "c": "Revenue minus profit plus consumer surplus.",
+        "d": "Producer surplus plus utility."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q2",
+      "text": "How is average cost defined for positive output y?",
+      "options": {
+        "a": "Fixed cost divided by marginal cost.",
+        "b": "Revenue divided by output.",
+        "c": "Marginal cost times output.",
+        "d": "Total cost divided by output."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q3",
+      "text": "What is average variable cost?",
+      "options": {
+        "a": "Total cost divided by price.",
+        "b": "Total revenue minus variable cost.",
+        "c": "Variable cost divided by output.",
+        "d": "Fixed cost divided by output."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q4",
+      "text": "What is average fixed cost?",
+      "options": {
+        "a": "Price multiplied by output.",
+        "b": "Variable cost divided by output.",
+        "c": "Fixed cost divided by output.",
+        "d": "Marginal cost minus average cost."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q5",
+      "text": "What is the accounting relationship among AC, AVC and AFC?",
+      "options": {
+        "a": "AC = AVC + AFC.",
+        "b": "AC = MC + total revenue.",
+        "c": "AC = AVC - AFC.",
+        "d": "AC = AVC times AFC."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q6",
+      "text": "As output expands with positive fixed cost, what happens to average fixed cost?",
+      "options": {
+        "a": "It remains constant.",
+        "b": "It becomes negative.",
+        "c": "It rises linearly.",
+        "d": "It falls."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q7",
+      "text": "Why can an average total cost curve be U-shaped?",
+      "options": {
+        "a": "Fixed cost rises at exactly the same rate as output.",
+        "b": "All cost components are always increasing.",
+        "c": "Falling average fixed cost can initially dominate, while rising average variable cost can dominate later.",
+        "d": "Marginal cost is necessarily negative initially."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q8",
+      "text": "What does a vertical gap between AC and AVC measure at a particular output?",
+      "options": {
+        "a": "Marginal revenue.",
+        "b": "Average fixed cost.",
+        "c": "The product price.",
+        "d": "Total fixed cost regardless of output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q9",
+      "text": "What is marginal cost?",
+      "options": {
+        "a": "The average cost of a unit already produced.",
+        "b": "The rate at which minimum total cost changes as output increases.",
+        "c": "The opportunity cost of buying a product as a consumer.",
+        "d": "The total cost of producing all output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q10",
+      "text": "Why does fixed cost not enter short-run marginal cost when it does not vary with output?",
+      "options": {
+        "a": "Its derivative with respect to output is zero.",
+        "b": "Fixed cost is always negative.",
+        "c": "Fixed cost is included in marginal revenue.",
+        "d": "Variable cost cannot affect marginal cost."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q11",
+      "text": "If marginal cost is below average variable cost, what is happening to AVC as output increases locally?",
+      "options": {
+        "a": "AVC is falling.",
+        "b": "AVC is necessarily constant.",
+        "c": "Total variable cost is falling.",
+        "d": "AVC is rising."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q12",
+      "text": "If marginal cost is above average variable cost, what is happening to AVC locally?",
+      "options": {
+        "a": "AVC is rising.",
+        "b": "Fixed cost must be negative.",
+        "c": "AVC is falling.",
+        "d": "AVC must be zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q13",
+      "text": "At an interior minimum of a smooth AVC curve, what relation holds?",
+      "options": {
+        "a": "MC = AFC.",
+        "b": "AC = 0.",
+        "c": "MC = AVC.",
+        "d": "MC = AC + AVC."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q14",
+      "text": "At an interior minimum of a smooth AC curve, what relation holds?",
+      "options": {
+        "a": "MC = 0.",
+        "b": "MC = AC.",
+        "c": "MC is less than AC.",
+        "d": "MC = AVC at every output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q15",
+      "text": "If MC is below AC, what happens to average total cost as output increases?",
+      "options": {
+        "a": "It declines locally.",
+        "b": "It remains exactly constant by definition.",
+        "c": "It increases locally.",
+        "d": "It immediately equals zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q16",
+      "text": "If MC is above AC, what happens to average total cost as output increases?",
+      "options": {
+        "a": "It cannot be defined.",
+        "b": "It is necessarily negative.",
+        "c": "It rises locally.",
+        "d": "It falls locally."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q17",
+      "text": "What is the intuition behind MC crossing AC at its minimum?",
+      "options": {
+        "a": "A marginal unit cheaper than the current average pulls the average down; a dearer marginal unit pulls it up.",
+        "b": "Marginal cost always grows faster than total cost.",
+        "c": "Average cost depends only on marginal revenue.",
+        "d": "Every marginal unit must equal fixed cost."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q18",
+      "text": "If average fixed cost is positive, how do AC and AVC compare at a given output?",
+      "options": {
+        "a": "AC is below AVC.",
+        "b": "AC exceeds AVC.",
+        "c": "No relationship is possible.",
+        "d": "AC equals AVC for every output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q19",
+      "text": "What is the relationship between variable cost and the marginal cost curve for continuously variable output?",
+      "options": {
+        "a": "Variable cost equals fixed cost plus average cost.",
+        "b": "Variable cost equals marginal cost at the last unit only.",
+        "c": "Variable cost equals the area above the price line.",
+        "d": "Variable cost from zero to y is the area under MC over that range when variable cost at zero is zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q20",
+      "text": "For a good produced in discrete units, how can variable cost be expressed?",
+      "options": {
+        "a": "Subtract total revenue from all fixed costs.",
+        "b": "Sum the average fixed costs of each unit.",
+        "c": "Sum the marginal costs of units 1 through y, when variable cost at zero is zero.",
+        "d": "Multiply the marginal cost of unit y by y irrespective of earlier units."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q21",
+      "text": "Why does integrating marginal cost recover total variable cost, but not an unrelated fixed cost?",
+      "options": {
+        "a": "Integrating always yields revenue.",
+        "b": "Marginal cost and average cost are identical.",
+        "c": "Marginal cost is the derivative of variable cost; a fixed component has zero derivative.",
+        "d": "Fixed cost has a negative derivative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q22",
+      "text": "If total cost is c(y)=F+3y+y^2, what is marginal cost?",
+      "options": {
+        "a": "3+2y.",
+        "b": "3+y.",
+        "c": "F+3+y.",
+        "d": "F+3y+y^2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q23",
+      "text": "If variable cost is zero at zero output, what is the definite integral of MC from 0 to y?",
+      "options": {
+        "a": "AC(y).",
+        "b": "cv(y).",
+        "c": "F.",
+        "d": "p times y."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q24",
+      "text": "For a firm producing the same product in two plants, what is the efficient allocation of output at an interior optimum?",
+      "options": {
+        "a": "Equalize average total costs across plants.",
+        "b": "Produce equal quantities at both plants.",
+        "c": "Minimize the lower plant's output regardless of cost.",
+        "d": "Equalize marginal costs across plants."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q25",
+      "text": "If plant 1 has a lower marginal cost than plant 2 at the current split of a fixed total output, what should the firm do?",
+      "options": {
+        "a": "Shift output from plant 1 to plant 2.",
+        "b": "Close plant 1 necessarily.",
+        "c": "Increase production in both plants while holding total output fixed.",
+        "d": "Shift some output from plant 2 to plant 1."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q26",
+      "text": "How is a multi-plant aggregate marginal cost or supply schedule constructed under conventional conditions?",
+      "options": {
+        "a": "Horizontally add the output quantities each plant supplies at a common marginal cost.",
+        "b": "Subtract the higher plant's marginal cost from the lower one's.",
+        "c": "Vertically add the two marginal cost values at fixed output.",
+        "d": "Average all plant costs at identical plant outputs."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q27",
+      "text": "Why might a firm operate two plants at unequal output levels?",
+      "options": {
+        "a": "Total costs cannot depend on plant size.",
+        "b": "Production must be evenly divided by law.",
+        "c": "The two plants can have different marginal cost schedules and equal marginal costs at unequal quantities.",
+        "d": "Equalization of marginal cost requires equal quantities."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q28",
+      "text": "What distinguishes a long-run cost function from a short-run cost function?",
+      "options": {
+        "a": "Long-run costs exclude labor expenses.",
+        "b": "The long run optimizes all inputs, while the short run holds at least one input fixed.",
+        "c": "The long run always has higher cost.",
+        "d": "Short-run costs depend only on market demand."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q29",
+      "text": "What is the long-run total cost at output y when plant size k can be chosen?",
+      "options": {
+        "a": "The maximum of short-run total cost over all plant sizes.",
+        "b": "The minimum of short-run total cost over feasible plant sizes at output y.",
+        "c": "The average of all short-run costs.",
+        "d": "The short-run cost at the smallest plant regardless of output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q30",
+      "text": "What is meant by the long-run average cost curve being an envelope?",
+      "options": {
+        "a": "It traces the lowest achievable average cost among feasible short-run plant configurations at each output.",
+        "b": "It must always be horizontal.",
+        "c": "It lies above all short-run average cost curves.",
+        "d": "It is the sum of all short-run average cost curves."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q31",
+      "text": "For a particular plant size optimized for y*, how do SAC and LAC compare at y*?",
+      "options": {
+        "a": "LAC must be strictly higher at y*.",
+        "b": "SAC must be strictly lower at y*.",
+        "c": "They coincide at y*.",
+        "d": "Their difference equals price."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q32",
+      "text": "Can the long-run average cost curve be tangent to a short-run average cost curve away from that short-run curve's minimum?",
+      "options": {
+        "a": "Yes, because the plant optimal for a given output need not operate at its own minimum SAC.",
+        "b": "No, short-run and long-run average cost never meet.",
+        "c": "No, tangency only occurs at the minimum SAC.",
+        "d": "Only if fixed costs are negative."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q33",
+      "text": "When plant size is freely adjustable, why can long-run cost not exceed short-run cost for the same output and particular plant size?",
+      "options": {
+        "a": "Long-run output always exceeds short-run output.",
+        "b": "All fixed inputs have zero cost in the long run.",
+        "c": "The long-run choice set includes that short-run plant size among its options.",
+        "d": "Short-run production is always inefficient in its use of variable inputs."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q34",
+      "text": "With discrete available plant sizes, what can the long-run average cost envelope look like?",
+      "options": {
+        "a": "A straight line through every minimum SAC.",
+        "b": "The lower pieces of the corresponding short-run average cost curves, potentially with kinks.",
+        "c": "An upward shift of the highest SAC curve.",
+        "d": "A curve that never touches any SAC curve."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q35",
+      "text": "What is long-run marginal cost?",
+      "options": {
+        "a": "The derivative of fixed cost with respect to output.",
+        "b": "Always the same as average total cost.",
+        "c": "The market price of the fixed input.",
+        "d": "The derivative of optimized long-run total cost with respect to output where it exists."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q36",
+      "text": "At an output where the optimal short-run plant choice matches the long-run optimum and costs are differentiable, what is generally true?",
+      "options": {
+        "a": "Both marginal costs must be zero.",
+        "b": "Short-run marginal cost must exceed long-run marginal cost.",
+        "c": "Short-run and long-run marginal costs coincide.",
+        "d": "Long-run marginal cost is negative."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch15q37",
+      "text": "If short-run average cost is tangent to long-run average cost at y*, what does that imply?",
+      "options": {
+        "a": "The given plant size is cost minimizing for that output.",
+        "b": "The firm earns zero profit at all prices.",
+        "c": "Output must be at both curves' minima.",
+        "d": "Marginal revenue equals zero."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch15q38",
+      "text": "Why is it wrong to infer total fixed cost from the slope of the total cost curve?",
+      "options": {
+        "a": "Total cost always has zero slope.",
+        "b": "The slope measures marginal cost, while a fixed-cost term affects the intercept.",
+        "c": "Fixed cost is the derivative of variable cost.",
+        "d": "Fixed costs necessarily rise with output."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q39",
+      "text": "If the MC curve rises above AVC but stays below AC, which cost behavior is possible?",
+      "options": {
+        "a": "AVC must be constant and AC must be rising.",
+        "b": "Both AVC and AC must be falling.",
+        "c": "Both AVC and AC must be rising.",
+        "d": "AVC is rising while AC is still falling."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q40",
+      "text": "What does an increase in positive fixed costs, holding variable cost fixed, do to the marginal cost curve?",
+      "options": {
+        "a": "It makes MC horizontal.",
+        "b": "It lowers MC at every output.",
+        "c": "It shifts MC upward by the fixed cost at every output.",
+        "d": "It leaves MC unchanged."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q41",
+      "text": "If fixed costs increase while variable costs are unchanged, what happens to average total cost?",
+      "options": {
+        "a": "It remains unchanged at every output.",
+        "b": "It increases by the added fixed cost divided by output.",
+        "c": "It becomes identical to marginal cost.",
+        "d": "It necessarily decreases."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch15q42",
+      "text": "When marginal cost is constant and fixed cost is positive, what happens to average total cost as output expands?",
+      "options": {
+        "a": "It approaches marginal cost from below.",
+        "b": "It equals zero for all output.",
+        "c": "It increases without bound.",
+        "d": "It approaches marginal cost from above."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch15q43",
+      "text": "In the cost-curve diagram, why does MC intersect AVC at the minimum of AVC?",
+      "options": {
+        "a": "Average variable cost is always below zero there.",
+        "b": "Average variable cost is independent of output.",
+        "c": "Marginal cost equals fixed cost exactly there.",
+        "d": "Marginal cost moves average variable cost down when below it and up when above it."
+      },
+      "answer": "d",
+      "image": "assets/chapter_15_average_and_marginal_cost.png"
+    }
+  ]
+}

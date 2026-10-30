@@ -1,0 +1,546 @@
+{
+  "id": "chapter-7",
+  "name": "Chapter 7: Slutsky equation",
+  "questions": [
+    {
+      "id": "ch7q1",
+      "text": "A fall in the price of good 1 changes demand through which two channels?",
+      "options": {
+        "a": "A technology effect and an endowment effect.",
+        "b": "A supply effect and a productivity effect.",
+        "c": "A tax effect and an inflation effect.",
+        "d": "A substitution effect and an income effect."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q2",
+      "text": "The substitution effect of a price change primarily captures a change in what?",
+      "options": {
+        "a": "The relative opportunity cost of goods, holding purchasing power or utility constant.",
+        "b": "The quantity of income earned from selling labor.",
+        "c": "Nominal income with all prices unchanged.",
+        "d": "Consumer preferences following advertising."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q3",
+      "text": "The income effect of a price change captures what?",
+      "options": {
+        "a": "The response of market supply to higher wages.",
+        "b": "The effect of changed purchasing power at the new relative prices.",
+        "c": "A shift in preferences caused by higher income taxes.",
+        "d": "The effect of changing relative prices at fixed purchasing power."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q4",
+      "text": "In the Slutsky decomposition, the compensated budget line passes through which bundle?",
+      "options": {
+        "a": "The consumer's original chosen bundle.",
+        "b": "The point where the new budget line meets the vertical axis.",
+        "c": "The bundle with zero consumption of good 1.",
+        "d": "The consumer's final chosen bundle."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q5",
+      "text": "For a price change from p1 to p1', what is the Slutsky income compensation?",
+      "options": {
+        "a": "The original quantity of good 1 multiplied by the price change, x1 times (p1' - p1).",
+        "b": "The final quantity of good 1 multiplied by original income.",
+        "c": "The original income multiplied by the percentage price change.",
+        "d": "The change in utility multiplied by the price of good 2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q6",
+      "text": "When the price of good 1 falls and the price of good 2 stays fixed, the budget line does what?",
+      "options": {
+        "a": "Pivots inward around its horizontal intercept.",
+        "b": "Pivots outward around its vertical intercept.",
+        "c": "Becomes steeper while keeping the same horizontal intercept.",
+        "d": "Shifts inward in parallel."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q7",
+      "text": "Under standard convex preferences, a compensated own-price substitution effect is what?",
+      "options": {
+        "a": "Always zero regardless of preferences.",
+        "b": "Nonpositive when the own price rises.",
+        "c": "Always positive when the own price rises.",
+        "d": "Identical to the income effect."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q8",
+      "text": "For a normal good, what happens when its own price falls?",
+      "options": {
+        "a": "The income effect must be zero.",
+        "b": "Both the substitution and income effects increase its demand.",
+        "c": "Substitution decreases demand while income increases it.",
+        "d": "Both effects reduce its demand."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q9",
+      "text": "For an inferior good, how do the substitution and income effects of an own-price increase compare?",
+      "options": {
+        "a": "They are necessarily both positive.",
+        "b": "They must have the same magnitude.",
+        "c": "They are necessarily both negative.",
+        "d": "They act in opposite directions."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q10",
+      "text": "Which statement correctly distinguishes an inferior good from a Giffen good?",
+      "options": {
+        "a": "Every inferior good is a Giffen good.",
+        "b": "Every Giffen good is normal at low incomes.",
+        "c": "A Giffen good is inferior with an income effect strong enough to reverse the usual own-price response.",
+        "d": "A Giffen good has a positive substitution effect of an own-price increase."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q11",
+      "text": "If the price of a Giffen good rises, its Marshallian quantity demanded does what?",
+      "options": {
+        "a": "Must stay constant.",
+        "b": "Decreases because substitution always dominates.",
+        "c": "Increases.",
+        "d": "Falls to zero immediately."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q12",
+      "text": "What must be true for an inferior good to display Giffen behavior following a price rise?",
+      "options": {
+        "a": "The consumer's nominal income must increase.",
+        "b": "The substitution effect must be positive.",
+        "c": "The positive income effect on its demand exceeds the negative substitution effect.",
+        "d": "The good must have perfect substitutes."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q13",
+      "text": "For a normal good, which claim is implied by the law of demand discussed in the slides?",
+      "options": {
+        "a": "Increasing its own price, holding nominal income fixed, reduces its demand.",
+        "b": "Its demand never responds to prices.",
+        "c": "Compensated demand rises with its own price.",
+        "d": "Raising its own price must increase its demand."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q14",
+      "text": "What does the Slutsky identity express?",
+      "options": {
+        "a": "Income elasticity equals price elasticity plus expenditure share.",
+        "b": "Utility change equals producer surplus plus tax revenue.",
+        "c": "Total demand change equals substitution effect plus income effect.",
+        "d": "Total demand change equals two income effects."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q15",
+      "text": "Why is a Slutsky-compensated bundle generally different from the original optimum?",
+      "options": {
+        "a": "Preferences must have changed.",
+        "b": "Relative prices have changed even though the old bundle remains affordable.",
+        "c": "The compensated line has exactly the old slope.",
+        "d": "Income has increased by the same amount for all goods."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q16",
+      "text": "For perfect-complements preferences in fixed proportions, the Slutsky substitution effect of an own-price change is typically what?",
+      "options": {
+        "a": "The entire Marshallian quantity response.",
+        "b": "Positive for an own-price increase.",
+        "c": "Equal to the consumer's original income.",
+        "d": "Zero, because the optimal consumption ratio remains fixed."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q17",
+      "text": "For a quasilinear utility function u(x1,x2) = v(x1) + x2 with an interior optimum, the own-price income effect on x1 is what?",
+      "options": {
+        "a": "Strictly positive.",
+        "b": "Equal to the price change.",
+        "c": "Strictly negative.",
+        "d": "Zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q18",
+      "text": "Under quasilinear preferences with no income effect on good 1, what follows?",
+      "options": {
+        "a": "The change in Marshallian demand for good 1 is entirely a substitution effect.",
+        "b": "The substitution effect must vanish.",
+        "c": "Good 1 must be Giffen.",
+        "d": "Compensated demand is vertical."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q19",
+      "text": "With perfect substitutes and a price change that switches the cheapest good, what kind of demand change may occur?",
+      "options": {
+        "a": "A smooth adjustment at a tangency on a strictly convex indifference curve.",
+        "b": "An increase in both goods at unchanged income.",
+        "c": "A discrete switch from one corner bundle to another.",
+        "d": "An unchanged optimal mix at all prices."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q20",
+      "text": "What remains constant under Hicks compensation?",
+      "options": {
+        "a": "Nominal income.",
+        "b": "Both quantities consumed.",
+        "c": "The consumer's utility level.",
+        "d": "The affordability of the initial physical bundle only."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q21",
+      "text": "What remains constant under Slutsky compensation?",
+      "options": {
+        "a": "Utility at exactly its initial level.",
+        "b": "The expenditure on each good separately.",
+        "c": "The purchasing power needed to afford the original bundle.",
+        "d": "The original relative prices."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q22",
+      "text": "How is a Hicksian demand function defined?",
+      "options": {
+        "a": "The cost-minimizing factor input at target output.",
+        "b": "The profit-maximizing quantity produced at given output price.",
+        "c": "The expenditure-minimizing quantity of a good at given prices and target utility.",
+        "d": "The utility-maximizing quantity at given prices and money income."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q23",
+      "text": "Which arguments determine Hicksian demand for good 1?",
+      "options": {
+        "a": "The firm's output price and fixed costs.",
+        "b": "Target profit and labor supply.",
+        "c": "Both goods' prices and money income only.",
+        "d": "Both goods' prices and a target utility level."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q24",
+      "text": "Which arguments determine Marshallian demand for good 1?",
+      "options": {
+        "a": "Utility level and technology alone.",
+        "b": "Output price and marginal costs.",
+        "c": "Prices and a required utility level.",
+        "d": "Prices and money income."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q25",
+      "text": "What is the consumer's expenditure-minimization problem?",
+      "options": {
+        "a": "Maximize utility while choosing prices.",
+        "b": "Minimize spending while attaining at least a specified utility level.",
+        "c": "Minimize utility subject to a budget.",
+        "d": "Maximize spending subject to earning a given income."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q26",
+      "text": "The expenditure function e(p1,p2,u) reports what?",
+      "options": {
+        "a": "Total consumer income before taxes.",
+        "b": "The minimum money needed to attain utility u at the specified prices.",
+        "c": "The sum of market quantities demanded.",
+        "d": "The maximum profit obtainable at utility u."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q27",
+      "text": "Shephard's lemma in consumer theory states which result?",
+      "options": {
+        "a": "The derivative of expenditure with respect to utility gives Marshallian demand.",
+        "b": "The derivative of market demand with respect to income gives the profit function.",
+        "c": "The derivative of utility with respect to income gives Hicksian demand.",
+        "d": "The derivative of the expenditure function with respect to a good's price gives its Hicksian demand."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q28",
+      "text": "At prices and income where the consumer achieves utility u, what is true of Marshallian and Hicksian quantities?",
+      "options": {
+        "a": "They coincide when Hicksian demand is evaluated at that achieved utility.",
+        "b": "They must differ because one is compensated.",
+        "c": "Marshallian quantity equals the negative of Hicksian quantity.",
+        "d": "Hicksian quantity is always greater for every good."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q29",
+      "text": "Which optimization problems are dual in consumer theory?",
+      "options": {
+        "a": "Expected-value maximization and monopoly pricing.",
+        "b": "Labor supply and market demand aggregation.",
+        "c": "Profit maximization and tax-revenue maximization.",
+        "d": "Utility maximization subject to a budget and expenditure minimization subject to utility."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q30",
+      "text": "For a differentiable interior expenditure optimum, what condition links preferences and prices?",
+      "options": {
+        "a": "Marginal revenue equals marginal cost.",
+        "b": "The marginal utility of each good must equal one.",
+        "c": "Every good has unit income elasticity.",
+        "d": "The marginal rate of substitution equals the price ratio."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q31",
+      "text": "Which term in the differential Slutsky equation captures the income effect on own demand?",
+      "options": {
+        "a": "Minus consumption of good 1 times its marginal propensity to consume good 1 out of income.",
+        "b": "The ratio of factor prices.",
+        "c": "A positive substitution term equal to income itself.",
+        "d": "Plus marginal cost times output."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q32",
+      "text": "The differential Slutsky equation for own-price effects can be written how?",
+      "options": {
+        "a": "Hicksian own-price derivative equals negative consumption times its own price.",
+        "b": "Marshallian demand equals Hicksian demand minus the market supply curve.",
+        "c": "Marshallian own-price derivative equals Hicksian own-price derivative minus x1 times the income derivative of Marshallian x1.",
+        "d": "Marshallian own-price derivative equals Hicksian own-price derivative plus income itself."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q33",
+      "text": "A good with a zero income derivative has which property under the Slutsky equation?",
+      "options": {
+        "a": "Its Marshallian demand must slope upward.",
+        "b": "Its income effect exceeds substitution.",
+        "c": "Its Hicksian demand is always zero.",
+        "d": "Its Marshallian and Hicksian own-price derivatives coincide at matching utility and income."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q34",
+      "text": "If a good is normal, what sign does its income derivative have?",
+      "options": {
+        "a": "Positive.",
+        "b": "Exactly zero by definition.",
+        "c": "Negative.",
+        "d": "Necessarily greater than its price derivative."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q35",
+      "text": "If a good is inferior, what sign does its income derivative have?",
+      "options": {
+        "a": "Negative.",
+        "b": "Positive.",
+        "c": "Always exactly one.",
+        "d": "Undefined at every consumption bundle."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q36",
+      "text": "What is a basic implication of the compensated law of demand?",
+      "options": {
+        "a": "Hicksian own-price demand cannot increase as its own price increases, under standard assumptions.",
+        "b": "Hicksian demand is independent of all prices.",
+        "c": "Marshallian demand can never slope upward.",
+        "d": "Hicksian demand must rise with every price increase."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q37",
+      "text": "If the cross-price Slutsky substitution matrix is symmetric, what equality holds?",
+      "options": {
+        "a": "The compensated cross-price effects are symmetric for the two goods.",
+        "b": "The Marshallian cross-price effects always vanish.",
+        "c": "The own-price effects equal the corresponding quantities.",
+        "d": "Income derivatives are identical for all goods."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q38",
+      "text": "Why can Marshallian demand violate the ordinary own-price law while Hicksian demand does not?",
+      "options": {
+        "a": "Hicksian demand accounts for advertising but Marshallian demand does not.",
+        "b": "Hicksian demand holds market supply fixed.",
+        "c": "The two demands are derived from unrelated preferences.",
+        "d": "Income effects may overpower substitution effects in Marshallian demand."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch7q39",
+      "text": "In a two-good model, an increase in the price of good 1 with its own quantity rising indicates what?",
+      "options": {
+        "a": "The good exhibits Giffen behavior over that price change.",
+        "b": "The good must be luxury.",
+        "c": "Its compensated demand has increased.",
+        "d": "Its income elasticity is positive."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch7q40",
+      "text": "What does a movement along the Hicksian demand curve isolate?",
+      "options": {
+        "a": "Changes in market supply at fixed wages.",
+        "b": "Demand adjustment to income holding price fixed.",
+        "c": "Demand adjustment to price holding utility fixed.",
+        "d": "Changes in preferences at fixed prices."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q41",
+      "text": "In the primal utility-maximization problem, which constraint is central?",
+      "options": {
+        "a": "A minimum utility target but no budget.",
+        "b": "Fixed marginal cost.",
+        "c": "The budget constraint.",
+        "d": "Constant firm profits."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch7q42",
+      "text": "If the price of one good falls, what is the Hicksian substitution incentive for that good?",
+      "options": {
+        "a": "To consume weakly less because purchasing power is held fixed.",
+        "b": "To consume weakly more of the relatively cheaper good.",
+        "c": "To reduce total utility by the price reduction.",
+        "d": "To keep its quantity fixed for every preference."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q43",
+      "text": "What distinguishes a movement from an original bundle to the Slutsky-compensated optimum from the movement to the final optimum?",
+      "options": {
+        "a": "Both are unrelated to the price change.",
+        "b": "The first is substitution; the second is the income effect at new prices.",
+        "c": "The first is income; the second is substitution at old prices.",
+        "d": "Both are income effects."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q44",
+      "text": "The substitution effect for a good that becomes more expensive is described most accurately as what?",
+      "options": {
+        "a": "An unambiguous increase in its compensated quantity.",
+        "b": "A weak reduction in its compensated quantity demanded.",
+        "c": "A change in nominal income alone.",
+        "d": "A rise in the good's marginal utility at all bundles."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch7q45",
+      "text": "In the illustrated X-Y-Z Slutsky decomposition, which movement is the substitution effect?",
+      "options": {
+        "a": "The movement of the vertical intercept only.",
+        "b": "The movement from the original bundle X to compensated bundle Y.",
+        "c": "The movement from Y to final bundle Z.",
+        "d": "The entire movement from X to Z is purely an income effect."
+      },
+      "answer": "b",
+      "image": "assets/chapter_07_slutsky_decomposition.png"
+    }
+  ]
+}

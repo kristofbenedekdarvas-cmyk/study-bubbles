@@ -1,0 +1,702 @@
+{
+  "id": "chapter-18",
+  "name": "Chapter 18: Exchange",
+  "questions": [
+    {
+      "id": "ch18q1",
+      "text": "What distinguishes general equilibrium from partial equilibrium analysis?",
+      "options": {
+        "a": "General equilibrium always analyzes only one market holding all other prices fixed.",
+        "b": "General equilibrium ignores consumer choices.",
+        "c": "General equilibrium rules out income effects.",
+        "d": "General equilibrium studies mutually connected markets with prices and quantities determined jointly."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q2",
+      "text": "Why can a supply shock in the coffee market affect the equilibrium price of tea?",
+      "options": {
+        "a": "Consumers substitute toward tea when coffee becomes relatively more expensive.",
+        "b": "Coffee and tea must be perfect complements.",
+        "c": "The two prices are technologically identical.",
+        "d": "General equilibrium requires every good to have the same price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q3",
+      "text": "If coffee and tea are substitutes and a frost reduces coffee supply, what is a plausible sequence?",
+      "options": {
+        "a": "Coffee price falls, tea demand falls, and tea price must be zero.",
+        "b": "Both prices are unchanged because markets are independent.",
+        "c": "Coffee price rises, tea demand increases, tea price rises, feeding back into coffee demand.",
+        "d": "Coffee price stays fixed and tea becomes a complement."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q4",
+      "text": "Why are endowments central to a pure exchange economy?",
+      "options": {
+        "a": "They imply no consumer gains from trade.",
+        "b": "They determine production technology.",
+        "c": "They determine initial goods owned and the market value of consumers' resources.",
+        "d": "They set utility levels directly and prevent trading."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q5",
+      "text": "What does a pure exchange model exclude?",
+      "options": {
+        "a": "Consumers with preferences.",
+        "b": "Trading between consumers.",
+        "c": "The existence of two different goods.",
+        "d": "Production of new goods by firms."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q6",
+      "text": "Why are competitive price-taking assumptions useful in the exchange model?",
+      "options": {
+        "a": "They let consumers choose different market prices for the same good.",
+        "b": "They let each consumer optimize individually at common prices, making market-clearing equilibrium tractable.",
+        "c": "They imply every feasible allocation is automatically efficient.",
+        "d": "They eliminate the budget constraint."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q7",
+      "text": "What are the dimensions of an Edgeworth box with two goods?",
+      "options": {
+        "a": "The marginal rates of substitution.",
+        "b": "Total available quantities of good 1 and good 2.",
+        "c": "The incomes of consumers A and B.",
+        "d": "The two market prices."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q8",
+      "text": "Where is consumer A's origin in the conventional Edgeworth box?",
+      "options": {
+        "a": "The upper-right corner.",
+        "b": "The center of the box.",
+        "c": "The lower-left corner.",
+        "d": "The midpoint of the top edge."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q9",
+      "text": "Where is consumer B's origin in the conventional Edgeworth box?",
+      "options": {
+        "a": "The upper-right corner.",
+        "b": "The center of the box.",
+        "c": "The midpoint of the bottom edge.",
+        "d": "The lower-left corner."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q10",
+      "text": "What does one point in an Edgeworth box specify?",
+      "options": {
+        "a": "The marginal cost of each good.",
+        "b": "A unique set of relative market prices.",
+        "c": "Only consumer A's income, not consumption.",
+        "d": "An allocation of both goods between the two consumers."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q11",
+      "text": "What does feasibility require for each good in a pure exchange Edgeworth box?",
+      "options": {
+        "a": "The market price of each good is zero.",
+        "b": "Total consumption by both people equals total endowment available, for a fully allocated good.",
+        "c": "Each person consumes identical quantities.",
+        "d": "Both consumers have identical utility."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q12",
+      "text": "In an Edgeworth box, what happens to B's holdings of good 1 when A's holdings rise by one unit at a feasible allocation?",
+      "options": {
+        "a": "They fall by one unit.",
+        "b": "They remain unchanged.",
+        "c": "They fall by the price ratio.",
+        "d": "They rise by one unit."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q13",
+      "text": "Which direction from A's origin usually represents greater consumption of both goods for A?",
+      "options": {
+        "a": "Down and to the left.",
+        "b": "Always toward B's origin.",
+        "c": "Along a fixed horizontal line only.",
+        "d": "Up and to the right."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q14",
+      "text": "Which direction from B's origin usually represents greater consumption of both goods for B?",
+      "options": {
+        "a": "Up and to the right from the lower-left corner.",
+        "b": "Toward A's origin only along a diagonal.",
+        "c": "Down and to the left from the upper-right origin.",
+        "d": "Straight up from the upper-right corner."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q15",
+      "text": "What is the initial endowment point in the Edgeworth box?",
+      "options": {
+        "a": "The market equilibrium for every possible price vector.",
+        "b": "The allocation reflecting the goods each consumer owns before trade.",
+        "c": "The allocation that necessarily maximizes both consumers' utilities.",
+        "d": "The intersection of all indifference curves."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q16",
+      "text": "What is a Pareto improvement?",
+      "options": {
+        "a": "Any redistribution that increases aggregate money income.",
+        "b": "An allocation with identical consumption for all people.",
+        "c": "A feasible allocation change that benefits at least one consumer without harming another.",
+        "d": "A change that benefits one consumer even if everyone else loses."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q17",
+      "text": "What is a Pareto efficient allocation?",
+      "options": {
+        "a": "An allocation where no feasible change can make someone better off without making someone else worse off.",
+        "b": "Any allocation with equal incomes.",
+        "c": "An allocation that maximizes every individual's utility separately without resource constraints.",
+        "d": "Any allocation that earns zero profit."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q18",
+      "text": "What is the lens-shaped region of mutually beneficial trades from an initial interior endowment?",
+      "options": {
+        "a": "The region where both consumers have lower utility.",
+        "b": "The entire Edgeworth box.",
+        "c": "The intersection of the areas each consumer strictly prefers to their initial bundle.",
+        "d": "The set of points outside feasibility constraints."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q19",
+      "text": "Why does a consumer agree to voluntary trade in this model?",
+      "options": {
+        "a": "The new bundle is at least as preferred as the endowment, given the opportunity to refuse trade.",
+        "b": "The market requires equal post-trade consumption.",
+        "c": "Prices always force a consumer to buy less of both goods.",
+        "d": "Every trade must lower utility."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q20",
+      "text": "What is the contract curve or Pareto set?",
+      "options": {
+        "a": "The locus of maximum producer profit.",
+        "b": "A line of equal initial endowments.",
+        "c": "The set of all possible market prices.",
+        "d": "The collection of Pareto efficient feasible allocations in the Edgeworth box."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q21",
+      "text": "At an interior Pareto efficient allocation with smooth preferences, how are the two consumers' marginal rates of substitution related?",
+      "options": {
+        "a": "They are equal.",
+        "b": "They must have opposite signs.",
+        "c": "One must be zero.",
+        "d": "They equal the total quantity of goods."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q22",
+      "text": "Why does equality of marginal rates of substitution matter for Pareto efficiency?",
+      "options": {
+        "a": "It requires each person to have the same utility level.",
+        "b": "It forces equal quantities consumed.",
+        "c": "Unequal trade-offs allow mutually beneficial reallocation of goods at an interior point.",
+        "d": "It prevents consumers from exchanging anything at all."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q23",
+      "text": "Can a Pareto efficient allocation be highly unequal?",
+      "options": {
+        "a": "No; efficiency implies equal consumption.",
+        "b": "Yes; Pareto efficiency does not determine whether the allocation is equitable.",
+        "c": "No; all Pareto optima maximize the minimum utility.",
+        "d": "Only if total resources are zero."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q24",
+      "text": "Why is Pareto efficiency not a criterion for fairness?",
+      "options": {
+        "a": "It explicitly demands equal income.",
+        "b": "It judges unexploited mutually beneficial trades rather than the distribution of wellbeing.",
+        "c": "It prohibits unequal initial endowments.",
+        "d": "It ranks all efficient allocations by justice."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q25",
+      "text": "Can a boundary allocation be Pareto efficient without equal interior marginal rates of substitution?",
+      "options": {
+        "a": "No, the equality condition applies universally without exceptions.",
+        "b": "Yes, because interior tangency conditions need not apply at corners.",
+        "c": "No boundary point can be efficient.",
+        "d": "All boundary points are necessarily efficient."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q26",
+      "text": "What does it mean when all gains from voluntary trade have been exhausted?",
+      "options": {
+        "a": "All consumers have consumed their full income without exchanging goods.",
+        "b": "Prices must be zero.",
+        "c": "No mutually beneficial feasible reallocations remain.",
+        "d": "Every agent owns half of each good."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q27",
+      "text": "What is gross demand for a good by a consumer?",
+      "options": {
+        "a": "Only the amount imported from another consumer.",
+        "b": "The total quantity the consumer wishes to consume at given prices and wealth.",
+        "c": "The quantity the consumer initially owns.",
+        "d": "Gross endowment minus total demand."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q28",
+      "text": "What is net or excess demand for a good by a consumer?",
+      "options": {
+        "a": "Market price minus individual income.",
+        "b": "Total resources minus utility.",
+        "c": "Desired consumption minus initial endowment of that good.",
+        "d": "Desired consumption plus initial endowment."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q29",
+      "text": "If a consumer's net demand for good 1 is negative, what does it mean?",
+      "options": {
+        "a": "The consumer's utility is negative.",
+        "b": "The consumer wishes to sell some of good 1.",
+        "c": "The consumer wishes to buy additional good 1.",
+        "d": "The consumer cannot hold good 1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q30",
+      "text": "If a consumer's net demand for good 2 is positive, what does it mean?",
+      "options": {
+        "a": "The consumer wishes to purchase more of good 2 than initially owned.",
+        "b": "The market price of good 2 is zero.",
+        "c": "The consumer has zero total wealth.",
+        "d": "The consumer must be a net seller of good 2."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q31",
+      "text": "In a pure exchange economy, how is a consumer's budget wealth determined at market prices?",
+      "options": {
+        "a": "Only by the number of goods in the economy.",
+        "b": "By the market value of the consumer's initial endowment.",
+        "c": "By the firm's accounting profit.",
+        "d": "By the sum of all consumers' utility levels."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q32",
+      "text": "What is market clearing for good 1?",
+      "options": {
+        "a": "Aggregate gross demand for good 1 equals its total initial endowment.",
+        "b": "Each consumer has zero gross demand.",
+        "c": "Every consumer demands the same amount of good 1.",
+        "d": "The price of good 1 must equal one."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q33",
+      "text": "How can equilibrium be expressed using aggregate excess demand functions z1 and z2?",
+      "options": {
+        "a": "z1=z2=1 irrespective of endowments.",
+        "b": "z1 times z2 must equal total utility.",
+        "c": "z1 must be positive and z2 negative at equilibrium.",
+        "d": "z1=0 and z2=0 at equilibrium prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q34",
+      "text": "Why can arbitrary prices fail to describe a competitive equilibrium?",
+      "options": {
+        "a": "Every positive price vector clears markets.",
+        "b": "Individual optimal choices may generate aggregate excess demand or excess supply.",
+        "c": "Endowments cease to be feasible.",
+        "d": "Consumers are unable to maximize utility at arbitrary positive prices."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q35",
+      "text": "What is the slope of the common budget line through the endowment point when good 1 is horizontal and good 2 is vertical?",
+      "options": {
+        "a": "p1+p2.",
+        "b": "-MRS_A times MRS_B.",
+        "c": "-p2/p1.",
+        "d": "-p1/p2."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q36",
+      "text": "At an interior competitive equilibrium with smooth preferences, what relation holds for each consumer?",
+      "options": {
+        "a": "Each consumer's MRS equals the common price ratio.",
+        "b": "The consumers' utility levels must be equal.",
+        "c": "The two prices must equal each other.",
+        "d": "Every consumer has identical consumption levels."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q37",
+      "text": "Why does a common competitive budget line pass through the economy's endowment point?",
+      "options": {
+        "a": "Endowments are always on the contract curve.",
+        "b": "The price ratio is fixed by initial utility.",
+        "c": "Consumers necessarily spend zero.",
+        "d": "Total endowment value finances the value of the current allocation at the given prices."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q38",
+      "text": "What does Walras' law say for a pure exchange economy with budget exhaustion?",
+      "options": {
+        "a": "The price-weighted sum of aggregate excess demands equals zero at any positive price vector.",
+        "b": "The total quantity of all goods is infinite.",
+        "c": "Aggregate excess demand for each good is zero at all prices.",
+        "d": "The two goods must have identical prices."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q39",
+      "text": "Why does Walras' law hold even away from equilibrium?",
+      "options": {
+        "a": "Every person buys exactly what they originally owned.",
+        "b": "Every market clears automatically.",
+        "c": "Consumers' budget identities imply the value of what they demand equals the value of their endowments, in aggregate.",
+        "d": "A central planner forces demand to equal supply."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q40",
+      "text": "In a two-good pure exchange economy with positive prices, if market 1 clears and Walras' law holds, what follows?",
+      "options": {
+        "a": "Market 2 also clears.",
+        "b": "Market 2 must have strictly positive excess demand.",
+        "c": "The consumers must have equal utilities.",
+        "d": "Market 2 must have negative price."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q41",
+      "text": "If p1 z1 + p2 z2=0 with positive prices and z1 is strictly positive, what must hold for z2?",
+      "options": {
+        "a": "It is strictly positive.",
+        "b": "It is strictly negative.",
+        "c": "It is zero.",
+        "d": "It is necessarily equal to z1."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q42",
+      "text": "Why is only one independent market-clearing equation needed to find a relative equilibrium price in a two-good exchange economy?",
+      "options": {
+        "a": "One good has no demand.",
+        "b": "The two markets never interact.",
+        "c": "Walras' law makes the second condition redundant when the first holds.",
+        "d": "Both goods always have the same price."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q43",
+      "text": "Why can one good's price be normalized to one when solving a competitive pure exchange equilibrium?",
+      "options": {
+        "a": "Only relative prices matter for consumers' homogeneous budget-constrained demands.",
+        "b": "The good has zero production cost.",
+        "c": "One good is necessarily free.",
+        "d": "Absolute prices uniquely determine real endowments."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q44",
+      "text": "Does Walras' law assert that every market clears at every positive price vector?",
+      "options": {
+        "a": "Yes, market clearing is automatic for all goods.",
+        "b": "Yes, if the budget is exhausted, every single net demand is zero.",
+        "c": "Only when both goods are perfect complements.",
+        "d": "No; it only states that the aggregate value of excess demands sums to zero."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q45",
+      "text": "What is the first fundamental theorem of welfare economics?",
+      "options": {
+        "a": "A competitive equilibrium allocation is Pareto efficient under the standard assumptions.",
+        "b": "Every Pareto efficient allocation must emerge without redistribution from any endowment.",
+        "c": "All competitive equilibria have equal welfare.",
+        "d": "Monopolies necessarily yield Pareto efficiency."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q46",
+      "text": "Why does the first welfare theorem rely on individual utility maximization at competitive prices?",
+      "options": {
+        "a": "It requires zero total goods available.",
+        "b": "A Pareto-improving feasible allocation would contradict affordability and optimality for consumers at equilibrium.",
+        "c": "It assumes consumers maximize producer profits.",
+        "d": "It requires all consumers to have identical preferences."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q47",
+      "text": "What does the first welfare theorem not establish?",
+      "options": {
+        "a": "That the resulting allocation is fair or yields an equal distribution.",
+        "b": "That all feasible Pareto improvements have been exhausted.",
+        "c": "That market equilibrium can be Pareto efficient under assumptions.",
+        "d": "That the competitive equilibrium can lie on the contract curve."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q48",
+      "text": "Which market failure can undermine the simple first welfare theorem's conclusion?",
+      "options": {
+        "a": "Smooth preferences and common competitive prices.",
+        "b": "Complete markets with price taking.",
+        "c": "Budget exhaustion with feasible allocation.",
+        "d": "An externality or market power that prevents prices from capturing the relevant trade-offs."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q49",
+      "text": "What is the second fundamental theorem of welfare economics?",
+      "options": {
+        "a": "Every initial endowment produces the same equilibrium allocation.",
+        "b": "Redistribution is never relevant to welfare economics.",
+        "c": "Competitive equilibrium always yields equal incomes.",
+        "d": "Under suitable convexity and related assumptions, a Pareto efficient allocation can be supported as a competitive equilibrium after appropriate redistribution of endowments."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q50",
+      "text": "What is the role of lump-sum redistribution in the second welfare theorem?",
+      "options": {
+        "a": "It guarantees a unique social preference ranking.",
+        "b": "It sets different prices for each consumer.",
+        "c": "It changes the technological marginal products.",
+        "d": "It changes initial purchasing power without distorting marginal market trade-offs."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q51",
+      "text": "Why are convex preferences important for the second welfare theorem's decentralization result?",
+      "options": {
+        "a": "They ensure every consumer has identical endowments.",
+        "b": "They imply that every firm is a monopolist.",
+        "c": "They help support Pareto efficient allocations by a common price line.",
+        "d": "They eliminate all corner solutions automatically."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q52",
+      "text": "What is the distinction between the two welfare theorems?",
+      "options": {
+        "a": "Both claim that prices have no allocative role.",
+        "b": "The first runs from competitive equilibrium to efficiency; the second runs from suitable efficient allocations to supporting prices and redistribution.",
+        "c": "Both state that any unequal allocation is inefficient.",
+        "d": "The first requires monopoly; the second requires monopsony."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q53",
+      "text": "How can policy conceptually separate efficiency and distribution under the second welfare theorem's assumptions?",
+      "options": {
+        "a": "Ban all voluntary trade.",
+        "b": "Maximize each consumer's utility independently of feasibility.",
+        "c": "Mandate unequal marginal prices for identical goods.",
+        "d": "Redistribute endowments with lump-sum transfers, then let competitive markets allocate resources."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q54",
+      "text": "Can a Pareto efficient allocation fail to be a competitive equilibrium from the original endowments?",
+      "options": {
+        "a": "No; every efficient allocation is an equilibrium from every endowment.",
+        "b": "Yes; it may require a different initial wealth distribution to be supported by competitive trade.",
+        "c": "Only if prices are zero for every good.",
+        "d": "No; the contract curve contains exactly one point."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "ch18q55",
+      "text": "If both consumers maximize utility and trade at the same prices at an interior equilibrium, what helps prove its Pareto efficiency?",
+      "options": {
+        "a": "Each has identical gross demand.",
+        "b": "The total endowment must increase through trade.",
+        "c": "Their MRS values both equal the common price ratio, so no beneficial marginal exchange remains.",
+        "d": "Their utility levels must be equal."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "ch18q56",
+      "text": "Why is a Pareto improvement infeasible at a competitive equilibrium under the standard first-theorem conditions?",
+      "options": {
+        "a": "To improve at least one consumer without harming others would require more aggregate value of goods than the economy possesses.",
+        "b": "All prices are necessarily zero.",
+        "c": "Each consumer must own the same bundle.",
+        "d": "An equilibrium uses no scarce resources."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "ch18q57",
+      "text": "What can a contract curve contain in an exchange economy?",
+      "options": {
+        "a": "Only the unique point with equal incomes.",
+        "b": "All points in the box regardless of efficiency.",
+        "c": "Only allocations where nobody consumes good 1.",
+        "d": "Multiple efficient allocations reflecting different distributions of available goods."
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "ch18q58",
+      "text": "In the Edgeworth box pictured, which pair correctly identifies the consumers' origins?",
+      "options": {
+        "a": "Both at the midpoint of the box.",
+        "b": "A at upper right and B at lower left.",
+        "c": "A at lower left and B at upper right.",
+        "d": "Both at lower left."
+      },
+      "answer": "c",
+      "image": "assets/chapter_18_edgeworth_box.png"
+    }
+  ]
+}
