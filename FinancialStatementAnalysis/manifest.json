@@ -1,0 +1,12 @@
+{
+  "name": "Financial Statement Analysis",
+  "series": [
+    "FSA_Chapter_1_MCQs.json",
+	"FSA_Chapter_2_MCQs.json",
+	"FSA_Chapter_3_MCQs.json",
+	"FSA_Chapter_4_MCQs.json",
+	"FSA_Chapter_5_MCQs.json",
+	"FSA_Chapter_6_MCQs.json",
+	"FSA_Chapter_7_MCQs.json"
+  ]
+}

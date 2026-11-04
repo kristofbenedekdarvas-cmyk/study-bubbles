@@ -1,0 +1,834 @@
+{
+  "id": "fsa-chapter-3",
+  "name": "Chapter 3: Balance sheet: Liabilities and Equity",
+  "questions": [
+    {
+      "id": "fsa3q1",
+      "text": "What is the central economic difference between debt and equity?",
+      "options": {
+        "a": "Debt generally creates contractual payment obligations, whereas equity is a residual ownership claim",
+        "b": "Debt and equity necessarily have identical liquidation rights",
+        "c": "Equity always requires fixed periodic interest payments",
+        "d": "Debt gives creditors unlimited residual profits after liquidation"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q2",
+      "text": "According to the course's classification flowchart, a financial instrument requiring the issuer to pay cash is generally what?",
+      "options": {
+        "a": "Retained earnings",
+        "b": "An intangible asset",
+        "c": "Other comprehensive income",
+        "d": "A financial liability"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q3",
+      "text": "How are liabilities divided by maturity in the chapter?",
+      "options": {
+        "a": "Goodwill and intangible assets",
+        "b": "Cash and cash equivalents",
+        "c": "Operating liabilities and retained earnings only",
+        "d": "Current liabilities and non-current liabilities"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q4",
+      "text": "What is a current maturity of long-term debt?",
+      "options": {
+        "a": "All interest scheduled after ten years",
+        "b": "An equity dividend payable at the issuer's discretion",
+        "c": "The portion of long-term principal due within one year",
+        "d": "The original amount of any long-term loan, regardless of due date"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q5",
+      "text": "What is accounts payable?",
+      "options": {
+        "a": "The cash paid to repurchase shares",
+        "b": "Amounts due from customers for sales on credit",
+        "c": "Unrealized gains on marketable securities",
+        "d": "Amounts owed to suppliers for purchases made on credit"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q6",
+      "text": "Why is trade credit important to companies with extensive supply chains?",
+      "options": {
+        "a": "It ensures suppliers are paid before deliveries",
+        "b": "It prevents the need to manage inventories",
+        "c": "Purchases from suppliers can provide a significant short-term financing source",
+        "d": "It converts all trade creditors into shareholders"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q7",
+      "text": "What does days payable outstanding (DPO) measure?",
+      "options": {
+        "a": "Average period the firm takes to pay trade suppliers",
+        "b": "Average days inventory sits in the warehouse",
+        "c": "Average period it takes customers to pay the company",
+        "d": "Time between issuing and redeeming ordinary shares"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q8",
+      "text": "In the lecture's simplified DPO calculation, what is accounts payable turnover?",
+      "options": {
+        "a": "Accounts receivable divided by sales",
+        "b": "EBIT divided by gross interest expense",
+        "c": "Cost of goods sold divided by average inventory",
+        "d": "Sales divided by average accounts payable"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q9",
+      "text": "How is DPO obtained from accounts payable turnover?",
+      "options": {
+        "a": "365 multiplied by inventory turnover",
+        "b": "Payable turnover divided by 365",
+        "c": "Sales divided by net income",
+        "d": "365 divided by payable turnover"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q10",
+      "text": "How does a higher DPO generally affect cash held by the purchasing company in the short run?",
+      "options": {
+        "a": "It immediately reduces cash balances",
+        "b": "It forces an identical increase in inventory",
+        "c": "It necessarily increases customer receivables",
+        "d": "It retains cash for longer before paying suppliers"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q11",
+      "text": "What is the potential downside of an extremely high DPO?",
+      "options": {
+        "a": "Strained supplier relations and disruption of trade credit",
+        "b": "An automatic decrease in all interest rates",
+        "c": "Automatic improvement in supplier trust",
+        "d": "A guaranteed increase in supplier discounts"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q12",
+      "text": "What is the cash conversion cycle (CCC)?",
+      "options": {
+        "a": "DIO - Current ratio",
+        "b": "DSO + DIO - DPO",
+        "c": "DSO + Inventory turnover + Debt ratio",
+        "d": "DPO + ROE - Gross margin"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q13",
+      "text": "Which change shortens the cash conversion cycle, all else equal?",
+      "options": {
+        "a": "Higher accounts receivable days",
+        "b": "Lower DPO",
+        "c": "Higher DIO",
+        "d": "Lower DSO"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q14",
+      "text": "How does faster collection from customers affect the cash conversion cycle?",
+      "options": {
+        "a": "It leaves the cycle unchanged",
+        "b": "It eliminates trade payables",
+        "c": "It shortens the cycle",
+        "d": "It lengthens the cycle"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q15",
+      "text": "Why may a negative cash conversion cycle be advantageous?",
+      "options": {
+        "a": "The firm can receive customer cash before paying suppliers",
+        "b": "The firm must be reporting negative net income",
+        "c": "Inventory can no longer be sold",
+        "d": "Customers always pay after suppliers"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q16",
+      "text": "What is an accrued expense?",
+      "options": {
+        "a": "A cost incurred in a period but not yet paid in cash",
+        "b": "An asset arising solely from future management intentions",
+        "c": "Cash paid before the related service is delivered to the firm",
+        "d": "A cash dividend paid from retained earnings"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q17",
+      "text": "Which is an example of a routine contractual accrued liability?",
+      "options": {
+        "a": "Inventory already sold for cash",
+        "b": "Share premium received from investors",
+        "c": "A patent acquired for cash",
+        "d": "Wages earned by employees but not yet paid"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q18",
+      "text": "Why recognize accrued liabilities at the reporting date?",
+      "options": {
+        "a": "To postpone all expenses until cash is paid",
+        "b": "To eliminate the balance-sheet accounting equation",
+        "c": "To match incurred obligations and expenses to the correct reporting period",
+        "d": "To turn unpaid interest into revenue"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q19",
+      "text": "What is deferred or unearned revenue?",
+      "options": {
+        "a": "Cash collected from a customer before the firm fulfills the related obligation",
+        "b": "A non-cash asset impairment loss",
+        "c": "Revenue recognized after delivery but not yet collected",
+        "d": "An increase in shareholders' retained earnings"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q20",
+      "text": "What happens to deferred revenue when the company fulfills its promised service?",
+      "options": {
+        "a": "The amount is treated as financing income",
+        "b": "The liability decreases and revenue is recognized",
+        "c": "The liability doubles automatically",
+        "d": "The company's inventory is always increased"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q21",
+      "text": "What distinguishes a warranty provision from a fixed invoice payable?",
+      "options": {
+        "a": "Its ultimate settlement depends on uncertain future product claims",
+        "b": "It can only arise after a company is liquidated",
+        "c": "It always requires no estimation",
+        "d": "It is an equity contribution"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q22",
+      "text": "According to the lecture's provision-recognition rule, when should a contingent obligation be recognized?",
+      "options": {
+        "a": "Whenever a theoretical future dispute can be imagined",
+        "b": "Only when the firm's share price falls",
+        "c": "Only when cash is eventually paid",
+        "d": "When a present obligation is probable and the amount can be reasonably estimated"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q23",
+      "text": "Why is a product warranty expense often recognized in the period of the sale?",
+      "options": {
+        "a": "Warranties are dividends to owners",
+        "b": "The repair has already been paid in cash in every case",
+        "c": "The sale creates the expected obligation to repair or replace defective goods",
+        "d": "Warranty expenses are never recognized until settlement"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q24",
+      "text": "How does paying for a valid warranty repair affect an existing warranty provision?",
+      "options": {
+        "a": "It turns the liability into a trade receivable",
+        "b": "It creates new contributed capital",
+        "c": "It must increase current-period revenue",
+        "d": "It reduces the previously recognized liability"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q25",
+      "text": "What is net working capital?",
+      "options": {
+        "a": "Sales minus cost of goods sold",
+        "b": "Current assets minus current liabilities",
+        "c": "Total assets minus shareholders' equity",
+        "d": "Net profit minus dividends"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q26",
+      "text": "What does the current ratio measure?",
+      "options": {
+        "a": "Cash from financing divided by total debt",
+        "b": "Current assets divided by current liabilities",
+        "c": "Revenue divided by inventory",
+        "d": "Current liabilities divided by non-current assets"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q27",
+      "text": "What might a current ratio below 1 indicate?",
+      "options": {
+        "a": "Current liabilities exceed current assets at the reporting date",
+        "b": "All inventory is obsolete",
+        "c": "Gross profit must be negative",
+        "d": "The firm must be insolvent under every circumstance"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q28",
+      "text": "Why do firms in different industries require different levels of working capital?",
+      "options": {
+        "a": "Working capital is determined solely by the share price",
+        "b": "Their operating cycles, payment terms, and inventory needs differ",
+        "c": "Working capital is independent of operations",
+        "d": "All firms must hold exactly the same inventory"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q29",
+      "text": "What does a revolving credit facility provide?",
+      "options": {
+        "a": "A fixed-price sale of inventory",
+        "b": "A guarantee that interest rates never change",
+        "c": "Access to borrowing up to a limit with a fluctuating outstanding balance",
+        "d": "An immediate issuance of new ordinary shares"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q30",
+      "text": "What is the role of a letter of credit in commerce?",
+      "options": {
+        "a": "It represents the customer's net receivable balance",
+        "b": "It eliminates the underlying purchase contract",
+        "c": "A bank provides assurance of payment between buyer and supplier",
+        "d": "It converts all supplier invoices into dividends"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q31",
+      "text": "What is a term loan?",
+      "options": {
+        "a": "Borrowing of an agreed principal amount with specified repayment terms",
+        "b": "A guaranteed equity issue",
+        "c": "A cash-equivalent security with no repayment requirement",
+        "d": "A tax credit earned on future revenue"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q32",
+      "text": "Which feature commonly distinguishes a mortgage loan?",
+      "options": {
+        "a": "It is secured by collateral, often real estate",
+        "b": "It gives the lender ordinary voting shares automatically",
+        "c": "It is classified as retained earnings",
+        "d": "It never requires interest"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q33",
+      "text": "What is a common reason firms issue corporate bonds?",
+      "options": {
+        "a": "To avoid all contractual interest and principal obligations",
+        "b": "To raise substantial long-term funds from capital-market investors",
+        "c": "To eliminate debt financing from the balance sheet",
+        "d": "To reclassify inventory as goodwill"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q34",
+      "text": "What are the standard bondholder cash flows for an ordinary fixed-coupon bullet bond?",
+      "options": {
+        "a": "An infinite series of equal principal repayments without interest",
+        "b": "Periodic coupon payments plus repayment of face value at maturity",
+        "c": "Only a cash payment when the borrower makes a profit",
+        "d": "Only an uncertain dividend at maturity"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q35",
+      "text": "How is the price of an ordinary fixed-coupon bond conceptually determined?",
+      "options": {
+        "a": "Present value of coupon payments plus present value of principal repayment",
+        "b": "The issuer's current assets divided by current liabilities",
+        "c": "Face value multiplied by the issuer's sales",
+        "d": "Only the interest rate shown on the bond certificate"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q36",
+      "text": "What usually happens to the market price of a fixed-rate bond if comparable market yields rise?",
+      "options": {
+        "a": "It becomes identical to the issuer's share price",
+        "b": "It remains exactly at par",
+        "c": "It falls",
+        "d": "It rises in the same proportion"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q37",
+      "text": "Why can a bond's market value change when its contractual coupon payments stay fixed?",
+      "options": {
+        "a": "The bond's original face value changes every day",
+        "b": "Investors discount its promised cash flows using changing required yields",
+        "c": "The company's sales always determine its coupon",
+        "d": "The bond automatically converts into common equity"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q38",
+      "text": "What does the times-interest-earned ratio compare?",
+      "options": {
+        "a": "Accounts payable with inventory",
+        "b": "Cash with current assets",
+        "c": "Dividends with earnings per share",
+        "d": "EBIT with gross interest expense"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q39",
+      "text": "What does a higher times-interest-earned ratio generally suggest?",
+      "options": {
+        "a": "Lower earnings before interest and tax by definition",
+        "b": "Greater probability of failing every interest payment",
+        "c": "Greater earnings coverage of contractual interest costs",
+        "d": "Fewer total assets in every case"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q40",
+      "text": "What important limitation of times-interest-earned is highlighted in the lecture?",
+      "options": {
+        "a": "It measures earnings per ordinary share",
+        "b": "It accounts for all future refinancing needs perfectly",
+        "c": "It includes all cash and non-cash investing activities",
+        "d": "It does not directly demonstrate the ability to repay debt principal"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q41",
+      "text": "What does cash from operations divided by total debt assess?",
+      "options": {
+        "a": "Cash generation relative to outstanding short- and long-term debt",
+        "b": "Revenue growth per employee",
+        "c": "The dividend yield on common shares",
+        "d": "Capital expenditure as a fraction of sales"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q42",
+      "text": "Why might analysts subtract capital expenditure from operating cash before comparing it with debt?",
+      "options": {
+        "a": "Capital expenditure is always a financing inflow",
+        "b": "Debt obligations can be paid exclusively with accounting profit",
+        "c": "Capital expenditure never uses cash",
+        "d": "Not all cash from operations remains available after maintaining or growing the asset base"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q43",
+      "text": "What is contributed share capital?",
+      "options": {
+        "a": "The sum of prior-period profits",
+        "b": "Capital invested by owners in exchange for shares",
+        "c": "An allowance for doubtful trade receivables",
+        "d": "The amount of cash owed to lenders"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q44",
+      "text": "What does additional paid-in capital (share premium) generally represent?",
+      "options": {
+        "a": "The gain from selling inventories",
+        "b": "Interest accrued on bonds",
+        "c": "Share issue proceeds above nominal or par value",
+        "d": "Accumulated unrealized foreign-exchange losses"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q45",
+      "text": "What is a common economic advantage of preferred shares over ordinary shares?",
+      "options": {
+        "a": "Mandatory voting control over all board seats",
+        "b": "Priority to certain dividends or liquidation proceeds",
+        "c": "A universal guarantee against any loss",
+        "d": "The right to repayment ahead of all secured creditors"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q46",
+      "text": "What is a potential conversion feature of preferred shares?",
+      "options": {
+        "a": "The right to cancel all company liabilities",
+        "b": "Automatic conversion of every company bond into inventories",
+        "c": "The right to exchange preferred shares for a specified number of ordinary shares",
+        "d": "A promise that preferred shares will not dilute ownership"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q47",
+      "text": "When does a non-controlling interest arise?",
+      "options": {
+        "a": "When all shareholders own identical amounts",
+        "b": "When a parent consolidates a subsidiary it controls but does not own completely",
+        "c": "When a firm holds cash in multiple currencies",
+        "d": "Whenever a firm has any outstanding bond"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q48",
+      "text": "Why is non-controlling interest presented in consolidated equity?",
+      "options": {
+        "a": "It is always a future cash expense",
+        "b": "Part of consolidated net assets belongs to owners other than the parent shareholders",
+        "c": "It represents the parent company's trade payables",
+        "d": "It is an intangible asset owned by suppliers"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q49",
+      "text": "What is retained earnings?",
+      "options": {
+        "a": "The fair value of every unrecognized brand",
+        "b": "Cash issued for new share capital",
+        "c": "Cumulative earned profit not distributed as dividends",
+        "d": "Current-period revenue alone"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q50",
+      "text": "How do cash dividends affect retained earnings, all else equal?",
+      "options": {
+        "a": "They decrease retained earnings when recognized as distributions",
+        "b": "They increase net income",
+        "c": "They are classified as operating revenues",
+        "d": "They increase the carrying amount of goodwill"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q51",
+      "text": "What does the statement of changes in equity help explain?",
+      "options": {
+        "a": "Only the repayment calendar of corporate bonds",
+        "b": "Movements in equity from profit, OCI, distributions, and owner contributions",
+        "c": "Only the net cash paid for inventory",
+        "d": "Only sales growth of operating segments"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q52",
+      "text": "What is the dividend payout ratio usually expressed as?",
+      "options": {
+        "a": "Dividends relative to earnings",
+        "b": "Share price divided by book value",
+        "c": "Cost of goods sold relative to sales",
+        "d": "Operating cash flow divided by capex"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q53",
+      "text": "What is dividend yield?",
+      "options": {
+        "a": "Total debt relative to the market value of debt",
+        "b": "Market share relative to total sales",
+        "c": "Net income relative to total assets",
+        "d": "Dividends per share relative to current share price"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q54",
+      "text": "Why can a high dividend payout ratio warrant scrutiny?",
+      "options": {
+        "a": "It always eliminates the need for financing",
+        "b": "It proves that future earnings will increase",
+        "c": "It shows that all earnings are paid in cash at the same instant",
+        "d": "It may leave fewer retained resources to support future investment"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q55",
+      "text": "What is book value per common share?",
+      "options": {
+        "a": "Cash flow from operations divided by debt",
+        "b": "Common shareholders' book equity divided by common shares outstanding",
+        "c": "Net income divided by total assets",
+        "d": "Market capitalization divided by revenues"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q56",
+      "text": "Why may book value of equity differ substantially from market value?",
+      "options": {
+        "a": "Book value includes every internally generated intangible at market value",
+        "b": "Both necessarily measure exactly the same thing",
+        "c": "Market value excludes expectations about future profits",
+        "d": "Accounting measures recognized net assets, whereas markets price expected future benefits and risks"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q57",
+      "text": "What happens to the accounting equation when a firm borrows cash from a bank?",
+      "options": {
+        "a": "Assets rise and equity falls by exactly the loan amount",
+        "b": "Liabilities fall and assets rise by the loan amount",
+        "c": "Assets and liabilities rise by equal amounts at initial recognition",
+        "d": "Only net income increases"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q58",
+      "text": "What happens when a firm pays an existing supplier liability with cash?",
+      "options": {
+        "a": "Cash and accounts payable both decrease",
+        "b": "Accounts payable becomes equity",
+        "c": "Total assets increase and liabilities increase",
+        "d": "Revenue and cash both increase"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q59",
+      "text": "Why are maturity profiles of borrowings relevant to credit analysis?",
+      "options": {
+        "a": "They reveal when refinancing or repayment pressure may arise",
+        "b": "They precisely predict future market interest rates",
+        "c": "They replace the need to analyze liquidity",
+        "d": "They make all longer-term obligations current"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q60",
+      "text": "Why may a lower DPO sometimes signal financial strength rather than weakness?",
+      "options": {
+        "a": "The firm may be paying suppliers early to earn discounts or support relationships",
+        "b": "DPO cannot reflect purchasing strategy",
+        "c": "A lower DPO always proves supplier distress",
+        "d": "DPO measures only interest-bearing debt"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q61",
+      "text": "How does extending supplier payment terms affect CCC mathematically, other inputs unchanged?",
+      "options": {
+        "a": "CCC must equal zero",
+        "b": "CCC decreases because DPO is subtracted",
+        "c": "CCC becomes identical to DSO",
+        "d": "CCC increases because DPO is added"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q62",
+      "text": "What analytical mistake arises from treating all current liabilities as interest-bearing debt?",
+      "options": {
+        "a": "Shareholders' equity becomes negative by definition",
+        "b": "The balance sheet no longer balances",
+        "c": "Trade payables and operating accruals can be confused with borrowings",
+        "d": "Cash receipts must equal revenue"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q63",
+      "text": "A buyer receives goods in December but will pay the supplier in January. Which reporting treatment is most consistent with accrual accounting?",
+      "options": {
+        "a": "Recognize customer revenue because cash has not been paid",
+        "b": "Recognize a dividend in December",
+        "c": "Delay all recognition until January cash payment",
+        "d": "Recognize the relevant purchase/inventory and a payable in December"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa3q64",
+      "text": "A software provider collects a one-year subscription fee before providing the service. What is the appropriate initial treatment?",
+      "options": {
+        "a": "Recognize the entire amount as profit regardless of performance",
+        "b": "Record an intangible impairment at contract inception",
+        "c": "Recognize a contract liability and release it as service obligations are fulfilled",
+        "d": "Treat the receipt as new common share capital"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q65",
+      "text": "A company has DSO of 45, DIO of 65, and DPO of 80 days. What is its cash conversion cycle?",
+      "options": {
+        "a": "30 days",
+        "b": "190 days",
+        "c": "-30 days",
+        "d": "110 days"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3q66",
+      "text": "A bond was issued at a fixed coupon rate and new bonds of comparable risk now offer higher yields. Which market-value effect is most plausible?",
+      "options": {
+        "a": "The issuer's contractual principal disappears",
+        "b": "The outstanding bond trades at a discount relative to its previous price",
+        "c": "The bond automatically converts to preferred shares",
+        "d": "The bond's contractual coupon increases automatically"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q67",
+      "text": "A firm earns an EBIT of €40 million and incurs gross interest expense of €20 million. Which interpretation best follows from times interest earned?",
+      "options": {
+        "a": "Its cash ratio is 2 times and all principal obligations are covered",
+        "b": "Its current ratio is 0.5 regardless of balance-sheet totals",
+        "c": "Its accrual-based interest coverage is 2 times, but principal repayment ability remains a separate concern",
+        "d": "It earns €20 million of OCI by definition"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3q68",
+      "text": "A parent company controls 70% of a subsidiary. How should the remaining 30% owned by outside shareholders be viewed in consolidated reporting?",
+      "options": {
+        "a": "As a decrease in all consolidated liabilities",
+        "b": "As non-controlling interest in consolidated equity",
+        "c": "As goodwill of exactly 30% of sales",
+        "d": "As an increase in the parent's accounts receivable"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3q69",
+      "text": "A firm pays a cash dividend using available bank deposits. Which pair of effects is most directly expected?",
+      "options": {
+        "a": "Higher operating earnings and lower bonds payable",
+        "b": "Higher cash and higher total equity",
+        "c": "Lower cash and lower total equity once the dividend is recognized and paid",
+        "d": "Higher sales and lower current liabilities"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

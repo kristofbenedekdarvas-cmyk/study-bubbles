@@ -1,0 +1,882 @@
+{
+  "id": "fsa-chapter-6",
+  "name": "Chapter 6: Analyzing financial statements: Profitability, growth, and liquidity",
+  "questions": [
+    {
+      "id": "fsa6q1",
+      "text": "What is return on assets (ROA) intended to measure?",
+      "options": {
+        "a": "Cash holdings relative to current liabilities",
+        "b": "Revenue generated relative to equity market capitalization",
+        "c": "Dividends paid relative to total assets",
+        "d": "Net income generated relative to the average total asset base"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q2",
+      "text": "Why does ROA combine information from two primary financial statements?",
+      "options": {
+        "a": "It compares only share prices and dividends",
+        "b": "Both the numerator and denominator are financing cash flows",
+        "c": "The numerator is a measure of earnings and the denominator is a balance-sheet asset measure",
+        "d": "It compares only two income-statement expenses"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q3",
+      "text": "What is the formula for ROA used in the lecture?",
+      "options": {
+        "a": "Net income divided by average shareholders' equity",
+        "b": "EBIT divided by interest expense",
+        "c": "Revenue divided by average inventory",
+        "d": "Net income divided by average total assets"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q4",
+      "text": "What is return on equity (ROE)?",
+      "options": {
+        "a": "Current assets divided by current liabilities",
+        "b": "Net income divided by average shareholders' equity",
+        "c": "Operating cash flow divided by sales",
+        "d": "Sales divided by total PPE"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q5",
+      "text": "Which perspective does ROE emphasize?",
+      "options": {
+        "a": "Returns associated with the owners' equity capital",
+        "b": "Inventory purchased relative to sales",
+        "c": "The coupon rate earned by bondholders",
+        "d": "Customer credit risk exclusively"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q6",
+      "text": "Why should the denominator of ROE commonly use average equity rather than only year-end equity?",
+      "options": {
+        "a": "Average equity is always identical to year-end equity",
+        "b": "Only year-end shares legally generate profits",
+        "c": "Income is earned over a period whereas equity is a stock measured at specific dates",
+        "d": "The closing equity balance is never disclosed"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q7",
+      "text": "What is ROCE as defined specifically in this lecture chapter?",
+      "options": {
+        "a": "Return on total capital employed before tax in every context",
+        "b": "Return on common shareholders' equity attributable to parent common shareholders",
+        "c": "Revenue on cash equivalents",
+        "d": "Return on current expenses"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q8",
+      "text": "Why must non-controlling interests be excluded when computing parent-common-shareholder ROCE?",
+      "options": {
+        "a": "All subsidiaries are wholly owned",
+        "b": "Non-controlling interests belong to the parent shareholders",
+        "c": "The numerator and denominator should reflect the same owners' income and equity",
+        "d": "Non-controlling interests are always cash equivalents"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q9",
+      "text": "What is the traditional two-factor DuPont identity?",
+      "options": {
+        "a": "ROA = Dividend yield × Price-to-book",
+        "b": "ROE = DSO × DPO",
+        "c": "ROE = ROA × Financial leverage",
+        "d": "ROE = Gross margin + Current ratio"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q10",
+      "text": "How is financial leverage defined in the lecture's DuPont model?",
+      "options": {
+        "a": "Average inventory divided by sales",
+        "b": "Net income divided by total assets",
+        "c": "Average total assets divided by average shareholders' equity",
+        "d": "Current liabilities divided by current assets"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q11",
+      "text": "What is the main trade-off in increasing financial leverage?",
+      "options": {
+        "a": "It can magnify equity returns but also increase financial distress risk",
+        "b": "It guarantees a higher operating return on assets",
+        "c": "It automatically lowers interest expenses",
+        "d": "It reduces all contractual obligations"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q12",
+      "text": "For positive ROA, what is the algebraic effect of greater asset-to-equity leverage, other things equal?",
+      "options": {
+        "a": "ROE increases",
+        "b": "ROE becomes negative immediately",
+        "c": "ROE becomes independent of assets",
+        "d": "ROE must equal zero"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q13",
+      "text": "For negative ROA, what does an increase in positive financial leverage do, all else equal?",
+      "options": {
+        "a": "It guarantees a positive ROE",
+        "b": "It magnifies the negative ROE",
+        "c": "It makes net income positive",
+        "d": "It eliminates equity losses"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q14",
+      "text": "Why does high ROE not necessarily indicate strong underlying operations?",
+      "options": {
+        "a": "ROE never depends on financing structure",
+        "b": "A high ROE always indicates low bankruptcy risk",
+        "c": "ROE is based exclusively on customer receipts",
+        "d": "It may partly reflect a small equity base and high leverage"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q15",
+      "text": "What does the three-part DuPont decomposition express?",
+      "options": {
+        "a": "ROE = Net profit margin × Asset turnover × Financial leverage",
+        "b": "ROE = Cash ratio × Dividend payout",
+        "c": "ROE = DSO + DIO - DPO",
+        "d": "ROE = EBIT + Depreciation + Amortization"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q16",
+      "text": "What is net profit margin?",
+      "options": {
+        "a": "Cost of goods sold divided by inventory",
+        "b": "Dividends per share divided by price",
+        "c": "Sales divided by average total assets",
+        "d": "Net income divided by sales"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q17",
+      "text": "What is asset turnover?",
+      "options": {
+        "a": "Sales divided by average total assets",
+        "b": "Net income divided by average shareholders' equity",
+        "c": "Gross interest expense divided by EBIT",
+        "d": "Cash divided by accounts receivable"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q18",
+      "text": "What happens to ROA if net profit margin increases and asset turnover stays constant?",
+      "options": {
+        "a": "ROA increases",
+        "b": "ROA decreases",
+        "c": "ROA becomes equal to the interest rate",
+        "d": "ROA cannot change"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q19",
+      "text": "What does a low asset turnover combined with a high profit margin often suggest?",
+      "options": {
+        "a": "A firm that necessarily has no fixed assets",
+        "b": "A capital-intensive or differentiated business that earns more profit per sale",
+        "c": "A firm with certain insolvency",
+        "d": "A company selling only on credit"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q20",
+      "text": "Why should analysts examine both profit margin and asset turnover?",
+      "options": {
+        "a": "Asset turnover is mathematically identical to gross margin",
+        "b": "Profit margin never depends on operating expenses",
+        "c": "Different combinations can produce the same ROA",
+        "d": "Both are measures of outstanding debt only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q21",
+      "text": "What is gross profit margin?",
+      "options": {
+        "a": "Net income divided by average PPE",
+        "b": "Cash from operations divided by sales",
+        "c": "Net income divided by shareholders' equity",
+        "d": "Gross profit divided by sales"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q22",
+      "text": "What may cause gross margin to decline?",
+      "options": {
+        "a": "An unconditional increase in pricing power",
+        "b": "Higher input costs, stronger competition, lower volumes, or adverse product mix",
+        "c": "An automatic increase in inventory turnover",
+        "d": "A guaranteed decline in cost of goods sold"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q23",
+      "text": "How should an operating-expense-to-sales margin generally be interpreted?",
+      "options": {
+        "a": "It measures operating costs incurred per euro of revenue",
+        "b": "It represents all marketable securities",
+        "c": "It directly measures the amount of cash held in bank accounts",
+        "d": "It is an interest coverage ratio"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q24",
+      "text": "How can expense-margin analysis help explain a change in net profit margin?",
+      "options": {
+        "a": "It identifies future stock returns exactly",
+        "b": "It eliminates every difference between industries",
+        "c": "It replaces revenue recognition policies",
+        "d": "It identifies which operating cost categories rose or fell relative to sales"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q25",
+      "text": "Why may two firms have similar ROA but very different asset structures?",
+      "options": {
+        "a": "Higher margin can offset lower asset turnover and vice versa",
+        "b": "They must have identical inventory and PPE balances",
+        "c": "ROA fixes an identical depreciation schedule",
+        "d": "Asset turnover is unrelated to assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q26",
+      "text": "Which ratio directly reveals the efficiency of trade-receivables use within asset turnover analysis?",
+      "options": {
+        "a": "Debt-to-equity ratio exclusively",
+        "b": "Times interest earned",
+        "c": "Dividend payout ratio",
+        "d": "Accounts receivable turnover"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q27",
+      "text": "Why can goodwill impairments change measured asset turnover even when sales are stable?",
+      "options": {
+        "a": "A lower carrying value of total assets can raise turnover mechanically",
+        "b": "Asset turnover does not use assets in its denominator",
+        "c": "Goodwill impairment always increases sales",
+        "d": "Goodwill is always excluded from total assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q28",
+      "text": "What is sales growth?",
+      "options": {
+        "a": "Current-period sales divided by previous-period sales, minus one",
+        "b": "Net income divided by shareholders' equity",
+        "c": "Operating cash flow divided by total debt",
+        "d": "Current assets divided by current liabilities"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q29",
+      "text": "What is earnings growth?",
+      "options": {
+        "a": "Dividend yield multiplied by share price",
+        "b": "Current-period earnings divided by prior-period earnings, minus one",
+        "c": "PPE divided by sales",
+        "d": "Revenue divided by average inventory"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q30",
+      "text": "What is the difficulty in interpreting simple earnings-growth percentages when prior-year earnings are near zero or negative?",
+      "options": {
+        "a": "A negative base guarantees strong sustainable growth",
+        "b": "The formula cannot be affected by prior-year earnings",
+        "c": "Growth percentages always remain between 0% and 100%",
+        "d": "The percentage can be extremely volatile or economically misleading"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q31",
+      "text": "What are sustainable earnings?",
+      "options": {
+        "a": "A market value equal to all outstanding debt",
+        "b": "Any unusually large one-time gain",
+        "c": "Earnings generated solely by asset disposal",
+        "d": "Earnings likely to persist and potentially grow from recurring business performance"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q32",
+      "text": "What other term does the lecture use for sustainable earnings?",
+      "options": {
+        "a": "Core or persistent earnings",
+        "b": "Financing cash flow",
+        "c": "Contingent liabilities",
+        "d": "Unearned share capital"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q33",
+      "text": "What are transitory earnings items?",
+      "options": {
+        "a": "Non-recurring or unusual gains and losses that are unlikely to persist",
+        "b": "The firm's most stable recurring margins",
+        "c": "Dividends paid each year",
+        "d": "Only sales from its largest product"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q34",
+      "text": "Why does analyzing sustainable earnings require understanding competitive advantage?",
+      "options": {
+        "a": "Sustainable earnings depend only on depreciation methods",
+        "b": "All competitive advantages last forever",
+        "c": "Profit persistence is independent of strategy",
+        "d": "Competition can erode returns and make apparent growth difficult to maintain"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q35",
+      "text": "How can delayed recognition of deferred revenue affect the apparent earnings-growth path?",
+      "options": {
+        "a": "Deferred revenue is always recognized immediately as profit",
+        "b": "Deferred revenue cannot change reported net income",
+        "c": "Moving revenue recognition between periods can distort reported growth",
+        "d": "Advance customer payments are dividends"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q36",
+      "text": "Why is an increase in deferred revenue not automatically an increase in current-period profit?",
+      "options": {
+        "a": "Deferred revenue is an equity investment",
+        "b": "A cash receipt is always an earned sale",
+        "c": "The firm still owes goods or services and has not yet earned the revenue",
+        "d": "Every customer prepayment creates a capital gain"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q37",
+      "text": "How could excessive restructuring provisions lead to artificial future earnings growth?",
+      "options": {
+        "a": "Provisions are always unrelated to profit",
+        "b": "Restructuring charges always raise current-year profit",
+        "c": "The firm cannot reverse any estimated liability under any circumstances",
+        "d": "Subsequent reversals or lower future charges may make later earnings appear unusually strong"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q38",
+      "text": "Which is an example of a restructuring-related charge?",
+      "options": {
+        "a": "An ordinary customer deposit",
+        "b": "Cash received from issuing shares",
+        "c": "Revenue from recurring product sales",
+        "d": "Employee severance costs"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q39",
+      "text": "Why should an analyst scrutinize a sudden reduction in R&D or advertising expenditure?",
+      "options": {
+        "a": "It always signals higher future sales growth",
+        "b": "It means every remaining research project is successful",
+        "c": "It has no effect on current reported expenses",
+        "d": "It can improve current profit while damaging future competitive performance"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q40",
+      "text": "What does sustainable-earnings growth compare?",
+      "options": {
+        "a": "Current interest expense with prior assets",
+        "b": "Estimated recurring earnings in the current and prior periods",
+        "c": "Dividend yield and market capitalization",
+        "d": "Opening and closing cash balances exclusively"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q41",
+      "text": "Which indicator is most directly related to the short-term payment capacity of a firm?",
+      "options": {
+        "a": "Liquidity",
+        "b": "Patent grants",
+        "c": "Weighted-average shares outstanding",
+        "d": "Gross margin"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q42",
+      "text": "Which difference of balance-sheet amounts defines net working capital in liquidity analysis?",
+      "options": {
+        "a": "Sales minus cost of goods sold",
+        "b": "Current assets minus current liabilities",
+        "c": "Net debt divided by EBITDA",
+        "d": "Net income plus depreciation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q43",
+      "text": "What is the current ratio?",
+      "options": {
+        "a": "Current assets divided by current liabilities",
+        "b": "EBIT divided by interest expense",
+        "c": "Cash divided by total equity",
+        "d": "Current liabilities divided by current assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q44",
+      "text": "What is the quick ratio as defined in the lecture?",
+      "options": {
+        "a": "Inventories divided by current assets",
+        "b": "Cash plus cash equivalents plus accounts receivable, divided by current liabilities",
+        "c": "Total current assets including inventory divided by non-current debt",
+        "d": "Sales divided by current liabilities"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q45",
+      "text": "Why does the quick ratio exclude inventories?",
+      "options": {
+        "a": "Inventory always has a guaranteed selling price",
+        "b": "Inventory is never included in current assets",
+        "c": "Inventory may be less readily convertible into cash without losses or delays",
+        "d": "Inventory is a financing activity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q46",
+      "text": "What is the cash ratio?",
+      "options": {
+        "a": "Cash and cash equivalents divided by current liabilities",
+        "b": "Current liabilities divided by total assets",
+        "c": "Inventory divided by trade payables",
+        "d": "Net income divided by cash"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q47",
+      "text": "Which ratio is the most restrictive measure of immediate liquid-asset coverage among current, quick, and cash ratios?",
+      "options": {
+        "a": "Inventory turnover",
+        "b": "Gross profit margin",
+        "c": "Current ratio",
+        "d": "Cash ratio"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q48",
+      "text": "What does a times-interest-earned ratio assess?",
+      "options": {
+        "a": "Current assets held per new patent",
+        "b": "Cash conversion of ordinary share dividends",
+        "c": "EBIT coverage of gross interest expense",
+        "d": "Inventory held per euro of sales"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q49",
+      "text": "Why may times-interest-earned overstate near-term debt-service capacity?",
+      "options": {
+        "a": "It includes every required loan repayment in the denominator",
+        "b": "It uses cash payments only",
+        "c": "It excludes all interest expenses",
+        "d": "EBIT is accrual-based and the ratio ignores principal repayments"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q50",
+      "text": "What does operating cash flow to total debt assess?",
+      "options": {
+        "a": "Employee headcount relative to inventories",
+        "b": "Current gross profit relative to sales",
+        "c": "Cash-generating ability relative to total interest-bearing debt",
+        "d": "Dividend payments relative to market price"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q51",
+      "text": "Why deduct capital expenditure in adjusted CFO-to-debt analysis?",
+      "options": {
+        "a": "Capex is always an interest receipt",
+        "b": "Capex creates immediate net income",
+        "c": "Debt is always a non-cash expense",
+        "d": "Some operating cash is committed to necessary investment before it can service debt"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q52",
+      "text": "What is EBITDA?",
+      "options": {
+        "a": "Estimated book value of all assets",
+        "b": "Earnings before interest, taxes, depreciation, and amortization",
+        "c": "Earnings before inventory turnover and dividend allocation",
+        "d": "Equity before intangible debt and acquisitions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q53",
+      "text": "Why do analysts use EBITDA-based interest coverage?",
+      "options": {
+        "a": "EBITDA includes debt principal repayments",
+        "b": "EBITDA deducts all working-capital outflows automatically",
+        "c": "Depreciation and amortization are non-cash charges, so adding them back provides another earnings-based coverage view",
+        "d": "EBITDA is identical to actual operating cash flow under all conditions"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q54",
+      "text": "What is a major limitation of EBITDA as a proxy for cash flow?",
+      "options": {
+        "a": "It is defined as cash received from customers",
+        "b": "It excludes working-capital changes and capital expenditure needs",
+        "c": "It measures market value of equity directly",
+        "d": "It includes all cash investment spending"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q55",
+      "text": "What is the purpose of Altman's original Z-score model?",
+      "options": {
+        "a": "Forecasting the market price of every ordinary share precisely",
+        "b": "Combining financial ratios to help predict bankruptcy or financial distress",
+        "c": "Pricing convertible bonds without assumptions",
+        "d": "Measuring only environmental emissions"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q56",
+      "text": "Which input is part of the classic Altman Z-score presented in the slides?",
+      "options": {
+        "a": "R&D patents divided by employees",
+        "b": "Working capital divided by total assets",
+        "c": "Dividend payout divided by cash",
+        "d": "Customer satisfaction divided by sales"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q57",
+      "text": "Which market-based indicator is included in the original Altman Z-score for public manufacturing firms?",
+      "options": {
+        "a": "Number of new products per employee",
+        "b": "Cash dividends per share relative to revenue",
+        "c": "Market value of equity relative to total liabilities",
+        "d": "Share repurchases divided by cost of goods sold"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q58",
+      "text": "According to the slide's Z-score interpretation, what does a score below 1.80 suggest?",
+      "options": {
+        "a": "That the firm is always in a mature lifecycle stage",
+        "b": "Elevated financial-distress and bankruptcy risk",
+        "c": "A guaranteed absence of financial distress",
+        "d": "High future stock-market returns"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q59",
+      "text": "According to the lecture, what does a Z-score above 3 typically indicate?",
+      "options": {
+        "a": "A negative working-capital requirement",
+        "b": "Relatively low short-term bankruptcy risk under the original model",
+        "c": "No need to inspect financial statements",
+        "d": "Certain bankruptcy within one year"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q60",
+      "text": "Why should a classic Altman Z-score be used cautiously outside its original setting?",
+      "options": {
+        "a": "It automatically corrects all cross-industry differences",
+        "b": "It incorporates every non-financial risk indicator",
+        "c": "It is a legal determination of bankruptcy",
+        "d": "Its coefficients and cutoffs were designed for a specific population and may not generalize"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q61",
+      "text": "What is a limitation of comparing ratios before and after a merger?",
+      "options": {
+        "a": "Acquisitions may change the consolidated business mix and measurement base",
+        "b": "A merger always preserves accounting comparability",
+        "c": "Ratios are immune to changes in business scope",
+        "d": "Mergers cannot affect reported assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q62",
+      "text": "Why is a ratio insufficient on its own to judge performance?",
+      "options": {
+        "a": "It compresses complex strategy, accounting choices, and business conditions into one number",
+        "b": "It eliminates the need for trend analysis",
+        "c": "It captures every qualitative aspect of operations",
+        "d": "All industries have identical benchmark ratios"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q63",
+      "text": "Why might a company with very high net income still face financial distress?",
+      "options": {
+        "a": "Positive net income guarantees all loans are repaid",
+        "b": "Profit need not translate into enough near-term cash to pay obligations",
+        "c": "Working capital never affects liquidity",
+        "d": "Financial distress can arise only when gross margin is negative"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q64",
+      "text": "What does deteriorating DSO combined with falling liquidity ratios suggest?",
+      "options": {
+        "a": "Receivable collections may be weakening and tying up cash",
+        "b": "Immediate improvement in credit quality is guaranteed",
+        "c": "Asset turnover must rise automatically",
+        "d": "Suppliers are necessarily offering longer payment terms"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q65",
+      "text": "Why is the choice of comparable peers important in margin and turnover analysis?",
+      "options": {
+        "a": "Peer comparison automatically determines intrinsic equity value",
+        "b": "Ratios are completely invariant to accounting policies",
+        "c": "Operating models, accounting choices, and capital intensity vary across businesses",
+        "d": "All listed firms operate in the same market"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q66",
+      "text": "Why do analyst adjustments for unusual items require skepticism?",
+      "options": {
+        "a": "Adjustments eliminate all forecasting uncertainty",
+        "b": "Unusual losses never convey economic information",
+        "c": "Some supposedly non-recurring expenses may recur, while adjustments can be subjective",
+        "d": "Management adjustments are always identical to audited net income"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q67",
+      "text": "Two firms both earn €20 million on average assets of €200 million. Firm A has €100 million average equity, while Firm B has €50 million. Which conclusion follows from DuPont's two-factor identity?",
+      "options": {
+        "a": "Both firms necessarily have the same ROE",
+        "b": "Firm B has the higher ROE because it uses greater leverage",
+        "c": "Firm A has the higher ROE because its equity is larger",
+        "d": "Firm B has lower ROA because its equity is smaller"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q68",
+      "text": "A company reports a net profit margin of 4% and asset turnover of 1.5. What is its ROA under the simple DuPont formulation?",
+      "options": {
+        "a": "6%",
+        "b": "2.67%",
+        "c": "0.375%",
+        "d": "37.5%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa6q69",
+      "text": "A firm's gross margin falls while SG&A-to-sales and R&D-to-sales stay unchanged. Which explanation should be examined first?",
+      "options": {
+        "a": "Only the maturity of its bonds",
+        "b": "Only the number of ordinary shares",
+        "c": "Selling prices, product mix, or costs of goods sold",
+        "d": "Only its dividend policy"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q70",
+      "text": "An analyst sees high ROE coupled with low ROA and a high asset-to-equity ratio. What is the most defensible interpretation?",
+      "options": {
+        "a": "The return is independent of financing choices",
+        "b": "Leverage is an important contributor to ROE and raises risk",
+        "c": "The firm must have superior operating margins",
+        "d": "The firm has no financial liabilities"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa6q71",
+      "text": "A firm raises reported earnings by sharply cutting R&D while its product pipeline deteriorates. Which earnings-quality concern is most relevant?",
+      "options": {
+        "a": "The firm has created additional acquired goodwill",
+        "b": "All cost reductions necessarily improve sustainable earnings",
+        "c": "Current earnings may be temporarily inflated at the expense of future growth",
+        "d": "Its cash conversion cycle must become negative"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa6q72",
+      "text": "A company has current assets of €100 million, including €35 million inventory, and current liabilities of €80 million. Ignoring other exclusions, why could the quick ratio be below one despite a current ratio above one?",
+      "options": {
+        "a": "The cash ratio adds inventories back",
+        "b": "The quick ratio divides by long-term liabilities",
+        "c": "The current ratio always excludes receivables",
+        "d": "The quick ratio excludes inventory, reducing its numerator"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa6q73",
+      "text": "A firm has a classic Altman Z-score of 1.5. Which assessment aligns with the slide's thresholds?",
+      "options": {
+        "a": "It proves legal insolvency has already occurred",
+        "b": "It guarantees default within 24 hours",
+        "c": "It falls in the distress range, though further contextual analysis is required",
+        "d": "It is automatically in the healthy zone"
+      },
+      "answer": "c",
+      "image": null
+    }
+  ]
+}

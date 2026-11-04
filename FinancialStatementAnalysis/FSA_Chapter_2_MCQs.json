@@ -1,0 +1,930 @@
+{
+  "id": "fsa-chapter-2",
+  "name": "Chapter 2: Balance sheet: Assets",
+  "questions": [
+    {
+      "id": "fsa2q1",
+      "text": "Which three broad classes appear on the balance sheet?",
+      "options": {
+        "a": "Sales, gross profit, and net income",
+        "b": "Assets, liabilities, and shareholders' equity",
+        "c": "Operating, investing, and financing activities",
+        "d": "Revenue, expenses, and dividends"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q2",
+      "text": "Why are balance-sheet accounts called permanent accounts?",
+      "options": {
+        "a": "Their balances carry forward from one reporting period to the next",
+        "b": "Their balances must never change",
+        "c": "They contain no accounting estimates",
+        "d": "They always reflect market values"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q3",
+      "text": "Which characteristic is fundamental to recognizing an asset in the lecture?",
+      "options": {
+        "a": "An intention to create cash in a later period",
+        "b": "Control of a resource arising from a past transaction and expected future benefits",
+        "c": "A positive advertising campaign alone",
+        "d": "A possible future purchase unaccompanied by any past event"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q4",
+      "text": "Which asset is most naturally current?",
+      "options": {
+        "a": "Accounts receivable expected to be collected within the operating cycle",
+        "b": "A patent with 15 years remaining",
+        "c": "Goodwill on an acquisition",
+        "d": "A factory building used for 20 years"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q5",
+      "text": "What distinguishes cash equivalents from ordinary long-term investments in the lecture?",
+      "options": {
+        "a": "Cash equivalents must consist entirely of ordinary shares",
+        "b": "Cash equivalents cannot be sold",
+        "c": "Cash equivalents always pay more interest",
+        "d": "Cash equivalents have an original maturity of 90 days or fewer"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q6",
+      "text": "What is a short-term investment?",
+      "options": {
+        "a": "A marketable security the firm expects to sell within the coming year",
+        "b": "The original cost of a factory",
+        "c": "A nontransferable patent used indefinitely",
+        "d": "A long-term goodwill balance"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q7",
+      "text": "Why are accounts receivable reported net of an allowance?",
+      "options": {
+        "a": "Sales are always recognized only upon cash collection",
+        "b": "Accounts receivable are never assets",
+        "c": "Some customer balances are expected to be uncollectible",
+        "d": "All customers must pay in advance"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q8",
+      "text": "What does a prepaid insurance premium represent before the coverage is consumed?",
+      "options": {
+        "a": "A prepaid asset",
+        "b": "Unearned revenue received",
+        "c": "A share repurchase",
+        "d": "Interest expense owed"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q9",
+      "text": "What is operating cash in the lecture's cash analysis?",
+      "options": {
+        "a": "All cash held by a firm regardless of business needs",
+        "b": "Net income earned but not distributed",
+        "c": "Cash considered necessary for normal business operations",
+        "d": "Only cash obtained from issuing debt"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q10",
+      "text": "What is excess cash?",
+      "options": {
+        "a": "Only cash in foreign currencies",
+        "b": "Cash required to pay ordinary suppliers",
+        "c": "Cash pledged to meet trade payables",
+        "d": "Cash held above the amount needed for normal operations"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q11",
+      "text": "What approximate operating-cash rule of thumb is offered in the slides?",
+      "options": {
+        "a": "Around 1% of annual sales",
+        "b": "Exactly 10% of shareholders' equity",
+        "c": "Around 30% of gross profit",
+        "d": "Around 50% of current liabilities"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q12",
+      "text": "How is ending inventory valued conceptually?",
+      "options": {
+        "a": "Quantity of remaining inventory multiplied by its assigned unit cost",
+        "b": "Total assets less fixed assets",
+        "c": "Net income multiplied by days sales outstanding",
+        "d": "All revenue from goods sold"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q13",
+      "text": "Under FIFO, which units are assumed sold first?",
+      "options": {
+        "a": "The newest units purchased or produced",
+        "b": "The units with the highest profit margin",
+        "c": "The oldest units purchased or produced",
+        "d": "Only the units with the lowest selling price"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q14",
+      "text": "Under LIFO, which units are assumed sold first?",
+      "options": {
+        "a": "The units with the lowest physical weight",
+        "b": "The most recently acquired units",
+        "c": "The oldest acquired units",
+        "d": "Only damaged units"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q15",
+      "text": "Which inventory cost-flow method is not permitted under IFRS?",
+      "options": {
+        "a": "Specific identification where appropriate",
+        "b": "Weighted-average cost",
+        "c": "FIFO",
+        "d": "LIFO"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q16",
+      "text": "If inventory input prices rise, which result is generally associated with FIFO rather than LIFO, all else equal?",
+      "options": {
+        "a": "Identical ending inventory regardless of inventory flows",
+        "b": "Lower ending inventory and lower net income",
+        "c": "Higher ending inventory and higher net income",
+        "d": "Higher cost of goods sold and lower net income"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q17",
+      "text": "Why is FIFO said to make the balance sheet more current under rising purchase costs?",
+      "options": {
+        "a": "It always reports inventory at selling price",
+        "b": "Its cost of goods sold uses the newest units",
+        "c": "It makes all inventory non-current",
+        "d": "Its ending inventory tends to contain newer, more recently priced units"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q18",
+      "text": "Why might LIFO produce cost of goods sold closer to current replacement cost?",
+      "options": {
+        "a": "Recent inventory costs enter cost of goods sold first",
+        "b": "It eliminates all price-change effects",
+        "c": "Inventory is valued at future selling prices",
+        "d": "Oldest costs always enter cost of goods sold first"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q19",
+      "text": "What does inventory turnover measure?",
+      "options": {
+        "a": "The fraction of assets financed by equity",
+        "b": "The days needed to pay suppliers",
+        "c": "The percentage of credit sales collected",
+        "d": "How many times inventory is sold or cycled during a period"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q20",
+      "text": "Which denominator is used in the lecture's inventory turnover ratio?",
+      "options": {
+        "a": "Total liabilities",
+        "b": "Gross profit",
+        "c": "Average inventory over the period",
+        "d": "Closing shareholders' equity"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q21",
+      "text": "What is the numerator of the inventory turnover ratio?",
+      "options": {
+        "a": "Sales revenue",
+        "b": "Current liabilities",
+        "c": "Cost of goods sold",
+        "d": "Cash from financing activities"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q22",
+      "text": "What does days inventory outstanding (DIO) measure?",
+      "options": {
+        "a": "Average number of days inventory remains before sale",
+        "b": "Days between financial statements",
+        "c": "Average days suppliers take to receive payment",
+        "d": "Average days customers take to pay"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q23",
+      "text": "How is DIO calculated from inventory turnover using the lecture's convention?",
+      "options": {
+        "a": "Inventory turnover divided by 365",
+        "b": "365 multiplied by profit margin",
+        "c": "Sales divided by annual interest expense",
+        "d": "365 divided by inventory turnover"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q24",
+      "text": "If inventory turnover rises while other conditions are unchanged, what happens to DIO?",
+      "options": {
+        "a": "DIO rises in the same proportion",
+        "b": "DIO falls",
+        "c": "DIO cannot change",
+        "d": "DIO becomes equal to the current ratio"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q25",
+      "text": "Why can a higher DIO be economically reasonable in some cases?",
+      "options": {
+        "a": "A shift toward slower-selling, higher-margin products may raise DIO",
+        "b": "DIO is independent of product mix",
+        "c": "Higher DIO always means fewer goods held",
+        "d": "Any higher DIO proves accounting fraud"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q26",
+      "text": "Which production method generally helps reduce work-in-process inventory?",
+      "options": {
+        "a": "Extending production waiting time",
+        "b": "Building goods solely for speculative demand",
+        "c": "Eliminating production bottlenecks",
+        "d": "Increasing the number of unfinished batches"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q27",
+      "text": "What is the role of just-in-time deliveries?",
+      "options": {
+        "a": "Ensuring suppliers are always paid late",
+        "b": "Reducing inventories of raw materials and associated holding costs",
+        "c": "Increasing warehouses without increasing sales",
+        "d": "Converting all finished goods into intangible assets"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q28",
+      "text": "What is demand-pull production?",
+      "options": {
+        "a": "Purchasing equipment without a production plan",
+        "b": "Manufacturing only for highly optimistic sales forecasts",
+        "c": "Increasing finished goods irrespective of demand",
+        "d": "Starting production in response to actual customer demand"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q29",
+      "text": "All else equal, what is the immediate cash effect of reducing days inventory outstanding?",
+      "options": {
+        "a": "More cash must be tied up in inventory",
+        "b": "Cash is released from inventory investment",
+        "c": "Shareholders' equity automatically falls",
+        "d": "Accounts receivable must increase equally"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q30",
+      "text": "What is an accounts receivable?",
+      "options": {
+        "a": "A loan the firm owes a bank",
+        "b": "The market price of a bond",
+        "c": "An amount owed by a customer for goods or services sold on credit",
+        "d": "An advance payment made to an employee"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q31",
+      "text": "What does aging analysis of accounts receivable help estimate?",
+      "options": {
+        "a": "The market value of goodwill",
+        "b": "The physical useful life of factories",
+        "c": "The average maturity of bonds",
+        "d": "Expected credit losses or uncollectible balances"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q32",
+      "text": "What is accounts receivable turnover in the course?",
+      "options": {
+        "a": "Sales divided by average net accounts receivable",
+        "b": "Cost of goods sold divided by inventory",
+        "c": "Sales divided by average accounts payable",
+        "d": "Average receivables divided by net income"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q33",
+      "text": "What does days sales outstanding (DSO) capture?",
+      "options": {
+        "a": "Average number of days required to collect credit sales",
+        "b": "Average inventory storage period",
+        "c": "Average time before paying suppliers",
+        "d": "Days from borrowing to bond maturity"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q34",
+      "text": "How is DSO obtained from receivables turnover?",
+      "options": {
+        "a": "Sales multiplied by total assets",
+        "b": "365 divided by the current ratio",
+        "c": "365 divided by receivables turnover",
+        "d": "Receivables turnover divided by 365"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q35",
+      "text": "If receivables increase faster than sales, what usually happens to receivables turnover?",
+      "options": {
+        "a": "It equals inventory turnover",
+        "b": "It always remains constant",
+        "c": "It increases",
+        "d": "It decreases"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q36",
+      "text": "If receivables grow faster than sales, what happens to DSO, all else equal?",
+      "options": {
+        "a": "It falls to zero",
+        "b": "It increases",
+        "c": "It is always unchanged",
+        "d": "It becomes negative"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q37",
+      "text": "What might an increase in DSO signal?",
+      "options": {
+        "a": "Automatic improvement in collection efficiency",
+        "b": "A reduction in the credit-sales balance",
+        "c": "More lenient credit terms or deteriorating customer credit quality",
+        "d": "A guaranteed increase in operating cash flows"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q38",
+      "text": "Which is an example of property, plant, and equipment (PPE)?",
+      "options": {
+        "a": "A trade receivable",
+        "b": "Goodwill from an acquisition",
+        "c": "A customer contract acquired separately",
+        "d": "A manufacturing facility"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q39",
+      "text": "What is net PPE?",
+      "options": {
+        "a": "Revenue minus operating expenses",
+        "b": "Gross recognized PPE less accumulated depreciation and relevant impairments",
+        "c": "Current assets less current liabilities",
+        "d": "The gross original cost plus all dividends"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q40",
+      "text": "What does PPE turnover measure?",
+      "options": {
+        "a": "Credit losses per unit of sales",
+        "b": "Dividends per share",
+        "c": "Interest expense per unit of debt",
+        "d": "Sales generated per unit of average PPE"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q41",
+      "text": "Which change would raise PPE turnover if sales were unchanged?",
+      "options": {
+        "a": "An increase in average inventory with unchanged PPE",
+        "b": "An increase in average PPE carrying value",
+        "c": "An increase in total debt",
+        "d": "A decrease in average PPE carrying value"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q42",
+      "text": "Why is higher PPE turnover often considered favorable?",
+      "options": {
+        "a": "It necessarily means that assets are newer",
+        "b": "It eliminates future capital expenditures",
+        "c": "It always proves superior product quality",
+        "d": "It indicates greater sales relative to the invested PPE base"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q43",
+      "text": "What does a low PPE turnover relative to peers potentially suggest?",
+      "options": {
+        "a": "Greater capital intensity or underutilization of assets",
+        "b": "No capital investment in fixed assets",
+        "c": "Faster utilization of all machines",
+        "d": "Automatic overstatement of sales"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q44",
+      "text": "Under straight-line depreciation and zero residual value, what is an estimate of average PPE useful life?",
+      "options": {
+        "a": "Gross profit divided by total assets",
+        "b": "Average depreciable asset cost divided by annual depreciation expense",
+        "c": "Accumulated depreciation divided by cash",
+        "d": "Annual sales divided by interest expense"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q45",
+      "text": "Why is land excluded from the depreciable-cost base in typical PPE useful-life analysis?",
+      "options": {
+        "a": "Land cannot be owned by firms",
+        "b": "Land generally is not depreciated",
+        "c": "Land is always a liability",
+        "d": "Land is always classified as inventory"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q46",
+      "text": "Why is construction in progress typically excluded from the depreciable-cost base?",
+      "options": {
+        "a": "Construction projects are all expensed immediately",
+        "b": "Construction in progress is always goodwill",
+        "c": "Assets not yet ready for use generally are not being depreciated",
+        "d": "The balance is always held at fair value"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q47",
+      "text": "What does PPE percent used up approximate?",
+      "options": {
+        "a": "Accumulated depreciation relative to depreciable asset cost",
+        "b": "Goodwill relative to revenue",
+        "c": "Current liabilities divided by current assets",
+        "d": "Total cash flow relative to total assets"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q48",
+      "text": "What might a high percentage of PPE used up indicate for an analyst?",
+      "options": {
+        "a": "An aging depreciable asset base and possible future replacement needs",
+        "b": "A higher market capitalization by definition",
+        "c": "An inability to earn revenue in the current period",
+        "d": "Guaranteed absence of capital expenditure"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q49",
+      "text": "What is an intangible asset?",
+      "options": {
+        "a": "A cash deposit held in a bank",
+        "b": "A physical factory building",
+        "c": "An identifiable non-monetary asset lacking physical substance",
+        "d": "Any future expectation that can never be controlled"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q50",
+      "text": "Which is an example of an intangible asset?",
+      "options": {
+        "a": "A purchased patent",
+        "b": "Raw materials inventory",
+        "c": "A delivery van",
+        "d": "An accounts payable balance"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q51",
+      "text": "How does the lecture broadly distinguish internally generated and acquired intangible assets?",
+      "options": {
+        "a": "Internally generated costs are often expensed; separately acquired intangibles are generally recognized as assets",
+        "b": "Internally generated assets are always reported as goodwill",
+        "c": "Both are always recognized at arbitrary market values",
+        "d": "Neither can ever appear on the balance sheet"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q52",
+      "text": "How are finite-life intangible assets normally treated after recognition?",
+      "options": {
+        "a": "They are automatically written up every year",
+        "b": "They are amortized over their useful lives",
+        "c": "They are never subject to any expense",
+        "d": "They are treated as inventory"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q53",
+      "text": "How are indefinite-life intangible assets normally treated?",
+      "options": {
+        "a": "They are not amortized but are subject to regular impairment testing",
+        "b": "They are classified as current liabilities",
+        "c": "They are expensed when shares are issued",
+        "d": "They are amortized over exactly three years"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q54",
+      "text": "What is goodwill in the acquisition accounting framework?",
+      "options": {
+        "a": "The fair value of all inventories purchased",
+        "b": "Residual purchase consideration not assigned to identifiable net assets acquired",
+        "c": "The sum of all future revenues",
+        "d": "A firm's self-created brand value recognized annually"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q55",
+      "text": "Why is acquired goodwill a residual rather than a separately identifiable operating asset?",
+      "options": {
+        "a": "It is the same as common share par value",
+        "b": "It is always identical to the acquiree's cash",
+        "c": "It represents benefits not individually recognized among identifiable acquired net assets",
+        "d": "It must be purchased separately from any business combination"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q56",
+      "text": "What accounting treatment applies to goodwill after recognition under IFRS?",
+      "options": {
+        "a": "Automatic appreciation with every sales increase",
+        "b": "No routine amortization; impairment tests at least annually",
+        "c": "Annual straight-line amortization over five years",
+        "d": "Recognition as a current trade receivable"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q57",
+      "text": "What event may require an additional impairment assessment beyond the routine annual test?",
+      "options": {
+        "a": "Evidence of reduced recoverable value",
+        "b": "A routine dividend payment alone",
+        "c": "Issuing one new share at par",
+        "d": "A normal seasonal increase in sales"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q58",
+      "text": "What happens if goodwill is impaired?",
+      "options": {
+        "a": "Its loss is added to operating cash receipts",
+        "b": "Its carrying amount increases automatically",
+        "c": "Its impairment reverses the original acquisition",
+        "d": "Its carrying amount is reduced and an impairment loss is recognized"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q59",
+      "text": "For long-lived PPE, when is an impairment test typically triggered?",
+      "options": {
+        "a": "Only after shareholders receive dividends",
+        "b": "On every date when revenue is collected",
+        "c": "When facts or circumstances indicate possible impairment",
+        "d": "Whenever the company issues an ordinary invoice"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q60",
+      "text": "How can a prior PPE revaluation surplus affect the recognition of a subsequent impairment?",
+      "options": {
+        "a": "Revalued PPE cannot ever be impaired",
+        "b": "Every impairment must increase the revaluation surplus",
+        "c": "A loss may first reduce the related revaluation surplus before excess reaches profit or loss",
+        "d": "The impairment may only be recorded in cash flow"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q61",
+      "text": "Why examine goodwill as a percentage of total assets?",
+      "options": {
+        "a": "To determine the bond coupon rate",
+        "b": "To assess how material acquisition-related goodwill is to the balance sheet",
+        "c": "To calculate gross margin exactly",
+        "d": "To determine inventory holding days"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q62",
+      "text": "Why review goodwill impairment sensitivity disclosures?",
+      "options": {
+        "a": "They reveal a precise future share price",
+        "b": "They replace the audit opinion",
+        "c": "They guarantee that future impairment will never occur",
+        "d": "They indicate how vulnerable carrying values are to changes in key valuation assumptions"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q63",
+      "text": "What is common-size balance-sheet analysis?",
+      "options": {
+        "a": "Expressing individual balance-sheet items relative to a relevant total",
+        "b": "Subtracting net income from financing cash flow",
+        "c": "Using only market capitalization values",
+        "d": "Comparing only absolute sales figures"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q64",
+      "text": "What is trend analysis?",
+      "options": {
+        "a": "Comparing competitors in one fixed period only",
+        "b": "Comparing only dividends with expenses",
+        "c": "Converting all items to foreign currency",
+        "d": "Comparing a firm's financial items or ratios across different periods"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q65",
+      "text": "What is cross-sectional analysis?",
+      "options": {
+        "a": "Removing all business-model differences by definition",
+        "b": "Comparing companies at a given point or period",
+        "c": "Calculating a bond's present value",
+        "d": "Comparing one firm exclusively with its own past"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q66",
+      "text": "Why can a cross-company comparison of PPE turnover be misleading?",
+      "options": {
+        "a": "PPE turnover never depends on sales",
+        "b": "All firms use the same useful lives and impairment estimates",
+        "c": "Firms may differ in capital intensity, leasing, asset age, and business model",
+        "d": "PPE turnover is identical in every industry"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q67",
+      "text": "Why might an impairment of a large intangible asset reduce profit without immediately reducing cash?",
+      "options": {
+        "a": "Impairment is always a financing cash inflow",
+        "b": "The charge is paid in cash immediately by shareholders",
+        "c": "An impairment charge is generally non-cash at recognition",
+        "d": "Impairment creates accounts receivable"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q68",
+      "text": "What is a central limitation of balance-sheet intangible values when assessing innovation?",
+      "options": {
+        "a": "The balance sheet must report the value of every innovation",
+        "b": "Internally developed know-how and brands may not be fully recognized",
+        "c": "Intangible assets are always current assets",
+        "d": "All internally developed ideas are reported at market value"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q69",
+      "text": "When prices are falling rather than rising, which inventory comparison deserves particular caution?",
+      "options": {
+        "a": "LIFO suddenly becomes permitted under IFRS",
+        "b": "The usual FIFO-versus-LIFO income ranking can reverse",
+        "c": "FIFO and LIFO become identical by law",
+        "d": "Inventory turnover can no longer be calculated"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q70",
+      "text": "Why is accounting for inventory relevant to comparisons of net profit margins?",
+      "options": {
+        "a": "Inventory valuation influences only cash equivalents",
+        "b": "Inventory costing methods must always yield the same net income",
+        "c": "Cost-flow assumptions can affect both cost of goods sold and reported earnings",
+        "d": "Inventory is never recognized in the income statement"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q71",
+      "text": "A retailer's inventory turnover increases from 5 to 10 with unchanged selling prices and product quality. Which interpretation is most consistent with the lecture?",
+      "options": {
+        "a": "The retailer necessarily reports higher goodwill",
+        "b": "The retailer's DIO doubles",
+        "c": "Its cash conversion cycle must rise regardless of receivables and payables",
+        "d": "The retailer holds inventory for fewer days on average"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q72",
+      "text": "A firm uses FIFO in an inflationary environment. Which comparison to a hypothetical LIFO firm using identical physical inventory flows is most reasonable?",
+      "options": {
+        "a": "LIFO is the only inventory method permitted under IFRS",
+        "b": "FIFO reports a lower cost of goods sold and a higher closing inventory balance",
+        "c": "FIFO reports a higher cost of goods sold and a lower closing inventory balance",
+        "d": "FIFO and LIFO always produce identical cost of goods sold under inflation"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q73",
+      "text": "A firm extends its customers' payment terms from 30 to 60 days without increasing sales. Which outcome is most plausible?",
+      "options": {
+        "a": "DSO decreases because customers have more time to pay",
+        "b": "Receivable turnover rises automatically",
+        "c": "Inventory turnover necessarily falls by exactly half",
+        "d": "Receivables and DSO increase, potentially tying up more cash"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa2q74",
+      "text": "Two firms report identical sales, but Firm A owns its factories while Firm B outsources manufacturing. What is the best caution when comparing PPE turnover?",
+      "options": {
+        "a": "A higher PPE turnover proves a longer useful life for assets",
+        "b": "Both firms must report identical PPE turnover",
+        "c": "Different operating models can explain differing turnover rates without proving different managerial quality",
+        "d": "The firm with lower PPE must always have lower profit"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa2q75",
+      "text": "A company acquires a business for more than the fair value of identifiable net assets acquired. How is the residual normally accounted for?",
+      "options": {
+        "a": "Recognized as goodwill subject to impairment testing",
+        "b": "Recognized as annual research expense",
+        "c": "Recognized as an inventory write-down",
+        "d": "Recognized as immediate revenue"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa2q76",
+      "text": "A firm has high accumulated depreciation relative to depreciable cost, but recently invested in new technology. Which interpretation is safest?",
+      "options": {
+        "a": "The ratio is unrelated to useful lives and accounting estimates",
+        "b": "The percent-used-up ratio needs context on asset mix and recent capital expenditures",
+        "c": "The entire asset base is necessarily obsolete",
+        "d": "The firm's replacement capital expenditure must be zero"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa2q77",
+      "text": "A company records a large non-cash impairment loss on goodwill. Which immediate interpretation is appropriate?",
+      "options": {
+        "a": "The impairment represents a cash dividend to shareholders",
+        "b": "Cash from operations must decrease by exactly the impairment amount",
+        "c": "The firm automatically raises new equity",
+        "d": "Accounting earnings and net assets fall, but the loss is not itself a same-period operating cash payment"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}

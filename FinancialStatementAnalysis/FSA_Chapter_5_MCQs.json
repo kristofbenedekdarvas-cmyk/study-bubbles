@@ -1,0 +1,726 @@
+{
+  "id": "fsa-chapter-5",
+  "name": "Chapter 5: Cash flow statement",
+  "questions": [
+    {
+      "id": "fsa5q1",
+      "text": "What does the statement of cash flows explain?",
+      "options": {
+        "a": "Only changes in goodwill balances",
+        "b": "The total market capitalization at a point in time",
+        "c": "Only net income attributable to common shareholders",
+        "d": "Changes in cash resulting from operating, investing, and financing activities during a period"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q2",
+      "text": "Why is a cash flow statement needed in addition to the income statement?",
+      "options": {
+        "a": "Accrual earnings do not necessarily equal cash available to meet obligations",
+        "b": "Net income automatically determines the bank balance",
+        "c": "Depreciation is invariably a cash payment",
+        "d": "Revenue is always received immediately in cash"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q3",
+      "text": "What does liquidity mean in the cash flow statement's analytical context?",
+      "options": {
+        "a": "Ability to increase share prices",
+        "b": "Ability to eliminate all long-term assets",
+        "c": "Availability of cash to meet short-term obligations",
+        "d": "Ability to earn the highest gross margin"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q4",
+      "text": "What does solvency refer to in the lecture's framework?",
+      "options": {
+        "a": "The existence of a patent portfolio",
+        "b": "Only the speed at which inventory is sold",
+        "c": "Only the stability of the dividend yield",
+        "d": "Capacity to meet short-term and long-term obligations"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q5",
+      "text": "What is financial flexibility?",
+      "options": {
+        "a": "Capacity to generate or access cash for opportunities and unexpected needs",
+        "b": "The fraction of all shares held by insiders",
+        "c": "The percentage of sales made in foreign currencies",
+        "d": "The length of the depreciation schedule"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q6",
+      "text": "Under IAS 7, operating cash flow broadly relates to what?",
+      "options": {
+        "a": "Repaying the face amount of bonds exclusively",
+        "b": "Principal revenue-producing and other operating activities",
+        "c": "Buying production plants exclusively",
+        "d": "Issuing common shares exclusively"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q7",
+      "text": "What is a typical investing cash outflow?",
+      "options": {
+        "a": "Paying an employee's monthly salary",
+        "b": "Purchasing a factory for cash",
+        "c": "Issuing new shares for cash",
+        "d": "Receiving cash from customers"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q8",
+      "text": "What is a typical financing cash inflow?",
+      "options": {
+        "a": "Selling inventory to a customer",
+        "b": "Collecting a trade receivable",
+        "c": "Obtaining proceeds from a long-term borrowing",
+        "d": "Selling an old production machine"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q9",
+      "text": "How does paying a cash dividend normally appear under the classification used in the course?",
+      "options": {
+        "a": "As an investing cash inflow",
+        "b": "As a non-current intangible asset",
+        "c": "As an operating cash receipt",
+        "d": "As a financing cash outflow"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q10",
+      "text": "What is the formula for total cash flow used in the lecture?",
+      "options": {
+        "a": "Revenue - Cost of goods sold",
+        "b": "CFO + CFI + CFF",
+        "c": "Net income + Dividends",
+        "d": "Assets - Liabilities"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q11",
+      "text": "What is the main difference between the direct and indirect CFO methods?",
+      "options": {
+        "a": "Direct uses market values and indirect uses tax rates",
+        "b": "Direct reports operating cash receipts and payments, while indirect reconciles accounting earnings to operating cash",
+        "c": "The two methods describe different underlying operating cash totals",
+        "d": "Direct covers investing and indirect covers financing only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q12",
+      "text": "What is the usual starting point of the indirect CFO method?",
+      "options": {
+        "a": "Total assets",
+        "b": "Net income or profit",
+        "c": "The maturity value of bonds",
+        "d": "Closing common share price"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q13",
+      "text": "Why is depreciation generally added back in the indirect CFO reconciliation?",
+      "options": {
+        "a": "It represents cash borrowed from a bank",
+        "b": "It was omitted from profit despite being a cash payment",
+        "c": "It reduced profit without representing current-period operating cash outflow",
+        "d": "It is a dividend paid to owners"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q14",
+      "text": "What is the indirect-method cash effect of an increase in accounts receivable, all else equal?",
+      "options": {
+        "a": "A financing cash inflow",
+        "b": "No relation to cash receipts from customers",
+        "c": "A reduction in operating cash flow relative to net income",
+        "d": "An increase in operating cash flow relative to net income"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q15",
+      "text": "Why does an increase in inventory generally reduce indirect-method operating cash flow, all else equal?",
+      "options": {
+        "a": "Cash is tied up in goods that have not yet been sold",
+        "b": "The firm necessarily issued additional shares",
+        "c": "Inventory gains are classified as dividends",
+        "d": "Inventory can only be bought on permanent credit"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q16",
+      "text": "What is the indirect-method cash effect of an increase in accounts payable, all else equal?",
+      "options": {
+        "a": "An investing cash outflow",
+        "b": "A deduction from share premium",
+        "c": "An upward adjustment to cash from operations",
+        "d": "A downward adjustment to cash from operations"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q17",
+      "text": "Why is a gain on sale of equipment typically removed from indirect-method CFO?",
+      "options": {
+        "a": "The gain creates no income statement effect",
+        "b": "The gain affects net income, while sale proceeds belong to investing activities",
+        "c": "A gain on equipment is always a financing receipt",
+        "d": "The proceeds must always be recognized as sales revenue"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q18",
+      "text": "Which is an example of cash collected from customers under the direct method?",
+      "options": {
+        "a": "Issuance of corporate bonds",
+        "b": "Unrealized revaluation surplus",
+        "c": "Receipts from cash sales and settlement of trade receivables",
+        "d": "Depreciation expense"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q19",
+      "text": "What does the direct method subtract from operating cash receipts?",
+      "options": {
+        "a": "Cash paid to suppliers, employees, and other operating parties",
+        "b": "The book value of every share outstanding",
+        "c": "The opening carrying value of goodwill",
+        "d": "The market capitalization of the company"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q20",
+      "text": "Do the direct and indirect CFO methods produce different operating cash flow totals for the same underlying transactions?",
+      "options": {
+        "a": "Yes, the direct method must always be higher",
+        "b": "Yes, the methods use mutually exclusive operating definitions",
+        "c": "No, they are alternative presentations of the same operating cash flow",
+        "d": "Yes, the indirect method always ignores liabilities"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q21",
+      "text": "Which cash transaction belongs to cash flow from investing activities in the course?",
+      "options": {
+        "a": "Cash received from customers for services",
+        "b": "Cash spent acquiring a new production line",
+        "c": "Cash raised by issuing ordinary shares",
+        "d": "Cash paid to suppliers for inventories"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q22",
+      "text": "What is the cash-flow classification of selling an existing piece of PPE for cash?",
+      "options": {
+        "a": "An investing cash inflow",
+        "b": "A shareholder contribution",
+        "c": "An operating cash outflow",
+        "d": "A financing cash inflow"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q23",
+      "text": "Which transaction would normally be classified as a financing outflow?",
+      "options": {
+        "a": "Paying cash to buy intangible assets",
+        "b": "Collecting overdue trade receivables",
+        "c": "Paying for raw materials",
+        "d": "Repaying bank-loan principal"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q24",
+      "text": "How does a cash share repurchase affect financing cash flow?",
+      "options": {
+        "a": "It creates an investing cash inflow",
+        "b": "It is recorded as revenue",
+        "c": "It creates a financing cash outflow",
+        "d": "It adds to operating cash flow"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q25",
+      "text": "Why are borrowing proceeds not part of net income when the loan is first received?",
+      "options": {
+        "a": "Debt proceeds are an increase in gross margin",
+        "b": "Interest expense is eliminated when proceeds arrive",
+        "c": "Borrowing creates a liability rather than earned revenue",
+        "d": "Borrowing represents profit from selling an asset"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q26",
+      "text": "What does a strongly negative CFI often indicate for a growing firm?",
+      "options": {
+        "a": "Automatic repayment of all bonds",
+        "b": "An absence of productive capital spending",
+        "c": "Certain business failure",
+        "d": "Substantial investment in long-lived assets and other growth opportunities"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q27",
+      "text": "Why is positive CFI not automatically a favorable sign?",
+      "options": {
+        "a": "Positive CFI proves that operations are profitable",
+        "b": "Positive CFI means the firm never made an investment",
+        "c": "Positive CFI must equal an increase in receivables",
+        "d": "It may arise from selling productive assets or liquidating investments"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q28",
+      "text": "What is free cash flow (FCF) as defined in Chapter 5's lecture slides?",
+      "options": {
+        "a": "Total cash flow plus dividends",
+        "b": "Only dividends plus share repurchases",
+        "c": "Net income divided by current liabilities",
+        "d": "Cash flow from operations plus cash flow from investing activities"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q29",
+      "text": "Why does the lecture caution against interpreting its simple FCF measure as a complete measure of value creation?",
+      "options": {
+        "a": "Cash investment outlays can reduce measured FCF even when they create valuable future assets",
+        "b": "Cash flows cannot be negative for growing firms",
+        "c": "All investment spending destroys economic value",
+        "d": "FCF precisely captures every non-cash benefit"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q30",
+      "text": "What distinguishes cash flow from profitability?",
+      "options": {
+        "a": "Cash flow records cash movements; profit reflects accrual recognition of economic performance",
+        "b": "Profit ignores all expenses",
+        "c": "Cash flow and accounting profit are identical by definition",
+        "d": "Cash flow is only the annual change in equity"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q31",
+      "text": "Under Dickinson's cash-flow-sign framework, what pattern characterizes an introductory-stage firm?",
+      "options": {
+        "a": "Negative CFO, negative CFI, positive CFF",
+        "b": "Positive CFO, negative CFI, negative CFF",
+        "c": "Negative CFO, positive CFI, negative CFF",
+        "d": "Positive CFO, positive CFI, positive CFF"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q32",
+      "text": "Under Dickinson's framework, what pattern is characteristic of a growth-stage firm?",
+      "options": {
+        "a": "Negative CFO, negative CFI, negative CFF",
+        "b": "Negative CFO, positive CFI, negative CFF",
+        "c": "Positive CFO, positive CFI, negative CFF",
+        "d": "Positive CFO, negative CFI, positive CFF"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q33",
+      "text": "Under Dickinson's framework, which sign pattern characterizes a mature firm?",
+      "options": {
+        "a": "Positive CFO, negative CFI, negative CFF",
+        "b": "Negative CFO, positive CFI, positive CFF",
+        "c": "Positive CFO, positive CFI, positive CFF",
+        "d": "Negative CFO, negative CFI, positive CFF"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q34",
+      "text": "Which economic story best matches mature-firm cash flow patterns?",
+      "options": {
+        "a": "Business operations consume cash and all activities rely on new equity issuance",
+        "b": "There is no need to invest in long-lived assets",
+        "c": "Established operations fund investment and net payments to capital providers",
+        "d": "Assets must always be liquidated to fund ongoing operations"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q35",
+      "text": "Why might a young, fast-growing firm have negative total cash flow despite an attractive business model?",
+      "options": {
+        "a": "The firm must have violated accounting standards",
+        "b": "Investment outlays may exceed contemporaneous cash generation and financing",
+        "c": "Negative cash flow proves demand is absent",
+        "d": "Cash flow cannot be negative if sales grow"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q36",
+      "text": "How can financing cash flow assist in identifying a company's stage of development?",
+      "options": {
+        "a": "Financing cash flow always increases with age",
+        "b": "All life-cycle stages have identical financing cash flow",
+        "c": "Financing activity consists only of customer collections",
+        "d": "Young firms often raise capital, whereas mature firms may repay debt and distribute cash"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q37",
+      "text": "Why should cash-flow-sign life-cycle classification be treated as a proxy rather than conclusive proof?",
+      "options": {
+        "a": "Life-cycle stages can be observed perfectly from one ratio",
+        "b": "Temporary transactions and circumstances can produce misleading sign patterns",
+        "c": "Accounting standards prohibit changing investment policies",
+        "d": "The cash flow statement is never audited"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q38",
+      "text": "What is a possible interpretation of negative CFO combined with positive financing cash flow?",
+      "options": {
+        "a": "Operations are necessarily producing record profits in cash",
+        "b": "There is no financing dependence",
+        "c": "Operations are consuming cash and external funding is supporting the firm",
+        "d": "The firm is paying all debt off immediately"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q39",
+      "text": "Why can a business with positive CFO nevertheless experience a fall in cash?",
+      "options": {
+        "a": "Inventory cannot affect cash balances",
+        "b": "Investing and financing outflows may exceed CFO",
+        "c": "Depreciation must always consume cash",
+        "d": "All positive CFO must increase cash"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q40",
+      "text": "Why do analysts compare CFO with debt commitments?",
+      "options": {
+        "a": "Debt cannot be repaid with cash generated from operations",
+        "b": "Share price alone determines loan repayment ability",
+        "c": "Cash generation is crucial for actual interest and principal payments",
+        "d": "Accounting profit can always be used directly as money"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q41",
+      "text": "What is the practitioner approximation to operating cash flow shown in the lecture?",
+      "options": {
+        "a": "Revenue - Operating expenses + Share price",
+        "b": "Net income + Depreciation + Amortization + Pension provisions",
+        "c": "Cash from investing + Cash from financing",
+        "d": "Dividends + Equity issues - Borrowings"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q42",
+      "text": "Why does the lecturer describe the simple practitioner operating-cash-flow formula as crude?",
+      "options": {
+        "a": "It omits important working-capital movements and other non-cash adjustments",
+        "b": "It includes future cash receipts from every new project",
+        "c": "It is mathematically identical to audited CFO under all circumstances",
+        "d": "It adjusts fully for every cash and non-cash item"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q43",
+      "text": "What does a decrease in accrued operating expenses generally do in an indirect CFO reconciliation?",
+      "options": {
+        "a": "It becomes an investing inflow",
+        "b": "It reduces operating cash flow relative to net income",
+        "c": "It has no cash effect regardless of payment",
+        "d": "It raises operating cash flow relative to net income"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q44",
+      "text": "What is the cash flow classification of collecting principal on a loan granted to another company under the course's general IAS 7 treatment?",
+      "options": {
+        "a": "An operating cash outflow from wages",
+        "b": "A dividend paid to shareholders",
+        "c": "A financing cash inflow from bond issuance",
+        "d": "An investing cash inflow"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q45",
+      "text": "What is the cash flow classification of buying an ownership stake in another company for investment purposes?",
+      "options": {
+        "a": "Operating inflow from customers",
+        "b": "Investing outflow",
+        "c": "Financing inflow from issuing shares",
+        "d": "Other comprehensive income only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q46",
+      "text": "What is one major use of cash flow statements for credit analysis?",
+      "options": {
+        "a": "Measuring only the number of outstanding patents",
+        "b": "Assessing whether operating cash can cover financing and other cash needs",
+        "c": "Determining the board's gender composition",
+        "d": "Guaranteeing that interest rates will decline"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q47",
+      "text": "Why might a firm have accounting profit but insufficient liquidity?",
+      "options": {
+        "a": "Profit includes non-cash accruals and cash may be tied up in working capital or investments",
+        "b": "Profit legally requires immediate collection of all receivables",
+        "c": "Every profitable sale is paid in cash on the same date",
+        "d": "Liquidity and solvency are identical to profit"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q48",
+      "text": "How does an increase in prepaid expenses generally affect indirect-method CFO?",
+      "options": {
+        "a": "It reduces total shares outstanding",
+        "b": "It increases cash from borrowing",
+        "c": "It increases CFO relative to net income",
+        "d": "It reduces CFO relative to net income"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q49",
+      "text": "When selling a machine for cash above its carrying amount, which presentation is consistent with the indirect method?",
+      "options": {
+        "a": "Classify the sale proceeds as financing inflow",
+        "b": "Subtract the disposal gain from CFO and show the cash proceeds in CFI",
+        "c": "Add the full sales proceeds to both CFO and CFI",
+        "d": "Ignore both the gain and the proceeds"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa5q50",
+      "text": "What limitation arises when using the sign of CFI alone to assess investment quality?",
+      "options": {
+        "a": "Cash outflows do not reveal whether the projects have positive net present value",
+        "b": "Positive CFI always means future growth is strong",
+        "c": "All negative investing cash flows are harmful",
+        "d": "The sign of CFI reports the expected return exactly"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q51",
+      "text": "Why can major acquisitions make cash-flow patterns difficult to interpret?",
+      "options": {
+        "a": "Acquisitions cannot affect cash flow",
+        "b": "Acquisition outflows must be classified as dividends",
+        "c": "Acquisitions always increase operating cash flow immediately",
+        "d": "Large one-off investing outflows may dominate otherwise normal period cash flows"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q52",
+      "text": "What is the effect of repaying outstanding debt with cash?",
+      "options": {
+        "a": "Investing cash inflow and lower PPE",
+        "b": "Operating cash inflow and higher retained earnings",
+        "c": "Financing cash outflow and a reduction in the debt liability",
+        "d": "A simultaneous increase in cash and debt"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q53",
+      "text": "What cash-flow pattern best supports a claim of internally financed operating sustainability?",
+      "options": {
+        "a": "Recurring positive CFO sufficient to support necessary reinvestment and obligations",
+        "b": "Persistent reliance on new borrowings to pay all operating expenses",
+        "c": "Consistently negative CFO with no accessible external capital",
+        "d": "A large gain from selling a one-time asset"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q54",
+      "text": "Why are classification policies relevant when comparing cash flow statements of different companies?",
+      "options": {
+        "a": "Some payments, such as interest and dividends under IAS 7, may have permitted presentation alternatives subject to standards and policy choices",
+        "b": "Classification never affects CFO comparability",
+        "c": "Operating cash flow must always equal EBITDA",
+        "d": "Every jurisdiction must use identical presentation for every possible cash payment"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q55",
+      "text": "A firm shows net profit of €100 million, a €30 million rise in receivables, and €20 million depreciation, ignoring other adjustments. What is the implied indirect-method CFO?",
+      "options": {
+        "a": "€50 million",
+        "b": "€110 million",
+        "c": "€150 million",
+        "d": "€90 million"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q56",
+      "text": "A firm generates CFO of €120 million, spends €80 million net on investing activities, and repays €60 million net in financing activities. What happens to total cash flow before exchange effects?",
+      "options": {
+        "a": "It increases by €100 million",
+        "b": "It increases by €40 million",
+        "c": "It decreases by €20 million",
+        "d": "It decreases by €140 million"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q57",
+      "text": "A company sells a warehouse for cash and repays a bank loan with the proceeds. How are the two cash flows typically classified?",
+      "options": {
+        "a": "Sale in investing activities; principal repayment in financing activities",
+        "b": "Both in operating activities",
+        "c": "Both in other comprehensive income",
+        "d": "Sale in financing; principal repayment in investing"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa5q58",
+      "text": "A company reports negative CFO and negative CFI but positive CFF. Which life-cycle pattern best matches Dickinson's model?",
+      "options": {
+        "a": "The standard growth pattern",
+        "b": "Decline",
+        "c": "Maturity",
+        "d": "Introduction"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa5q59",
+      "text": "Two companies have identical CFO but different free cash flow as defined in the course. What most directly explains the difference?",
+      "options": {
+        "a": "Their auditors use different materiality thresholds",
+        "b": "Their dividend payout ratios must be identical",
+        "c": "Their net investing cash flows differ",
+        "d": "Their nominal share values differ"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa5q60",
+      "text": "A firm improves current reported profit by delaying payments to suppliers. Which caution is most relevant?",
+      "options": {
+        "a": "Operating cash flow cannot be affected by working-capital timing",
+        "b": "The improvement necessarily raises long-run gross margin",
+        "c": "Delayed supplier payments are always a financing cash inflow",
+        "d": "Cash from operations may improve temporarily without an equivalent improvement in underlying profitability"
+      },
+      "answer": "d",
+      "image": null
+    }
+  ]
+}
