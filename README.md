@@ -88,15 +88,6 @@ paper, etc.
    series' questions into one run (this appears automatically whenever a
    subject has more than one series — no extra config needed).
 
-## Adding a new subject
-
-1. Create a new folder at the project root, e.g. `statistics-1/`.
-2. Add `statistics-1/manifest.json` and at least one series file inside it,
-   following the schemas above. Put any images in `statistics-1/assets/`.
-3. Add `"statistics-1"` to the array in the root `subjects.json`.
-4. Done — it'll show up as a new card on the home screen next time the
-   site loads.
-
 ## Running it locally
 
 Because the site now *fetches* JSON files at boot, it needs to be served
