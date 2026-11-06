@@ -1,627 +1,402 @@
 {
-  "id": "fsa-chapter-1",
-  "name": "Chapter 1: Introduction to financial statements and their analysis",
+  "id": "fsa-chapter-1-exam-level",
+  "name": "Chapter 1: Introduction to Financial Statements and Their Analysis — Mock-exam-calibrated MCQs (4–6 options)",
   "questions": [
     {
-      "id": "fsa1q1",
-      "text": "Which set of functions is explicitly attributed to financial statements in the introductory lecture?",
+      "id": "fsa1examq1",
+      "text": "A firm reports assets of €950m and liabilities of €630m. During the next period it earns €65m of comprehensive income and makes net payouts of €40m. If liabilities remain unchanged, what is ending equity?",
       "options": {
-        "a": "Human resources, logistics, and procurement",
-        "b": "Information, profit and tax, and documentation",
-        "c": "Product development, pricing, and distribution",
-        "d": "Marketing, advertising, and investor relations"
+        "a": "€385m, because all comprehensive income increases equity.",
+        "b": "€295m, because cash distributions reduce reported assets twice.",
+        "c": "€345m, as equity rises by the retained comprehensive income.",
+        "d": "€360m, because net income adds to equity while dividends reduce it but share issues do not.",
+        "e": "€280m, because net payouts are excluded from the equity statement.",
+        "f": "€320m, because comprehensive income cannot change previously recognized owner claims."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa1examq2",
+      "text": "Consider the statements.\nI. A cash-flow statement reports transactions over a period.\nII. The statement of changes in equity is a point-in-time snapshot.\nIII. A balance sheet depicts claims on assets at a particular date.\nWhich set is correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "I only",
+        "d": "III only",
+        "e": "II and III only",
+        "f": "I, II and III"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa1q2",
-      "text": "Why do creditors use financial statements?",
+      "id": "fsa1examq3",
+      "text": "An equity analyst and a bond analyst study the same company. Which difference in their objectives is most consistent with the lecture?",
       "options": {
-        "a": "To replace all contractual loan agreements",
-        "b": "To assess the protection of their claims and the firm's ability to meet obligations",
-        "c": "To determine the firm's advertising slogan",
-        "d": "To guarantee the future market value of shares"
+        "a": "The equity analyst emphasizes short-term invoices; the bond analyst emphasizes market share growth.",
+        "b": "The equity analyst focuses on historic payments; the bond analyst ignores financial risk entirely.",
+        "c": "The equity analyst focuses on tax filings; the bond analyst focuses on potential dividend growth.",
+        "d": "The equity analyst is chiefly concerned with covenant compliance, whereas the bond analyst seeks capital appreciation and voting power.",
+        "e": "The equity analyst emphasizes upside and stewardship; the bond analyst emphasizes default and covenants."
       },
-      "answer": "b",
+      "answer": "e",
       "image": null
     },
     {
-      "id": "fsa1q3",
-      "text": "Which is a primary information function of financial statements?",
+      "id": "fsa1examq4",
+      "text": "A company earns €28m net income, reports €9m other comprehensive income, pays €14m dividends, repurchases €11m of shares and issues €5m of shares. What is the change in equity?",
       "options": {
-        "a": "Eliminating the need for business strategy",
-        "b": "Ensuring that every investment is profitable",
-        "c": "Determining the exact market price of all assets",
-        "d": "Helping investors and management make decisions"
+        "a": "An increase of €12m",
+        "b": "An increase of €3m",
+        "c": "An increase of €28m",
+        "d": "An increase of €17m",
+        "e": "An increase of €37m",
+        "f": "An increase of €8m"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa1q4",
-      "text": "Why is documentation important to financial reporting?",
+      "id": "fsa1examq5",
+      "text": "Consider the statements.\nI. Retained earnings accumulate income less distributions since formation.\nII. Every unrealized gain is included in net income before it reaches equity.\nIII. Contributed capital can change when a company issues new equity.\nWhich set is correct?",
       "options": {
-        "a": "It makes the firm's competitive environment irrelevant",
-        "b": "It guarantees a positive cash balance",
-        "c": "It replaces the need for audit evidence",
-        "d": "It provides a basis for accountability and capital preservation"
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "None of I, II or III",
+        "e": "II and III only",
+        "f": "I, II and III"
       },
-      "answer": "d",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa1q5",
-      "text": "Which item belongs to the complete set of IFRS financial statements presented in the lecture?",
+      "id": "fsa1examq6",
+      "text": "A company announces that it will distribute substantially all accumulated cash as dividends, while major loans are approaching maturity. Which conflict is illustrated most directly?",
       "options": {
-        "a": "Statement of changes in shareholders' equity",
-        "b": "Employee training budget",
-        "c": "Marketing performance statement",
-        "d": "Customer satisfaction statement"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q6",
-      "text": "What does the balance sheet fundamentally describe?",
-      "options": {
-        "a": "Only cash received during a financial year",
-        "b": "The exact market price of the firm over a year",
-        "c": "Only the company's revenues and expenses",
-        "d": "The assets and claims on those assets at a specific date"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q7",
-      "text": "Which accounting identity must hold on the balance sheet?",
-      "options": {
-        "a": "Assets = Liabilities + Shareholders' equity",
-        "b": "Assets = Revenue - Expenses",
-        "c": "Equity = Revenue + Expenses",
-        "d": "Liabilities = Assets + Shareholders' equity"
+        "a": "Shareholders favor distributions, whereas creditors favor preservation of liable equity.",
+        "b": "Shareholders favor lower profits, whereas creditors favor more volatile profits.",
+        "c": "Shareholders favor higher interest, whereas creditors favor immediate equity issuance.",
+        "d": "Shareholders favor delayed payments, whereas creditors favor retained earnings accounting.",
+        "e": "Both shareholders and creditors generally prefer distributing all available cash as dividends before loan maturity."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa1q8",
-      "text": "What is shareholders' equity conceptually?",
+      "id": "fsa1examq7",
+      "text": "Which situation most directly explains why a business-model analysis should precede financial-ratio comparisons?",
       "options": {
-        "a": "All payments owed to suppliers",
-        "b": "The residual interest in assets after deducting liabilities",
-        "c": "The total market value of outstanding bonds",
-        "d": "The amount of cash held in the bank"
+        "a": "Identical accounting ratios imply identical industry economics once accounting policies are consistent.",
+        "b": "Identical ratios can reflect different competitive positions and operating economics.",
+        "c": "Identical accounting ratios guarantee identical exposure to substitutes, regulation and customer concentration.",
+        "d": "Identical ratios prove that firms have the same durability of competitive advantage.",
+        "e": "Accounting ratios already incorporate all customer and regulatory information.",
+        "f": "Business models matter only when management refuses to disclose net income."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa1q9",
-      "text": "An economic resource expected to generate future economic benefits is best classified as what?",
+      "id": "fsa1examq8",
+      "text": "A supplier of specialist components faces one dominant automobile buyer that can credibly switch suppliers. In Porter's five-forces framework, the principal pressure is:",
       "options": {
-        "a": "A dividend",
-        "b": "An ownership distribution",
-        "c": "An asset",
-        "d": "An expense in all circumstances"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q10",
-      "text": "A firm's obligation to transfer economic resources to parties other than owners is generally a what?",
-      "options": {
-        "a": "Liability",
-        "b": "Retained earning",
-        "c": "Operating revenue",
-        "d": "Share issue"
+        "a": "buyer bargaining power, which can force selling-price concessions.",
+        "b": "industry rivalry, because powerful buyers generally force the seller to pay its own suppliers earlier.",
+        "c": "the threat of new entry, which primarily reduces the buyer's own fixed costs.",
+        "d": "supplier bargaining power, which directly raises the buyer's selling price.",
+        "e": "the threat of substitutes, which directly removes all industry rivalry.",
+        "f": "buyer bargaining power, because the automaker can reduce the supplier’s margins only after acquiring equity control."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa1q11",
-      "text": "Which financial statement reports revenues less expenses over a reporting period?",
+      "id": "fsa1examq9",
+      "text": "Consider the statements.\nI. Entry barriers generally intensify the threat of entry.\nII. More substitute products can restrict a firm's pricing freedom.\nIII. Supplier bargaining power can compress a firm's margin by increasing input prices.\nWhich set is correct?",
       "options": {
-        "a": "The statement of changes in equity alone",
-        "b": "The notes section alone",
-        "c": "The balance sheet",
-        "d": "The income statement"
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "I, II and III",
+        "e": "I and II only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa1examq10",
+      "text": "Two retailers report similar gross margins, but one has exclusive logistics technology and the other relies on generic outsourced services. Which framework most directly traces where their competitive advantage is created?",
+      "options": {
+        "a": "Porter’s five forces, because it compares inbound logistics and human-resource systems within each company.",
+        "b": "A common-size balance sheet, because it measures the contribution of a proprietary logistics process to sales margins.",
+        "c": "A residual-income identity, by equating market capitalization with retained earnings.",
+        "d": "A balance-sheet identity, by excluding non-cash activities from enterprise value.",
+        "e": "Porter's value chain, by separating primary activities from support activities.",
+        "f": "A cash-flow classification, by moving supplier contracts into financing activities."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa1examq11",
+      "text": "A firm's procurement costs fall following a supplier-relationship redesign, while its marketing costs and revenue remain constant. Within the value chain, this change most directly concerns:",
+      "options": {
+        "a": "a financing activity that changes the firm's residual equity ownership.",
+        "b": "a primary outbound activity affecting only the proceeds from loans.",
+        "c": "a support activity affecting the margin earned by primary activities.",
+        "d": "an external opportunity that must be recognized as an intangible asset."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa1examq12",
+      "text": "A pharmaceutical firm has a superior research team, while a rival regulator proposes much stricter approvals. Under SWOT, how should these two observations be classified?",
+      "options": {
+        "a": "External strength and internal threat",
+        "b": "External opportunity and internal weakness",
+        "c": "Internal opportunity and external strength",
+        "d": "Internal weakness and external opportunity",
+        "e": "Internal strength and external threat"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa1examq13",
+      "text": "Consider the statements.\nI. Industry-wide regulatory tightening can be an external threat.\nII. An efficient supply chain can be an internal strength.\nIII. A firm's weak governance is necessarily an external weakness.\nWhich set is correct?",
+      "options": {
+        "a": "II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I and II only",
+        "e": "I and III only",
+        "f": "I, II and III"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa1q12",
-      "text": "Which statement groups cash flows by operating, investing, and financing activities?",
+      "id": "fsa1examq14",
+      "text": "A company's annual report reveals strong accounting profits, but major customers can terminate contracts without penalty. Which conclusion is most defensible?",
       "options": {
-        "a": "Income statement",
-        "b": "Cash flow statement",
-        "c": "Statement of shareholders' equity",
-        "d": "Balance sheet"
+        "a": "Strong accounting earnings ensure that the firm's competitive advantage is durable.",
+        "b": "Because credit sales are already recorded, customer concentration cannot alter the firm’s future bargaining power.",
+        "c": "Customers with unrestricted termination clauses necessarily make the firm’s long-run profit margin more stable.",
+        "d": "Annual profits should be replaced by the firm's tax expense for valuation.",
+        "e": "Contract terms are irrelevant once earnings appear in the income statement.",
+        "f": "Reported earnings alone are insufficient to judge the durability of the firm's advantage."
       },
-      "answer": "b",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa1q13",
-      "text": "Which equation describes the change in cash as presented in the lecture?",
+      "id": "fsa1examq15",
+      "text": "A business issues shares for €80m, repurchases shares for €25m and distributes €30m in dividends. What is its net payout to shareholders?",
       "options": {
-        "a": "Net income + Dividends",
-        "b": "Operating cash flow + Investing cash flow + Financing cash flow",
-        "c": "Assets - Liabilities",
-        "d": "Revenue - Cost of goods sold"
+        "a": "€25m, indicating net cash distributed to shareholders.",
+        "b": "−€55m, indicating net capital raised from shareholders.",
+        "c": "€55m, indicating the dividends and repurchases together.",
+        "d": "€135m, indicating the total value of equity transactions.",
+        "e": "−€25m, indicating net capital raised from shareholders."
       },
-      "answer": "b",
+      "answer": "e",
       "image": null
     },
     {
-      "id": "fsa1q14",
-      "text": "What does contributed capital primarily represent?",
+      "id": "fsa1examq16",
+      "text": "Which item is most appropriately classified as other comprehensive income rather than a cash inflow from operating activities?",
       "options": {
-        "a": "Accumulated profits retained since incorporation",
-        "b": "Amounts invested by shareholders through share issues",
-        "c": "Unrealized foreign-currency movements only",
-        "d": "Accounts payable arising from credit purchases"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa1q15",
-      "text": "How are retained earnings generally determined?",
-      "options": {
-        "a": "Cumulative net income less cumulative distributions of dividends",
-        "b": "Total assets less financial liabilities",
-        "c": "Cash balance less total debt",
-        "d": "Revenue less purchases of property"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q16",
-      "text": "What is other comprehensive income (OCI) used for?",
-      "options": {
-        "a": "Reporting certain gains and losses outside net income",
-        "b": "Recording every dividend paid as income",
-        "c": "Reporting all cash receipts from customers",
-        "d": "Recording the carrying value of all liabilities"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q17",
-      "text": "How is total comprehensive income related to net income?",
-      "options": {
-        "a": "Total comprehensive income = Net income - Total assets",
-        "b": "Total comprehensive income = Assets - Liabilities",
-        "c": "Total comprehensive income = Net income + Other comprehensive income",
-        "d": "Total comprehensive income = Revenue + Cash flow"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q18",
-      "text": "According to the lecture, what is net payout to shareholders?",
-      "options": {
-        "a": "Assets - Current liabilities",
-        "b": "Net income + Other comprehensive income",
-        "c": "Share issues + Borrowings",
-        "d": "Dividends + Share repurchases - Share issues"
+        "a": "Cash collected from customers for inventory sold during the year.",
+        "b": "An unrealized exchange gain recognized in profit on an operating trade receivable.",
+        "c": "The non-cash recognition of depreciation on a factory used in ordinary operations.",
+        "d": "A foreign-currency translation adjustment on a foreign operation.",
+        "e": "A cash advance received from a bank under a revolving credit line.",
+        "f": "Net proceeds from issuing new shares to outside shareholders."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa1q19",
-      "text": "How does a share repurchase affect the net payout measure, all else equal?",
+      "id": "fsa1examq17",
+      "text": "Consider the statements.\nI. A cash-flow statement explains the change in cash by operating, investing and financing flows.\nII. The balance sheet and income statement describe different time dimensions.\nIII. An income statement necessarily reports the same number as cash from operations.\nWhich set is correct?",
       "options": {
-        "a": "It reduces net payout to shareholders",
-        "b": "It increases net payout to shareholders",
-        "c": "It leaves net payout unchanged by definition",
-        "d": "It is classified as other comprehensive income"
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "I, II and III",
+        "d": "III only",
+        "e": "None of I, II or III",
+        "f": "II and III only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa1examq18",
+      "text": "A company loses a patent monopoly, and rivals enter the market. Sales remain stable, but the firm sharply increases discounts. Which mechanism best explains the resulting pressure on profitability?",
+      "options": {
+        "a": "Increased equity financing directly forces the company to lower list prices.",
+        "b": "Lower supplier bargaining power automatically raises the firm's cost of goods sold.",
+        "c": "Weaker entry barriers and rivalry constrain the firm's achievable selling prices.",
+        "d": "Greater accounting documentation immediately reduces the company's sales volume."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa1examq19",
+      "text": "In a business investment framework, investors buy newly issued bonds directly from a firm and later sell them to other investors. Which transaction provides funds directly to the issuer?",
+      "options": {
+        "a": "The initial issue and secondary resale each supply identical new operating cash to the issuer.",
+        "b": "Neither trade, because debt contracts never finance operations.",
+        "c": "The initial bond issue, not the later secondary-market resale.",
+        "d": "Both trades, because every investor exchange increases firm cash.",
+        "e": "Both the initial issuance and the secondary sale, but only if the secondary buyer is a financial institution.",
+        "f": "The secondary-market resale, not the firm's original bond issue."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa1examq20",
+      "text": "A business has a material technological capability developed internally that is hard to value and mostly absent from its balance sheet. What is the key implication for financial statement analysis?",
+      "options": {
+        "a": "The missing capability must have zero economic value because it lacks a carrying amount.",
+        "b": "The balance-sheet identity becomes invalid because accounting misses economic knowledge.",
+        "c": "A qualitative assessment can reveal value drivers not fully captured by accounting recognition.",
+        "d": "All internally generated know-how appears automatically in the shareholders' equity statement."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa1examq21",
+      "text": "Consider the statements.\nI. Debt investors can use financial information to estimate covenant-violation risk.\nII. Customers have no relevant reason to evaluate supplier solvency.\nIII. Employees can use financial information to assess employment security.\nWhich set is correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "I, II and III",
+        "e": "II and III only"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa1q20",
-      "text": "How does issuing new shares affect net payout, all else equal?",
+      "id": "fsa1examq22",
+      "text": "A competitor introduces a product that performs the same function at half the price. Which of Porter's five forces is most directly strengthened?",
       "options": {
-        "a": "It creates an operating expense",
-        "b": "It automatically increases retained earnings",
-        "c": "It reduces net payout to shareholders",
-        "d": "It increases net payout to shareholders"
+        "a": "The firm's procurement intensity",
+        "b": "Customer switching penalties",
+        "c": "Threat of substitution",
+        "d": "Supplier bargaining power"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa1q21",
-      "text": "Which relationship describes changes in equity in the lecture?",
+      "id": "fsa1examq23",
+      "text": "Which assertion best distinguishes financial statement analysis from business valuation?",
       "options": {
-        "a": "Ending equity = Beginning debt + Interest expense",
-        "b": "Ending equity = Beginning equity + Comprehensive income - Net payout",
-        "c": "Ending equity = Cash receipts - Cash payments",
-        "d": "Ending equity = Revenue + Total assets"
+        "a": "Analysis derives stock exchange prices from transaction volume; valuation assesses whether revenues were audited.",
+        "b": "Analysis focuses on financing decisions alone, whereas valuation is the preparation of IFRS-conforming statements.",
+        "c": "Analysis sets a stock's trading price; valuation prepares the audited statement of changes in equity.",
+        "d": "Analysis is limited to investors; valuation is limited to managers and tax authorities.",
+        "e": "Analysis extracts information on performance and financial condition; valuation estimates economic worth.",
+        "f": "Analysis measures only cash receipts; valuation measures only current accounting assets."
       },
-      "answer": "b",
+      "answer": "e",
       "image": null
     },
     {
-      "id": "fsa1q22",
-      "text": "What is a central reason equity investors analyze financial statements?",
+      "id": "fsa1examq24",
+      "text": "A company has opening equity of €210m, net income of €25m, OCI losses of €7m and net payouts of €12m. If no other equity transactions occur, ending equity equals:",
       "options": {
-        "a": "To calculate only a firm's tax liability",
-        "b": "To determine customs tariffs",
-        "c": "To evaluate investments and management performance",
-        "d": "To set the legal retirement age"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q23",
-      "text": "What is a central reason debt investors analyze financial statements?",
-      "options": {
-        "a": "To assess default risk and possible covenant violations",
-        "b": "To determine the dividend on all ordinary shares",
-        "c": "To guarantee a capital gain from bonds",
-        "d": "To replace credit ratings with employee data"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q24",
-      "text": "Which user is especially concerned with security of supply?",
-      "options": {
-        "a": "Customers",
-        "b": "Only incumbent directors",
-        "c": "Only bond underwriters",
-        "d": "Only tax authorities"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q25",
-      "text": "Which user would most directly analyze financial statements for employment security and remuneration?",
-      "options": {
-        "a": "Potential customers only",
-        "b": "Employees",
-        "c": "Warehouse contractors only",
-        "d": "Competing advertising agencies"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa1q26",
-      "text": "What is financial statement analysis in the lecture's demand-side framework?",
-      "options": {
-        "a": "A substitute for understanding business operations",
-        "b": "A method for extracting information to answer users' questions about a firm",
-        "c": "A process used only to prepare tax returns",
-        "d": "A method for ensuring that accounting profits equal cash"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa1q27",
-      "text": "In the firm's investment cycle, what is the role of the company?",
-      "options": {
-        "a": "It deploys capital in activities that may add or destroy value",
-        "b": "It guarantees investors a fixed return",
-        "c": "It fixes the price of all traded securities",
-        "d": "It only transfers securities among investors"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q28",
-      "text": "What distinguishes a secondary-market share purchase from a new share issue?",
-      "options": {
-        "a": "Neither transaction can change shareholders' positions",
-        "b": "Both always create new shares and inject cash into the firm",
-        "c": "A secondary-market purchase transfers ownership between investors, whereas a new issue raises funds for the firm",
-        "d": "Only secondary-market transactions affect ownership"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q29",
-      "text": "Why might debtholders and shareholders disagree over profit distributions?",
-      "options": {
-        "a": "Profit distributions increase creditors' collateral without exception",
-        "b": "Creditors always want dividends paid immediately",
-        "c": "Dividends can reduce assets available to satisfy creditors' claims",
-        "d": "Shareholders generally prefer more creditor protection over dividends"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q30",
-      "text": "Why do debtholders often prefer the firm to retain a sufficient equity cushion?",
-      "options": {
-        "a": "Equity holders must repay every bond personally",
-        "b": "Retained equity legally eliminates all default risk",
-        "c": "Equity absorbs losses before debt claims are affected",
-        "d": "Higher equity necessarily raises borrowing costs"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q31",
-      "text": "What must an analyst understand before interpreting reported financial performance?",
-      "options": {
-        "a": "Only the latest share price",
-        "b": "Only the total pages in the annual report",
-        "c": "The firm's business model and competitive environment",
-        "d": "Only the firm's legal name"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q32",
-      "text": "Which question is central when linking business strategy to valuation?",
-      "options": {
-        "a": "Can all qualitative factors be ignored?",
-        "b": "Are competitors necessarily unprofitable?",
-        "c": "How many fonts appear in the annual report?",
-        "d": "How durable is the firm's competitive advantage?"
+        "a": "€230m",
+        "b": "€228m",
+        "c": "€223m",
+        "d": "€216m",
+        "e": "€204m"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa1q33",
-      "text": "Why are financial statements useful when analyzing qualitative economic factors?",
+      "id": "fsa1examq25",
+      "text": "Which of the following is the most informative response to a sharp rise in the cash ratio of a struggling manufacturer?",
       "options": {
-        "a": "They provide a quantitative lens on business activity and performance",
-        "b": "They fully disclose every intangible capability",
-        "c": "They prove all strategic claims made by management",
-        "d": "They eliminate the need for sector comparison"
+        "a": "Determine whether cash is operationally needed or reflects financing and postponed investment.",
+        "b": "Treat the higher cash ratio as conclusive proof of stronger long-term competitiveness.",
+        "c": "Assume every euro of cash is excess cash available to distribute immediately.",
+        "d": "Classify the additional cash automatically as reported current-period operating profit."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa1q34",
-      "text": "Which three frameworks are introduced for business-environment analysis?",
+      "id": "fsa1examq26",
+      "text": "Consider the statements.\nI. Financial statements help determine taxable profit and distributions.\nII. Creditors are protected only through information on dividends already paid.\nIII. Documentation supports accountability for the fiscal year.\nWhich set is correct?",
       "options": {
-        "a": "CAPM, Black-Scholes, and duration",
-        "b": "FIFO, LIFO, and weighted average",
-        "c": "Porter's value chain, Porter's five forces, and SWOT",
-        "d": "DuPont, Altman Z-score, and free cash flow"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q35",
-      "text": "What does Porter's value chain emphasize?",
-      "options": {
-        "a": "Only external political risk",
-        "b": "Only the relationship between assets and liabilities",
-        "c": "How primary and support activities together generate value and affect cost",
-        "d": "Only how debt is priced on capital markets"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q36",
-      "text": "Which is a primary activity in Porter's value chain?",
-      "options": {
-        "a": "Procurement",
-        "b": "Outbound logistics",
-        "c": "Human resource management",
-        "d": "Firm infrastructure"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa1q37",
-      "text": "Which is a support activity in Porter's value chain?",
-      "options": {
-        "a": "Inbound logistics",
-        "b": "Marketing and sales",
-        "c": "After-sales service",
-        "d": "Technology development"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q38",
-      "text": "In Porter's five-forces analysis, what tends to happen when buyers have strong bargaining power?",
-      "options": {
-        "a": "Suppliers automatically lose all bargaining power",
-        "b": "Threat of substitution disappears",
-        "c": "Industry rivalry ceases",
-        "d": "They can demand lower prices or other concessions"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q39",
-      "text": "What is the likely effect of stronger supplier bargaining power?",
-      "options": {
-        "a": "Higher input prices or less favorable terms for firms",
-        "b": "Guaranteed growth in customer demand",
-        "c": "Lower cost of inputs in all cases",
-        "d": "No change to industry profitability under any circumstances"
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "I and II only",
+        "d": "None of I, II or III",
+        "e": "I, II and III",
+        "f": "II only"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa1q40",
-      "text": "Why does the threat of substitutes matter for profitability?",
+      "id": "fsa1examq27",
+      "text": "A firm has cash from operations of €90m, investing cash flow of −€120m and financing cash flow of €45m. Which statement describes the cash-flow result?",
       "options": {
-        "a": "Substitutes always increase incumbent monopoly power",
-        "b": "Substitutes never affect pricing",
-        "c": "Substitutes are identical to potential new entrants",
-        "d": "Substitutes constrain the prices that existing firms can charge"
+        "a": "Cash decreases by €30m because financing is excluded from cash changes.",
+        "b": "Cash decreases by €15m because investing outflows exceed operating inflows.",
+        "c": "Cash increases by €135m because financing proceeds are treated as income.",
+        "d": "Cash increases by €15m despite investing outflows exceeding operating inflows.",
+        "e": "Cash falls by €75m because only investing and financing flows contribute to net cash changes."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa1q41",
-      "text": "What is the typical effect of barriers to entry?",
+      "id": "fsa1examq28",
+      "text": "An analyst classifies a competitor's new distribution network as an external threat, but the focal firm's proprietary training program as an internal strength. Which analytical point is illustrated?",
       "options": {
-        "a": "They guarantee superior management quality",
-        "b": "They automatically eliminate industry rivalry",
-        "c": "They reduce the threat posed by prospective entrants",
-        "d": "They increase the number of new competitors"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q42",
-      "text": "Which dimensions are internal in a SWOT analysis?",
-      "options": {
-        "a": "Opportunities and weaknesses",
-        "b": "Opportunities and threats",
-        "c": "Threats and strengths",
-        "d": "Strengths and weaknesses"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q43",
-      "text": "Which dimensions are external in a SWOT analysis?",
-      "options": {
-        "a": "Weaknesses and capabilities",
-        "b": "Opportunities and threats",
-        "c": "Strengths and opportunities",
-        "d": "Strengths and weaknesses"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa1q44",
-      "text": "A newly introduced environmental regulation that raises compliance costs is most naturally classified as which SWOT dimension?",
-      "options": {
-        "a": "An internal weakness by definition",
-        "b": "An internal opportunity by definition",
-        "c": "An internal strength",
-        "d": "An external threat"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q45",
-      "text": "A proprietary manufacturing capability that rivals struggle to replicate is most naturally classified as which SWOT dimension?",
-      "options": {
-        "a": "An internal strength",
-        "b": "An external threat",
-        "c": "An external opportunity",
-        "d": "An internal weakness"
+        "a": "The SWOT distinction depends on whether a factor belongs to the firm or its environment.",
+        "b": "All technology-related changes must be classified as opportunities, regardless of ownership.",
+        "c": "Positive and negative SWOT categories are determined only from recent financial results.",
+        "d": "A competitive advantage can be assessed without considering the external environment."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa1q46",
-      "text": "Why should cross-company comparisons consider competitive strategy?",
+      "id": "fsa1examq29",
+      "text": "Consider the statements.\nI. A stronger competitive advantage can arise from proprietary knowledge absent from the balance sheet.\nII. A financial statement analysis cannot evaluate debt risk.\nIII. A firm's financial statements necessarily measure every economic asset at market value.\nWhich set is correct?",
       "options": {
-        "a": "Ratios completely adjust for differences in business models",
-        "b": "Different business models can create fundamentally different accounting patterns and ratios",
-        "c": "Competitive strategy has no connection to assets",
-        "d": "All firms in an industry must have identical margins"
+        "a": "III only",
+        "b": "II only",
+        "c": "None of I, II or III",
+        "d": "I and III only",
+        "e": "II and III only",
+        "f": "I only"
       },
-      "answer": "b",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa1q47",
-      "text": "A creditor is analyzing a company that plans a very large dividend. Which concern most directly follows from the conflict identified in the lecture?",
+      "id": "fsa1examq30",
+      "text": "Consider the statements.\nI. Customer bargaining power can constrain selling prices.\nII. Supplier bargaining power can increase production costs.\nIII. Competitive rivalry can reduce achievable profit margins.\nWhich set is correct?",
       "options": {
-        "a": "The distribution necessarily increases interest coverage",
-        "b": "The distribution must increase the company's total liabilities by the dividend amount forever",
-        "c": "The distribution ensures that shareholder and creditor objectives fully coincide",
-        "d": "The distribution may reduce the assets available to repay the creditor"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa1q48",
-      "text": "A business expands sales rapidly but faces new substitutes and aggressive entrants. Which analytical conclusion is most defensible?",
-      "options": {
-        "a": "Threats from substitutes are internal strengths under SWOT",
-        "b": "Revenue growth alone proves sustainable future margins",
-        "c": "Strong current revenue growth may not represent durable competitive advantage",
-        "d": "Porter's forces matter only when current profits are negative"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q49",
-      "text": "A company controls a highly productive factory, but lenders have contractual claims against it. Which distinction is accurate?",
-      "options": {
-        "a": "The factory and the lender claims are both equity",
-        "b": "The factory is a liability because creditors may have claims on it",
-        "c": "The factory is an asset; lenders' contractual claims are liabilities",
-        "d": "The lender claims are assets because they finance operations"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa1q50",
-      "text": "A firm reports net income of 100, OCI of -20, dividends of 30, share repurchases of 10, and new share issues of 5. Which is its total comprehensive income?",
-      "options": {
-        "a": "80",
-        "b": "100",
-        "c": "65",
-        "d": "45"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q51",
-      "text": "An investor sees a profit increase without knowing whether competitors copied the firm's technology. What is the analytical gap?",
-      "options": {
-        "a": "Persistence of competitive advantage has not been assessed",
-        "b": "Profit growth proves supplier power is zero",
-        "c": "The balance sheet equation has been violated",
-        "d": "The statement of cash flows is necessarily incorrect"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa1q52",
-      "text": "Which analyst question best connects Porter's value chain to reported profit margins?",
-      "options": {
-        "a": "Does every inventory item have a market price above cost?",
-        "b": "Did the firm's shareholders buy shares in the secondary market?",
-        "c": "Does its auditor use the same font as peers?",
-        "d": "Are improvements in production and logistics reducing costs per unit of output?"
+        "a": "II and III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "I, II and III",
+        "e": "I only"
       },
       "answer": "d",
       "image": null

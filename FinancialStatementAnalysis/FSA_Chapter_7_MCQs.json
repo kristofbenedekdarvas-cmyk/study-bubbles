@@ -1,977 +1,654 @@
 {
-  "id": "fsa-chapter-7",
-  "name": "Chapter 7: Analyzing non-financial information",
+  "id": "fsa-chapter-7-exam-level",
+  "name": "Chapter 7: Analyzing Non-Financial Information — Mock-exam-calibrated MCQs (4–6 options)",
   "questions": [
     {
-      "id": "fsa7q1",
-      "text": "Why is non-financial information important for financial statement analysis?",
+      "id": "fsa7examq1",
+      "text": "A chemical company operates a production plant that emits CO2 directly, purchases electricity and sells chemicals that customers later process. Which emissions classification is consistent with the GHG framework?",
       "options": {
-        "a": "Every non-financial metric is a cash-flow measure",
-        "b": "Non-financial information replaces all recognized liabilities",
-        "c": "Financial statements disclose every commercially important business capability",
-        "d": "Financial statements omit many aspects of operations, risks, innovation, and governance"
+        "a": "Plant emissions are Scope 1 and purchased electricity is Scope 2, but downstream customer processing is excluded from every Scope 3 inventory.",
+        "b": "Plant emissions are Scope 1; electricity is Scope 3; customer use is Scope 2.",
+        "c": "Plant emissions are Scope 3; electricity is Scope 2; customer use is Scope 1.",
+        "d": "Plant emissions are Scope 1; electricity is Scope 2; customer use is Scope 3.",
+        "e": "Plant emissions are Scope 2; electricity is Scope 1; customer use is Scope 3.",
+        "f": "Plant emissions are Scope 2; purchased energy is Scope 3; customer processing is outside all three scopes."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q2",
-      "text": "Which is a source of non-financial information identified in the lecture?",
+      "id": "fsa7examq2",
+      "text": "Consider the statements.\nI. Impact materiality asks how the enterprise affects people or the environment.\nII. Financial materiality asks how sustainability matters affect enterprise cash flows or financing.\nIII. Under double materiality, a topic must be material from both perspectives to be reportable.\nWhich set is correct?",
       "options": {
-        "a": "Only the income tax return",
-        "b": "Only the closing share price",
-        "c": "Management reports, sustainability disclosures, audit reports, patents, and insider transactions",
-        "d": "Only the sum of gross profit and dividends"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q3",
-      "text": "What do the initials ESG stand for?",
-      "options": {
-        "a": "Earnings, solvency, and goodwill",
-        "b": "Expenses, shares, and guarantees",
-        "c": "Environmental, social, and governance",
-        "d": "Equity, sales, and growth"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q4",
-      "text": "Which is primarily an environmental metric?",
-      "options": {
-        "a": "Greenhouse-gas emissions measured in CO2-equivalent tonnes",
-        "b": "Number of independent directors",
-        "c": "Percentage of variable executive pay linked to ESG targets",
-        "d": "Employee turnover rate"
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "II and III only",
+        "e": "I, II and III",
+        "f": "None of I, II or III"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q5",
-      "text": "Which is primarily a social metric?",
+      "id": "fsa7examq3",
+      "text": "A manufacturer faces flood risks that threaten future production, while its wastewater also harms a nearby ecosystem without an identified immediate financial cost. Under ESRS double materiality, which assessment is appropriate?",
       "options": {
-        "a": "Workforce turnover and occupational safety",
-        "b": "Audit fee intensity",
-        "c": "Direct CO2 emissions from factories",
-        "d": "Number of independent directors"
+        "a": "Only the wastewater is potentially material because ESRS excludes financial risk to operations.",
+        "b": "Neither issue can be reported until both have separately caused recognized accounting losses.",
+        "c": "Both exposures require an already recognized IAS 37 loss provision before they can feature in an ESRS materiality assessment.",
+        "d": "Only the flood risk is potentially material because ESRS considers investor cash flows exclusively.",
+        "e": "Flood risk may be financially material and wastewater may be impact-material, either of which can trigger reporting."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq4",
+      "text": "The lecture contrasts IFRS S1/S2 and GRI reporting. Which distinction is most consistent with that comparison?",
+      "options": {
+        "a": "IFRS S1/S2 centers on ecological impact only; GRI emphasizes equity valuation from investors.",
+        "b": "Both require reporting only after an environmental impact creates recognized accounting losses.",
+        "c": "GRI focuses only on changes in a firm’s financing cost, while IFRS S1/S2 reports only impacts on external stakeholders.",
+        "d": "GRI requires a quantified market value for every ecological impact before any disclosure can be issued.",
+        "e": "Both are simply alternative names for the IFRS consolidated income statement and balance sheet.",
+        "f": "IFRS S1/S2 centers on investor-relevant financial materiality; GRI emphasizes impacts on stakeholders."
+      },
+      "answer": "f",
+      "image": null
+    },
+    {
+      "id": "fsa7examq5",
+      "text": "A firm's Scope 1 emissions are 20,000 tCO2e, Scope 2 are 10,000 and Scope 3 are 70,000. Its Scope 3 share of the full inventory is:",
+      "options": {
+        "a": "70%",
+        "b": "30%",
+        "c": "60%",
+        "d": "23.3%",
+        "e": "75%",
+        "f": "77.8%"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q6",
-      "text": "Which is primarily a governance metric?",
+      "id": "fsa7examq6",
+      "text": "A company generates €500m in annual sales, Scope 1 emissions of 48,000 tCO2e and Scope 2 of 12,000 tCO2e. Its Scope 1+2 carbon intensity is:",
       "options": {
-        "a": "Workplace accident frequency",
-        "b": "Purchased electricity consumption",
-        "c": "Board composition and anti-corruption controls",
-        "d": "Water withdrawal volume"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q7",
-      "text": "Why are many ESG metrics difficult to compare with accounting figures?",
-      "options": {
-        "a": "Every ESG metric is reported using double-entry bookkeeping",
-        "b": "They are non-monetary, often estimated, and may use different reporting boundaries",
-        "c": "ESG reports never include estimates",
-        "d": "They are always measured in euros"
+        "a": "150 tCO2e per €m of sales.",
+        "b": "120 tCO2e per €m of sales.",
+        "c": "600 tCO2e per €m of sales.",
+        "d": "96 tCO2e per €m of sales.",
+        "e": "100 tCO2e per €m of sales."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa7q8",
-      "text": "What is the main purpose of the EU Corporate Sustainability Reporting Directive (CSRD)?",
+      "id": "fsa7examq7",
+      "text": "Consider the statements.\nI. The greenhouse-gas reporting boundary must always coincide exactly with the IFRS consolidation boundary.\nII. Scope 3 often involves estimates across suppliers and customers.\nIII. Scope 2 can be presented using both location-based and market-based estimates.\nWhich set is correct?",
       "options": {
-        "a": "Eliminating external assurance on financial reports",
-        "b": "Mandating all companies to issue preferred shares",
-        "c": "Requiring in-scope companies to disclose sustainability information under prescribed reporting standards",
-        "d": "Replacing the income statement with carbon data"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q9",
-      "text": "Which reporting framework uses the European Sustainability Reporting Standards (ESRS)?",
-      "options": {
-        "a": "Corporate Sustainability Reporting Directive (CSRD)",
-        "b": "IFRS 3 acquisition accounting",
-        "c": "IAS 7 cash flow classification",
-        "d": "IFRS 15 revenue recognition"
+        "a": "II and III only",
+        "b": "None of I, II or III",
+        "c": "I and III only",
+        "d": "I, II and III",
+        "e": "I only",
+        "f": "I and II only"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q10",
-      "text": "What focus is associated with IFRS S1 and S2 sustainability disclosures?",
+      "id": "fsa7examq8",
+      "text": "A firm reports an 18% reduction in Scope 2 market-based emissions but unchanged location-based emissions. Which explanation is most plausible?",
       "options": {
-        "a": "Only IFRS inventory cost-flow assumptions",
-        "b": "Only employee wage calculations",
-        "c": "Only voluntary charity expenditure",
-        "d": "Sustainability-related risks and opportunities relevant to financial materiality"
+        "a": "A reduction in the physical emissions of all grid generators serving its operating regions.",
+        "b": "Changes in electricity procurement or certificate claims, without lower grid-average emissions exposure.",
+        "c": "Market-based and location-based Scope 2 must change by identical percentages, because both rely exclusively on average grid factors.",
+        "d": "A reduction in Scope 1 fuel combustion recorded in a separately owned production facility.",
+        "e": "Location-based emissions are recalculated only after a company receives an unmodified external audit opinion.",
+        "f": "An elimination of all upstream and downstream emissions regardless of purchased electricity."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa7examq9",
+      "text": "Company A reduces absolute Scope 1+2 emissions by 5% while revenue falls by 20%. Ignoring measurement changes, what happens to its emissions intensity per euro of sales?",
+      "options": {
+        "a": "It increases by 18.75% despite the fall in absolute emissions.",
+        "b": "It decreases by exactly 5%, matching the change in emissions.",
+        "c": "It increases by exactly 20%, matching the revenue contraction.",
+        "d": "It decreases by 18.75% because absolute emissions have fallen.",
+        "e": "It increases by about 15% because reduced revenue outweighs the lower emissions."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq10",
+      "text": "A company's emissions rise from 80,000 to 92,000 tCO2e, while turnover increases from €400m to €500m. Which assessment is consistent with the two measures?",
+      "options": {
+        "a": "Absolute emissions decline 25%, while emissions intensity remains fixed at 184 tCO2e/€m.",
+        "b": "Absolute emissions rise 12%, while intensity falls to 160 tCO2e/€m of sales.",
+        "c": "Absolute emissions decline 15%, but emissions intensity rises from 184 to 200 tCO2e/€m.",
+        "d": "Absolute emissions rise 15%, but emissions intensity declines from 200 to 184 tCO2e/€m.",
+        "e": "Absolute emissions rise 25%, while emissions intensity remains fixed at 200 tCO2e/€m.",
+        "f": "Absolute emissions rise 15%, and therefore carbon intensity must rise 15% even if turnover increases faster."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q11",
-      "text": "Which orientation is especially associated with GRI standards?",
+      "id": "fsa7examq11",
+      "text": "A multinational includes acquired subsidiaries in its financial consolidation but excludes them from its published carbon inventory. What should an analyst investigate?",
       "options": {
-        "a": "An impact-focused view of how organizations affect people and the environment",
-        "b": "Bond valuation using yield to maturity",
-        "c": "Exclusive measurement of earnings per share",
-        "d": "Cash conversion cycle analysis"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q12",
-      "text": "What is financial materiality in sustainability reporting?",
-      "options": {
-        "a": "The difference between gross revenue and net income",
-        "b": "How a firm's actions affect society regardless of financial consequences",
-        "c": "How sustainability matters affect enterprise cash flows, financing, and cost of capital",
-        "d": "The amount of cash spent on preferred dividends"
+        "a": "Whether the subsidiaries were fully eliminated from the firm's reported consolidated equity.",
+        "b": "Whether Scope 3 must always equal the value of the acquired goodwill in tCO2e.",
+        "c": "Differences in the emissions reporting boundary and their effect on comparability.",
+        "d": "Whether cash-flow classification rules prohibit all acquisitions by emissions reporters."
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa7q13",
-      "text": "What is impact materiality?",
+      "id": "fsa7examq12",
+      "text": "Consider the statements.\nI. Falling carbon intensity alone proves that absolute emissions have also declined.\nII. A renewable-energy share relates renewable energy consumed to total energy consumed.\nIII. A green-capex share can compare taxonomy-aligned capital spending with total capex.\nWhich set is correct?",
       "options": {
-        "a": "The value of goodwill impaired during a year",
-        "b": "Only how environmental regulation affects the firm's share price",
-        "c": "The fraction of revenue held in cash",
-        "d": "How a firm's activities affect people and the environment"
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "III only",
+        "d": "II and III only",
+        "e": "I, II and III"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q14",
-      "text": "What does double materiality mean under ESRS?",
+      "id": "fsa7examq13",
+      "text": "A company spends €90m of its €600m annual capital expenditures on taxonomy-aligned investment. Its green-capex share is:",
       "options": {
-        "a": "Every disclosed ESG item must directly affect the next quarter's earnings",
-        "b": "A sustainability topic can be material from a financial or an impact perspective",
-        "c": "Only carbon emissions can be material",
-        "d": "Only topics material from both perspectives are ever reportable"
+        "a": "15%",
+        "b": "6.7%",
+        "c": "45%",
+        "d": "18%",
+        "e": "12%",
+        "f": "85%"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq14",
+      "text": "A firm has 120 employees leave during the year and an average headcount of 1,500. Its employee turnover ratio is:",
+      "options": {
+        "a": "12.5%",
+        "b": "8%",
+        "c": "6%",
+        "d": "7.5%",
+        "e": "9.5%",
+        "f": "10%"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa7q15",
-      "text": "Why is an ESG materiality assessment important?",
+      "id": "fsa7examq15",
+      "text": "Two plants have 18 and 12 recordable work accidents respectively. Plant A works 3m hours; Plant B works 1.5m hours. Which has the higher accident rate per million hours?",
       "options": {
-        "a": "It ensures that environmental risks cannot affect the firm",
-        "b": "It determines which sustainability topics are sufficiently important to report",
-        "c": "It replaces the firm's internal accounting controls",
-        "d": "It determines the market price of the company's bonds"
+        "a": "Plant B: 8 per million hours, versus Plant A: 6.",
+        "b": "Plant A: 6 per million hours, versus Plant B: 4.",
+        "c": "Plant A: 6 per million hours, versus Plant B: 8, so A has the higher normalized accident rate.",
+        "d": "Plant B: 12 per million hours, versus Plant A: 6.",
+        "e": "Plant A: 12 per million hours, versus Plant B: 8."
       },
-      "answer": "b",
+      "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q16",
-      "text": "What level of audit assurance is described for sustainability statements in the lecture?",
+      "id": "fsa7examq16",
+      "text": "A company reports average male pay of €60,000 and female pay of €51,000. Using the lecture's gender-pay-gap formula, the result is:",
       "options": {
-        "a": "No assurance is possible under any standard",
-        "b": "Limited assurance, generally lower than the reasonable assurance used for audited financial statements",
-        "c": "Guaranteed assurance that every forecast will occur",
-        "d": "Automatic assurance equivalent to a court judgment"
+        "a": "9%",
+        "b": "17.6%",
+        "c": "85%",
+        "d": "14%",
+        "e": "18%",
+        "f": "15%"
       },
-      "answer": "b",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa7q17",
-      "text": "According to the 2026 course slide, how did the Omnibus I changes affect CSRD coverage?",
+      "id": "fsa7examq17",
+      "text": "Consider the statements.\nI. An ESG-linked-pay ratio compares relevant variable remuneration with total variable pay.\nII. An employee turnover ratio is independent of workforce size by definition.\nIII. A board independence ratio measures independent directors relative to total board size.\nWhich set is correct?",
       "options": {
-        "a": "They prohibited publication of sustainability data",
-        "b": "They substantially narrowed the number of companies in scope",
-        "c": "They made GRI reporting compulsory for every private individual",
-        "d": "They eliminated the balance sheet"
+        "a": "I and II only",
+        "b": "None of I, II or III",
+        "c": "III only",
+        "d": "I, II and III",
+        "e": "I and III only",
+        "f": "II and III only"
       },
-      "answer": "b",
+      "answer": "e",
       "image": null
     },
     {
-      "id": "fsa7q18",
-      "text": "In the 2026 EU framework table shown in the lecture, what do Taxonomy-aligned turnover and capital expenditure indicate?",
+      "id": "fsa7examq18",
+      "text": "An auditor concludes that one material inventory balance is misstated, but the problem is not pervasive throughout the statements. Which report is most consistent with that finding?",
       "options": {
-        "a": "The number of patents granted",
-        "b": "The share of revenue or investment associated with environmentally sustainable activities",
-        "c": "The value of all employee pensions",
-        "d": "The amount of dividends paid to creditors"
+        "a": "Unmodified opinion",
+        "b": "Disclaimer of opinion",
+        "c": "A disclaimer, because an isolated material misstatement prevents the auditor from obtaining enough evidence.",
+        "d": "Adverse opinion",
+        "e": "Qualified opinion"
       },
-      "answer": "b",
+      "answer": "e",
       "image": null
     },
     {
-      "id": "fsa7q19",
-      "text": "What are Scope 1 greenhouse-gas emissions?",
+      "id": "fsa7examq19",
+      "text": "An auditor finds material and pervasive misstatements across several accounts and has sufficient evidence to reach that conclusion. Which audit opinion is appropriate?",
       "options": {
-        "a": "Emissions from purchased electricity only",
-        "b": "Only emissions produced by governments",
-        "c": "All emissions from suppliers and customers",
-        "d": "Direct emissions from sources owned or controlled by the company"
+        "a": "Unmodified opinion",
+        "b": "Disclaimer of opinion",
+        "c": "Qualified opinion",
+        "d": "A qualified opinion, because sufficient evidence eliminates any possibility of pervasive misstatement.",
+        "e": "An adverse opinion is inappropriate until creditors have experienced a cash loss from the misstatements.",
+        "f": "Adverse opinion"
       },
-      "answer": "d",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa7q20",
-      "text": "What are Scope 2 emissions?",
+      "id": "fsa7examq20",
+      "text": "An auditor cannot obtain sufficient appropriate evidence about a pervasive portion of the financial statements. What is the appropriate reporting outcome?",
       "options": {
-        "a": "Only direct exhaust from company-owned cars",
-        "b": "All emissions from end users of sold products",
-        "c": "Indirect emissions from purchased electricity, heat, or steam",
-        "d": "All emissions from independent competitors"
+        "a": "A qualified opinion only, because an audit report cannot disclaim a conclusion on the financial statements.",
+        "b": "Unmodified opinion",
+        "c": "Disclaimer of opinion",
+        "d": "An adverse opinion even though the problem concerns missing evidence rather than identified pervasive misstatements.",
+        "e": "Adverse opinion",
+        "f": "Qualified opinion"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa7q21",
-      "text": "What are Scope 3 emissions?",
+      "id": "fsa7examq21",
+      "text": "Consider the statements.\nI. A key audit matter identifies an area of significant audit attention and judgment.\nII. An unmodified opinion does not guarantee that no future fraud will be discovered.\nIII. Any key audit matter automatically converts an unmodified opinion into an adverse one.\nWhich set is correct?",
       "options": {
-        "a": "Only emissions from the company's owned boilers",
-        "b": "Only emissions from purchased electricity",
-        "c": "Only emissions from a central office",
-        "d": "Other indirect emissions across the company's value chain"
+        "a": "I and II only",
+        "b": "I, II and III",
+        "c": "III only",
+        "d": "II and III only",
+        "e": "I and III only"
       },
-      "answer": "d",
+      "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q22",
-      "text": "A manufacturer's emissions from customers using its sold products normally fall in which scope?",
+      "id": "fsa7examq22",
+      "text": "A listed firm's audit report highlights goodwill impairment as a KAM but expresses an unmodified opinion. Which conclusion is warranted?",
       "options": {
-        "a": "Scope 1",
-        "b": "Scope 3",
-        "c": "None of the scopes",
-        "d": "Scope 2"
+        "a": "The auditor declined to express an opinion because it discussed future cash-flow forecasts.",
+        "b": "The valuation relied on significant judgment, but the KAM itself does not modify the audit opinion.",
+        "c": "The goodwill carrying amount is misstated because every KAM represents an adverse finding.",
+        "d": "The company must reverse all recognized goodwill because it received an unmodified opinion."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa7q23",
-      "text": "What is the main methodological distinction between location-based and market-based Scope 2 accounting?",
+      "id": "fsa7examq23",
+      "text": "A company reported three KAMs last year and four this year, including a new revenue-recognition issue. What is the most informative analytical approach?",
       "options": {
-        "a": "Location-based counts only owned vehicles",
-        "b": "Market-based always excludes purchased electricity",
-        "c": "Location-based uses share prices, whereas market-based uses net income",
-        "d": "Location-based uses grid-average factors, whereas market-based considers contractual electricity attributes"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q24",
-      "text": "Why is Scope 3 often the most uncertain component of a greenhouse-gas inventory?",
-      "options": {
-        "a": "It uses no assumptions",
-        "b": "It is always directly metered at company-owned plants",
-        "c": "Much of it relies on data and estimates across external suppliers and customers",
-        "d": "It is legally the same as Scope 1"
+        "a": "Ignore the new KAM because an auditor is prohibited from discussing revenue recognition judgments.",
+        "b": "Conclude that at least one additional fraud has occurred because the KAM count increased by one.",
+        "c": "Investigate why a new issue required significant audit attention, rather than treating KAM count as proof of fraud.",
+        "d": "Assume the audit opinion is now necessarily qualified because there are more than three KAMs."
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa7q25",
-      "text": "What unit is normally used to aggregate different greenhouse gases?",
+      "id": "fsa7examq24",
+      "text": "A firm pays €2m audit fees and reports €4bn in assets. Its audit fee intensity relative to assets is:",
       "options": {
-        "a": "Tonnes of CO2 equivalents (tCO2e)",
-        "b": "Number of issued bonds",
-        "c": "Days of inventory",
-        "d": "Euros per ordinary share"
+        "a": "5.0%",
+        "b": "0.5%",
+        "c": "0.05%",
+        "d": "0.025%",
+        "e": "2.0%"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa7examq25",
+      "text": "Consider the statements.\nI. Delayed publication of audited results proves that all previously issued opinions were adverse.\nII. A going-concern uncertainty flag concerns risks to continued operation.\nIII. An unmodified opinion can coexist with a going-concern uncertainty disclosure.\nWhich set is correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "None of I, II or III",
+        "d": "II and III only",
+        "e": "I and III only",
+        "f": "I, II and III"
+      },
+      "answer": "d",
+      "image": null
+    },
+    {
+      "id": "fsa7examq26",
+      "text": "A firm holds 400 issued patents, but 10 account for almost all licensing revenue. Why is total patent count a weak standalone valuation metric?",
+      "options": {
+        "a": "Patent value is skewed, and counts do not capture economic quality or citations.",
+        "b": "Patent grants are all capitalized at their potential future revenue under IAS 38.",
+        "c": "Patent counts are irrelevant because patents never create rights enforceable against rivals.",
+        "d": "Patent count and fair market value must be identical for every firm under IFRS."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q26",
-      "text": "What does carbon intensity per euro of sales measure?",
+      "id": "fsa7examq27",
+      "text": "Patent applications jump from 120 last year to 150 this year. Using a conventional growth-rate calculation, the increase is:",
       "options": {
-        "a": "Operating cash flow divided by emissions",
-        "b": "Net income per patent",
-        "c": "Dividends relative to emissions",
-        "d": "Reported emissions relative to business revenue"
+        "a": "22.5%",
+        "b": "20%",
+        "c": "30%",
+        "d": "80%",
+        "e": "25%"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq28",
+      "text": "A technology company has 60 patent grants on €300m R&D expense; a competitor has 45 grants on €150m R&D. Which has the greater patent grants per €m of R&D?",
+      "options": {
+        "a": "The competitor: 0.30 versus 0.20 grants/€m.",
+        "b": "The first firm: 0.20 versus 0.15 grants/€m.",
+        "c": "The competitor: 0.15 grants/€m compared with 0.20 for the first firm.",
+        "d": "Both firms: 0.20 grants/€m after normalization.",
+        "e": "The first firm: 0.50 versus 0.30 grants/€m.",
+        "f": "The first firm: 0.30 grants/€m compared with 0.20 for the competitor."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq29",
+      "text": "Consider the statements.\nI. Strategic patent filings can aim to block competitors instead of only marketing new products.\nII. European patent applications are commonly published before the patents are granted.\nIII. Most internally developed patent value is fully recognized as an IFRS asset at market value.\nWhich set is correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "II only",
+        "c": "I and II only",
+        "d": "I and III only",
+        "e": "II and III only",
+        "f": "III only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa7examq30",
+      "text": "A firm files significantly fewer patents than a rival but relies heavily on proprietary production secrets. Which inference is most defensible?",
+      "options": {
+        "a": "Lower patent counts necessarily imply fewer productive inventions and lower future operating income.",
+        "b": "Under IFRS, trade secrets are always recorded at a higher valuation than patents are.",
+        "c": "Trade secrets must be disclosed publicly before their economic benefit can be recognized.",
+        "d": "Lower patent counts may reflect a different intellectual-property strategy rather than lower innovation."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q27",
-      "text": "What does a rising Scope 3 share indicate, holding definitions constant?",
+      "id": "fsa7examq31",
+      "text": "An analyst wants to assess a newly announced patent portfolio before annual financial statements are released. Which information would add the most insight beyond simple filing counts?",
       "options": {
-        "a": "A rise in the independence of the board",
-        "b": "An increase in retained earnings",
-        "c": "A guaranteed reduction in total greenhouse-gas emissions",
-        "d": "A greater proportion of the measured emissions footprint lies in the value chain"
+        "a": "Forward citations, technological relevance and whether major inventions are commercially used.",
+        "b": "The nominal value of outstanding share capital and the next coupon payment date.",
+        "c": "Total dividends paid in the year regardless of invention disclosures or field differences.",
+        "d": "Average employee age with no regard to the firm's sector or patent citation patterns."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq32",
+      "text": "A biotech company has 12 pipeline candidates: two in Phase III, one filed for approval and nine in earlier stages. Its late-stage pipeline share is:",
+      "options": {
+        "a": "75%",
+        "b": "16.7%",
+        "c": "33%",
+        "d": "33.3%",
+        "e": "25%",
+        "f": "20%"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq33",
+      "text": "A firm has ten development projects, seven aimed at the same lead indication. What does the pipeline-concentration ratio signal?",
+      "options": {
+        "a": "30% of candidate drugs have reached Phase III or formal filing for approval.",
+        "b": "70% of candidate drugs have received regulatory approval for commercial sale.",
+        "c": "70% reliance on one indication, creating concentrated scientific or regulatory exposure.",
+        "d": "30% reliance on one indication, creating diversified scientific or regulatory exposure."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa7examq34",
+      "text": "A biotech has €180m cash and cash equivalents and uses €60m cash annually in operations, at a stable rate. Ignoring investment spending, roughly how much operating cash runway remains?",
+      "options": {
+        "a": "3 years",
+        "b": "6 years",
+        "c": "3.5 years",
+        "d": "2 years",
+        "e": "2.5 years",
+        "f": "4 years"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq35",
+      "text": "Consider the statements.\nI. Phase I trials focus mainly on initial safety assessment.\nII. Most drugs entering Phase I are ultimately approved for sale.\nIII. Phase III trials are generally larger confirmatory studies.\nWhich set is correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "III only",
+        "c": "II and III only",
+        "d": "I and II only",
+        "e": "I only",
+        "f": "I, II and III"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq36",
+      "text": "A small biotech announces failure of its only late-stage drug trial. Why can this produce an unusually large share-price reaction even if the drug had no recognized balance-sheet value?",
+      "options": {
+        "a": "IAS 38 guarantees that all failed products were previously recognized at their final sales value.",
+        "b": "The firm cannot lose market value due to a failed trial if its internally generated R&D was expensed rather than capitalized.",
+        "c": "Failed trials must automatically generate cash inflows equal to the original drug-development spending.",
+        "d": "The failure has no valuation effect because the expected product did not appear as an IFRS intangible.",
+        "e": "Expected future cash flows may collapse despite much internal R&D being expensed rather than capitalized."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq37",
+      "text": "A pharmaceutical group buys a drug candidate in an acquisition; a separate group develops a similar candidate entirely internally. Which accounting difference is most plausible?",
+      "options": {
+        "a": "Neither candidate can be recognized as an intangible asset until its commercial launch date.",
+        "b": "Both candidates automatically create goodwill equal to the combined future forecast revenue.",
+        "c": "Acquired in-process R&D may be recognized at fair value; most internal research is expensed.",
+        "d": "Acquired in-process R&D must be expensed; most internally developed research is fair-valued."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa7examq38",
+      "text": "A product candidate recorded as an acquired intangible subsequently fails a pivotal trial. What should an analyst particularly expect management to evaluate?",
+      "options": {
+        "a": "Reclassification of the drug candidate as a cash equivalent pending a new study.",
+        "b": "Management must keep the acquired candidate at historical acquisition cost even after definitive failure of the pivotal trial.",
+        "c": "The intangible becomes an inventory asset immediately because its commercial approval is now delayed.",
+        "d": "Reversal of all prior research costs into the new current-period revenue line.",
+        "e": "Impairment of the recognized candidate asset following the adverse development.",
+        "f": "Recognition of a current financing cash receipt for the estimated failed trial cost."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq39",
+      "text": "Consider the statements.\nI. Several executives purchasing shares together may strengthen an information signal.\nII. All publicly reported insider trades necessarily involve illegal use of inside information.\nIII. An insider purchase can be more informative than a sale motivated by liquidity needs.\nWhich set is correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "I, II and III",
+        "d": "II and III only",
+        "e": "III only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq40",
+      "text": "A chief executive buys a substantial stake with personal funds, while three other directors buy similar positions. Another executive sells a small holding under a pre-planned program. Which signal deserves the closest follow-up?",
+      "options": {
+        "a": "The preplanned transaction necessarily conveys stronger information because insider sales always predict price declines.",
+        "b": "The absence of a share-price change because manager trades have no information content.",
+        "c": "A scheduled insider disposal always conveys a stronger positive signal than discretionary executive purchases, because it was arranged in advance.",
+        "d": "The cluster of sizeable discretionary purchases rather than the routine scheduled sale.",
+        "e": "The total salary expense because insider purchases are a contractual source of revenue.",
+        "f": "The small pre-planned sale because every sale reflects expected company-wide losses."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q28",
-      "text": "How is renewable-energy share generally measured in the lecture?",
+      "id": "fsa7examq41",
+      "text": "Under the lecture's EU managers' transactions framework, which statement correctly distinguishes lawful disclosure from prohibited insider dealing?",
       "options": {
-        "a": "Independent directors divided by board size",
-        "b": "Renewable energy consumed divided by total energy consumed",
-        "c": "Cash from investing divided by total sales",
-        "d": "Scope 3 emissions divided by total assets"
+        "a": "A disclosed trade is automatically illegal if it occurs outside the annual closed period.",
+        "b": "A disclosed lawful trade does not authorize dealing on material non-public inside information.",
+        "c": "Disclosure makes any trade lawful, even when it is based on undisclosed price-sensitive facts.",
+        "d": "Illegal insider dealing is restricted to transactions in the employer's own ordinary shares."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa7q29",
-      "text": "What is green capital expenditure share intended to indicate?",
+      "id": "fsa7examq42",
+      "text": "According to the lecture's November 2026 discussion of EU MAR, the standard notification threshold since December 2024 is €20,000 per calendar year. Which additional qualification matters?",
       "options": {
-        "a": "The proportion of capital investment aligned with applicable sustainable-activity criteria",
-        "b": "The dividend yield on green shares",
-        "c": "The proportion of accounting expenses paid in cash",
-        "d": "The total liabilities of a green company"
+        "a": "National regulators may apply a threshold from €10,000 to €50,000.",
+        "b": "Notifications are required only after a calendar year's final annual report.",
+        "c": "The same €20,000 threshold applies uniformly to all EU member states and cannot be altered by national regulators.",
+        "d": "The threshold applies only to cash dividends, not securities transactions.",
+        "e": "Every EU market must apply a fixed €5,000 threshold without any variation."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa7q30",
-      "text": "What is employee turnover?",
+      "id": "fsa7examq43",
+      "text": "Consider the statements.\nI. Managers must report every trade before execution to obtain a public audit opinion.\nII. PDMR transaction notifications generally have a three-business-day deadline in the lecture.\nIII. A closed period restricts managers' dealings before scheduled interim or annual results.\nWhich set is correct?",
       "options": {
-        "a": "Days absent divided by sales",
-        "b": "Number of employees divided by market capitalization",
-        "c": "Total assets divided by full-time employees",
-        "d": "Employees who leave divided by average employee headcount"
+        "a": "I and III only",
+        "b": "None of I, II or III",
+        "c": "I, II and III",
+        "d": "II and III only",
+        "e": "I only",
+        "f": "I and II only"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa7q31",
-      "text": "What does an occupational accident rate normalized by hours worked allow?",
+      "id": "fsa7examq44",
+      "text": "A finance executive learns confidential acquisition news about Firm A and purchases shares in publicly traded supplier Firm B because it is expected to benefit. This is an example of:",
       "options": {
-        "a": "Direct measurement of gross profit margin",
-        "b": "Measurement of every environmental externality",
-        "c": "Comparison of safety incidents adjusted for different exposure levels",
-        "d": "Calculation of basic EPS"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q32",
-      "text": "How is board independence generally expressed?",
-      "options": {
-        "a": "Independent directors divided by total board members",
-        "b": "Audit fees divided by net income",
-        "c": "Revenue divided by executive salaries",
-        "d": "Employees divided by directors"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q33",
-      "text": "Why is linking executive variable pay to ESG objectives potentially informative?",
-      "options": {
-        "a": "It replaces the need to monitor incentives",
-        "b": "It proves that sustainability targets have been met",
-        "c": "It ensures there can be no conflicts of interest",
-        "d": "It may indicate management incentives tied to sustainability outcomes"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q34",
-      "text": "What is the purpose of an external auditor's opinion?",
-      "options": {
-        "a": "To state whether financial statements are presented fairly under the applicable reporting framework",
-        "b": "To guarantee future share returns",
-        "c": "To certify that management will never make an error",
-        "d": "To determine the company's product prices"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q35",
-      "text": "What is an unmodified audit opinion?",
-      "options": {
-        "a": "A refusal to form any opinion",
-        "b": "An opinion that all financial forecasts are certain",
-        "c": "An opinion that the statements present fairly in all material respects under the applicable framework",
-        "d": "An opinion that misstatements are material and pervasive"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q36",
-      "text": "What does a qualified audit opinion generally signal?",
-      "options": {
-        "a": "An inability to obtain evidence on any aspect of the audit",
-        "b": "A complete absence of any audit problem",
-        "c": "A material but not pervasive issue or limitation affecting specified matters",
-        "d": "Material and pervasive misstatements throughout the statements"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q37",
-      "text": "When is an adverse audit opinion appropriate?",
-      "options": {
-        "a": "When all statements are fairly presented",
-        "b": "Whenever there is a single immaterial error",
-        "c": "Whenever the auditor disagrees with the share price",
-        "d": "When identified misstatements are both material and pervasive"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q38",
-      "text": "What does a disclaimer of opinion mean?",
-      "options": {
-        "a": "The auditor confirms all balance-sheet figures",
-        "b": "The auditor cannot obtain sufficient appropriate evidence to form an opinion",
-        "c": "The auditor reports only ESG emissions",
-        "d": "The auditor certifies fraud by the firm's competitors"
+        "a": "a lawful disclosure of audit key matters by the auditor.",
+        "b": "shadow trading in an economically linked firm.",
+        "c": "a normal patent cross-licensing arrangement.",
+        "d": "routine treasury share repurchases by the issuer."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa7q39",
-      "text": "What is a key audit matter (KAM)?",
+      "id": "fsa7examq45",
+      "text": "A manager has no reported trades in the employing firm, but market surveillance identifies unusual options trading in a peer just before a takeover announcement. What principle makes this potentially relevant?",
       "options": {
-        "a": "An ordinary shareholder's personal investment preference",
-        "b": "Any issue mentioned in the news",
-        "c": "A matter judged by the auditor to be of greatest significance in the current-period audit",
-        "d": "A guaranteed future accounting loss"
+        "a": "Inside information can have value for economically linked issuers beyond the employer itself.",
+        "b": "A peer firm's options are classified as goodwill of the original employer.",
+        "c": "Only transactions in the employer's own shares can exploit confidential information.",
+        "d": "Trade information is irrelevant until the companies' financial year ends."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa7examq46",
+      "text": "Which limitation most directly undermines treating a single insider sale as proof that the company's outlook is poor?",
+      "options": {
+        "a": "Every insider sale mechanically increases the issuer's retained earnings account.",
+        "b": "Sales may reflect diversification, taxes or personal liquidity rather than adverse expectations.",
+        "c": "A single insider sale always changes the firm's operating cash flow by its sale amount.",
+        "d": "All insider sales are required by EU law to occur exactly 30 days before results."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa7examq47",
+      "text": "Consider the statements.\nI. Every ESG disclosure is measured with less estimation than audited financial statements.\nII. Patent statistics can add information that internally generated intangible assets omit.\nIII. A clean audit opinion does not substitute for reviewing significant KAMs and forecasts.\nWhich set is correct?",
+      "options": {
+        "a": "II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III",
+        "e": "I only",
+        "f": "I and II only"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa7examq48",
+      "text": "Consider the statements.\nI. A KAM automatically means the auditor has issued an adverse opinion.\nII. Scope 3 consists entirely of the firm's directly owned factory emissions.\nIII. Patent citation data can supplement crude patent-count statistics.\nWhich set is correct?",
+      "options": {
+        "a": "None of I, II or III",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "II only",
+        "e": "III only"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa7examq49",
+      "text": "Consider the statements.\nI. Insider sales may reflect diversification rather than pessimistic expectations.\nII. A clinical trial failure can change a biotech's intrinsic value.\nIII. An unmodified audit opinion can coexist with identified KAMs.\nWhich set is correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and III only",
+        "c": "I, II and III",
+        "d": "I and II only",
+        "e": "II only",
+        "f": "II and III only"
       },
       "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q40",
-      "text": "Why do key audit matters help analysts?",
-      "options": {
-        "a": "They independently determine the firm's intrinsic market value",
-        "b": "They identify areas involving substantial judgment, estimation uncertainty, or audit risk",
-        "c": "They eliminate the need to read notes",
-        "d": "They make the audit opinion irrelevant"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q41",
-      "text": "Does disclosure of a KAM automatically modify the audit opinion?",
-      "options": {
-        "a": "No; because KAMs are never required for listed firms",
-        "b": "Yes; each KAM is equivalent to an adverse opinion",
-        "c": "Yes; every KAM results in a disclaimer",
-        "d": "No; KAMs describe significant audit matters without necessarily changing the opinion"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q42",
-      "text": "Which is a common topic for a KAM?",
-      "options": {
-        "a": "A director's vacation itinerary",
-        "b": "The exact preferred color of its logo",
-        "c": "The firm's office decoration choices",
-        "d": "Goodwill impairment involving forecasts and discount rates"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q43",
-      "text": "Why does an auditor often identify revenue recognition as a KAM?",
-      "options": {
-        "a": "All revenue is always received in cash",
-        "b": "Revenue recognition involves no performance obligations",
-        "c": "Timing and measurement of revenue can require significant estimates and judgments",
-        "d": "Revenue cannot be misstated under IFRS"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q44",
-      "text": "What might a newly reported KAM suggest?",
-      "options": {
-        "a": "A new or newly significant area of audit attention that warrants further investigation",
-        "b": "Guaranteed decline in revenue",
-        "c": "Definitive proof of fraud",
-        "d": "An automatic restatement of the prior year"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q45",
-      "text": "How is audit fee intensity defined in the lecture?",
-      "options": {
-        "a": "Cash flow divided by patents",
-        "b": "Gross profit divided by audit fees",
-        "c": "Number of auditors divided by shareholders",
-        "d": "Audit fees divided by total assets or sales"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q46",
-      "text": "What is a going-concern uncertainty flag intended to capture?",
-      "options": {
-        "a": "Whether the auditor reports material uncertainty about the entity's ability to continue operating",
-        "b": "Whether the company has no intangible assets",
-        "c": "Whether inventory turnover is above 3",
-        "d": "Whether the board has an independent chair"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q47",
-      "text": "What general lesson does the Wirecard case illustrate about prior clean audit opinions?",
-      "options": {
-        "a": "They ensure that all published cash balances exist",
-        "b": "They do not guarantee that fraud or major misstatements cannot later be discovered",
-        "c": "They make cash confirmation unnecessary",
-        "d": "They remove the need for skepticism in subsequent years"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q48",
-      "text": "What does a patent grant generally provide?",
-      "options": {
-        "a": "An obligation for competitors to buy the patent",
-        "b": "An unlimited monopoly over an entire industry",
-        "c": "A time-limited exclusive right in return for disclosure of the invention",
-        "d": "Automatic proof that the invention is commercially valuable"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q49",
-      "text": "Why can patent data complement financial statements?",
-      "options": {
-        "a": "Research expenditure is never reported in profit",
-        "b": "All patents must be included at market value",
-        "c": "Patent grants are identical to cash receipts",
-        "d": "Internally generated innovation is often not fully recognized as a balance-sheet asset"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q50",
-      "text": "What is a limitation of patent-count comparisons?",
-      "options": {
-        "a": "Patents vary enormously in economic value and firms' patenting strategies differ",
-        "b": "Patents are always published immediately",
-        "c": "All sectors patent at identical rates",
-        "d": "Every patent has the same market value"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q51",
-      "text": "What do patent citations potentially help assess?",
-      "options": {
-        "a": "The coupon yield on corporate bonds",
-        "b": "The technical or economic influence of inventions, subject to limitations",
-        "c": "The auditor's reasonable assurance level",
-        "d": "The amount of cash tied up in trade payables"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q52",
-      "text": "What is an important publication timing issue for patent analysis?",
-      "options": {
-        "a": "Every filing is published instantly",
-        "b": "Patents can only be published after expiry",
-        "c": "Applications are commonly published about 18 months after initial filing",
-        "d": "Applications remain confidential forever"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q53",
-      "text": "Why can strategic patent filing distort innovation indicators?",
-      "options": {
-        "a": "Firms may file defensively or for bargaining rather than only commercial invention value",
-        "b": "Every application results in a profitable product",
-        "c": "Defensive patents are prohibited",
-        "d": "Patent counts fully measure competitive advantage"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q54",
-      "text": "Which sequence accurately represents the broad pharmaceutical development pipeline in the slides?",
-      "options": {
-        "a": "Phase II, approval, Phase I, preclinical, Phase III",
-        "b": "Preclinical research, Phase I, Phase II, Phase III, regulatory approval",
-        "c": "Phase III, Phase I, preclinical, approval, Phase II",
-        "d": "Approval, Phase I, Phase II, Phase III, preclinical"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q55",
-      "text": "What is the main objective of Phase I clinical trials?",
-      "options": {
-        "a": "Initial assessment of safety, often in a small population",
-        "b": "Large confirmatory tests of commercial demand",
-        "c": "Measurement of final market share",
-        "d": "Regulatory approval of manufacturing plants"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q56",
-      "text": "What is the main purpose of Phase II clinical trials?",
-      "options": {
-        "a": "Exploring efficacy and dosing in patients",
-        "b": "Completing shareholder distributions",
-        "c": "Only establishing the company's bond coupon",
-        "d": "Testing customer credit risk"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q57",
-      "text": "What is the main purpose of Phase III trials?",
-      "options": {
-        "a": "Establishing the share price of a biotech company",
-        "b": "Large-scale confirmatory evaluation of safety and efficacy",
-        "c": "Patent filing with no patient involvement",
-        "d": "Calculating inventory turnover"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q58",
-      "text": "Why can a failed late-stage trial cause a sharp drop in a biotechnology firm's value?",
-      "options": {
-        "a": "Its expected future revenue from a major candidate can collapse",
-        "b": "The failure necessarily increases the number of patents",
-        "c": "The firm automatically receives regulatory approval",
-        "d": "Every failed trial creates immediate tax-free revenue"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q59",
-      "text": "What is pipeline concentration?",
-      "options": {
-        "a": "Independent directors divided by all directors",
-        "b": "Sales divided by current assets",
-        "c": "The proportion of projects focused on a leading indication or invention",
-        "d": "Share repurchases divided by earnings"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q60",
-      "text": "What does late-stage pipeline share attempt to capture?",
-      "options": {
-        "a": "The ratio of sales to patents",
-        "b": "The portion of employees holding options",
-        "c": "The fraction of drug projects in Phase III or filing stages",
-        "d": "The share of debt maturing within 90 days"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q61",
-      "text": "Why might a promising internally developed drug not appear as a large balance-sheet asset?",
-      "options": {
-        "a": "All internally generated development is immediately recognized at expected selling price",
-        "b": "Research and many development costs are expensed before strict capitalization criteria are met",
-        "c": "Drug development never costs money",
-        "d": "All drugs are treated as inventories from discovery"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q62",
-      "text": "How can acquired in-process pharmaceutical R&D differ in accounting from internally developed R&D?",
-      "options": {
-        "a": "Every internally developed project is recognized at market price",
-        "b": "Both are automatically classified as trade payables",
-        "c": "Identifiable acquired projects may be recognized at fair value in a business combination",
-        "d": "Acquired projects can never be recognized"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q63",
-      "text": "Why must an intangible asset not yet available for use be tested annually for impairment?",
-      "options": {
-        "a": "Its carrying amount needs review even though amortization has not begun",
-        "b": "It has no relation to future economic benefits",
-        "c": "It is always classified as cash",
-        "d": "It cannot lose value before market launch"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q64",
-      "text": "How should a cash runway indicator for a cash-burning biotech be interpreted?",
-      "options": {
-        "a": "A larger operating cash outflow automatically extends runway",
-        "b": "Cash reserves relative to the magnitude of ongoing cash burn indicate how long funding might last",
-        "c": "Runway equals return on equity",
-        "d": "Runway measures the patent's remaining legal life"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q65",
-      "text": "Who are persons discharging managerial responsibilities (PDMRs) under EU insider-transaction rules?",
-      "options": {
-        "a": "Senior executives and relevant directors, together with applicable closely associated persons for notification",
-        "b": "Every retail investor in the stock market",
-        "c": "Only suppliers with long-term contracts",
-        "d": "Only external auditors"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q66",
-      "text": "What are the relevant disclosures of managers' transactions intended to reveal?",
-      "options": {
-        "a": "The daily purchases of all retail customers",
-        "b": "All private political opinions of directors",
-        "c": "Trading by managers and associated persons in instruments of their own issuer",
-        "d": "The future profitability of every portfolio company"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q67",
-      "text": "According to the lecture's description of the EU Market Abuse Regulation, when are notifiable managers' transactions generally reported?",
-      "options": {
-        "a": "Within three business days of the transaction",
-        "b": "Ten years after a trade",
-        "c": "Only at the end of the next calendar year",
-        "d": "Only when an annual general meeting occurs"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q68",
-      "text": "What is a closed trading period for relevant corporate insiders under the rules discussed?",
-      "options": {
-        "a": "A period when all trade creditors receive payments",
-        "b": "A specified period before interim or annual financial results during which trading is restricted",
-        "c": "A ban on all share ownership for managers",
-        "d": "A period when shares cannot trade on any stock exchange"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q69",
-      "text": "Why may an insider purchase be more informative than an insider sale?",
-      "options": {
-        "a": "Buying is often motivated by expected appreciation, whereas sales can reflect liquidity, taxes, or diversification",
-        "b": "Buying insiders can never lose money",
-        "c": "Every sale proves the manager expects bankruptcy",
-        "d": "Insider purchases always precede positive earnings surprises"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q70",
-      "text": "What is a cluster of insider purchases?",
-      "options": {
-        "a": "Several suppliers collecting invoices",
-        "b": "Several company insiders acquiring shares around the same time",
-        "c": "One company repeatedly issuing bonds",
-        "d": "A large number of external audit opinions"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q71",
-      "text": "Why might a manager's option exercise be less informative than a voluntary open-market share purchase?",
-      "options": {
-        "a": "Option exercises may reflect compensation-plan mechanics rather than a new valuation belief",
-        "b": "Option exercises are always illegal",
-        "c": "An exercise cannot change share ownership",
-        "d": "Voluntary purchases must always be disclosures of unlawful trading"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q72",
-      "text": "How does legal disclosed managerial trading differ from illegal insider dealing?",
-      "options": {
-        "a": "Every disclosed trade is automatically unlawful",
-        "b": "Legally disclosed trades comply with restrictions, whereas trading on prohibited inside information is unlawful",
-        "c": "Trading in one's own firm is always legal regardless of inside information",
-        "d": "Illegal dealing applies only to physical securities"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q73",
-      "text": "What is shadow trading in the lecture's context?",
-      "options": {
-        "a": "Borrowing in the money market",
-        "b": "Repurchasing treasury shares for a firm's employees",
-        "c": "Trading only one's own company's shares using public disclosures",
-        "d": "Trading securities of an economically linked company using information learned about another company"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q74",
-      "text": "Why can shadow trading create a regulatory concern?",
-      "options": {
-        "a": "Insider-dealing rules apply only to balance-sheet assets",
-        "b": "All cross-company trading is prohibited",
-        "c": "Non-public information about one firm may be material for securities of a related firm",
-        "d": "Related firms can never respond to the same economic news"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q75",
-      "text": "A manufacturer reports falling Scope 1 and Scope 2 emissions, but Scope 3 emissions rise substantially. What is the most defensible conclusion?",
-      "options": {
-        "a": "All greenhouse-gas emissions must have fallen",
-        "b": "Operational emissions may have improved while total value-chain impact deteriorated",
-        "c": "The firm has necessarily reached net-zero emissions",
-        "d": "Scope 3 must be ignored because it is outside operations"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa7q76",
-      "text": "A business faces major physical climate risks, but its own direct emissions are small. Which materiality perspective is especially relevant to the financial risk?",
-      "options": {
-        "a": "Historical inventory valuation",
-        "b": "The earnings-per-share denominator",
-        "c": "Inside-out impact materiality exclusively",
-        "d": "Outside-in financial materiality"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q77",
-      "text": "A company's actions cause substantial harm to a local ecosystem without a measurable near-term cash effect. Under double materiality, how should this issue be considered?",
-      "options": {
-        "a": "It is automatically classified as OCI",
-        "b": "It can never be reported unless it immediately lowers net income",
-        "c": "It can still be material through the impact perspective",
-        "d": "Only bondholders may assess it"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa7q78",
-      "text": "A biotech firm has five projects, four targeting a single drug indication. Which risk is most apparent?",
-      "options": {
-        "a": "High pipeline concentration in one indication",
-        "b": "A guaranteed diversified earnings stream",
-        "c": "A high board-independence ratio",
-        "d": "A low R&D capitalization ratio by definition"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa7q79",
-      "text": "An auditor highlights goodwill impairment as a KAM while issuing an unmodified opinion. Which conclusion is correct?",
-      "options": {
-        "a": "The auditor has issued an adverse opinion",
-        "b": "Every goodwill impairment estimate is fraudulent",
-        "c": "The goodwill must be written off entirely",
-        "d": "The valuation involved significant audit judgment but the opinion is not necessarily modified"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q80",
-      "text": "Several senior executives voluntarily purchase substantial shares after a price decline. Why might analysts regard this as more informative than a single small sale?",
-      "options": {
-        "a": "Executive purchases automatically increase revenue",
-        "b": "Every executive purchase guarantees a positive next-quarter return",
-        "c": "An insider sale is always illegal",
-        "d": "A purchase cluster may reflect shared positive private assessments, though it is not conclusive"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa7q81",
-      "text": "A company lists 200 patent filings but has low citation counts and no commercialization results. Which analysis is strongest?",
-      "options": {
-        "a": "The company necessarily earns higher ROE than peers",
-        "b": "Every patent has a guaranteed equal present value",
-        "c": "Its future earnings are certain because of filing volume",
-        "d": "Patent volume alone is insufficient evidence of economically valuable innovation"
-      },
-      "answer": "d",
       "image": null
     }
   ]

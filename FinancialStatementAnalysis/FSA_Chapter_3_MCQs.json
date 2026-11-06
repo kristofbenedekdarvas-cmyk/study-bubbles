@@ -1,831 +1,545 @@
 {
-  "id": "fsa-chapter-3",
-  "name": "Chapter 3: Balance sheet: Liabilities and Equity",
+  "id": "fsa-chapter-3-exam-level",
+  "name": "Chapter 3: Balance Sheet — Liabilities and Equity — Mock-exam-calibrated MCQs (4–6 options)",
   "questions": [
     {
-      "id": "fsa3q1",
-      "text": "What is the central economic difference between debt and equity?",
+      "id": "fsa3examq1",
+      "text": "A security carries an unconditional contractual requirement to pay €8m in cash each year, despite being legally described as preferred shares. Under the lecture's IAS 32 decision logic it is:",
       "options": {
-        "a": "Debt generally creates contractual payment obligations, whereas equity is a residual ownership claim",
-        "b": "Debt and equity necessarily have identical liquidation rights",
-        "c": "Equity always requires fixed periodic interest payments",
-        "d": "Debt gives creditors unlimited residual profits after liquidation"
+        "a": "a liability because the issuer has a contractual cash obligation.",
+        "b": "an equity instrument because the contract states preferred dividends are cumulative rather than discretionary.",
+        "c": "equity because preferred shares are legally named share capital.",
+        "d": "equity because any fixed coupon is treated as an optional dividend.",
+        "e": "an asset because the holder receives a contractual cash payment.",
+        "f": "a liability only if the instrument has an observable secondary-market trading price above face value."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q2",
-      "text": "According to the course's classification flowchart, a financial instrument requiring the issuer to pay cash is generally what?",
+      "id": "fsa3examq2",
+      "text": "Consider the statements.\nI. Current maturities of long-term debt are reported as current liabilities.\nII. An issuer's obligation to deliver cash is a key debt-versus-equity criterion.\nIII. Liabilities are classified by the market price of a firm's common shares.\nWhich set is correct?",
       "options": {
-        "a": "Retained earnings",
-        "b": "An intangible asset",
-        "c": "Other comprehensive income",
-        "d": "A financial liability"
+        "a": "II only",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "II and III only",
+        "e": "I, II and III",
+        "f": "I only"
       },
-      "answer": "d",
+      "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q3",
-      "text": "How are liabilities divided by maturity in the chapter?",
+      "id": "fsa3examq3",
+      "text": "A supplier ships goods worth €12m on 60-day credit; the buyer records the inventory today and will pay later. The buyer's initial liability is most naturally:",
       "options": {
-        "a": "Goodwill and intangible assets",
-        "b": "Cash and cash equivalents",
-        "c": "Operating liabilities and retained earnings only",
-        "d": "Current liabilities and non-current liabilities"
+        "a": "a bank loan, reflecting the implicit discount on sales invoices.",
+        "b": "trade accounts payable, reflecting financing from the supplier.",
+        "c": "retained earnings, reflecting the inventory's increase in value.",
+        "d": "A non-current liability, because goods purchased on credit do not create trade payables until the goods are sold onward.",
+        "e": "deferred revenue, reflecting future performance obligations."
       },
-      "answer": "d",
+      "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q4",
-      "text": "What is a current maturity of long-term debt?",
+      "id": "fsa3examq4",
+      "text": "An electronics retailer receives €2m for products it will deliver next quarter. How should the receipt generally be classified at the reporting date?",
       "options": {
-        "a": "All interest scheduled after ten years",
-        "b": "An equity dividend payable at the issuer's discretion",
-        "c": "The portion of long-term principal due within one year",
-        "d": "The original amount of any long-term loan, regardless of due date"
+        "a": "Cash increases and retained earnings directly increase by €2m.",
+        "b": "Cash increases and an unearned-revenue liability is recognized.",
+        "c": "The cash receipt is recognized as current-period sales revenue and as a liability until next quarter’s delivery.",
+        "d": "Cash increases and accounts receivable is recognized for €2m.",
+        "e": "The entity immediately recognizes net income while deferring the corresponding increase in cash.",
+        "f": "Cash increases and current sales revenue is immediately recognized."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq5",
+      "text": "A firm reports annual sales of €1,460m and average trade payables of €200m. Using the lecture's definition, its accounts-payable turnover and DPO are:",
+      "options": {
+        "a": "7.75 and approximately 47 days",
+        "b": "6.30 and 58 days",
+        "c": "7.30 and 50 days",
+        "d": "6.85 and approximately 53 days",
+        "e": "7.30 and 40 days",
+        "f": "6.30 and 50 days"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q5",
-      "text": "What is accounts payable?",
+      "id": "fsa3examq6",
+      "text": "A company's DPO lengthens from 42 to 75 days. Which combination is economically most plausible?",
       "options": {
-        "a": "The cash paid to repurchase shares",
-        "b": "Amounts due from customers for sales on credit",
-        "c": "Unrealized gains on marketable securities",
-        "d": "Amounts owed to suppliers for purchases made on credit"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa3q6",
-      "text": "Why is trade credit important to companies with extensive supply chains?",
-      "options": {
-        "a": "It ensures suppliers are paid before deliveries",
-        "b": "It prevents the need to manage inventories",
-        "c": "Purchases from suppliers can provide a significant short-term financing source",
-        "d": "It converts all trade creditors into shareholders"
+        "a": "Supplier financing reduces cash, but late payments always improve credit ratings.",
+        "b": "Supplier financing shortens collection periods, without affecting contractual terms.",
+        "c": "Supplier financing temporarily supports cash, but delayed payments may harm relationships.",
+        "d": "A higher DPO always proves improved supplier credit quality even if supplier invoices are overdue.",
+        "e": "Supplier financing raises recognized revenue, while trade payables are unchanged."
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q7",
-      "text": "What does days payable outstanding (DPO) measure?",
+      "id": "fsa3examq7",
+      "text": "Consider the statements.\nI. Trade credit means purchasing goods or services before payment.\nII. A higher DPO always proves stronger operational profitability.\nIII. An excessive DPO may be a symptom of liquidity pressure.\nWhich set is correct?",
       "options": {
-        "a": "Average period the firm takes to pay trade suppliers",
-        "b": "Average days inventory sits in the warehouse",
-        "c": "Average period it takes customers to pay the company",
-        "d": "Time between issuing and redeeming ordinary shares"
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "I, II and III",
+        "d": "None of I, II or III",
+        "e": "I only",
+        "f": "I and II only"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q8",
-      "text": "In the lecture's simplified DPO calculation, what is accounts payable turnover?",
+      "id": "fsa3examq8",
+      "text": "A manufacturing firm has DIO=82, DSO=47 and DPO=64 days. Its cash conversion cycle equals:",
       "options": {
-        "a": "Accounts receivable divided by sales",
-        "b": "EBIT divided by gross interest expense",
-        "c": "Cost of goods sold divided by average inventory",
-        "d": "Sales divided by average accounts payable"
+        "a": "71 days",
+        "b": "75 days",
+        "c": "129 days",
+        "d": "99 days",
+        "e": "193 days",
+        "f": "65 days"
       },
-      "answer": "d",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa3q9",
-      "text": "How is DPO obtained from accounts payable turnover?",
+      "id": "fsa3examq9",
+      "text": "A firm shortens DIO by 9 days, reduces DSO by 6 days and shortens DPO by 10 days. The resulting change in the cash conversion cycle is:",
       "options": {
-        "a": "365 multiplied by inventory turnover",
-        "b": "Payable turnover divided by 365",
-        "c": "Sales divided by net income",
-        "d": "365 divided by payable turnover"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa3q10",
-      "text": "How does a higher DPO generally affect cash held by the purchasing company in the short run?",
-      "options": {
-        "a": "It immediately reduces cash balances",
-        "b": "It forces an identical increase in inventory",
-        "c": "It necessarily increases customer receivables",
-        "d": "It retains cash for longer before paying suppliers"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa3q11",
-      "text": "What is the potential downside of an extremely high DPO?",
-      "options": {
-        "a": "Strained supplier relations and disruption of trade credit",
-        "b": "An automatic decrease in all interest rates",
-        "c": "Automatic improvement in supplier trust",
-        "d": "A guaranteed increase in supplier discounts"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q12",
-      "text": "What is the cash conversion cycle (CCC)?",
-      "options": {
-        "a": "DIO - Current ratio",
-        "b": "DSO + DIO - DPO",
-        "c": "DSO + Inventory turnover + Debt ratio",
-        "d": "DPO + ROE - Gross margin"
+        "a": "−25 days",
+        "b": "−5 days",
+        "c": "+5 days",
+        "d": "+7 days"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q13",
-      "text": "Which change shortens the cash conversion cycle, all else equal?",
+      "id": "fsa3examq10",
+      "text": "A firm's working capital is €40m, based on €240m current assets and €200m current liabilities. It borrows €30m short-term and holds all proceeds as cash. What happens immediately?",
       "options": {
-        "a": "Higher accounts receivable days",
-        "b": "Lower DPO",
-        "c": "Higher DIO",
-        "d": "Lower DSO"
+        "a": "NWC increases by €30m, while the current ratio rises to 1.35.",
+        "b": "NWC rises to €70m, while the current ratio remains exactly 1.20.",
+        "c": "NWC falls to €10m, while the current ratio increases to about 1.35.",
+        "d": "NWC remains €40m, while the current ratio rises from 1.20 to 1.35.",
+        "e": "NWC is unchanged, while the current ratio rises from 1.20 to 1.35.",
+        "f": "NWC remains €40m, while the current ratio falls from 1.20 to about 1.17."
       },
-      "answer": "d",
+      "answer": "f",
       "image": null
     },
     {
-      "id": "fsa3q14",
-      "text": "How does faster collection from customers affect the cash conversion cycle?",
+      "id": "fsa3examq11",
+      "text": "A company reports current assets of €580m and current liabilities of €640m. Which interpretation is most defensible?",
       "options": {
-        "a": "It leaves the cycle unchanged",
-        "b": "It eliminates trade payables",
-        "c": "It shortens the cycle",
-        "d": "It lengthens the cycle"
+        "a": "NWC is €60m; all near-term obligations are secured by excess current assets.",
+        "b": "NWC is +€60m; the shortfall is eliminated because non-current liabilities are excluded.",
+        "c": "NWC is −€60m; the firm must already be insolvent under every accounting standard.",
+        "d": "NWC is €1,220m; inventory turnover becomes irrelevant for assessing liquidity.",
+        "e": "NWC is −€60m; short-term funding demands warrant investigation, not automatic failure.",
+        "f": "NWC of −€60m proves the balance sheet has negative equity and the company is already insolvent."
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa3examq12",
+      "text": "Consider the statements.\nI. Unearned revenue reflects cash received before the promised delivery.\nII. Both accrued expenses and unearned revenue necessarily arise from bank borrowing.\nIII. Accrued wages recognize services received but not yet paid for.\nWhich set is correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I only",
+        "c": "I and III only",
+        "d": "II and III only",
+        "e": "I, II and III"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q15",
-      "text": "Why may a negative cash conversion cycle be advantageous?",
+      "id": "fsa3examq13",
+      "text": "A company sells equipment with a two-year repair warranty. Historical experience makes repair costs reliably estimable. Which treatment best reflects the accrual concept?",
       "options": {
-        "a": "The firm can receive customer cash before paying suppliers",
-        "b": "The firm must be reporting negative net income",
-        "c": "Inventory can no longer be sold",
-        "d": "Customers always pay after suppliers"
+        "a": "Wait until every claim is physically repaired before recognizing any obligation.",
+        "b": "Recognize a warranty expense and related liability when the sale creates the obligation.",
+        "c": "Record the entire expected warranty cost as contributed capital on the sale date.",
+        "d": "Recognize repair costs as new revenue because customers may claim later.",
+        "e": "A warranty provision must be recorded as an inventory asset because its repair cost relates to goods sold.",
+        "f": "The expense is recorded only when customers actually exercise their warranties and repair invoices are settled."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq14",
+      "text": "An entity faces a lawsuit with a probable outflow that can be reliably estimated. Which conclusion is most consistent with accrual reporting?",
+      "options": {
+        "a": "Recognize a provision, with expense affecting the period's profit.",
+        "b": "Defer recognition until the final settlement is paid in cash.",
+        "c": "A probable outflow that can be estimated must be disclosed only; IAS 37 prohibits recognizing it as a provision.",
+        "d": "Recognize a gain because litigation is not yet legally resolved.",
+        "e": "A provision cannot be recorded until a court issues its final ruling, even if an outflow is probable.",
+        "f": "Classify the estimated outflow as current operating cash inflow."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q16",
-      "text": "What is an accrued expense?",
+      "id": "fsa3examq15",
+      "text": "Consider the statements.\nI. Bonds can trade after issuance in a secondary market.\nII. A revolving credit line provides flexible borrowing up to an agreed limit.\nIII. A bondholder receives residual ownership rights identical to common shareholders.\nWhich set is correct?",
       "options": {
-        "a": "A cost incurred in a period but not yet paid in cash",
-        "b": "An asset arising solely from future management intentions",
-        "c": "Cash paid before the related service is delivered to the firm",
-        "d": "A cash dividend paid from retained earnings"
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and II only",
+        "d": "I and III only",
+        "e": "I, II and III"
       },
-      "answer": "a",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q17",
-      "text": "Which is an example of a routine contractual accrued liability?",
+      "id": "fsa3examq16",
+      "text": "A fixed-rate bond is issued at par; market yields then increase sharply with no change in credit quality. The bond's secondary-market price will generally:",
       "options": {
-        "a": "Inventory already sold for cash",
-        "b": "Share premium received from investors",
-        "c": "A patent acquired for cash",
-        "d": "Wages earned by employees but not yet paid"
+        "a": "fall only if the issuer simultaneously reduces the coupon on old debt.",
+        "b": "rise, because its contractual coupon automatically increases with yields.",
+        "c": "remain at par, because a bond's issue price never changes afterward.",
+        "d": "fall, because its fixed cash flows are discounted at a higher rate."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q18",
-      "text": "Why recognize accrued liabilities at the reporting date?",
+      "id": "fsa3examq17",
+      "text": "An issuer has a 6% fixed-coupon bond outstanding. Its market price rises above par. Which market development is most consistent with this observation?",
       "options": {
-        "a": "To postpone all expenses until cash is paid",
-        "b": "To eliminate the balance-sheet accounting equation",
-        "c": "To match incurred obligations and expenses to the correct reporting period",
-        "d": "To turn unpaid interest into revenue"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q19",
-      "text": "What is deferred or unearned revenue?",
-      "options": {
-        "a": "Cash collected from a customer before the firm fulfills the related obligation",
-        "b": "A non-cash asset impairment loss",
-        "c": "Revenue recognized after delivery but not yet collected",
-        "d": "An increase in shareholders' retained earnings"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q20",
-      "text": "What happens to deferred revenue when the company fulfills its promised service?",
-      "options": {
-        "a": "The amount is treated as financing income",
-        "b": "The liability decreases and revenue is recognized",
-        "c": "The liability doubles automatically",
-        "d": "The company's inventory is always increased"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q21",
-      "text": "What distinguishes a warranty provision from a fixed invoice payable?",
-      "options": {
-        "a": "Its ultimate settlement depends on uncertain future product claims",
-        "b": "It can only arise after a company is liquidated",
-        "c": "It always requires no estimation",
-        "d": "It is an equity contribution"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q22",
-      "text": "According to the lecture's provision-recognition rule, when should a contingent obligation be recognized?",
-      "options": {
-        "a": "Whenever a theoretical future dispute can be imagined",
-        "b": "Only when the firm's share price falls",
-        "c": "Only when cash is eventually paid",
-        "d": "When a present obligation is probable and the amount can be reasonably estimated"
+        "a": "The issuer's retained earnings have necessarily become negative.",
+        "b": "Contractual coupons on its outstanding bonds have increased automatically.",
+        "c": "Required yields on otherwise similar bonds have risen above the coupon rate.",
+        "d": "Required yields on otherwise similar bonds have fallen below the coupon rate."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q23",
-      "text": "Why is a product warranty expense often recognized in the period of the sale?",
+      "id": "fsa3examq18",
+      "text": "A firm's EBIT is €260m, gross interest expense €40m and net interest expense €25m. Using the lecture's formula, times interest earned is:",
       "options": {
-        "a": "Warranties are dividends to owners",
-        "b": "The repair has already been paid in cash in every case",
-        "c": "The sale creates the expected obligation to repair or replace defective goods",
-        "d": "Warranty expenses are never recognized until settlement"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q24",
-      "text": "How does paying for a valid warranty repair affect an existing warranty provision?",
-      "options": {
-        "a": "It turns the liability into a trade receivable",
-        "b": "It creates new contributed capital",
-        "c": "It must increase current-period revenue",
-        "d": "It reduces the previously recognized liability"
+        "a": "7.50 times",
+        "b": "10.40 times",
+        "c": "5.85 times",
+        "d": "6.50 times"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q25",
-      "text": "What is net working capital?",
+      "id": "fsa3examq19",
+      "text": "A firm has CFO of €150m, short-term debt of €80m and long-term debt of €420m. Annual capital expenditure is €90m. Its adjusted CFO-to-total-debt ratio is:",
       "options": {
-        "a": "Sales minus cost of goods sold",
-        "b": "Current assets minus current liabilities",
-        "c": "Total assets minus shareholders' equity",
-        "d": "Net profit minus dividends"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q26",
-      "text": "What does the current ratio measure?",
-      "options": {
-        "a": "Cash from financing divided by total debt",
-        "b": "Current assets divided by current liabilities",
-        "c": "Revenue divided by inventory",
-        "d": "Current liabilities divided by non-current assets"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q27",
-      "text": "What might a current ratio below 1 indicate?",
-      "options": {
-        "a": "Current liabilities exceed current assets at the reporting date",
-        "b": "All inventory is obsolete",
-        "c": "Gross profit must be negative",
-        "d": "The firm must be insolvent under every circumstance"
+        "a": "12%",
+        "b": "18%",
+        "c": "42%",
+        "d": "30%"
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q28",
-      "text": "Why do firms in different industries require different levels of working capital?",
+      "id": "fsa3examq20",
+      "text": "Consider the statements.\nI. Times interest earned directly includes all scheduled principal repayments.\nII. Times interest earned compares EBIT to gross interest expense.\nIII. CFO-to-debt ratios assess debt-paying capacity from internally generated cash.\nWhich set is correct?",
       "options": {
-        "a": "Working capital is determined solely by the share price",
-        "b": "Their operating cycles, payment terms, and inventory needs differ",
-        "c": "Working capital is independent of operations",
-        "d": "All firms must hold exactly the same inventory"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q29",
-      "text": "What does a revolving credit facility provide?",
-      "options": {
-        "a": "A fixed-price sale of inventory",
-        "b": "A guarantee that interest rates never change",
-        "c": "Access to borrowing up to a limit with a fluctuating outstanding balance",
-        "d": "An immediate issuance of new ordinary shares"
+        "a": "None of I, II or III",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "III only",
+        "e": "I and II only",
+        "f": "I, II and III"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q30",
-      "text": "What is the role of a letter of credit in commerce?",
+      "id": "fsa3examq21",
+      "text": "A profitable firm reports EBIT of €100m, interest of €20m and principal repayments of €150m. Why might a high times-interest-earned ratio give incomplete reassurance?",
       "options": {
-        "a": "It represents the customer's net receivable balance",
-        "b": "It eliminates the underlying purchase contract",
-        "c": "A bank provides assurance of payment between buyer and supplier",
-        "d": "It converts all supplier invoices into dividends"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q31",
-      "text": "What is a term loan?",
-      "options": {
-        "a": "Borrowing of an agreed principal amount with specified repayment terms",
-        "b": "A guaranteed equity issue",
-        "c": "A cash-equivalent security with no repayment requirement",
-        "d": "A tax credit earned on future revenue"
+        "a": "The ratio tests interest coverage but does not directly include scheduled principal repayments.",
+        "b": "The ratio is calculated exclusively from changes in retained earnings and share issues.",
+        "c": "The ratio is only defined when shareholders receive positive net payouts.",
+        "d": "The ratio includes principal repayments but excludes contractual coupon payments."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q32",
-      "text": "Which feature commonly distinguishes a mortgage loan?",
+      "id": "fsa3examq22",
+      "text": "A parent controls 80% of a subsidiary and consolidates 100% of its net assets. The portion attributable to outside investors is shown as:",
       "options": {
-        "a": "It is secured by collateral, often real estate",
-        "b": "It gives the lender ordinary voting shares automatically",
-        "c": "It is classified as retained earnings",
-        "d": "It never requires interest"
+        "a": "non-controlling interest within consolidated equity.",
+        "b": "short-term debt because minority holders do not control operations.",
+        "c": "The remaining 20% must be shown as a current liability because the parent does not control those shares.",
+        "d": "an extraordinary gain recognized whenever profits increase.",
+        "e": "goodwill because minority owners are not part of the group.",
+        "f": "The remaining 20% is eliminated from the consolidated equity accounts because the parent controls most voting rights."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q33",
-      "text": "What is a common reason firms issue corporate bonds?",
+      "id": "fsa3examq23",
+      "text": "Which calculation is most relevant to the return attributable to parent-company common shareholders?",
       "options": {
-        "a": "To avoid all contractual interest and principal obligations",
-        "b": "To raise substantial long-term funds from capital-market investors",
-        "c": "To eliminate debt financing from the balance sheet",
-        "d": "To reclassify inventory as goodwill"
+        "a": "Consolidated net income divided by average total assets including minority interests.",
+        "b": "Parent-attributable profit divided by average common equity attributable to the parent.",
+        "c": "Consolidated net income divided by average interest-bearing liabilities.",
+        "d": "Total dividends paid divided by gross PPE after accumulated depreciation."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q34",
-      "text": "What are the standard bondholder cash flows for an ordinary fixed-coupon bullet bond?",
+      "id": "fsa3examq24",
+      "text": "A company reports common dividends of €2 per share, basic EPS of €8 and a stock price of €50. Which pair is correct?",
       "options": {
-        "a": "An infinite series of equal principal repayments without interest",
-        "b": "Periodic coupon payments plus repayment of face value at maturity",
-        "c": "Only a cash payment when the borrower makes a profit",
-        "d": "Only an uncertain dividend at maturity"
+        "a": "Payout ratio 16%; dividend yield 10%",
+        "b": "Payout ratio 25%; dividend yield 4%",
+        "c": "Payout ratio 40%; dividend yield 2%",
+        "d": "Payout ratio 4%; dividend yield 25%"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q35",
-      "text": "How is the price of an ordinary fixed-coupon bond conceptually determined?",
+      "id": "fsa3examq25",
+      "text": "Consider the statements.\nI. A secondary-market resale of existing shares automatically increases issuer equity.\nII. Issuing common shares may increase contributed capital.\nIII. Retained earnings reflect cumulative profit not distributed.\nWhich set is correct?",
       "options": {
-        "a": "Present value of coupon payments plus present value of principal repayment",
-        "b": "The issuer's current assets divided by current liabilities",
-        "c": "Face value multiplied by the issuer's sales",
-        "d": "Only the interest rate shown on the bond certificate"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q36",
-      "text": "What usually happens to the market price of a fixed-rate bond if comparable market yields rise?",
-      "options": {
-        "a": "It becomes identical to the issuer's share price",
-        "b": "It remains exactly at par",
-        "c": "It falls",
-        "d": "It rises in the same proportion"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q37",
-      "text": "Why can a bond's market value change when its contractual coupon payments stay fixed?",
-      "options": {
-        "a": "The bond's original face value changes every day",
-        "b": "Investors discount its promised cash flows using changing required yields",
-        "c": "The company's sales always determine its coupon",
-        "d": "The bond automatically converts into common equity"
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "I, II and III",
+        "e": "I only",
+        "f": "I and II only"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa3q38",
-      "text": "What does the times-interest-earned ratio compare?",
+      "id": "fsa3examq26",
+      "text": "A company has €1.8bn book equity and 60m common shares. Its share price is €44. What are book value per share and market-to-book ratio?",
       "options": {
-        "a": "Accounts payable with inventory",
-        "b": "Cash with current assets",
-        "c": "Dividends with earnings per share",
-        "d": "EBIT with gross interest expense"
+        "a": "€30 and about 1.50",
+        "b": "€30 and about 1.47",
+        "c": "€44 and about 0.68",
+        "d": "€30 and about 0.68",
+        "e": "€44 and about 1.47"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq27",
+      "text": "Two firms report identical book equity but very different market capitalizations. Which explanation is most consistent with the lecture?",
+      "options": {
+        "a": "Both market values are necessarily incorrect because shares trade only at reported book amounts.",
+        "b": "A company's market value is determined entirely by its existing common-stock par value.",
+        "c": "Book equity must equal market capitalization after normal financial statement consolidation.",
+        "d": "Market values reflect expected future profitability and assets imperfectly captured by book values."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q39",
-      "text": "What does a higher times-interest-earned ratio generally suggest?",
+      "id": "fsa3examq28",
+      "text": "A firm reports a positive change in cash but repeatedly delays payments to critical suppliers. What is the strongest analytical concern?",
       "options": {
-        "a": "Lower earnings before interest and tax by definition",
-        "b": "Greater probability of failing every interest payment",
-        "c": "Greater earnings coverage of contractual interest costs",
-        "d": "Fewer total assets in every case"
+        "a": "The cash improvement may be financed by stretching payables rather than operating strength.",
+        "b": "The cash improvement proves that trade-credit terms have permanently improved.",
+        "c": "Accounts payable are excluded from the cash conversion cycle and thus cannot matter.",
+        "d": "The firm must have reported an equal positive change in its shareholders' equity."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa3examq29",
+      "text": "Consider the statements.\nI. Debt maturity concentration may create refinancing risk.\nII. Current liabilities can include principal due on otherwise long-term borrowings.\nIII. Long-term borrowing eliminates the need to assess contractual interest payments.\nWhich set is correct?",
+      "options": {
+        "a": "II and III only",
+        "b": "I only",
+        "c": "I and II only",
+        "d": "I, II and III",
+        "e": "I and III only",
+        "f": "None of I, II or III"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q40",
-      "text": "What important limitation of times-interest-earned is highlighted in the lecture?",
+      "id": "fsa3examq30",
+      "text": "A company reduces DPO while DIO and DSO are unchanged. What happens to the cash conversion cycle?",
       "options": {
-        "a": "It measures earnings per ordinary share",
-        "b": "It accounts for all future refinancing needs perfectly",
-        "c": "It includes all cash and non-cash investing activities",
-        "d": "It does not directly demonstrate the ability to repay debt principal"
+        "a": "CCC remains unchanged, because payables do not enter the operating cycle.",
+        "b": "CCC increases, because supplier credit covers fewer days of the operating cycle.",
+        "c": "CCC becomes negative, because DPO must always exceed DIO and DSO.",
+        "d": "CCC decreases, because supplier credit covers fewer days of the operating cycle."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq31",
+      "text": "A business earns €50m net income, pays €15m in cash dividends, repurchases €10m shares and issues €20m shares. Its net payout and implication are:",
+      "options": {
+        "a": "−€5m net payout; the business raised slightly more than it distributed.",
+        "b": "€5m net payout; the business distributed slightly more than it raised.",
+        "c": "€45m net payout; the business distributed almost all its earnings.",
+        "d": "€25m net payout; the business distributed all repurchase cash and dividends."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq32",
+      "text": "A liquidity analysis compares firms with the same current ratio but materially different receivables quality. Why is the ratio alone insufficient?",
+      "options": {
+        "a": "Current ratios already adjust for all expected credit losses beyond reported allowances.",
+        "b": "High-quality receivables are reported only in the non-current liabilities section.",
+        "c": "Reported current assets may not be convertible to cash equally quickly or reliably.",
+        "d": "A current ratio uses share market capitalization instead of short-term assets."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa3examq33",
+      "text": "A firm issues a 10-year bond to replace a revolving bank loan, with identical total borrowings. Which direct financing effect is most likely?",
+      "options": {
+        "a": "Its interest and principal commitments are extinguished rather than restructured.",
+        "b": "Its operating revenue increases by the bond's full proceeds during the issue year.",
+        "c": "Its debt disappears from the balance sheet because bonds are marketable securities.",
+        "d": "Its maturity profile becomes longer, reducing immediate refinancing requirements."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q41",
-      "text": "What does cash from operations divided by total debt assess?",
+      "id": "fsa3examq34",
+      "text": "Consider the statements.\nI. Some securities labeled preferred shares may be classified as liabilities.\nII. All preferred shares are common equity regardless of contractual settlement terms.\nIII. Preferred shares may have priority over ordinary shares for distributions.\nWhich set is correct?",
       "options": {
-        "a": "Cash generation relative to outstanding short- and long-term debt",
-        "b": "Revenue growth per employee",
-        "c": "The dividend yield on common shares",
-        "d": "Capital expenditure as a fraction of sales"
+        "a": "I, II and III",
+        "b": "I and II only",
+        "c": "III only",
+        "d": "II only",
+        "e": "I and III only",
+        "f": "II and III only"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa3examq35",
+      "text": "A retailer buys inventory on credit from a supplier and sells it to customers for immediate cash, before paying the supplier. Which operating characteristic may emerge?",
+      "options": {
+        "a": "A negative cash conversion cycle when supplier credit exceeds inventory and collection days.",
+        "b": "Zero accounts payable because customer cash was received before the supplier's due date.",
+        "c": "Higher days sales outstanding because all customer payments were collected immediately.",
+        "d": "A necessarily positive cash conversion cycle whenever current assets exceed total liabilities."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa3q42",
-      "text": "Why might analysts subtract capital expenditure from operating cash before comparing it with debt?",
+      "id": "fsa3examq36",
+      "text": "A firm extends DPO from 40 to 50 days, holds sales at €1,095m and uses the lecture's sales-based payable formula. Roughly how much supplier financing does this release?",
       "options": {
-        "a": "Capital expenditure is always a financing inflow",
-        "b": "Debt obligations can be paid exclusively with accounting profit",
-        "c": "Capital expenditure never uses cash",
-        "d": "Not all cash from operations remains available after maintaining or growing the asset base"
+        "a": "€20m",
+        "b": "€10m",
+        "c": "€50m",
+        "d": "€30m"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q43",
-      "text": "What is contributed share capital?",
+      "id": "fsa3examq37",
+      "text": "Which change most directly improves the adjusted CFO-to-debt ratio while total debt and CFO remain constant?",
       "options": {
-        "a": "The sum of prior-period profits",
-        "b": "Capital invested by owners in exchange for shares",
-        "c": "An allowance for doubtful trade receivables",
-        "d": "The amount of cash owed to lenders"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q44",
-      "text": "What does additional paid-in capital (share premium) generally represent?",
-      "options": {
-        "a": "The gain from selling inventories",
-        "b": "Interest accrued on bonds",
-        "c": "Share issue proceeds above nominal or par value",
-        "d": "Accumulated unrealized foreign-exchange losses"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q45",
-      "text": "What is a common economic advantage of preferred shares over ordinary shares?",
-      "options": {
-        "a": "Mandatory voting control over all board seats",
-        "b": "Priority to certain dividends or liquidation proceeds",
-        "c": "A universal guarantee against any loss",
-        "d": "The right to repayment ahead of all secured creditors"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q46",
-      "text": "What is a potential conversion feature of preferred shares?",
-      "options": {
-        "a": "The right to cancel all company liabilities",
-        "b": "Automatic conversion of every company bond into inventories",
-        "c": "The right to exchange preferred shares for a specified number of ordinary shares",
-        "d": "A promise that preferred shares will not dilute ownership"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q47",
-      "text": "When does a non-controlling interest arise?",
-      "options": {
-        "a": "When all shareholders own identical amounts",
-        "b": "When a parent consolidates a subsidiary it controls but does not own completely",
-        "c": "When a firm holds cash in multiple currencies",
-        "d": "Whenever a firm has any outstanding bond"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q48",
-      "text": "Why is non-controlling interest presented in consolidated equity?",
-      "options": {
-        "a": "It is always a future cash expense",
-        "b": "Part of consolidated net assets belongs to owners other than the parent shareholders",
-        "c": "It represents the parent company's trade payables",
-        "d": "It is an intangible asset owned by suppliers"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q49",
-      "text": "What is retained earnings?",
-      "options": {
-        "a": "The fair value of every unrecognized brand",
-        "b": "Cash issued for new share capital",
-        "c": "Cumulative earned profit not distributed as dividends",
-        "d": "Current-period revenue alone"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q50",
-      "text": "How do cash dividends affect retained earnings, all else equal?",
-      "options": {
-        "a": "They decrease retained earnings when recognized as distributions",
-        "b": "They increase net income",
-        "c": "They are classified as operating revenues",
-        "d": "They increase the carrying amount of goodwill"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q51",
-      "text": "What does the statement of changes in equity help explain?",
-      "options": {
-        "a": "Only the repayment calendar of corporate bonds",
-        "b": "Movements in equity from profit, OCI, distributions, and owner contributions",
-        "c": "Only the net cash paid for inventory",
-        "d": "Only sales growth of operating segments"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q52",
-      "text": "What is the dividend payout ratio usually expressed as?",
-      "options": {
-        "a": "Dividends relative to earnings",
-        "b": "Share price divided by book value",
-        "c": "Cost of goods sold relative to sales",
-        "d": "Operating cash flow divided by capex"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q53",
-      "text": "What is dividend yield?",
-      "options": {
-        "a": "Total debt relative to the market value of debt",
-        "b": "Market share relative to total sales",
-        "c": "Net income relative to total assets",
-        "d": "Dividends per share relative to current share price"
+        "a": "Increasing capital expenditures, because they are added back to CFO.",
+        "b": "Increasing gross interest expense, because interest is included in CFO.",
+        "c": "Extending collection time, because receivables improve the ratio.",
+        "d": "Reducing capital expenditures, although future operations might suffer."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q54",
-      "text": "Why can a high dividend payout ratio warrant scrutiny?",
+      "id": "fsa3examq38",
+      "text": "A company reports a jump in market-to-book value while book equity remains stable. Which conclusion is least warranted?",
       "options": {
-        "a": "It always eliminates the need for financing",
-        "b": "It proves that future earnings will increase",
-        "c": "It shows that all earnings are paid in cash at the same instant",
-        "d": "It may leave fewer retained resources to support future investment"
+        "a": "Market sentiment and required returns may have changed relative to the prior year.",
+        "b": "Its net identifiable assets have necessarily been revalued upward on the balance sheet.",
+        "c": "Investors may now anticipate higher profits or stronger future opportunities.",
+        "d": "Intangible growth prospects not recognized in the accounts may contribute."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa3examq39",
+      "text": "A retailer records expenses in December for wages that will be paid in January. Which statement best describes the impact?",
+      "options": {
+        "a": "Current earnings increase and accrued liabilities fall, without December cash payment.",
+        "b": "January sales decrease and current receivables rise, without December cash payment.",
+        "c": "Current earnings are unaffected because expenses exist only when cash is transferred.",
+        "d": "Current earnings fall and accrued liabilities rise, without December cash payment."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q55",
-      "text": "What is book value per common share?",
+      "id": "fsa3examq40",
+      "text": "Assume a share issue, a share repurchase, and dividends occur during the same year. Which item will normally decrease net payout to shareholders under the lecture definition?",
       "options": {
-        "a": "Cash flow from operations divided by debt",
-        "b": "Common shareholders' book equity divided by common shares outstanding",
-        "c": "Net income divided by total assets",
-        "d": "Market capitalization divided by revenues"
+        "a": "Cash paid to redeem equity from owners",
+        "b": "Cash spent buying back existing shares",
+        "c": "Cash received from issuing new shares",
+        "d": "Cash distributed as ordinary dividends"
       },
-      "answer": "b",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa3q56",
-      "text": "Why may book value of equity differ substantially from market value?",
+      "id": "fsa3examq41",
+      "text": "Consider the statements.\nI. A contractual obligation to pay cash is an important indicator of a liability.\nII. A share's legal label always determines its IFRS debt/equity classification.\nIII. Cash received for unfulfilled customer orders is immediately earned income.\nWhich set is correct?",
       "options": {
-        "a": "Book value includes every internally generated intangible at market value",
-        "b": "Both necessarily measure exactly the same thing",
-        "c": "Market value excludes expectations about future profits",
-        "d": "Accounting measures recognized net assets, whereas markets price expected future benefits and risks"
+        "a": "I and II only",
+        "b": "II only",
+        "c": "None of I, II or III",
+        "d": "I only",
+        "e": "I, II and III",
+        "f": "III only"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa3q57",
-      "text": "What happens to the accounting equation when a firm borrows cash from a bank?",
+      "id": "fsa3examq42",
+      "text": "Consider the statements.\nI. Excessive supplier payment delays can damage relationships.\nII. A longer DPO can release short-term cash.\nIII. Bond prices generally fall when required yields rise.\nWhich set is correct?",
       "options": {
-        "a": "Assets rise and equity falls by exactly the loan amount",
-        "b": "Liabilities fall and assets rise by the loan amount",
-        "c": "Assets and liabilities rise by equal amounts at initial recognition",
-        "d": "Only net income increases"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q58",
-      "text": "What happens when a firm pays an existing supplier liability with cash?",
-      "options": {
-        "a": "Cash and accounts payable both decrease",
-        "b": "Accounts payable becomes equity",
-        "c": "Total assets increase and liabilities increase",
-        "d": "Revenue and cash both increase"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q59",
-      "text": "Why are maturity profiles of borrowings relevant to credit analysis?",
-      "options": {
-        "a": "They reveal when refinancing or repayment pressure may arise",
-        "b": "They precisely predict future market interest rates",
-        "c": "They replace the need to analyze liquidity",
-        "d": "They make all longer-term obligations current"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q60",
-      "text": "Why may a lower DPO sometimes signal financial strength rather than weakness?",
-      "options": {
-        "a": "The firm may be paying suppliers early to earn discounts or support relationships",
-        "b": "DPO cannot reflect purchasing strategy",
-        "c": "A lower DPO always proves supplier distress",
-        "d": "DPO measures only interest-bearing debt"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q61",
-      "text": "How does extending supplier payment terms affect CCC mathematically, other inputs unchanged?",
-      "options": {
-        "a": "CCC must equal zero",
-        "b": "CCC decreases because DPO is subtracted",
-        "c": "CCC becomes identical to DSO",
-        "d": "CCC increases because DPO is added"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q62",
-      "text": "What analytical mistake arises from treating all current liabilities as interest-bearing debt?",
-      "options": {
-        "a": "Shareholders' equity becomes negative by definition",
-        "b": "The balance sheet no longer balances",
-        "c": "Trade payables and operating accruals can be confused with borrowings",
-        "d": "Cash receipts must equal revenue"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q63",
-      "text": "A buyer receives goods in December but will pay the supplier in January. Which reporting treatment is most consistent with accrual accounting?",
-      "options": {
-        "a": "Recognize customer revenue because cash has not been paid",
-        "b": "Recognize a dividend in December",
-        "c": "Delay all recognition until January cash payment",
-        "d": "Recognize the relevant purchase/inventory and a payable in December"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa3q64",
-      "text": "A software provider collects a one-year subscription fee before providing the service. What is the appropriate initial treatment?",
-      "options": {
-        "a": "Recognize the entire amount as profit regardless of performance",
-        "b": "Record an intangible impairment at contract inception",
-        "c": "Recognize a contract liability and release it as service obligations are fulfilled",
-        "d": "Treat the receipt as new common share capital"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q65",
-      "text": "A company has DSO of 45, DIO of 65, and DPO of 80 days. What is its cash conversion cycle?",
-      "options": {
-        "a": "30 days",
-        "b": "190 days",
-        "c": "-30 days",
-        "d": "110 days"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa3q66",
-      "text": "A bond was issued at a fixed coupon rate and new bonds of comparable risk now offer higher yields. Which market-value effect is most plausible?",
-      "options": {
-        "a": "The issuer's contractual principal disappears",
-        "b": "The outstanding bond trades at a discount relative to its previous price",
-        "c": "The bond automatically converts to preferred shares",
-        "d": "The bond's contractual coupon increases automatically"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q67",
-      "text": "A firm earns an EBIT of €40 million and incurs gross interest expense of €20 million. Which interpretation best follows from times interest earned?",
-      "options": {
-        "a": "Its cash ratio is 2 times and all principal obligations are covered",
-        "b": "Its current ratio is 0.5 regardless of balance-sheet totals",
-        "c": "Its accrual-based interest coverage is 2 times, but principal repayment ability remains a separate concern",
-        "d": "It earns €20 million of OCI by definition"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa3q68",
-      "text": "A parent company controls 70% of a subsidiary. How should the remaining 30% owned by outside shareholders be viewed in consolidated reporting?",
-      "options": {
-        "a": "As a decrease in all consolidated liabilities",
-        "b": "As non-controlling interest in consolidated equity",
-        "c": "As goodwill of exactly 30% of sales",
-        "d": "As an increase in the parent's accounts receivable"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa3q69",
-      "text": "A firm pays a cash dividend using available bank deposits. Which pair of effects is most directly expected?",
-      "options": {
-        "a": "Higher operating earnings and lower bonds payable",
-        "b": "Higher cash and higher total equity",
-        "c": "Lower cash and lower total equity once the dividend is recognized and paid",
-        "d": "Higher sales and lower current liabilities"
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "I, II and III",
+        "d": "II only",
+        "e": "I and II only"
       },
       "answer": "c",
       "image": null

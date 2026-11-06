@@ -1,713 +1,472 @@
 {
-  "id": "fsa-chapter-4",
-  "name": "Chapter 4: Income statement",
+  "id": "fsa-chapter-4-exam-level",
+  "name": "Chapter 4: Income Statement — Mock-exam-calibrated MCQs (4–6 options)",
   "questions": [
     {
-      "id": "fsa4q1",
-      "text": "What does the income statement principally summarize?",
+      "id": "fsa4examq1",
+      "text": "A company ships €4m of goods on 30 December; the customer obtains control that day and pays on 15 January. Assuming the other IFRS 15 criteria are met, the December accounts should show:",
       "options": {
-        "a": "Assets and liabilities at one date only",
-        "b": "Changes in shares outstanding exclusively",
-        "c": "Revenues, expenses, gains, and losses recognized during a period",
-        "d": "Cash financing inflows exclusively"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q2",
-      "text": "Why can net income differ from cash generated in the same period?",
-      "options": {
-        "a": "Every accounting expense is paid immediately",
-        "b": "Accrual accounting recognizes some revenues and expenses before or after related cash flows",
-        "c": "All financial statements use exclusively cash accounting",
-        "d": "Cash revenue is never recognized as income"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q3",
-      "text": "Under the general revenue-recognition principle, when is revenue recognized?",
-      "options": {
-        "a": "When the customer obtains control of the promised good or service",
-        "b": "Whenever inventory is produced",
-        "c": "Immediately when a prospective customer requests a quote",
-        "d": "Only when the customer transfers cash"
+        "a": "€4m revenue and a corresponding receivable.",
+        "b": "Recognize €4m as other comprehensive income rather than revenue because the receivable has not yet been collected.",
+        "c": "No revenue until the January cash settlement.",
+        "d": "Recognize a €4m contract asset and no revenue until the last collection date, independent of transfer.",
+        "e": "€4m cash and a corresponding contract liability.",
+        "f": "€4m revenue and immediate financing cash flow."
       },
       "answer": "a",
       "image": null
     },
     {
-      "id": "fsa4q4",
-      "text": "What does recognizing a credit sale typically create?",
+      "id": "fsa4examq2",
+      "text": "A seller receives cash in advance for a service that will be provided evenly over six months. Which revenue-recognition approach is most consistent with IFRS 15?",
       "options": {
-        "a": "A liability and a dividend",
-        "b": "A reduction in cash and sales",
-        "c": "Revenue and accounts receivable",
-        "d": "Only financing cash inflow"
+        "a": "Recognize one-sixth of the revenue immediately upon signing and the remainder when the last payment arrives, regardless of service delivery.",
+        "b": "Defer recognizing any liability until the firm incurs its first operating expense.",
+        "c": "Recognize revenue entirely when the customer transfers advance cash.",
+        "d": "Recognize revenue when the service provider pays its own employees.",
+        "e": "Recognize revenue only once all six monthly services are completed.",
+        "f": "Recognize revenue over the service period as the obligation is satisfied."
+      },
+      "answer": "f",
+      "image": null
+    },
+    {
+      "id": "fsa4examq3",
+      "text": "Consider the statements.\nI. A contract price may need allocation across multiple promises.\nII. Cash collection is necessary before any revenue can be recognized.\nIII. IFRS 15 requires identifying distinct performance obligations.\nWhich set is correct?",
+      "options": {
+        "a": "None of I, II or III",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "II and III only",
+        "e": "I, II and III"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q5",
-      "text": "Which is the first step of the IFRS 15 revenue-recognition model?",
+      "id": "fsa4examq4",
+      "text": "A firm sells equipment with a standalone price of €90,000 and a two-year support package with a standalone price of €10,000 for a total bundle price of €80,000. What amount is initially allocated to the equipment?",
       "options": {
-        "a": "Recognize net income before performance",
-        "b": "Calculate the firm's cost of capital",
-        "c": "Recognize all revenue on the signing date",
-        "d": "Identify the contract with the customer"
+        "a": "€80,000, because the total transaction price is attributed entirely to the equipment.",
+        "b": "€64,000, because the allocation is based on an assumed 80% performance-completion rate.",
+        "c": "€72,000",
+        "d": "€80,000",
+        "e": "€70,000",
+        "f": "€64,000"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq5",
+      "text": "A contract contains three promises, but only one has been satisfied by year-end. What determines revenue recognized so far?",
+      "options": {
+        "a": "The full amount of cash expected over the contract's duration.",
+        "b": "The entire contract value once the contract becomes enforceable.",
+        "c": "The transaction-price allocation to the promise already satisfied.",
+        "d": "The supplier's total production cost for the three promises."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq6",
+      "text": "A producer's reported revenue rises by 12%, yet its main geographic segment contracts. Which disclosure most directly helps reconcile this observation?",
+      "options": {
+        "a": "Aggregate sales figures for the group, without any separate discussion of geographic segment performance.",
+        "b": "The maturity schedule of bonds, irrespective of changes in business operations.",
+        "c": "Segment reporting by geography or product, including contributions from other segments.",
+        "d": "Aggregate depreciation alone, irrespective of the firm's product categories.",
+        "e": "Nominal common-share par value, irrespective of where the company operates."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq7",
+      "text": "Consider the statements.\nI. Segment reporting can distinguish revenue streams across business units.\nII. Common-size income statements express items relative to sales.\nIII. A trend analysis compares only competitors within a single financial year.\nWhich set is correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "III only",
+        "c": "I and II only",
+        "d": "II only",
+        "e": "I and III only",
+        "f": "II and III only"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq8",
+      "text": "A firm reports sales of €1,200m, COGS €690m and SG&A €270m. Which pair is correct?",
+      "options": {
+        "a": "Gross margin 42.5%; SG&A-to-sales 30.0%",
+        "b": "Gross margin 42.5%; SG&A-to-sales 22.5%",
+        "c": "Gross margin 42.5%; SG&A-to-sales 18.5%",
+        "d": "Gross margin 57.5%; SG&A-to-sales 30.0%",
+        "e": "Gross margin 57.5%; SG&A-to-sales 22.5%",
+        "f": "Gross margin 45.0%; SG&A-to-sales 22.5%"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq9",
+      "text": "A company reports a year-on-year improvement in net profit margin entirely because it sold a subsidiary at a large gain. How should an analyst treat this when forecasting future operations?",
+      "options": {
+        "a": "Assume the entire margin improvement will recur every period indefinitely.",
+        "b": "Separate the gain and examine recurring profitability from continuing activities.",
+        "c": "Treat the disposal gain as additional sales in each future forecast year.",
+        "d": "Exclude the firm's continuing operations because they are temporary."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq10",
+      "text": "Consider the statements.\nI. Discontinued operations can include a disposed unit's profit before sale.\nII. They can also include the gain or loss realized on disposing of that unit.\nIII. Any ordinary small asset disposal is automatically a discontinued operation.\nWhich set is correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "I only",
+        "d": "I, II and III",
+        "e": "II only",
+        "f": "II and III only"
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa4examq11",
+      "text": "A company disposes of an entire business line that represented one-third of revenue. Which feature most supports discontinued-operation presentation?",
+      "options": {
+        "a": "Cash proceeds from the disposal exceed the original purchase price.",
+        "b": "The sold assets had been depreciated in earlier financial statements.",
+        "c": "The disposal represents a strategic shift with a major effect on the company.",
+        "d": "The sold assets are non-current and therefore incapable of recurring revenue."
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq12",
+      "text": "A firm cuts R&D expenses aggressively just before year-end. This boosts current earnings, but no pipeline projects have been completed. What is the key concern?",
+      "options": {
+        "a": "R&D cuts necessarily increase reported capitalized development assets.",
+        "b": "Current income may improve at the expense of future competitive capacity.",
+        "c": "Future revenue is guaranteed because development spending has fallen.",
+        "d": "Current earnings must decrease because research is always a cash asset."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq13",
+      "text": "Under IAS 38, a company conducts fundamental research and later achieves a development phase meeting all capitalization criteria. Which general treatment is appropriate?",
+      "options": {
+        "a": "Expense research; capitalize qualifying development expenditure prospectively.",
+        "b": "Expense all research and development irrespective of feasibility evidence.",
+        "c": "Any project intended to create intellectual property must be capitalized from the moment researchers are hired.",
+        "d": "Capitalize all prior research retroactively once development becomes feasible.",
+        "e": "Capitalize all research; expense qualifying development expenditure.",
+        "f": "Under IFRS, research spending is capitalized once management expects success, while all development spending is expensed."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa4examq14",
+      "text": "Consider the statements.\nI. A reduction in R&D intensity always proves product-development efficiency.\nII. SG&A may include salaries, marketing and administrative overheads.\nIII. Reducing SG&A can raise profits even without higher sales.\nWhich set is correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "None of I, II or III",
+        "e": "I and II only",
+        "f": "I, II and III"
+      },
+      "answer": "c",
+      "image": null
+    },
+    {
+      "id": "fsa4examq15",
+      "text": "An analyst compares two pharmaceutical companies' reported R&D expenses. One capitalizes a larger proportion of qualifying development spending. What additional disclosure would best improve comparability?",
+      "options": {
+        "a": "Gross selling prices alone, because development policy cannot affect reported income.",
+        "b": "Development costs capitalized, amortization charged and new projects in the pipeline.",
+        "c": "Common-share par value alone, because capitalization is equivalent to an equity issue.",
+        "d": "Customer receivables alone, because capitalization changes only cash collection periods."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq16",
+      "text": "A company has net income attributable to ordinary shareholders of €90m and a weighted-average 30m basic shares. Basic EPS equals:",
+      "options": {
+        "a": "€2.40",
+        "b": "€2.70",
+        "c": "€3.25",
+        "d": "€2.00",
+        "e": "€3.00",
+        "f": "€3.30"
+      },
+      "answer": "e",
+      "image": null
+    },
+    {
+      "id": "fsa4examq17",
+      "text": "A firm reports basic EPS of €4.00 and diluted EPS of €3.70. Which explanation is most consistent with this difference?",
+      "options": {
+        "a": "Potential conversion of outstanding instruments would increase the earnings claim per share denominator.",
+        "b": "The firm repurchased all outstanding shares before the fiscal year began.",
+        "c": "An increase in per-share dividends directly causes the weighted-average share count to fall.",
+        "d": "Other comprehensive income was reclassified automatically into ordinary revenue."
+      },
+      "answer": "a",
+      "image": null
+    },
+    {
+      "id": "fsa4examq18",
+      "text": "Consider the statements.\nI. Convertible debt may affect diluted EPS.\nII. Diluted EPS must exceed basic EPS whenever options are outstanding.\nIII. Employee share options may create dilution.\nWhich set is correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "II and III only",
+        "e": "I, II and III"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq19",
+      "text": "Employees exercise options at €18 when the company's shares trade at €46. For each exercised option, the lecture's measure of value transferred to the option holder is:",
+      "options": {
+        "a": "€18",
+        "b": "€28",
+        "c": "€64",
+        "d": "€46"
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq20",
+      "text": "Which distinction best describes basic EPS versus diluted EPS?",
+      "options": {
+        "a": "Basic EPS includes all potential shares; diluted EPS counts only issued common shares.",
+        "b": "Basic EPS uses end-of-year shares rather than weighted-average shares; diluted EPS uses cash proceeds from stock options as earnings.",
+        "c": "Basic EPS uses beginning shares; diluted EPS uses the highest daily market share price.",
+        "d": "Basic EPS uses existing weighted-average common shares; diluted EPS considers relevant potential shares.",
+        "e": "Basic EPS includes OCI; diluted EPS is determined solely by cash from operations.",
+        "f": "Basic EPS uses all potentially dilutive shares immediately, while diluted EPS excludes convertible shares until actual conversion."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa4q6",
-      "text": "What is a performance obligation?",
+      "id": "fsa4examq21",
+      "text": "A parent reports net income €100m and OCI loss €35m. Distributions to shareholders are €15m. What is total comprehensive income?",
       "options": {
-        "a": "A promise by shareholders to repurchase shares",
-        "b": "A contractual promise to transfer a distinct good or service to the customer",
-        "c": "A bank covenant requiring interest payment",
-        "d": "A commitment to distribute all net income"
+        "a": "€85m",
+        "b": "€65m",
+        "c": "€50m",
+        "d": "€135m"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa4q7",
-      "text": "Why must a company identify multiple performance obligations within a single contract?",
+      "id": "fsa4examq22",
+      "text": "Consider the statements.\nI. OCI always equals cash generated by financing activities.\nII. Foreign currency translation adjustments can affect OCI.\nIII. Certain hedging gains or losses can affect OCI.\nWhich set is correct?",
       "options": {
-        "a": "Every contract necessarily has one obligation",
-        "b": "Every obligation must be reported as a separate company",
-        "c": "The contract must be treated entirely as financing",
-        "d": "Revenue may need to be allocated and recognized separately for distinct promised goods or services"
+        "a": "I and III only",
+        "b": "I, II and III",
+        "c": "I and II only",
+        "d": "II and III only",
+        "e": "II only",
+        "f": "III only"
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa4q8",
-      "text": "What is the third step in the five-step model?",
+      "id": "fsa4examq23",
+      "text": "A firm's foreign subsidiary has increased euro-denominated net asset value solely because of exchange-rate movements. Under the lecture's discussion, the associated unrealized translation adjustment is commonly reported:",
       "options": {
-        "a": "Choose the firm's share price",
-        "b": "Record all cash as operating profit",
-        "c": "Determine the transaction price",
-        "d": "Classify the acquisition as goodwill"
+        "a": "as a cash receipt from customers in operations.",
+        "b": "in OCI, rather than as ordinary net income.",
+        "c": "as a reduction in the debt principal outstanding.",
+        "d": "as an increase in net payout to shareholders."
+      },
+      "answer": "b",
+      "image": null
+    },
+    {
+      "id": "fsa4examq24",
+      "text": "A company recognizes a net gain on a qualifying cash-flow hedge in OCI. Which statement is most accurate?",
+      "options": {
+        "a": "An OCI gain must increase reported net income immediately because comprehensive income and net income are identical.",
+        "b": "The gain must be reported as a new cash inflow from issuing ordinary shares.",
+        "c": "Comprehensive income can change although the gain does not enter net income immediately.",
+        "d": "The gain cannot affect equity until the derivative contract is sold for cash.",
+        "e": "Net income and comprehensive income must both rise by exactly the gain immediately."
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q9",
-      "text": "How is a transaction price allocated among separate obligations?",
+      "id": "fsa4examq25",
+      "text": "The income statement of a manufacturer shows sales of €2,400m and operating expenses of €2,160m. An analyst wants to compare its cost structure with a peer with €600m sales. Which transformation is appropriate?",
       "options": {
-        "a": "Using relative standalone selling prices or reasonable estimates",
-        "b": "Only to the least profitable obligation",
-        "c": "By the order goods are listed in the contract",
-        "d": "Equally in all cases regardless of value"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q10",
-      "text": "What is the final step of the five-step model?",
-      "options": {
-        "a": "Pay all suppliers before recognizing sales",
-        "b": "Recognize revenue as or when each performance obligation is satisfied",
-        "c": "Write off all inventory before delivering it",
-        "d": "Record a receivable when management approves the budget"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q11",
-      "text": "When is revenue recognized for a service obligation satisfied continuously over time?",
-      "options": {
-        "a": "Over time as performance is delivered",
-        "b": "All at contract inception regardless of work completed",
-        "c": "Only when the final invoice is sent in all cases",
-        "d": "Only when the firm's annual accounts are audited"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q12",
-      "text": "What is the main analytical benefit of segment reporting?",
-      "options": {
-        "a": "Guaranteeing consistent margins across business units",
-        "b": "Disaggregating revenue and performance by product, business, or geographical area",
-        "c": "Eliminating all transfer-pricing issues",
-        "d": "Making consolidated financial statements unnecessary"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q13",
-      "text": "Which pattern may be hidden by stable consolidated revenue?",
-      "options": {
-        "a": "Total absence of currency effects",
-        "b": "All business units changing at identical rates",
-        "c": "One business segment shrinking while another grows",
-        "d": "An unchanging geographic sales mix"
+        "a": "Divide the income statement by share capital to remove differences in company size.",
+        "b": "Divide each operating expense by the peer's total liabilities instead of revenue.",
+        "c": "Express each operating expense as a percentage of the firm's own revenue.",
+        "d": "Compare expense amounts in euros without correcting for the difference in scale."
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q14",
-      "text": "What is cost of goods sold (COGS)?",
+      "id": "fsa4examq26",
+      "text": "Revenue rises by 8%, while gross profit rises by only 2%. Which conclusion can be drawn without further information?",
       "options": {
-        "a": "All capital raised through borrowing",
-        "b": "Cost attributable to goods sold during the reporting period",
-        "c": "Market value of unsold inventory only",
-        "d": "Dividends declared on ordinary shares"
+        "a": "The gross profit margin has increased relative to the previous year.",
+        "b": "Operating cash flow has increased by exactly the same amount as revenue.",
+        "c": "The gross profit margin has decreased relative to the previous year.",
+        "d": "The gross profit margin is unchanged because a rise in both revenue and gross profit always cancels out.",
+        "e": "The company has necessarily increased its basic earnings per share.",
+        "f": "The company’s gross margin rises by six percentage points, because its gross profit has increased."
       },
-      "answer": "b",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q15",
-      "text": "What does gross profit equal?",
+      "id": "fsa4examq27",
+      "text": "A company records a one-off restructuring charge of €90m and later reverses an excessive provision. Which analyst concern is closest to the lecture's earnings-quality discussion?",
       "options": {
-        "a": "Assets minus liabilities",
-        "b": "Net income less dividends",
-        "c": "Operating cash flow plus financing cash flow",
-        "d": "Sales revenue less cost of goods sold"
+        "a": "Reversing a provision necessarily produces an equal cash receipt from customers.",
+        "b": "Restructuring provisions are always classified as equity and excluded from profit.",
+        "c": "Any restructuring charge guarantees permanent future cost reductions of the same amount.",
+        "d": "A large current charge may depress today's earnings and inflate subsequent reported growth."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa4q16",
-      "text": "Which costs are typically included in selling, general, and administrative expenses?",
+      "id": "fsa4examq28",
+      "text": "Consider the statements.\nI. Research expenditures generally lower current accounting profit when incurred.\nII. Qualifying development expenditures may be capitalized and later amortized.\nIII. A high reported R&D expense necessarily means zero innovation output.\nWhich set is correct?",
       "options": {
-        "a": "Sales staff, marketing, and administrative overhead",
-        "b": "Purchase price of all inventory remaining unsold",
-        "c": "Dividends declared to shareholders",
-        "d": "Repayment of bond principal"
+        "a": "I and III only",
+        "b": "II only",
+        "c": "I and II only",
+        "d": "II and III only",
+        "e": "III only",
+        "f": "I, II and III"
       },
-      "answer": "a",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q17",
-      "text": "What is a restructuring charge?",
+      "id": "fsa4examq29",
+      "text": "A firm reports current net income €175m and comprehensive income €120m. Which inference follows directly?",
       "options": {
-        "a": "An expense resulting from changes such as reorganization or downsizing",
-        "b": "Cash received from ordinary share issuance",
-        "c": "The periodic coupon paid to bondholders by definition",
-        "d": "A mandatory asset revaluation gain"
+        "a": "Other comprehensive income is +€55m.",
+        "b": "Cash used in investing activities is €55m.",
+        "c": "Other comprehensive income is −€55m.",
+        "d": "Dividends to common shareholders are €55m."
       },
-      "answer": "a",
+      "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q18",
-      "text": "How does common-size income-statement analysis typically scale each line item?",
+      "id": "fsa4examq30",
+      "text": "A firm recognizes substantial revenue in December while receivables age rapidly and CFO falls. Which follow-up is most important for assessing earnings quality?",
       "options": {
-        "a": "By total debt only",
-        "b": "By total sales or revenue",
-        "c": "By the share price",
-        "d": "By total number of employees exclusively"
+        "a": "Whether net income can be reclassified in full as OCI without further review.",
+        "b": "Whether contractual obligations were fulfilled and collection assumptions remain credible.",
+        "c": "Whether all sales were made to customers within the same geographic region.",
+        "d": "Whether it can issue new shares to replace every unpaid customer invoice."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa4q19",
-      "text": "Why can comparisons of SG&A-to-sales across firms be misleading?",
+      "id": "fsa4examq31",
+      "text": "A company sells a material business unit at a gain and reports both continuing and discontinued results. Which figure is generally more informative about next year's recurring operating performance?",
       "options": {
-        "a": "SG&A includes only interest expense",
-        "b": "Every firm has identical administrative needs",
-        "c": "SG&A is legally fixed as a percentage of sales",
-        "d": "Different business models and expense classifications affect the ratio"
+        "a": "Profit from continuing operations after separating transient disposal effects.",
+        "b": "Gross cash received from the sale regardless of the remaining operations.",
+        "c": "Consolidated profit including the gain, assumed to repeat at the same level.",
+        "d": "Total share capital, because disposal gains never enter the income statement."
       },
-      "answer": "d",
+      "answer": "a",
       "image": null
     },
     {
-      "id": "fsa4q20",
-      "text": "Under IAS 38, how are research expenditures ordinarily treated?",
+      "id": "fsa4examq32",
+      "text": "Consider the statements.\nI. The accruals concept permits revenue without simultaneous cash collection.\nII. Expense recognition need not coincide with cash disbursement.\nIII. Accrual accounting eliminates all room for management estimation.\nWhich set is correct?",
       "options": {
-        "a": "Recorded directly as contributed equity",
-        "b": "Always recognized as goodwill",
-        "c": "Expensed when incurred",
-        "d": "Always capitalized with an unlimited useful life"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q21",
-      "text": "Under IAS 38, when may development expenditures be capitalized?",
-      "options": {
-        "a": "Never under any circumstances",
-        "b": "Only once all development-related cash is recovered",
-        "c": "When specified recognition criteria, including demonstrable technical feasibility and future benefits, are met",
-        "d": "Whenever management hopes that a product will succeed"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q22",
-      "text": "Why might high reported R&D expense not imply weak innovation prospects?",
-      "options": {
-        "a": "Research expenses are dividends to shareholders",
-        "b": "Research investment can create future potential even when its costs are expensed today",
-        "c": "R&D can never affect future cash flows",
-        "d": "Every research project produces immediate revenue"
+        "a": "II and III only",
+        "b": "I and II only",
+        "c": "I, II and III",
+        "d": "I and III only",
+        "e": "I only",
+        "f": "II only"
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa4q23",
-      "text": "Which comparison is especially helpful when assessing R&D spending?",
+      "id": "fsa4examq33",
+      "text": "A firm has €36m net income to common shareholders and 12m weighted-average shares. Later, warrants with exercise prices below market are exercised. Which issue matters for reported diluted EPS?",
       "options": {
-        "a": "R&D relative to employee ages",
-        "b": "R&D against the previous day's share price",
-        "c": "R&D divided only by bond face value",
-        "d": "R&D as a share of revenue across time and against suitable peers"
+        "a": "The additional shares automatically remove the need to calculate diluted EPS.",
+        "b": "The warrants make gross profit the required numerator for basic and diluted EPS.",
+        "c": "The warrants increase reported net income by the full stock market value on exercise.",
+        "d": "The additional shares reduce the earnings attributable per common share, other factors held equal."
       },
       "answer": "d",
       "image": null
     },
     {
-      "id": "fsa4q24",
-      "text": "Why should analysts examine the commercial pipeline alongside R&D spending?",
+      "id": "fsa4examq34",
+      "text": "Two otherwise identical firms perform equal research work, but one records some spending as capitalizable development after meeting the specified criteria. What is the near-term difference?",
       "options": {
-        "a": "Spending alone does not reveal whether research is likely to yield viable products",
-        "b": "A pipeline is reported as cash equivalents",
-        "c": "All R&D amounts are capitalized regardless of results",
-        "d": "The number of research projects is irrelevant to future profits"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q25",
-      "text": "What is depreciation?",
-      "options": {
-        "a": "The amortization of common share capital",
-        "b": "Systematic allocation of a tangible depreciable asset's cost over its useful life",
-        "c": "An automatic increase in the market price of PPE",
-        "d": "Cash paid each month to buy replacement equipment"
+        "a": "The capitalizing firm automatically has greater operating cash flow from the same payments.",
+        "b": "The capitalizing firm may show higher current earnings and a larger asset balance.",
+        "c": "The capitalizing firm must show lower current earnings and a smaller asset balance.",
+        "d": "Both firms must show identical earnings because research is always fully capitalized."
       },
       "answer": "b",
       "image": null
     },
     {
-      "id": "fsa4q26",
-      "text": "What is amortization?",
+      "id": "fsa4examq35",
+      "text": "Consider the statements.\nI. Control transfer is a key element of revenue recognition under IFRS 15.\nII. Revenue must always be paid before it can appear in the income statement.\nIII. Receiving cash in advance always satisfies every future performance obligation.\nWhich set is correct?",
       "options": {
-        "a": "The revaluation of every indefinite-lived brand",
-        "b": "The reduction of bond principal in all circumstances",
-        "c": "Cash received from dividends",
-        "d": "Systematic expense allocation for finite-lived intangible assets"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q27",
-      "text": "Why may depreciation expense change without a matching immediate cash outflow?",
-      "options": {
-        "a": "The expense is a new ordinary share issue",
-        "b": "Depreciation creates cash from customers",
-        "c": "It allocates past capitalized costs to current-period earnings",
-        "d": "All assets are purchased on the depreciation date"
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I only",
+        "d": "II and III only",
+        "e": "I and III only",
+        "f": "II only"
       },
       "answer": "c",
       "image": null
     },
     {
-      "id": "fsa4q28",
-      "text": "How can depreciation analysis provide insight into future operations?",
+      "id": "fsa4examq36",
+      "text": "Consider the statements.\nI. Dilutive securities may affect diluted EPS.\nII. Other comprehensive income may change total equity without entering net income.\nIII. A change in product mix can change gross margin.\nWhich set is correct?",
       "options": {
-        "a": "It determines the market value of every bond",
-        "b": "It sets the future selling price of products",
-        "c": "It identifies the number of all future customers with certainty",
-        "d": "It helps assess asset use, replacement requirements, and the age of productive capacity"
+        "a": "II and III only",
+        "b": "I and III only",
+        "c": "I only",
+        "d": "I and II only",
+        "e": "I, II and III"
       },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q29",
-      "text": "What is a discontinued operation?",
-      "options": {
-        "a": "Any operating cost below budget",
-        "b": "Any customer contract that was not renewed",
-        "c": "A disposed or held-for-sale component meeting the relevant separation criteria",
-        "d": "A temporary fall in one product's selling price"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q30",
-      "text": "Why are results of discontinued operations separated from continuing operations?",
-      "options": {
-        "a": "To ensure discontinued operations never affect net income",
-        "b": "To eliminate the need for comparatives",
-        "c": "To help users assess the performance likely to persist in the remaining business",
-        "d": "To classify all divestitures as inventory"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q31",
-      "text": "What is basic earnings per share (EPS)?",
-      "options": {
-        "a": "Cash flow divided by accounts payable",
-        "b": "Profit attributable to ordinary shareholders divided by weighted-average ordinary shares outstanding",
-        "c": "Net income divided by closing debt",
-        "d": "Revenue divided by total assets"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q32",
-      "text": "Why use weighted-average shares rather than simply year-end shares for EPS?",
-      "options": {
-        "a": "The share count may change during the year",
-        "b": "Closing shares always equal weighted-average shares",
-        "c": "Weighted-average shares exclude shares issued for cash",
-        "d": "A firm must keep its share count constant"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q33",
-      "text": "What causes dilution in the EPS context?",
-      "options": {
-        "a": "The firm holds more cash equivalents",
-        "b": "Interest expense always decreases",
-        "c": "Expenses are replaced with cash inflows",
-        "d": "Potential ordinary shares can increase the share count, reducing per-share earnings"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q34",
-      "text": "Which security may give rise to diluted EPS calculations?",
-      "options": {
-        "a": "An ordinary rent prepayment",
-        "b": "A fixed-asset purchase order",
-        "c": "A convertible bond",
-        "d": "A supplier invoice with no conversion feature"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q35",
-      "text": "What is the general relationship between basic and diluted EPS for profitable firms with dilutive instruments?",
-      "options": {
-        "a": "Diluted EPS is always much greater than basic EPS",
-        "b": "They must differ even without potential shares",
-        "c": "Basic EPS equals market price per share",
-        "d": "Diluted EPS is no greater than basic EPS"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q36",
-      "text": "Why might employee stock options dilute existing shareholders?",
-      "options": {
-        "a": "Exercise can increase shares outstanding at favorable prices for option holders",
-        "b": "Options do not affect ownership percentages",
-        "c": "Options guarantee higher cash flow per share",
-        "d": "Exercise always reduces the number of shares outstanding"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q37",
-      "text": "What is comprehensive income?",
-      "options": {
-        "a": "Net income plus other comprehensive income",
-        "b": "Cash from operations plus cash from investing",
-        "c": "Dividends plus share repurchases",
-        "d": "Sales minus total assets"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q38",
-      "text": "Which item is a typical example of other comprehensive income under relevant IFRS rules?",
-      "options": {
-        "a": "Certain foreign currency translation differences",
-        "b": "Routine wages paid to employees",
-        "c": "Cost of inventory sold",
-        "d": "Ordinary sales revenue from customers"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q39",
-      "text": "Why may some unrealized gains and losses appear in OCI instead of profit or loss?",
-      "options": {
-        "a": "Every market value movement must be operating revenue",
-        "b": "Relevant standards require or allow separate treatment outside current net income",
-        "c": "All unrealized gains must always be paid out immediately",
-        "d": "OCI is the same as bank cash"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q40",
-      "text": "Which statement is correct about OCI and equity?",
-      "options": {
-        "a": "OCI can never change book equity",
-        "b": "OCI is always a trade liability",
-        "c": "OCI generally affects accumulated comprehensive income within equity",
-        "d": "OCI must equal dividends paid"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q41",
-      "text": "What is a reclassification adjustment for OCI?",
-      "options": {
-        "a": "A transfer of certain previously recognized OCI amounts into profit or loss when required",
-        "b": "An adjustment that changes sales into cash",
-        "c": "A reclassification of receivables as inventories",
-        "d": "A conversion of all loans into equity"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q42",
-      "text": "Why do analysts review both net income and total comprehensive income?",
-      "options": {
-        "a": "Comprehensive income never contains any information beyond cash flow",
-        "b": "Net income includes all changes in market capitalization",
-        "c": "OCI cannot be material",
-        "d": "Some economically important gains and losses are excluded from net income"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q43",
-      "text": "What is the main distinction between profit and cash flow for a credit sale?",
-      "options": {
-        "a": "Both are always recorded only on payment",
-        "b": "Revenue can be recognized before the associated cash is collected",
-        "c": "The cash flow must occur before a legal sale",
-        "d": "A credit sale cannot affect current-period income"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q44",
-      "text": "What happens to the financial statements when revenue is recognized for an advance payment already received?",
-      "options": {
-        "a": "Cash must rise again by the same amount",
-        "b": "The firm records a new loan",
-        "c": "An intangible asset is always impaired",
-        "d": "Deferred revenue falls and income rises, without new cash necessarily being received then"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q45",
-      "text": "Why is one-off restructuring expense not necessarily a good predictor of future operating profit?",
-      "options": {
-        "a": "It may be transitory rather than recurring",
-        "b": "It must recur at the same amount every year",
-        "c": "It is always shown as a dividend",
-        "d": "It is identical to revenue from continuing operations"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q46",
-      "text": "What is a risk when management reduces R&D spending to lift current profit?",
-      "options": {
-        "a": "Future competitive strength must increase",
-        "b": "Current earnings may improve at the expense of future innovation and cash-generating capacity",
-        "c": "All research expenses become balance-sheet assets",
-        "d": "No accounting or economic effect occurs"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q47",
-      "text": "What does the net profit margin express?",
-      "options": {
-        "a": "Total assets divided by sales",
-        "b": "Operating cash flow relative to current debt",
-        "c": "Net income relative to revenue",
-        "d": "Dividend payout per new share issue"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q48",
-      "text": "What does gross margin deterioration potentially indicate?",
-      "options": {
-        "a": "Guaranteed increase in future equity returns",
-        "b": "Higher production costs, weaker pricing power, or adverse sales mix",
-        "c": "Elimination of competition",
-        "d": "Automatic improvement in operating efficiency"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q49",
-      "text": "Why is operating profit often more informative about ongoing business activities than an isolated disposal gain?",
-      "options": {
-        "a": "Operating profit better reflects recurring activities when non-recurring items are separated",
-        "b": "Disposal gains are guaranteed to repeat yearly",
-        "c": "Only disposal gains affect enterprise value",
-        "d": "Operating profit is identical to cash from financing"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q50",
-      "text": "Why can a company report positive net income even with negative operating cash flow?",
-      "options": {
-        "a": "Positive net income legally requires positive operating cash flow",
-        "b": "Net income is defined as bank deposits",
-        "c": "Accrual revenues and working-capital changes can separate earnings from cash generation",
-        "d": "Operating cash flow excludes customer receipts"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q51",
-      "text": "Why must share-based compensation be considered when assessing EPS and shareholder value?",
-      "options": {
-        "a": "Share awards are an item of investing cash inflow",
-        "b": "Share awards create compensation costs and may alter shares outstanding",
-        "c": "Share awards never have an economic cost",
-        "d": "Share awards guarantee a higher share price"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q52",
-      "text": "What is the purpose of earnings per share as a standardized measure?",
-      "options": {
-        "a": "To replace the need for analyzing a firm's revenue mix",
-        "b": "To measure the exact market value per share",
-        "c": "To measure bondholders' coupon yield",
-        "d": "To scale attributable earnings by the weighted ownership unit for ordinary shareholders"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q53",
-      "text": "What is a drawback of interpreting EPS growth without examining share repurchases?",
-      "options": {
-        "a": "A falling share count can raise EPS without equivalent growth in total net income",
-        "b": "Share repurchases are treated as income statement revenue",
-        "c": "Share repurchases always increase total sales",
-        "d": "EPS is mathematically unaffected by changes in the number of shares"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q54",
-      "text": "A manufacturer delivers goods on credit on 28 December and collects payment in January. When is revenue normally recognized if control transferred on 28 December?",
-      "options": {
-        "a": "Half in December and half in January by default",
-        "b": "Only after the auditor signs the annual report",
-        "c": "In December, with an accounts receivable until collection",
-        "d": "In January only because cash is required"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q55",
-      "text": "A contract bundles a device and a separate two-year maintenance service. Which revenue-recognition approach best applies?",
-      "options": {
-        "a": "Recognize all revenue when the customer first pays regardless of delivery",
-        "b": "Recognize no revenue until two years after the contract ends",
-        "c": "Recognize all maintenance revenue when the device is manufactured",
-        "d": "Identify distinct obligations, allocate the price, and recognize each when or as satisfied"
-      },
-      "answer": "d",
-      "image": null
-    },
-    {
-      "id": "fsa4q56",
-      "text": "A firm capitalizes qualifying development costs rather than expensing them immediately. What is the typical initial effect, compared with expensing?",
-      "options": {
-        "a": "Lower current profit and lower assets in all periods",
-        "b": "Higher current profit and higher recognized assets, followed by amortization or impairment as appropriate",
-        "c": "No change in reported profit or assets",
-        "d": "An automatic cash inflow from financing activities"
-      },
-      "answer": "b",
-      "image": null
-    },
-    {
-      "id": "fsa4q57",
-      "text": "A firm reports rising EPS while aggregate net income is nearly unchanged. Which factor deserves particular investigation?",
-      "options": {
-        "a": "A higher number of shares issued without earnings growth",
-        "b": "A change in the supplier payment period only",
-        "c": "Share repurchases reducing the weighted-average share count",
-        "d": "An increase in current assets"
-      },
-      "answer": "c",
-      "image": null
-    },
-    {
-      "id": "fsa4q58",
-      "text": "A firm disposes of an operating component that qualifies as a discontinued operation. Which presentation best assists forecasting?",
-      "options": {
-        "a": "Separate the qualifying discontinued results from continuing operations",
-        "b": "Treat all divested operations as OCI",
-        "c": "Exclude the business's historical results from every report",
-        "d": "Combine disposal proceeds directly with continuing revenue"
-      },
-      "answer": "a",
-      "image": null
-    },
-    {
-      "id": "fsa4q59",
-      "text": "A company records a substantial foreign currency translation loss in OCI. What should an investor conclude?",
-      "options": {
-        "a": "The company's basic EPS must equal total comprehensive income per share",
-        "b": "The company necessarily incurred an equal cash operating outflow",
-        "c": "The loss must be included in cost of goods sold",
-        "d": "Book equity and comprehensive income can be affected even though the amount is outside net income"
-      },
-      "answer": "d",
+      "answer": "e",
       "image": null
     }
   ]
